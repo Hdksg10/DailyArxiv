@@ -6,6 +6,7 @@ on:
       - created # for test
   schedule:
       - cron: '30 16 * * 0-4' # 00:30 Beijing time every Monday to Friday
+  workflow_dispatch: # for test
 
 permissions:
   contents: write
@@ -24,7 +25,7 @@ jobs:
         python-version: '3.9'
 
     - name: Install dependencies
-      run: pip install -r requirements.txt
+      run: pip install -r ./requirements.txt
 
     - name: Update papers
       run: |
