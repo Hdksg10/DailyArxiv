@@ -22,8 +22,8 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-tags = ["cs.PL", "cs.PF", "cs.DC", "cs.OS"]
-keywords = ["GPU"] # TODO add more keywords
+tags = ["cs.PL", "cs.PF", "cs.DC", "cs.OS", "cs.AI"]
+keywords = ["prunning", "reinforcement learning", "compiler", "performance"] # TODO add more keywords
 
 max_result = 20 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
