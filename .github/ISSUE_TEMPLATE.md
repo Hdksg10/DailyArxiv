@@ -1,25 +1,46 @@
 ---
-title: Latest 15 Papers - January 27, 2025
+title: Latest 15 Papers - January 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## GPU
+## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](http://arxiv.org/abs/2312.12456v2)** | 2024-12-12 | SOSP 2024 |
-| **[GPUVM: GPU-driven Unified Virtual Memory](http://arxiv.org/abs/2411.05309v1)** | 2024-11-08 |  |
-| **[Microsecond-scale Dynamic Validation of Idempotency for GPU Kernels](http://arxiv.org/abs/2410.23661v1)** | 2024-10-31 |  |
-| **[FusionANNS: An Efficient CPU/GPU Cooperative Processing Architecture for Billion-scale Approximate Nearest Neighbor Search](http://arxiv.org/abs/2409.16576v1)** | 2024-09-25 | 15 pages, 26 figures |
-| **[PARALLELGPUOS: A Concurrent OS-level GPU Checkpoint and Restore System using Validated Speculation](http://arxiv.org/abs/2405.12079v1)** | 2024-05-20 |  |
-| **[Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models](http://arxiv.org/abs/2402.07033v1)** | 2024-02-10 |  |
-| **[Characterizing Network Requirements for GPU API Remoting in AI Applications](http://arxiv.org/abs/2401.13354v1)** | 2024-01-24 |  |
-| **[Quiver: Supporting GPUs for Low-Latency, High-Throughput GNN Serving with Workload Awareness](http://arxiv.org/abs/2305.10863v1)** | 2023-05-18 |  |
-| **[GPU-Initiated On-Demand High-Throughput Storage Access in the BaM System Architecture](http://arxiv.org/abs/2203.04910v3)** | 2023-02-06 | <details><summary>This ...</summary><p>This is an extension to the published conference paper at ASPLOS'23: https://dl.acm.org/doi/abs/10.1145/3575693.3575748</p></details> |
-| **[Safe and Practical GPU Acceleration in TrustZone](http://arxiv.org/abs/2111.03065v1)** | 2021-11-04 |  |
-| **[MemShield: GPU-assisted software memory encryption](http://arxiv.org/abs/2004.09252v1)** | 2020-04-20 | <details><summary>14 pa...</summary><p>14 pages, 2 figures. In proceedings of the 18th International Conference on Applied Cryptography and Network Security, ACNS 2020, October 19-22 2020, Rome, Italy</p></details> |
-| **[Co-Optimizing Performance and Memory FootprintVia Integrated CPU/GPU Memory Management, anImplementation on Autonomous Driving Platform](http://arxiv.org/abs/2003.07945v2)** | 2020-03-19 |  |
-| **[Mosaic: An Application-Transparent Hardware-Software Cooperative Memory Manager for GPUs](http://arxiv.org/abs/1804.11265v1)** | 2018-04-30 |  |
-| **[Protecting real-time GPU kernels on integrated CPU-GPU SoC platforms](http://arxiv.org/abs/1712.08738v3)** | 2018-04-27 | <details><summary>This ...</summary><p>This paper will be published at ECRTS-2018</p></details> |
-| **[GPU System Calls](http://arxiv.org/abs/1705.06965v2)** | 2017-05-24 |  |
+| **[Dynamic Optimization of Storage Systems Using Reinforcement Learning Techniques](http://arxiv.org/abs/2501.00068v1)** | 2024-12-29 |  |
+| **[Enhancing Adaptive Mixed-Criticality Scheduling with Deep Reinforcement Learning](http://arxiv.org/abs/2411.00572v1)** | 2024-11-01 | <details><summary>Versi...</summary><p>Version submitted to RTNS 2024, on 17/08/2024 (with some typos fixed)</p></details> |
+| **[Enhancing Battery Storage Energy Arbitrage with Deep Reinforcement Learning and Time-Series Forecasting](http://arxiv.org/abs/2410.20005v1)** | 2024-10-25 | <details><summary>Accep...</summary><p>Accepted for publication at the 18th ASME International Conference on Energy Sustainability</p></details> |
+| **[Reinforcement Learning for Dynamic Memory Allocation](http://arxiv.org/abs/2410.15492v1)** | 2024-10-20 |  |
+| **[Energy-Efficient Computation with DVFS using Deep Reinforcement Learning for Multi-Task Systems in Edge Computing](http://arxiv.org/abs/2409.19434v2)** | 2024-10-16 |  |
+| **[CPU frequency scheduling of real-time applications on embedded devices with temporal encoding-based deep reinforcement learning](http://arxiv.org/abs/2309.03779v1)** | 2023-09-07 | <details><summary>Accep...</summary><p>Accepted to Journal of Systems Architecture</p></details> |
+| **[Multi-level Explanation of Deep Reinforcement Learning-based Scheduling](http://arxiv.org/abs/2209.09645v1)** | 2022-09-18 | <details><summary>Accep...</summary><p>Accepted in the MLSys'22 Workshop on Cloud Intelligence / AIOps</p></details> |
+| **[SoCRATES: System-on-Chip Resource Adaptive Scheduling using Deep Reinforcement Learning](http://arxiv.org/abs/2104.14354v3)** | 2021-10-12 | <details><summary>This ...</summary><p>This paper has been accepted for publication by 20th IEEE International Conference on Machine Learning and Applications (ICMLA 2021). The copyright is with the IEEE</p></details> |
+| **[Fairness-Oriented User Scheduling for Bursty Downlink Transmission Using Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2012.15081v14)** | 2022-06-19 | 16 pages, 13 figures |
+| **[Phoebe: Reuse-Aware Online Caching with Reinforcement Learning for Emerging Storage Models](http://arxiv.org/abs/2011.07160v1)** | 2020-11-13 |  |
+| **[Data Centers Job Scheduling with Deep Reinforcement Learning](http://arxiv.org/abs/1909.07820v2)** | 2020-03-01 | 13 pages |
+
+## compiler
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[SquirrelFS: using the Rust compiler to check file-system crash consistency](http://arxiv.org/abs/2406.09649v1)** | 2024-06-14 |  |
+| **[After Compilers and Operating Systems : The Third Advance in Application Support](http://arxiv.org/abs/cs/9908002v1)** | 1999-08-03 | <details><summary>20 pa...</summary><p>20 pages including 13 figures of diagrams and code examples. Based on invited seminars held in May-July 1999 at IBM, Caltech and elsewhere. For further information see http://www.tsia.org</p></details> |
+
+## performance
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Goldilocks Isolation: High Performance VMs with Edera](http://arxiv.org/abs/2501.04580v1)** | 2025-01-08 |  |
+| **[Boosting Cross-Architectural Emulation Performance by Foregoing the Intermediate Representation Model](http://arxiv.org/abs/2501.03427v1)** | 2025-01-06 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. Submitted to the 5th International Conference on Electrical, Computer and Energy Technologies</p></details> |
+| **[Virtuoso: High Resource Utilization and ¦Ìs-scale Performance Isolation in a Shared Virtual Machine TCP Network Stack](http://arxiv.org/abs/2309.14016v3)** | 2024-11-11 | <details><summary>Under...</summary><p>Under submission for conference peer review</p></details> |
+| **[Assessing FIFO and Round Robin Scheduling:Effects on Data Pipeline Performance and Energy Usage](http://arxiv.org/abs/2409.15704v1)** | 2024-09-24 |  |
+| **[Dissecting CXL Memory Performance at Scale: Analysis, Modeling, and Optimization](http://arxiv.org/abs/2409.14317v1)** | 2024-09-22 |  |
+| **[Accelerator-as-a-Service in Public Clouds: An Intra-Host Traffic Management View for Performance Isolation in the Wild](http://arxiv.org/abs/2407.10098v1)** | 2024-07-14 |  |
+| **[Evaluating Serverless Machine Learning Performance on Google Cloud Run](http://arxiv.org/abs/2406.16250v1)** | 2024-06-24 | 5 pages, 12 figures |
+| **[Simulation of high-performance memory allocators](http://arxiv.org/abs/2406.15776v1)** | 2024-06-22 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2403.04414</p></details> |
+| **[Formal Definitions and Performance Comparison of Consistency Models for Parallel File Systems](http://arxiv.org/abs/2402.14105v2)** | 2024-02-26 | <details><summary>15 pa...</summary><p>15 pages. Submitted to IEEE TPDS</p></details> |
+| **[Fight Hardware with Hardware: System-wide Detection and Mitigation of Side-Channel Attacks using Performance Counters](http://arxiv.org/abs/2402.13281v1)** | 2024-02-18 |  |
+| **[Enabling performance portability of data-parallel OpenMP applications on asymmetric multicore processors](http://arxiv.org/abs/2402.07664v1)** | 2024-02-12 |  |
+| **[Data-Driven Power Modeling and Monitoring via Hardware Performance Counters Tracking](http://arxiv.org/abs/2401.01826v1)** | 2024-01-03 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, submitted to the IEEE for possible publication</p></details> |
+| **[MaxMem: Colocation and Performance for Big Data Applications on Tiered Main Memory Servers](http://arxiv.org/abs/2312.00647v1)** | 2023-12-01 | 12 pages, 10 figures |
+| **[CoRD: Converged RDMA Dataplane for High-Performance Clouds](http://arxiv.org/abs/2309.00898v1)** | 2023-09-02 | 11 pages |
+| **[CAWL: A Cache-aware Write Performance Model of Linux Systems](http://arxiv.org/abs/2306.05701v1)** | 2023-06-09 | <details><summary>22 pa...</summary><p>22 pages, 9 figures, 1 table</p></details> |
 
