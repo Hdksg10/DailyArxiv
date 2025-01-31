@@ -30,7 +30,7 @@ labels: documentation
 | --- | --- | --- |
 | **[Goldilocks Isolation: High Performance VMs with Edera](http://arxiv.org/abs/2501.04580v1)** | 2025-01-08 |  |
 | **[Boosting Cross-Architectural Emulation Performance by Foregoing the Intermediate Representation Model](http://arxiv.org/abs/2501.03427v1)** | 2025-01-06 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. Submitted to the 5th International Conference on Electrical, Computer and Energy Technologies</p></details> |
-| **[Virtuoso: High Resource Utilization and ¦Ìs-scale Performance Isolation in a Shared Virtual Machine TCP Network Stack](http://arxiv.org/abs/2309.14016v3)** | 2024-11-11 | <details><summary>Under...</summary><p>Under submission for conference peer review</p></details> |
+| **[Virtuoso: High Resource Utilization and Î¼s-scale Performance Isolation in a Shared Virtual Machine TCP Network Stack](http://arxiv.org/abs/2309.14016v3)** | 2024-11-11 | <details><summary>Under...</summary><p>Under submission for conference peer review</p></details> |
 | **[Assessing FIFO and Round Robin Scheduling:Effects on Data Pipeline Performance and Energy Usage](http://arxiv.org/abs/2409.15704v1)** | 2024-09-24 |  |
 | **[Dissecting CXL Memory Performance at Scale: Analysis, Modeling, and Optimization](http://arxiv.org/abs/2409.14317v1)** | 2024-09-22 |  |
 | **[Accelerator-as-a-Service in Public Clouds: An Intra-Host Traffic Management View for Performance Isolation in the Wild](http://arxiv.org/abs/2407.10098v1)** | 2024-07-14 |  |
