@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 24, 2025
+title: Latest 15 Papers - February 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -28,6 +28,7 @@ labels: documentation
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Taming and Controlling Performance and Energy Trade-offs Automatically in Network Applications](http://arxiv.org/abs/2502.14987v1)** | 2025-02-20 |  |
 | **[Phoenix -- A Novel Technique for Performance-Aware Orchestration of Thread and Page Table Placement in NUMA Systems](http://arxiv.org/abs/2502.10923v2)** | 2025-02-18 |  |
 | **[Goldilocks Isolation: High Performance VMs with Edera](http://arxiv.org/abs/2501.04580v1)** | 2025-01-08 |  |
 | **[Boosting Cross-Architectural Emulation Performance by Foregoing the Intermediate Representation Model](http://arxiv.org/abs/2501.03427v1)** | 2025-01-06 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. Submitted to the 5th International Conference on Electrical, Computer and Energy Technologies</p></details> |
@@ -42,5 +43,4 @@ labels: documentation
 | **[Enabling performance portability of data-parallel OpenMP applications on asymmetric multicore processors](http://arxiv.org/abs/2402.07664v1)** | 2024-02-12 |  |
 | **[Data-Driven Power Modeling and Monitoring via Hardware Performance Counters Tracking](http://arxiv.org/abs/2401.01826v1)** | 2024-01-03 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, submitted to the IEEE for possible publication</p></details> |
 | **[MaxMem: Colocation and Performance for Big Data Applications on Tiered Main Memory Servers](http://arxiv.org/abs/2312.00647v1)** | 2023-12-01 | 12 pages, 10 figures |
-| **[CoRD: Converged RDMA Dataplane for High-Performance Clouds](http://arxiv.org/abs/2309.00898v1)** | 2023-09-02 | 11 pages |
 
