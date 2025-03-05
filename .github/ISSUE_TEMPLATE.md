@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 05, 2025
+title: Latest 15 Papers - March 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -17,7 +17,6 @@ labels: documentation
 | **[SoCRATES: System-on-Chip Resource Adaptive Scheduling using Deep Reinforcement Learning](http://arxiv.org/abs/2104.14354v3)** | 2021-10-12 | <details><summary>This ...</summary><p>This paper has been accepted for publication by 20th IEEE International Conference on Machine Learning and Applications (ICMLA 2021). The copyright is with the IEEE</p></details> |
 | **[Fairness-Oriented User Scheduling for Bursty Downlink Transmission Using Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2012.15081v14)** | 2022-06-19 | 16 pages, 13 figures |
 | **[Phoebe: Reuse-Aware Online Caching with Reinforcement Learning for Emerging Storage Models](http://arxiv.org/abs/2011.07160v1)** | 2020-11-13 |  |
-| **[Data Centers Job Scheduling with Deep Reinforcement Learning](http://arxiv.org/abs/1909.07820v2)** | 2020-03-01 | 13 pages |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
