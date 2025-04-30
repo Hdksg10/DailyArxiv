@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2025
+title: Latest 15 Papers - May 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -24,6 +24,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[SquirrelFS: using the Rust compiler to check file-system crash consistency](http://arxiv.org/abs/2406.09649v1)** | 2024-06-14 |  |
+| **[After Compilers and Operating Systems : The Third Advance in Application Support](http://arxiv.org/abs/cs/9908002v1)** | 1999-08-03 | <details><summary>20 pa...</summary><p>20 pages including 13 figures of diagrams and code examples. Based on invited seminars held in May-July 1999 at IBM, Caltech and elsewhere. For further information see http://www.tsia.org</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |

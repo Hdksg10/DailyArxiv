@@ -7,7 +7,7 @@ Only the most recent articles for each keyword are retained, up to a maximum of 
 
 You can click the 'Watch' button to receive daily email notifications.
 
-Last update: 2025-04-30
+Last update: 2025-05-01
 
 ## reinforcement learning
 | **Title** | **Date** | **Abstract** | **Comment** |
@@ -29,6 +29,7 @@ Last update: 2025-04-30
 | **Title** | **Date** | **Abstract** | **Comment** |
 | --- | --- | --- | --- |
 | **[SquirrelFS: using the Rust compiler to check file-system crash consistency](http://arxiv.org/abs/2406.09649v1)** | 2024-06-14 | <details><summary>Show</summary><p>This work introduces a new approach to building crash-safe file systems for persistent memory. We exploit the fact that Rust's typestate pattern allows compile-time enforcement of a specific order of operations. We introduce a novel crash-consistency mechanism, Synchronous Soft Updates, that boils down crash safety to enforcing ordering among updates to file-system metadata. We employ this approach to build SquirrelFS, a new file system with crash-consistency guarantees that are checked at compile time. SquirrelFS avoids the need for separate proofs, instead incorporating correctness guarantees into the typestate itself. Compiling SquirrelFS only takes tens of seconds; successful compilation indicates crash consistency, while an error provides a starting point for fixing the bug. We evaluate SquirrelFS against state of the art file systems such as NOVA and WineFS, and find that SquirrelFS achieves similar or better performance on a wide range of benchmarks and applications.</p></details> |  |
+| **[After Compilers and Operating Systems : The Third Advance in Application Support](http://arxiv.org/abs/cs/9908002v1)** | 1999-08-03 | <details><summary>Show</summary><p>After compilers and operating systems, TSIAs are the third advance in application support. A compiler supports a high level application definition in a programming language. An operating system supports a high level interface to the resources used by an application execution. A Task System and Item Architecture (TSIA) provides an application with a transparent reliable, distributed, heterogeneous, adaptive, dynamic, real-time, interactive, parallel, secure or other execution. In addition to supporting the application execution, a TSIA also supports the application definition. This run-time support for the definition is complementary to the compile-time support of a compiler. For example, this allows a language similar to Fortran or C to deliver features promised by functional computing. While many TSIAs exist, they previously have not been recognized as such and have served only a particular type of application. Existing TSIAs and other projects demonstrate that TSIAs are feasible for most applications. As the next paradigm for application support, the TSIA simplifies and unifies existing computing practice and research. By solving many outstanding problems, the TSIA opens many, many new opportunities for computing.</p></details> | <details><summary>20 pa...</summary><p>20 pages including 13 figures of diagrams and code examples. Based on invited seminars held in May-July 1999 at IBM, Caltech and elsewhere. For further information see http://www.tsia.org</p></details> |
 
 ## performance
 | **Title** | **Date** | **Abstract** | **Comment** |
