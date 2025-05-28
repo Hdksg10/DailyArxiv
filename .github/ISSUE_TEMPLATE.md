@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2025
+title: Latest 15 Papers - May 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -29,6 +29,7 @@ labels: documentation
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast, Secure, Adaptable: LionsOS Design, Implementation and Performance](http://arxiv.org/abs/2501.06234v2)** | 2025-05-27 | 14 pages, 13 figures |
 | **[From Good to Great: Improving Memory Tiering Performance Through Parameter Tuning](http://arxiv.org/abs/2504.18714v1)** | 2025-04-25 |  |
 | **[Virtuoso: High Resource Utilization and μs-scale Performance Isolation in a Shared Virtual Machine TCP Network Stack](http://arxiv.org/abs/2309.14016v4)** | 2025-04-24 | <details><summary>Under...</summary><p>Under submission for conference peer review</p></details> |
 | **[Taming and Controlling Performance and Energy Trade-offs Automatically in Network Applications](http://arxiv.org/abs/2502.14987v1)** | 2025-02-20 |  |
@@ -43,5 +44,4 @@ labels: documentation
 | **[Formal Definitions and Performance Comparison of Consistency Models for Parallel File Systems](http://arxiv.org/abs/2402.14105v2)** | 2024-02-26 | <details><summary>15 pa...</summary><p>15 pages. Submitted to IEEE TPDS</p></details> |
 | **[Fight Hardware with Hardware: System-wide Detection and Mitigation of Side-Channel Attacks using Performance Counters](http://arxiv.org/abs/2402.13281v1)** | 2024-02-18 |  |
 | **[Enabling performance portability of data-parallel OpenMP applications on asymmetric multicore processors](http://arxiv.org/abs/2402.07664v1)** | 2024-02-12 |  |
-| **[Data-Driven Power Modeling and Monitoring via Hardware Performance Counters Tracking](http://arxiv.org/abs/2401.01826v1)** | 2024-01-03 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, submitted to the IEEE for possible publication</p></details> |
 
