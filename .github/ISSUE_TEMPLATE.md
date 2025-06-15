@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 13, 2025
+title: Latest 15 Papers - June 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -29,7 +29,7 @@ labels: documentation
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PerfTracker: Online Performance Troubleshooting for Large-scale Model Training in Production](http://arxiv.org/abs/2506.08528v2)** | 2025-06-11 |  |
+| **[PerfTracker: Online Performance Troubleshooting for Large-scale Model Training in Production](http://arxiv.org/abs/2506.08528v3)** | 2025-06-12 |  |
 | **[Fast, Secure, Adaptable: LionsOS Design, Implementation and Performance](http://arxiv.org/abs/2501.06234v2)** | 2025-05-27 | 14 pages, 13 figures |
 | **[From Good to Great: Improving Memory Tiering Performance Through Parameter Tuning](http://arxiv.org/abs/2504.18714v1)** | 2025-04-25 |  |
 | **[Virtuoso: High Resource Utilization and μs-scale Performance Isolation in a Shared Virtual Machine TCP Network Stack](http://arxiv.org/abs/2309.14016v4)** | 2025-04-24 | <details><summary>Under...</summary><p>Under submission for conference peer review</p></details> |
