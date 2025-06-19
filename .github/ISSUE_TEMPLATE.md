@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2025
+title: Latest 15 Papers - June 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -29,6 +29,7 @@ labels: documentation
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CXLMemSim: A pure software simulated CXL.mem for performance characterization](http://arxiv.org/abs/2303.06153v2)** | 2025-06-17 |  |
 | **[PerfTracker: Online Performance Troubleshooting for Large-scale Model Training in Production](http://arxiv.org/abs/2506.08528v3)** | 2025-06-12 |  |
 | **[Fast, Secure, Adaptable: LionsOS Design, Implementation and Performance](http://arxiv.org/abs/2501.06234v2)** | 2025-05-27 | 14 pages, 13 figures |
 | **[From Good to Great: Improving Memory Tiering Performance Through Parameter Tuning](http://arxiv.org/abs/2504.18714v1)** | 2025-04-25 |  |
@@ -43,5 +44,4 @@ labels: documentation
 | **[Evaluating Serverless Machine Learning Performance on Google Cloud Run](http://arxiv.org/abs/2406.16250v1)** | 2024-06-24 | 5 pages, 12 figures |
 | **[Simulation of high-performance memory allocators](http://arxiv.org/abs/2406.15776v1)** | 2024-06-22 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2403.04414</p></details> |
 | **[Formal Definitions and Performance Comparison of Consistency Models for Parallel File Systems](http://arxiv.org/abs/2402.14105v2)** | 2024-02-26 | <details><summary>15 pa...</summary><p>15 pages. Submitted to IEEE TPDS</p></details> |
-| **[Fight Hardware with Hardware: System-wide Detection and Mitigation of Side-Channel Attacks using Performance Counters](http://arxiv.org/abs/2402.13281v1)** | 2024-02-18 |  |
 
