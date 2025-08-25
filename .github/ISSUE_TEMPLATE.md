@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2025
+title: Latest 15 Papers - August 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Optimization of Storage Systems Using Reinforcement Learning Techniques](http://arxiv.org/abs/2501.00068v2)** | 2025-08-22 |  |
 | **[OS-R1: Agentic Operating System Kernel Tuning with Reinforcement Learning](http://arxiv.org/abs/2508.12551v1)** | 2025-08-18 |  |
 | **[Energy-Efficient Computation with DVFS using Deep Reinforcement Learning for Multi-Task Systems in Edge Computing](http://arxiv.org/abs/2409.19434v3)** | 2025-05-21 |  |
 | **[Meta-Reinforcement Learning with Discrete World Models for Adaptive Load Balancing](http://arxiv.org/abs/2503.08872v1)** | 2025-03-11 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, to be published in ACMSE 2025</p></details> |
-| **[Dynamic Optimization of Storage Systems Using Reinforcement Learning Techniques](http://arxiv.org/abs/2501.00068v1)** | 2024-12-29 |  |
 | **[Enhancing Adaptive Mixed-Criticality Scheduling with Deep Reinforcement Learning](http://arxiv.org/abs/2411.00572v1)** | 2024-11-01 | <details><summary>Versi...</summary><p>Version submitted to RTNS 2024, on 17/08/2024 (with some typos fixed)</p></details> |
 | **[Enhancing Battery Storage Energy Arbitrage with Deep Reinforcement Learning and Time-Series Forecasting](http://arxiv.org/abs/2410.20005v1)** | 2024-10-25 | <details><summary>Accep...</summary><p>Accepted for publication at the 18th ASME International Conference on Energy Sustainability</p></details> |
 | **[Reinforcement Learning for Dynamic Memory Allocation](http://arxiv.org/abs/2410.15492v1)** | 2024-10-20 |  |
