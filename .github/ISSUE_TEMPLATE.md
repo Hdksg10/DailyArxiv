@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2025
+title: Latest 15 Papers - October 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -30,6 +30,7 @@ labels: documentation
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Joyride: Rethinking Linux's network stack design for better performance, security, and reliability](http://arxiv.org/abs/2509.25015v1)** | 2025-09-29 |  |
 | **[CXLMemSim: A pure software simulated CXL.mem for performance characterization](http://arxiv.org/abs/2303.06153v2)** | 2025-06-17 |  |
 | **[PerfTracker: Online Performance Troubleshooting for Large-scale Model Training in Production](http://arxiv.org/abs/2506.08528v3)** | 2025-06-12 |  |
 | **[Fast, Secure, Adaptable: LionsOS Design, Implementation and Performance](http://arxiv.org/abs/2501.06234v2)** | 2025-05-27 | 14 pages, 13 figures |
@@ -44,5 +45,4 @@ labels: documentation
 | **[Accelerator-as-a-Service in Public Clouds: An Intra-Host Traffic Management View for Performance Isolation in the Wild](http://arxiv.org/abs/2407.10098v1)** | 2024-07-14 |  |
 | **[Evaluating Serverless Machine Learning Performance on Google Cloud Run](http://arxiv.org/abs/2406.16250v1)** | 2024-06-24 | 5 pages, 12 figures |
 | **[Simulation of high-performance memory allocators](http://arxiv.org/abs/2406.15776v1)** | 2024-06-22 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2403.04414</p></details> |
-| **[Formal Definitions and Performance Comparison of Consistency Models for Parallel File Systems](http://arxiv.org/abs/2402.14105v2)** | 2024-02-26 | <details><summary>15 pa...</summary><p>15 pages. Submitted to IEEE TPDS</p></details> |
 
