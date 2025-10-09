@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 09, 2025
+title: Latest 15 Papers - October 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,13 +7,13 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reinforcement Learning for Dynamic Memory Allocation](http://arxiv.org/abs/2410.15492v2)** | 2025-10-08 |  |
 | **[Dynamic Optimization of Storage Systems Using Reinforcement Learning Techniques](http://arxiv.org/abs/2501.00068v2)** | 2025-08-22 |  |
 | **[OS-R1: Agentic Operating System Kernel Tuning with Reinforcement Learning](http://arxiv.org/abs/2508.12551v1)** | 2025-08-18 |  |
 | **[Energy-Efficient Computation with DVFS using Deep Reinforcement Learning for Multi-Task Systems in Edge Computing](http://arxiv.org/abs/2409.19434v3)** | 2025-05-21 |  |
 | **[Meta-Reinforcement Learning with Discrete World Models for Adaptive Load Balancing](http://arxiv.org/abs/2503.08872v1)** | 2025-03-11 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, to be published in ACMSE 2025</p></details> |
 | **[Enhancing Adaptive Mixed-Criticality Scheduling with Deep Reinforcement Learning](http://arxiv.org/abs/2411.00572v1)** | 2024-11-01 | <details><summary>Versi...</summary><p>Version submitted to RTNS 2024, on 17/08/2024 (with some typos fixed)</p></details> |
 | **[Enhancing Battery Storage Energy Arbitrage with Deep Reinforcement Learning and Time-Series Forecasting](http://arxiv.org/abs/2410.20005v1)** | 2024-10-25 | <details><summary>Accep...</summary><p>Accepted for publication at the 18th ASME International Conference on Energy Sustainability</p></details> |
-| **[Reinforcement Learning for Dynamic Memory Allocation](http://arxiv.org/abs/2410.15492v1)** | 2024-10-20 |  |
 | **[CPU frequency scheduling of real-time applications on embedded devices with temporal encoding-based deep reinforcement learning](http://arxiv.org/abs/2309.03779v1)** | 2023-09-07 | <details><summary>Accep...</summary><p>Accepted to Journal of Systems Architecture</p></details> |
 | **[Multi-level Explanation of Deep Reinforcement Learning-based Scheduling](http://arxiv.org/abs/2209.09645v1)** | 2022-09-18 | <details><summary>Accep...</summary><p>Accepted in the MLSys'22 Workshop on Cloud Intelligence / AIOps</p></details> |
 | **[SoCRATES: System-on-Chip Resource Adaptive Scheduling using Deep Reinforcement Learning](http://arxiv.org/abs/2104.14354v3)** | 2021-10-12 | <details><summary>This ...</summary><p>This paper has been accepted for publication by 20th IEEE International Conference on Machine Learning and Applications (ICMLA 2021). The copyright is with the IEEE</p></details> |
