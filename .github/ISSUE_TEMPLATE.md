@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2025
+title: Latest 15 Papers - October 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -30,6 +30,8 @@ labels: documentation
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detection of Performance Changes in MooBench Results Using Nyrkiö on GitHub Actions](http://arxiv.org/abs/2510.11310v1)** | 2025-10-13 | <details><summary>3 pag...</summary><p>3 pages, 3 figures, 16th Symposium on Software Performance (https://www.performance-symposium.org/)</p></details> |
+| **[CPU-Limits kill Performance: Time to rethink Resource Control](http://arxiv.org/abs/2510.10747v1)** | 2025-10-12 | <details><summary>Visio...</summary><p>Vision Paper accepted to SoCC 2025</p></details> |
 | **[Joyride: Rethinking Linux's network stack design for better performance, security, and reliability](http://arxiv.org/abs/2509.25015v1)** | 2025-09-29 |  |
 | **[CXLMemSim: A pure software simulated CXL.mem for performance characterization](http://arxiv.org/abs/2303.06153v2)** | 2025-06-17 |  |
 | **[PerfTracker: Online Performance Troubleshooting for Large-scale Model Training in Production](http://arxiv.org/abs/2506.08528v3)** | 2025-06-12 |  |
@@ -43,6 +45,4 @@ labels: documentation
 | **[Assessing FIFO and Round Robin Scheduling:Effects on Data Pipeline Performance and Energy Usage](http://arxiv.org/abs/2409.15704v1)** | 2024-09-24 |  |
 | **[Dissecting CXL Memory Performance at Scale: Analysis, Modeling, and Optimization](http://arxiv.org/abs/2409.14317v1)** | 2024-09-22 |  |
 | **[Accelerator-as-a-Service in Public Clouds: An Intra-Host Traffic Management View for Performance Isolation in the Wild](http://arxiv.org/abs/2407.10098v1)** | 2024-07-14 |  |
-| **[Evaluating Serverless Machine Learning Performance on Google Cloud Run](http://arxiv.org/abs/2406.16250v1)** | 2024-06-24 | 5 pages, 12 figures |
-| **[Simulation of high-performance memory allocators](http://arxiv.org/abs/2406.15776v1)** | 2024-06-22 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2403.04414</p></details> |
 
