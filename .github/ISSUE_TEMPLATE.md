@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 05, 2025
+title: Latest 15 Papers - November 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -30,6 +30,7 @@ labels: documentation
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast Networks for High-Performance Distributed Trust](http://arxiv.org/abs/2511.00363v1)** | 2025-11-01 | 10 pages, 2 figures |
 | **[Detection of Performance Changes in MooBench Results Using Nyrkiö on GitHub Actions](http://arxiv.org/abs/2510.11310v1)** | 2025-10-13 | <details><summary>3 pag...</summary><p>3 pages, 3 figures, 16th Symposium on Software Performance (https://www.performance-symposium.org/)</p></details> |
 | **[CPU-Limits kill Performance: Time to rethink Resource Control](http://arxiv.org/abs/2510.10747v1)** | 2025-10-12 | <details><summary>Visio...</summary><p>Vision Paper accepted to SoCC 2025</p></details> |
 | **[Joyride: Rethinking Linux's network stack design for better performance, security, and reliability](http://arxiv.org/abs/2509.25015v1)** | 2025-09-29 |  |
@@ -44,5 +45,4 @@ labels: documentation
 | **[Boosting Cross-Architectural Emulation Performance by Foregoing the Intermediate Representation Model](http://arxiv.org/abs/2501.03427v1)** | 2025-01-06 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. Submitted to the 5th International Conference on Electrical, Computer and Energy Technologies</p></details> |
 | **[Assessing FIFO and Round Robin Scheduling:Effects on Data Pipeline Performance and Energy Usage](http://arxiv.org/abs/2409.15704v1)** | 2024-09-24 |  |
 | **[Dissecting CXL Memory Performance at Scale: Analysis, Modeling, and Optimization](http://arxiv.org/abs/2409.14317v1)** | 2024-09-22 |  |
-| **[Accelerator-as-a-Service in Public Clouds: An Intra-Host Traffic Management View for Performance Isolation in the Wild](http://arxiv.org/abs/2407.10098v1)** | 2024-07-14 |  |
 
