@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 20, 2025
+title: Latest 15 Papers - November 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[\textit{FLARE}: Adaptive Multi-Dimensional Reputation for Robust Client Reliability in Federated Learning](https://arxiv.org/abs/2511.14715v1)** | 2025-11-18 | Under Review |
-| **[Optimizing Federated Learning by Entropy-Based Client Selection](https://arxiv.org/abs/2411.01240v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at the 3rd IEEE International Conference on Federated Learning Technologies and Applications (FLTA 2025), Dubrovnik, Croatia, October 14-17, 2025</p></details> |
-| **[Multi-GPU Quantum Circuit Simulation and the Impact of Network Performance](https://arxiv.org/abs/2511.14664v1)** | 2025-11-18 | <details><summary>13 Pa...</summary><p>13 Pages, 5 Figures, Preprint submitted for publication</p></details> |
-| **[SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices](https://arxiv.org/abs/2510.18544v3)** | 2025-11-18 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. This version is temporarily hosted anonymously for double-blind review</p></details> |
-| **[Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning](https://arxiv.org/abs/2511.14617v1)** | 2025-11-18 | <details><summary>16 pa...</summary><p>16 pages, 12 figures, 6 tables</p></details> |
-| **[Hapax Locks : Value-Based Mutual Exclusion](https://arxiv.org/abs/2511.14608v1)** | 2025-11-18 |  |
-| **[KWT-Tiny: RISC-V Accelerated, Embedded Keyword Spotting Transformer](https://arxiv.org/abs/2407.16026v2)** | 2025-11-18 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, published in the IEEE SOCC 2024 conference</p></details> |
-| **[Evaluating the Impact of Packet Scheduling and Congestion Control Algorithms on MPTCP Performance over Heterogeneous Networks](https://arxiv.org/abs/2511.14550v1)** | 2025-11-18 |  |
-| **[Overview and Prospects of Using Integer Surrogate Keys for Data Warehouse Performance Optimization](https://arxiv.org/abs/2511.14502v1)** | 2025-11-18 |  |
-| **[Analyzing the Impact of Participant Failures in Cross-Silo Federated Learning](https://arxiv.org/abs/2511.14456v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted for publication in 3rd IEEE International Conference on Federated Learning Applications and Technologies (FLTA2025)</p></details> |
-| **[Hyperion: Hierarchical Scheduling for Parallel LLM Acceleration in Multi-tier Networks](https://arxiv.org/abs/2511.14450v1)** | 2025-11-18 |  |
-| **[PIM or CXL-PIM? Understanding Architectural Trade-offs Through Large-Scale Benchmarking](https://arxiv.org/abs/2511.14400v1)** | 2025-11-18 |  |
-| **[Resilient by Design -- Active Inference for Distributed Continuum Intelligence](https://arxiv.org/abs/2511.07202v2)** | 2025-11-18 |  |
-| **[Sei Giga](https://arxiv.org/abs/2505.14914v2)** | 2025-11-18 |  |
-| **[Equivalence Checking of ML GPU Kernels](https://arxiv.org/abs/2511.12638v2)** | 2025-11-18 |  |
+| **[A Latency-Constrained, Gated Recurrent Unit (GRU) Implementation in the Versal AI Engine](https://arxiv.org/abs/2511.15626v1)** | 2025-11-19 |  |
+| **[Graph Rewriting Language as a Platform for Quantum Diagrammatic Calculi](https://arxiv.org/abs/2511.15581v1)** | 2025-11-19 | <details><summary>27 pa...</summary><p>27 pages, 27 figures. Extended version (with Appendices) of the paper to be presented at the 28th International Symposium on Practical Aspects of Declarative Languages (PADL 2026), January 2026</p></details> |
+| **[Beluga: Block Synchronization for BFT Consensus Protocols](https://arxiv.org/abs/2511.15517v1)** | 2025-11-19 |  |
+| **[A Tensor Compiler for Processing-In-Memory Architectures](https://arxiv.org/abs/2511.15503v1)** | 2025-11-19 |  |
+| **[Proving there is a leader without naming it](https://arxiv.org/abs/2511.15491v1)** | 2025-11-19 |  |
+| **[Towards a Formal Verification of Secure Vehicle Software Updates](https://arxiv.org/abs/2511.15479v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This technical report is a preprint of the article accepted for publication in Computer & Security 2025</p></details> |
+| **[SpargeAttention: Accurate and Training-free Sparse Attention Accelerating Any Model Inference](https://arxiv.org/abs/2502.18137v8)** | 2025-11-19 | <details><summary>@inpr...</summary><p>@inproceedings{zhang2025spargeattn, title={Spargeattn: Accurate sparse attention accelerating any model inference}, author={Zhang, Jintao and Xiang, Chendong and Huang, Haofeng and Wei, Jia and Xi, Haocheng and Zhu, Jun and Chen, Jianfei}, booktitle={International Conference on Machine Learning (ICML)}, year={2025} }</p></details> |
+| **[Constructive community race: full-density spiking neural network model drives neuromorphic computing](https://arxiv.org/abs/2505.21185v3)** | 2025-11-19 | <details><summary>23 pa...</summary><p>23 pages, 3 figures, 2 tables</p></details> |
+| **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v3)** | 2025-11-19 |  |
+| **[A Data-driven ML Approach for Maximizing Performance in LLM-Adapter Serving](https://arxiv.org/abs/2508.08343v3)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted in a computer science workshop</p></details> |
+| **[When Can You Trust Bitcoin? Value-Dependent Block Confirmation to Determine Transaction Finalit](https://arxiv.org/abs/2511.15421v1)** | 2025-11-19 |  |
+| **[Minimmit: Fast Finality with Even Faster Blocks](https://arxiv.org/abs/2508.10862v3)** | 2025-11-19 |  |
+| **[MutDafny: A Mutation-Based Approach to Assess Dafny Specifications](https://arxiv.org/abs/2511.15403v1)** | 2025-11-19 |  |
+| **[Multiple Sides of 36 Coins: Measuring Peer-to-Peer Infrastructure Across Cryptocurrencies](https://arxiv.org/abs/2511.15388v1)** | 2025-11-19 | <details><summary>In Pr...</summary><p>In Proceedings of ACM SIGMETRICS 2026</p></details> |
+| **[FLARE: Adaptive Multi-Dimensional Reputation for Robust Client Reliability in Federated Learning](https://arxiv.org/abs/2511.14715v2)** | 2025-11-19 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[\textit{FLARE}: Adaptive Multi-Dimensional Reputation for Robust Client Reliability in Federated Learning](https://arxiv.org/abs/2511.14715v1)** | 2025-11-18 | Under Review |
-| **[Optimizing Federated Learning by Entropy-Based Client Selection](https://arxiv.org/abs/2411.01240v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at the 3rd IEEE International Conference on Federated Learning Technologies and Applications (FLTA 2025), Dubrovnik, Croatia, October 14-17, 2025</p></details> |
-| **[Multi-GPU Quantum Circuit Simulation and the Impact of Network Performance](https://arxiv.org/abs/2511.14664v1)** | 2025-11-18 | <details><summary>13 Pa...</summary><p>13 Pages, 5 Figures, Preprint submitted for publication</p></details> |
-| **[SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices](https://arxiv.org/abs/2510.18544v3)** | 2025-11-18 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. This version is temporarily hosted anonymously for double-blind review</p></details> |
-| **[Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning](https://arxiv.org/abs/2511.14617v1)** | 2025-11-18 | <details><summary>16 pa...</summary><p>16 pages, 12 figures, 6 tables</p></details> |
-| **[Hapax Locks : Value-Based Mutual Exclusion](https://arxiv.org/abs/2511.14608v1)** | 2025-11-18 |  |
-| **[KWT-Tiny: RISC-V Accelerated, Embedded Keyword Spotting Transformer](https://arxiv.org/abs/2407.16026v2)** | 2025-11-18 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, published in the IEEE SOCC 2024 conference</p></details> |
-| **[Evaluating the Impact of Packet Scheduling and Congestion Control Algorithms on MPTCP Performance over Heterogeneous Networks](https://arxiv.org/abs/2511.14550v1)** | 2025-11-18 |  |
-| **[Overview and Prospects of Using Integer Surrogate Keys for Data Warehouse Performance Optimization](https://arxiv.org/abs/2511.14502v1)** | 2025-11-18 |  |
-| **[Analyzing the Impact of Participant Failures in Cross-Silo Federated Learning](https://arxiv.org/abs/2511.14456v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted for publication in 3rd IEEE International Conference on Federated Learning Applications and Technologies (FLTA2025)</p></details> |
-| **[Hyperion: Hierarchical Scheduling for Parallel LLM Acceleration in Multi-tier Networks](https://arxiv.org/abs/2511.14450v1)** | 2025-11-18 |  |
-| **[PIM or CXL-PIM? Understanding Architectural Trade-offs Through Large-Scale Benchmarking](https://arxiv.org/abs/2511.14400v1)** | 2025-11-18 |  |
-| **[Resilient by Design -- Active Inference for Distributed Continuum Intelligence](https://arxiv.org/abs/2511.07202v2)** | 2025-11-18 |  |
-| **[Sei Giga](https://arxiv.org/abs/2505.14914v2)** | 2025-11-18 |  |
-| **[Equivalence Checking of ML GPU Kernels](https://arxiv.org/abs/2511.12638v2)** | 2025-11-18 |  |
+| **[A Latency-Constrained, Gated Recurrent Unit (GRU) Implementation in the Versal AI Engine](https://arxiv.org/abs/2511.15626v1)** | 2025-11-19 |  |
+| **[Graph Rewriting Language as a Platform for Quantum Diagrammatic Calculi](https://arxiv.org/abs/2511.15581v1)** | 2025-11-19 | <details><summary>27 pa...</summary><p>27 pages, 27 figures. Extended version (with Appendices) of the paper to be presented at the 28th International Symposium on Practical Aspects of Declarative Languages (PADL 2026), January 2026</p></details> |
+| **[Beluga: Block Synchronization for BFT Consensus Protocols](https://arxiv.org/abs/2511.15517v1)** | 2025-11-19 |  |
+| **[A Tensor Compiler for Processing-In-Memory Architectures](https://arxiv.org/abs/2511.15503v1)** | 2025-11-19 |  |
+| **[Proving there is a leader without naming it](https://arxiv.org/abs/2511.15491v1)** | 2025-11-19 |  |
+| **[Towards a Formal Verification of Secure Vehicle Software Updates](https://arxiv.org/abs/2511.15479v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This technical report is a preprint of the article accepted for publication in Computer & Security 2025</p></details> |
+| **[SpargeAttention: Accurate and Training-free Sparse Attention Accelerating Any Model Inference](https://arxiv.org/abs/2502.18137v8)** | 2025-11-19 | <details><summary>@inpr...</summary><p>@inproceedings{zhang2025spargeattn, title={Spargeattn: Accurate sparse attention accelerating any model inference}, author={Zhang, Jintao and Xiang, Chendong and Huang, Haofeng and Wei, Jia and Xi, Haocheng and Zhu, Jun and Chen, Jianfei}, booktitle={International Conference on Machine Learning (ICML)}, year={2025} }</p></details> |
+| **[Constructive community race: full-density spiking neural network model drives neuromorphic computing](https://arxiv.org/abs/2505.21185v3)** | 2025-11-19 | <details><summary>23 pa...</summary><p>23 pages, 3 figures, 2 tables</p></details> |
+| **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v3)** | 2025-11-19 |  |
+| **[A Data-driven ML Approach for Maximizing Performance in LLM-Adapter Serving](https://arxiv.org/abs/2508.08343v3)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted in a computer science workshop</p></details> |
+| **[When Can You Trust Bitcoin? Value-Dependent Block Confirmation to Determine Transaction Finalit](https://arxiv.org/abs/2511.15421v1)** | 2025-11-19 |  |
+| **[Minimmit: Fast Finality with Even Faster Blocks](https://arxiv.org/abs/2508.10862v3)** | 2025-11-19 |  |
+| **[MutDafny: A Mutation-Based Approach to Assess Dafny Specifications](https://arxiv.org/abs/2511.15403v1)** | 2025-11-19 |  |
+| **[Multiple Sides of 36 Coins: Measuring Peer-to-Peer Infrastructure Across Cryptocurrencies](https://arxiv.org/abs/2511.15388v1)** | 2025-11-19 | <details><summary>In Pr...</summary><p>In Proceedings of ACM SIGMETRICS 2026</p></details> |
+| **[FLARE: Adaptive Multi-Dimensional Reputation for Robust Client Reliability in Federated Learning](https://arxiv.org/abs/2511.14715v2)** | 2025-11-19 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[\textit{FLARE}: Adaptive Multi-Dimensional Reputation for Robust Client Reliability in Federated Learning](https://arxiv.org/abs/2511.14715v1)** | 2025-11-18 | Under Review |
-| **[Optimizing Federated Learning by Entropy-Based Client Selection](https://arxiv.org/abs/2411.01240v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at the 3rd IEEE International Conference on Federated Learning Technologies and Applications (FLTA 2025), Dubrovnik, Croatia, October 14-17, 2025</p></details> |
-| **[Multi-GPU Quantum Circuit Simulation and the Impact of Network Performance](https://arxiv.org/abs/2511.14664v1)** | 2025-11-18 | <details><summary>13 Pa...</summary><p>13 Pages, 5 Figures, Preprint submitted for publication</p></details> |
-| **[SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices](https://arxiv.org/abs/2510.18544v3)** | 2025-11-18 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. This version is temporarily hosted anonymously for double-blind review</p></details> |
-| **[Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning](https://arxiv.org/abs/2511.14617v1)** | 2025-11-18 | <details><summary>16 pa...</summary><p>16 pages, 12 figures, 6 tables</p></details> |
-| **[Hapax Locks : Value-Based Mutual Exclusion](https://arxiv.org/abs/2511.14608v1)** | 2025-11-18 |  |
-| **[KWT-Tiny: RISC-V Accelerated, Embedded Keyword Spotting Transformer](https://arxiv.org/abs/2407.16026v2)** | 2025-11-18 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, published in the IEEE SOCC 2024 conference</p></details> |
-| **[Evaluating the Impact of Packet Scheduling and Congestion Control Algorithms on MPTCP Performance over Heterogeneous Networks](https://arxiv.org/abs/2511.14550v1)** | 2025-11-18 |  |
-| **[Overview and Prospects of Using Integer Surrogate Keys for Data Warehouse Performance Optimization](https://arxiv.org/abs/2511.14502v1)** | 2025-11-18 |  |
-| **[Analyzing the Impact of Participant Failures in Cross-Silo Federated Learning](https://arxiv.org/abs/2511.14456v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted for publication in 3rd IEEE International Conference on Federated Learning Applications and Technologies (FLTA2025)</p></details> |
-| **[Hyperion: Hierarchical Scheduling for Parallel LLM Acceleration in Multi-tier Networks](https://arxiv.org/abs/2511.14450v1)** | 2025-11-18 |  |
-| **[PIM or CXL-PIM? Understanding Architectural Trade-offs Through Large-Scale Benchmarking](https://arxiv.org/abs/2511.14400v1)** | 2025-11-18 |  |
-| **[Resilient by Design -- Active Inference for Distributed Continuum Intelligence](https://arxiv.org/abs/2511.07202v2)** | 2025-11-18 |  |
-| **[Sei Giga](https://arxiv.org/abs/2505.14914v2)** | 2025-11-18 |  |
-| **[Equivalence Checking of ML GPU Kernels](https://arxiv.org/abs/2511.12638v2)** | 2025-11-18 |  |
+| **[A Latency-Constrained, Gated Recurrent Unit (GRU) Implementation in the Versal AI Engine](https://arxiv.org/abs/2511.15626v1)** | 2025-11-19 |  |
+| **[Graph Rewriting Language as a Platform for Quantum Diagrammatic Calculi](https://arxiv.org/abs/2511.15581v1)** | 2025-11-19 | <details><summary>27 pa...</summary><p>27 pages, 27 figures. Extended version (with Appendices) of the paper to be presented at the 28th International Symposium on Practical Aspects of Declarative Languages (PADL 2026), January 2026</p></details> |
+| **[Beluga: Block Synchronization for BFT Consensus Protocols](https://arxiv.org/abs/2511.15517v1)** | 2025-11-19 |  |
+| **[A Tensor Compiler for Processing-In-Memory Architectures](https://arxiv.org/abs/2511.15503v1)** | 2025-11-19 |  |
+| **[Proving there is a leader without naming it](https://arxiv.org/abs/2511.15491v1)** | 2025-11-19 |  |
+| **[Towards a Formal Verification of Secure Vehicle Software Updates](https://arxiv.org/abs/2511.15479v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This technical report is a preprint of the article accepted for publication in Computer & Security 2025</p></details> |
+| **[SpargeAttention: Accurate and Training-free Sparse Attention Accelerating Any Model Inference](https://arxiv.org/abs/2502.18137v8)** | 2025-11-19 | <details><summary>@inpr...</summary><p>@inproceedings{zhang2025spargeattn, title={Spargeattn: Accurate sparse attention accelerating any model inference}, author={Zhang, Jintao and Xiang, Chendong and Huang, Haofeng and Wei, Jia and Xi, Haocheng and Zhu, Jun and Chen, Jianfei}, booktitle={International Conference on Machine Learning (ICML)}, year={2025} }</p></details> |
+| **[Constructive community race: full-density spiking neural network model drives neuromorphic computing](https://arxiv.org/abs/2505.21185v3)** | 2025-11-19 | <details><summary>23 pa...</summary><p>23 pages, 3 figures, 2 tables</p></details> |
+| **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v3)** | 2025-11-19 |  |
+| **[A Data-driven ML Approach for Maximizing Performance in LLM-Adapter Serving](https://arxiv.org/abs/2508.08343v3)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted in a computer science workshop</p></details> |
+| **[When Can You Trust Bitcoin? Value-Dependent Block Confirmation to Determine Transaction Finalit](https://arxiv.org/abs/2511.15421v1)** | 2025-11-19 |  |
+| **[Minimmit: Fast Finality with Even Faster Blocks](https://arxiv.org/abs/2508.10862v3)** | 2025-11-19 |  |
+| **[MutDafny: A Mutation-Based Approach to Assess Dafny Specifications](https://arxiv.org/abs/2511.15403v1)** | 2025-11-19 |  |
+| **[Multiple Sides of 36 Coins: Measuring Peer-to-Peer Infrastructure Across Cryptocurrencies](https://arxiv.org/abs/2511.15388v1)** | 2025-11-19 | <details><summary>In Pr...</summary><p>In Proceedings of ACM SIGMETRICS 2026</p></details> |
+| **[FLARE: Adaptive Multi-Dimensional Reputation for Robust Client Reliability in Federated Learning](https://arxiv.org/abs/2511.14715v2)** | 2025-11-19 |  |
 
