@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 25, 2025
+title: Latest 15 Papers - November 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DISCA: A Digital In-memory Stochastic Computing Architecture Using A Compressed Bent-Pyramid Format](https://arxiv.org/abs/2511.17265v1)** | 2025-11-21 | 6 pages, 5 figures |
-| **[Training Foundation Models on a Full-Stack AMD Platform: Compute, Networking, and System Design](https://arxiv.org/abs/2511.17127v1)** | 2025-11-21 |  |
-| **[Modeling Anomaly Detection in Cloud Services: Analysis of the Properties that Impact Latency and Resource Consumption](https://arxiv.org/abs/2511.17119v1)** | 2025-11-21 |  |
-| **[Fast LLM Post-training via Decoupled and Best-of-N Speculation](https://arxiv.org/abs/2511.16193v2)** | 2025-11-21 |  |
-| **[Optimizing PyTorch Inference with LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2511.16964v1)** | 2025-11-21 |  |
-| **[MicroMoE: Fine-Grained Load Balancing for Mixture-of-Experts with Token Scheduling](https://arxiv.org/abs/2511.16947v1)** | 2025-11-21 | 19 pages |
-| **[Distributed Hierarchical Machine Learning for Joint Resource Allocation and Slice Selection in In-Network Edge Systems](https://arxiv.org/abs/2511.13313v2)** | 2025-11-21 |  |
-| **[An Introductory Study on the Power Consumption Overhead of ERC-4337 Bundlers](https://arxiv.org/abs/2511.16890v1)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted for the 9th IEEE International Symposium on Electrical and Electronics Engineering, ISEEE 2025; Copyright is with IEEE</p></details> |
-| **[Towards Formal Verification of LLM-Generated Code from Natural Language Prompts](https://arxiv.org/abs/2507.13290v2)** | 2025-11-20 | 28 pages, 10 figures |
-| **[Sometimes Painful but Certainly Promising: Feasibility and Trade-offs of Language Model Inference at the Edge](https://arxiv.org/abs/2503.09114v2)** | 2025-11-20 | <details><summary>Paper...</summary><p>Paper currently under review in an ACM journal. This version reflects reviewer-driven revisions: calibrated power measurements validated with external hardware, updated figures and conclusions, added downstream benchmarks (HellaSwag, Winogrande, TruthfulQA, ARC), clarified hardware scope and cold-start behavior, corrected Orin GPU Q4_0 results, improved visuals, and discussed emerging GenAI NPUs</p></details> |
-| **[Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v1)** | 2025-11-20 |  |
-| **[New Hardness Results for the LOCAL Model via a Simple Self-Reduction](https://arxiv.org/abs/2510.19972v2)** | 2025-11-20 | 21 pages, no figures |
-| **[Distributed MIS Algorithms for Rational Agents using Games](https://arxiv.org/abs/2511.16533v1)** | 2025-11-20 |  |
-| **[Optimizing Federated Learning in the Era of LLMs: Message Quantization and Streaming](https://arxiv.org/abs/2511.16450v1)** | 2025-11-20 | FLLM 2025 |
-| **[A Fast Relax-and-Round Approach to Unit Commitment for Data Center Own Generation](https://arxiv.org/abs/2511.16420v1)** | 2025-11-20 | <details><summary>Limit...</summary><p>Limited to 5 pages and this format for IEEE PESGM conference</p></details> |
+| **[SLMFix: Leveraging Small Language Models for Error Fixing with Reinforcement Learning](https://arxiv.org/abs/2511.19422v1)** | 2025-11-24 |  |
+| **[MiniF2F in Rocq: Automatic Translation Between Proof Assistants -- A Case Study](https://arxiv.org/abs/2503.04763v2)** | 2025-11-24 |  |
+| **[SAQR-QC: A Logic for Scalable but Approximate Quantitative Reasoning about Quantum Circuits](https://arxiv.org/abs/2507.13635v2)** | 2025-11-24 | Comments are welcome |
+| **[IOMMU Support for Virtual-Address Remote DMA in an ARMv8 environment](https://arxiv.org/abs/2511.19258v1)** | 2025-11-24 | <details><summary>Anton...</summary><p>Antonis Psistakis, B.Sc. Thesis (2017). Abstract revised in 2025 to comply with arXiv character limits</p></details> |
+| **[Constant-Size Certificates for Leader Election in Chordal Graphs and Related Classes](https://arxiv.org/abs/2511.19208v1)** | 2025-11-24 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, under review</p></details> |
+| **[AME: An Efficient Heterogeneous Agentic Memory Engine for Smartphones](https://arxiv.org/abs/2511.19192v1)** | 2025-11-24 |  |
+| **[Stone Duality Proofs for Colorless Distributed Computability Theorems](https://arxiv.org/abs/2511.03609v2)** | 2025-11-24 |  |
+| **[PRAGMA: A Profiling-Reasoned Multi-Agent Framework for Automatic Kernel Optimization](https://arxiv.org/abs/2511.06345v2)** | 2025-11-24 |  |
+| **[SlimCaching: Edge Caching of Mixture-of-Experts for Distributed Inference](https://arxiv.org/abs/2507.06567v2)** | 2025-11-24 | <details><summary>17 pa...</summary><p>17 pages, 11 figures. This work has been submitted to the IEEE for possible publication</p></details> |
+| **[An Online Fragmentation-Aware GPU Scheduler for Multi-Tenant MIG-based Clouds](https://arxiv.org/abs/2511.18906v1)** | 2025-11-24 |  |
+| **[Mysticeti: Reaching the Limits of Latency with Uncertified DAGs](https://arxiv.org/abs/2310.14821v6)** | 2025-11-24 |  |
+| **[Federated style aware transformer aggregation of representations](https://arxiv.org/abs/2511.18841v1)** | 2025-11-24 |  |
+| **[MTGenRec: An Efficient Distributed Training System for Generative Recommendation Models in Meituan](https://arxiv.org/abs/2505.12663v2)** | 2025-11-24 |  |
+| **[FedRef: Communication-Efficient Bayesian Fine-Tuning using a Reference Model](https://arxiv.org/abs/2506.23210v4)** | 2025-11-24 | <details><summary>11 pa...</summary><p>11 pages, 16 equations, 5 figures, 6 tables</p></details> |
+| **[cuTeSpMM: Accelerating Sparse-Dense Matrix Multiplication using GPU Tensor Cores](https://arxiv.org/abs/2504.06443v2)** | 2025-11-24 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DISCA: A Digital In-memory Stochastic Computing Architecture Using A Compressed Bent-Pyramid Format](https://arxiv.org/abs/2511.17265v1)** | 2025-11-21 | 6 pages, 5 figures |
-| **[Training Foundation Models on a Full-Stack AMD Platform: Compute, Networking, and System Design](https://arxiv.org/abs/2511.17127v1)** | 2025-11-21 |  |
-| **[Modeling Anomaly Detection in Cloud Services: Analysis of the Properties that Impact Latency and Resource Consumption](https://arxiv.org/abs/2511.17119v1)** | 2025-11-21 |  |
-| **[Fast LLM Post-training via Decoupled and Best-of-N Speculation](https://arxiv.org/abs/2511.16193v2)** | 2025-11-21 |  |
-| **[Optimizing PyTorch Inference with LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2511.16964v1)** | 2025-11-21 |  |
-| **[MicroMoE: Fine-Grained Load Balancing for Mixture-of-Experts with Token Scheduling](https://arxiv.org/abs/2511.16947v1)** | 2025-11-21 | 19 pages |
-| **[Distributed Hierarchical Machine Learning for Joint Resource Allocation and Slice Selection in In-Network Edge Systems](https://arxiv.org/abs/2511.13313v2)** | 2025-11-21 |  |
-| **[An Introductory Study on the Power Consumption Overhead of ERC-4337 Bundlers](https://arxiv.org/abs/2511.16890v1)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted for the 9th IEEE International Symposium on Electrical and Electronics Engineering, ISEEE 2025; Copyright is with IEEE</p></details> |
-| **[Towards Formal Verification of LLM-Generated Code from Natural Language Prompts](https://arxiv.org/abs/2507.13290v2)** | 2025-11-20 | 28 pages, 10 figures |
-| **[Sometimes Painful but Certainly Promising: Feasibility and Trade-offs of Language Model Inference at the Edge](https://arxiv.org/abs/2503.09114v2)** | 2025-11-20 | <details><summary>Paper...</summary><p>Paper currently under review in an ACM journal. This version reflects reviewer-driven revisions: calibrated power measurements validated with external hardware, updated figures and conclusions, added downstream benchmarks (HellaSwag, Winogrande, TruthfulQA, ARC), clarified hardware scope and cold-start behavior, corrected Orin GPU Q4_0 results, improved visuals, and discussed emerging GenAI NPUs</p></details> |
-| **[Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v1)** | 2025-11-20 |  |
-| **[New Hardness Results for the LOCAL Model via a Simple Self-Reduction](https://arxiv.org/abs/2510.19972v2)** | 2025-11-20 | 21 pages, no figures |
-| **[Distributed MIS Algorithms for Rational Agents using Games](https://arxiv.org/abs/2511.16533v1)** | 2025-11-20 |  |
-| **[Optimizing Federated Learning in the Era of LLMs: Message Quantization and Streaming](https://arxiv.org/abs/2511.16450v1)** | 2025-11-20 | FLLM 2025 |
-| **[A Fast Relax-and-Round Approach to Unit Commitment for Data Center Own Generation](https://arxiv.org/abs/2511.16420v1)** | 2025-11-20 | <details><summary>Limit...</summary><p>Limited to 5 pages and this format for IEEE PESGM conference</p></details> |
+| **[SLMFix: Leveraging Small Language Models for Error Fixing with Reinforcement Learning](https://arxiv.org/abs/2511.19422v1)** | 2025-11-24 |  |
+| **[MiniF2F in Rocq: Automatic Translation Between Proof Assistants -- A Case Study](https://arxiv.org/abs/2503.04763v2)** | 2025-11-24 |  |
+| **[SAQR-QC: A Logic for Scalable but Approximate Quantitative Reasoning about Quantum Circuits](https://arxiv.org/abs/2507.13635v2)** | 2025-11-24 | Comments are welcome |
+| **[IOMMU Support for Virtual-Address Remote DMA in an ARMv8 environment](https://arxiv.org/abs/2511.19258v1)** | 2025-11-24 | <details><summary>Anton...</summary><p>Antonis Psistakis, B.Sc. Thesis (2017). Abstract revised in 2025 to comply with arXiv character limits</p></details> |
+| **[Constant-Size Certificates for Leader Election in Chordal Graphs and Related Classes](https://arxiv.org/abs/2511.19208v1)** | 2025-11-24 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, under review</p></details> |
+| **[AME: An Efficient Heterogeneous Agentic Memory Engine for Smartphones](https://arxiv.org/abs/2511.19192v1)** | 2025-11-24 |  |
+| **[Stone Duality Proofs for Colorless Distributed Computability Theorems](https://arxiv.org/abs/2511.03609v2)** | 2025-11-24 |  |
+| **[PRAGMA: A Profiling-Reasoned Multi-Agent Framework for Automatic Kernel Optimization](https://arxiv.org/abs/2511.06345v2)** | 2025-11-24 |  |
+| **[SlimCaching: Edge Caching of Mixture-of-Experts for Distributed Inference](https://arxiv.org/abs/2507.06567v2)** | 2025-11-24 | <details><summary>17 pa...</summary><p>17 pages, 11 figures. This work has been submitted to the IEEE for possible publication</p></details> |
+| **[An Online Fragmentation-Aware GPU Scheduler for Multi-Tenant MIG-based Clouds](https://arxiv.org/abs/2511.18906v1)** | 2025-11-24 |  |
+| **[Mysticeti: Reaching the Limits of Latency with Uncertified DAGs](https://arxiv.org/abs/2310.14821v6)** | 2025-11-24 |  |
+| **[Federated style aware transformer aggregation of representations](https://arxiv.org/abs/2511.18841v1)** | 2025-11-24 |  |
+| **[MTGenRec: An Efficient Distributed Training System for Generative Recommendation Models in Meituan](https://arxiv.org/abs/2505.12663v2)** | 2025-11-24 |  |
+| **[FedRef: Communication-Efficient Bayesian Fine-Tuning using a Reference Model](https://arxiv.org/abs/2506.23210v4)** | 2025-11-24 | <details><summary>11 pa...</summary><p>11 pages, 16 equations, 5 figures, 6 tables</p></details> |
+| **[cuTeSpMM: Accelerating Sparse-Dense Matrix Multiplication using GPU Tensor Cores](https://arxiv.org/abs/2504.06443v2)** | 2025-11-24 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DISCA: A Digital In-memory Stochastic Computing Architecture Using A Compressed Bent-Pyramid Format](https://arxiv.org/abs/2511.17265v1)** | 2025-11-21 | 6 pages, 5 figures |
-| **[Training Foundation Models on a Full-Stack AMD Platform: Compute, Networking, and System Design](https://arxiv.org/abs/2511.17127v1)** | 2025-11-21 |  |
-| **[Modeling Anomaly Detection in Cloud Services: Analysis of the Properties that Impact Latency and Resource Consumption](https://arxiv.org/abs/2511.17119v1)** | 2025-11-21 |  |
-| **[Fast LLM Post-training via Decoupled and Best-of-N Speculation](https://arxiv.org/abs/2511.16193v2)** | 2025-11-21 |  |
-| **[Optimizing PyTorch Inference with LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2511.16964v1)** | 2025-11-21 |  |
-| **[MicroMoE: Fine-Grained Load Balancing for Mixture-of-Experts with Token Scheduling](https://arxiv.org/abs/2511.16947v1)** | 2025-11-21 | 19 pages |
-| **[Distributed Hierarchical Machine Learning for Joint Resource Allocation and Slice Selection in In-Network Edge Systems](https://arxiv.org/abs/2511.13313v2)** | 2025-11-21 |  |
-| **[An Introductory Study on the Power Consumption Overhead of ERC-4337 Bundlers](https://arxiv.org/abs/2511.16890v1)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted for the 9th IEEE International Symposium on Electrical and Electronics Engineering, ISEEE 2025; Copyright is with IEEE</p></details> |
-| **[Towards Formal Verification of LLM-Generated Code from Natural Language Prompts](https://arxiv.org/abs/2507.13290v2)** | 2025-11-20 | 28 pages, 10 figures |
-| **[Sometimes Painful but Certainly Promising: Feasibility and Trade-offs of Language Model Inference at the Edge](https://arxiv.org/abs/2503.09114v2)** | 2025-11-20 | <details><summary>Paper...</summary><p>Paper currently under review in an ACM journal. This version reflects reviewer-driven revisions: calibrated power measurements validated with external hardware, updated figures and conclusions, added downstream benchmarks (HellaSwag, Winogrande, TruthfulQA, ARC), clarified hardware scope and cold-start behavior, corrected Orin GPU Q4_0 results, improved visuals, and discussed emerging GenAI NPUs</p></details> |
-| **[Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v1)** | 2025-11-20 |  |
-| **[New Hardness Results for the LOCAL Model via a Simple Self-Reduction](https://arxiv.org/abs/2510.19972v2)** | 2025-11-20 | 21 pages, no figures |
-| **[Distributed MIS Algorithms for Rational Agents using Games](https://arxiv.org/abs/2511.16533v1)** | 2025-11-20 |  |
-| **[Optimizing Federated Learning in the Era of LLMs: Message Quantization and Streaming](https://arxiv.org/abs/2511.16450v1)** | 2025-11-20 | FLLM 2025 |
-| **[A Fast Relax-and-Round Approach to Unit Commitment for Data Center Own Generation](https://arxiv.org/abs/2511.16420v1)** | 2025-11-20 | <details><summary>Limit...</summary><p>Limited to 5 pages and this format for IEEE PESGM conference</p></details> |
+| **[SLMFix: Leveraging Small Language Models for Error Fixing with Reinforcement Learning](https://arxiv.org/abs/2511.19422v1)** | 2025-11-24 |  |
+| **[MiniF2F in Rocq: Automatic Translation Between Proof Assistants -- A Case Study](https://arxiv.org/abs/2503.04763v2)** | 2025-11-24 |  |
+| **[SAQR-QC: A Logic for Scalable but Approximate Quantitative Reasoning about Quantum Circuits](https://arxiv.org/abs/2507.13635v2)** | 2025-11-24 | Comments are welcome |
+| **[IOMMU Support for Virtual-Address Remote DMA in an ARMv8 environment](https://arxiv.org/abs/2511.19258v1)** | 2025-11-24 | <details><summary>Anton...</summary><p>Antonis Psistakis, B.Sc. Thesis (2017). Abstract revised in 2025 to comply with arXiv character limits</p></details> |
+| **[Constant-Size Certificates for Leader Election in Chordal Graphs and Related Classes](https://arxiv.org/abs/2511.19208v1)** | 2025-11-24 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, under review</p></details> |
+| **[AME: An Efficient Heterogeneous Agentic Memory Engine for Smartphones](https://arxiv.org/abs/2511.19192v1)** | 2025-11-24 |  |
+| **[Stone Duality Proofs for Colorless Distributed Computability Theorems](https://arxiv.org/abs/2511.03609v2)** | 2025-11-24 |  |
+| **[PRAGMA: A Profiling-Reasoned Multi-Agent Framework for Automatic Kernel Optimization](https://arxiv.org/abs/2511.06345v2)** | 2025-11-24 |  |
+| **[SlimCaching: Edge Caching of Mixture-of-Experts for Distributed Inference](https://arxiv.org/abs/2507.06567v2)** | 2025-11-24 | <details><summary>17 pa...</summary><p>17 pages, 11 figures. This work has been submitted to the IEEE for possible publication</p></details> |
+| **[An Online Fragmentation-Aware GPU Scheduler for Multi-Tenant MIG-based Clouds](https://arxiv.org/abs/2511.18906v1)** | 2025-11-24 |  |
+| **[Mysticeti: Reaching the Limits of Latency with Uncertified DAGs](https://arxiv.org/abs/2310.14821v6)** | 2025-11-24 |  |
+| **[Federated style aware transformer aggregation of representations](https://arxiv.org/abs/2511.18841v1)** | 2025-11-24 |  |
+| **[MTGenRec: An Efficient Distributed Training System for Generative Recommendation Models in Meituan](https://arxiv.org/abs/2505.12663v2)** | 2025-11-24 |  |
+| **[FedRef: Communication-Efficient Bayesian Fine-Tuning using a Reference Model](https://arxiv.org/abs/2506.23210v4)** | 2025-11-24 | <details><summary>11 pa...</summary><p>11 pages, 16 equations, 5 figures, 6 tables</p></details> |
+| **[cuTeSpMM: Accelerating Sparse-Dense Matrix Multiplication using GPU Tensor Cores](https://arxiv.org/abs/2504.06443v2)** | 2025-11-24 |  |
 
