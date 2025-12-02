@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 02, 2025
+title: Latest 15 Papers - December 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RapunSL: Untangling Quantum Computing with Separation, Linear Combination and Mixing](https://arxiv.org/abs/2511.23472v1)** | 2025-11-28 | <details><summary>Full ...</summary><p>Full version of the conference paper at POPL 2026. The first two authors contributed equally to this work</p></details> |
-| **[Simplifying explicit subtyping coercions in a polymorphic calculus with effects](https://arxiv.org/abs/2404.04218v4)** | 2025-11-28 |  |
-| **[Accelerated Execution of Bayesian Neural Networks using a Single Probabilistic Forward Pass and Code Generation](https://arxiv.org/abs/2511.23440v1)** | 2025-11-28 |  |
-| **[TypeDis: A Type System for Disentanglement](https://arxiv.org/abs/2511.23358v1)** | 2025-11-28 | <details><summary>34 pa...</summary><p>34 pages, 24 figures, extended version of the same paper accepted at POPL 2026</p></details> |
-| **[Beyond 2-Edge-Connectivity: Algorithms and Impossibility for Content-Oblivious Leader Election](https://arxiv.org/abs/2511.23297v1)** | 2025-11-28 |  |
-| **[All for One and One for All: Program Logics for Exploiting Internal Determinism in Parallel Programs](https://arxiv.org/abs/2511.23283v1)** | 2025-11-28 | <details><summary>32 pa...</summary><p>32 pages, 26 figures, extended version of the same paper accepted at POPL 2026</p></details> |
-| **[Closing the Generalization Gap in Parameter-efficient Federated Edge Learning](https://arxiv.org/abs/2511.23282v1)** | 2025-11-28 | 13 pages, 8 figures |
-| **[RetryGuard: Preventing Self-Inflicted Retry Storms in Cloud Microservices Applications](https://arxiv.org/abs/2511.23278v1)** | 2025-11-28 |  |
-| **[Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces](https://arxiv.org/abs/2505.17703v2)** | 2025-11-28 |  |
-| **[Federated Semi-Supervised and Semi-Asynchronous Learning for Anomaly Detection in IoT Networks](https://arxiv.org/abs/2308.11981v3)** | 2025-11-28 | 18 pages, 5 figures |
-| **[LockForge: Automating Paper-to-Code for Logic Locking with Multi-Agent Reasoning LLMs](https://arxiv.org/abs/2511.18531v2)** | 2025-11-28 |  |
-| **[Precise Static Identification of Ethereum Storage Variables (Extended Version)](https://arxiv.org/abs/2503.20690v2)** | 2025-11-28 | <details><summary>Exten...</summary><p>Extended Version of ICSE 2026 paper</p></details> |
-| **[Communication-Computation Pipeline Parallel Split Learning over Wireless Edge Networks](https://arxiv.org/abs/2511.23167v1)** | 2025-11-28 |  |
-| **[A Complementary Approach to Incorrectness Typing](https://arxiv.org/abs/2510.13725v2)** | 2025-11-28 | <details><summary>Versi...</summary><p>Version accepted to POPL'26</p></details> |
-| **[Areon: Latency-Friendly and Resilient Multi-Proposer Consensus](https://arxiv.org/abs/2511.23025v1)** | 2025-11-28 |  |
+| **[Feature-Based Semantics-Aware Scheduling for Energy-Harvesting Federated Learning](https://arxiv.org/abs/2512.01983v1)** | 2025-12-01 | <details><summary>This ...</summary><p>This paper is currently under review for presentation at a peer-reviewed conference</p></details> |
+| **[An Empirical Study of Cross-Language Interoperability in Replicated Data Systems](https://arxiv.org/abs/2511.22010v2)** | 2025-12-01 |  |
+| **[Quantum Circuits Are Just a Phase](https://arxiv.org/abs/2507.11676v2)** | 2025-12-01 | 42 pages, 5 figures |
+| **[Scheduling and Aggregation Design for Asynchronous Federated Learning over Wireless Networks](https://arxiv.org/abs/2212.07356v3)** | 2025-12-01 | <details><summary>An am...</summary><p>An amended (corrected) version of the refereed paper published in IEEE Journal on Selected Areas in Communications</p></details> |
+| **[Trace-based, time-resolved analysis of MPI application performance using standard metrics](https://arxiv.org/abs/2512.01764v1)** | 2025-12-01 | <details><summary>Prese...</summary><p>Presented at and submitted to the International Parallel Tools Workshop 2025</p></details> |
+| **[FedHK-MVFC: Federated Heat Kernel Multi-View Clustering](https://arxiv.org/abs/2509.15844v2)** | 2025-12-01 | <details><summary>53 pa...</summary><p>53 pages, 11 figures, and 9 tables</p></details> |
+| **[Morphling: Fast, Fused, and Flexible GNN Training at Scale](https://arxiv.org/abs/2512.01678v1)** | 2025-12-01 |  |
+| **[StarDist: A Code Generator for Distributed Graph Algorithms](https://arxiv.org/abs/2512.01646v1)** | 2025-12-01 |  |
+| **[Optimal Scheduling Algorithms for LLM Inference: Theory and Practice](https://arxiv.org/abs/2508.01002v2)** | 2025-12-01 |  |
+| **[FedAPTA: Federated Multi-task Learning for Heterogeneous Devices with Adaptive Layer-wise Pruning and Task-aware Aggregation](https://arxiv.org/abs/2508.02230v3)** | 2025-12-01 |  |
+| **[Delta Sum Learning: an approach for fast and global convergence in Gossip Learning](https://arxiv.org/abs/2512.01549v1)** | 2025-12-01 |  |
+| **[The Complexity of Testing Message-Passing Concurrency](https://arxiv.org/abs/2505.05162v2)** | 2025-12-01 | <details><summary>Exten...</summary><p>Extended version of paper "The Complexity of Testing Message-Passing Concurrency" on POPL 2026</p></details> |
+| **[Hyperion: Hierarchical Scheduling for Parallel LLM Acceleration in Multi-tier Networks](https://arxiv.org/abs/2511.14450v2)** | 2025-12-01 |  |
+| **[REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving](https://arxiv.org/abs/2506.01374v3)** | 2025-12-01 | NeurIPS 2025 |
+| **[Tangram: Accelerating Serverless LLM Loading through GPU Memory Reuse and Affinity](https://arxiv.org/abs/2512.01357v1)** | 2025-12-01 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RapunSL: Untangling Quantum Computing with Separation, Linear Combination and Mixing](https://arxiv.org/abs/2511.23472v1)** | 2025-11-28 | <details><summary>Full ...</summary><p>Full version of the conference paper at POPL 2026. The first two authors contributed equally to this work</p></details> |
-| **[Simplifying explicit subtyping coercions in a polymorphic calculus with effects](https://arxiv.org/abs/2404.04218v4)** | 2025-11-28 |  |
-| **[Accelerated Execution of Bayesian Neural Networks using a Single Probabilistic Forward Pass and Code Generation](https://arxiv.org/abs/2511.23440v1)** | 2025-11-28 |  |
-| **[TypeDis: A Type System for Disentanglement](https://arxiv.org/abs/2511.23358v1)** | 2025-11-28 | <details><summary>34 pa...</summary><p>34 pages, 24 figures, extended version of the same paper accepted at POPL 2026</p></details> |
-| **[Beyond 2-Edge-Connectivity: Algorithms and Impossibility for Content-Oblivious Leader Election](https://arxiv.org/abs/2511.23297v1)** | 2025-11-28 |  |
-| **[All for One and One for All: Program Logics for Exploiting Internal Determinism in Parallel Programs](https://arxiv.org/abs/2511.23283v1)** | 2025-11-28 | <details><summary>32 pa...</summary><p>32 pages, 26 figures, extended version of the same paper accepted at POPL 2026</p></details> |
-| **[Closing the Generalization Gap in Parameter-efficient Federated Edge Learning](https://arxiv.org/abs/2511.23282v1)** | 2025-11-28 | 13 pages, 8 figures |
-| **[RetryGuard: Preventing Self-Inflicted Retry Storms in Cloud Microservices Applications](https://arxiv.org/abs/2511.23278v1)** | 2025-11-28 |  |
-| **[Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces](https://arxiv.org/abs/2505.17703v2)** | 2025-11-28 |  |
-| **[Federated Semi-Supervised and Semi-Asynchronous Learning for Anomaly Detection in IoT Networks](https://arxiv.org/abs/2308.11981v3)** | 2025-11-28 | 18 pages, 5 figures |
-| **[LockForge: Automating Paper-to-Code for Logic Locking with Multi-Agent Reasoning LLMs](https://arxiv.org/abs/2511.18531v2)** | 2025-11-28 |  |
-| **[Precise Static Identification of Ethereum Storage Variables (Extended Version)](https://arxiv.org/abs/2503.20690v2)** | 2025-11-28 | <details><summary>Exten...</summary><p>Extended Version of ICSE 2026 paper</p></details> |
-| **[Communication-Computation Pipeline Parallel Split Learning over Wireless Edge Networks](https://arxiv.org/abs/2511.23167v1)** | 2025-11-28 |  |
-| **[A Complementary Approach to Incorrectness Typing](https://arxiv.org/abs/2510.13725v2)** | 2025-11-28 | <details><summary>Versi...</summary><p>Version accepted to POPL'26</p></details> |
-| **[Areon: Latency-Friendly and Resilient Multi-Proposer Consensus](https://arxiv.org/abs/2511.23025v1)** | 2025-11-28 |  |
+| **[Feature-Based Semantics-Aware Scheduling for Energy-Harvesting Federated Learning](https://arxiv.org/abs/2512.01983v1)** | 2025-12-01 | <details><summary>This ...</summary><p>This paper is currently under review for presentation at a peer-reviewed conference</p></details> |
+| **[An Empirical Study of Cross-Language Interoperability in Replicated Data Systems](https://arxiv.org/abs/2511.22010v2)** | 2025-12-01 |  |
+| **[Quantum Circuits Are Just a Phase](https://arxiv.org/abs/2507.11676v2)** | 2025-12-01 | 42 pages, 5 figures |
+| **[Scheduling and Aggregation Design for Asynchronous Federated Learning over Wireless Networks](https://arxiv.org/abs/2212.07356v3)** | 2025-12-01 | <details><summary>An am...</summary><p>An amended (corrected) version of the refereed paper published in IEEE Journal on Selected Areas in Communications</p></details> |
+| **[Trace-based, time-resolved analysis of MPI application performance using standard metrics](https://arxiv.org/abs/2512.01764v1)** | 2025-12-01 | <details><summary>Prese...</summary><p>Presented at and submitted to the International Parallel Tools Workshop 2025</p></details> |
+| **[FedHK-MVFC: Federated Heat Kernel Multi-View Clustering](https://arxiv.org/abs/2509.15844v2)** | 2025-12-01 | <details><summary>53 pa...</summary><p>53 pages, 11 figures, and 9 tables</p></details> |
+| **[Morphling: Fast, Fused, and Flexible GNN Training at Scale](https://arxiv.org/abs/2512.01678v1)** | 2025-12-01 |  |
+| **[StarDist: A Code Generator for Distributed Graph Algorithms](https://arxiv.org/abs/2512.01646v1)** | 2025-12-01 |  |
+| **[Optimal Scheduling Algorithms for LLM Inference: Theory and Practice](https://arxiv.org/abs/2508.01002v2)** | 2025-12-01 |  |
+| **[FedAPTA: Federated Multi-task Learning for Heterogeneous Devices with Adaptive Layer-wise Pruning and Task-aware Aggregation](https://arxiv.org/abs/2508.02230v3)** | 2025-12-01 |  |
+| **[Delta Sum Learning: an approach for fast and global convergence in Gossip Learning](https://arxiv.org/abs/2512.01549v1)** | 2025-12-01 |  |
+| **[The Complexity of Testing Message-Passing Concurrency](https://arxiv.org/abs/2505.05162v2)** | 2025-12-01 | <details><summary>Exten...</summary><p>Extended version of paper "The Complexity of Testing Message-Passing Concurrency" on POPL 2026</p></details> |
+| **[Hyperion: Hierarchical Scheduling for Parallel LLM Acceleration in Multi-tier Networks](https://arxiv.org/abs/2511.14450v2)** | 2025-12-01 |  |
+| **[REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving](https://arxiv.org/abs/2506.01374v3)** | 2025-12-01 | NeurIPS 2025 |
+| **[Tangram: Accelerating Serverless LLM Loading through GPU Memory Reuse and Affinity](https://arxiv.org/abs/2512.01357v1)** | 2025-12-01 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RapunSL: Untangling Quantum Computing with Separation, Linear Combination and Mixing](https://arxiv.org/abs/2511.23472v1)** | 2025-11-28 | <details><summary>Full ...</summary><p>Full version of the conference paper at POPL 2026. The first two authors contributed equally to this work</p></details> |
-| **[Simplifying explicit subtyping coercions in a polymorphic calculus with effects](https://arxiv.org/abs/2404.04218v4)** | 2025-11-28 |  |
-| **[Accelerated Execution of Bayesian Neural Networks using a Single Probabilistic Forward Pass and Code Generation](https://arxiv.org/abs/2511.23440v1)** | 2025-11-28 |  |
-| **[TypeDis: A Type System for Disentanglement](https://arxiv.org/abs/2511.23358v1)** | 2025-11-28 | <details><summary>34 pa...</summary><p>34 pages, 24 figures, extended version of the same paper accepted at POPL 2026</p></details> |
-| **[Beyond 2-Edge-Connectivity: Algorithms and Impossibility for Content-Oblivious Leader Election](https://arxiv.org/abs/2511.23297v1)** | 2025-11-28 |  |
-| **[All for One and One for All: Program Logics for Exploiting Internal Determinism in Parallel Programs](https://arxiv.org/abs/2511.23283v1)** | 2025-11-28 | <details><summary>32 pa...</summary><p>32 pages, 26 figures, extended version of the same paper accepted at POPL 2026</p></details> |
-| **[Closing the Generalization Gap in Parameter-efficient Federated Edge Learning](https://arxiv.org/abs/2511.23282v1)** | 2025-11-28 | 13 pages, 8 figures |
-| **[RetryGuard: Preventing Self-Inflicted Retry Storms in Cloud Microservices Applications](https://arxiv.org/abs/2511.23278v1)** | 2025-11-28 |  |
-| **[Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces](https://arxiv.org/abs/2505.17703v2)** | 2025-11-28 |  |
-| **[Federated Semi-Supervised and Semi-Asynchronous Learning for Anomaly Detection in IoT Networks](https://arxiv.org/abs/2308.11981v3)** | 2025-11-28 | 18 pages, 5 figures |
-| **[LockForge: Automating Paper-to-Code for Logic Locking with Multi-Agent Reasoning LLMs](https://arxiv.org/abs/2511.18531v2)** | 2025-11-28 |  |
-| **[Precise Static Identification of Ethereum Storage Variables (Extended Version)](https://arxiv.org/abs/2503.20690v2)** | 2025-11-28 | <details><summary>Exten...</summary><p>Extended Version of ICSE 2026 paper</p></details> |
-| **[Communication-Computation Pipeline Parallel Split Learning over Wireless Edge Networks](https://arxiv.org/abs/2511.23167v1)** | 2025-11-28 |  |
-| **[A Complementary Approach to Incorrectness Typing](https://arxiv.org/abs/2510.13725v2)** | 2025-11-28 | <details><summary>Versi...</summary><p>Version accepted to POPL'26</p></details> |
-| **[Areon: Latency-Friendly and Resilient Multi-Proposer Consensus](https://arxiv.org/abs/2511.23025v1)** | 2025-11-28 |  |
+| **[Feature-Based Semantics-Aware Scheduling for Energy-Harvesting Federated Learning](https://arxiv.org/abs/2512.01983v1)** | 2025-12-01 | <details><summary>This ...</summary><p>This paper is currently under review for presentation at a peer-reviewed conference</p></details> |
+| **[An Empirical Study of Cross-Language Interoperability in Replicated Data Systems](https://arxiv.org/abs/2511.22010v2)** | 2025-12-01 |  |
+| **[Quantum Circuits Are Just a Phase](https://arxiv.org/abs/2507.11676v2)** | 2025-12-01 | 42 pages, 5 figures |
+| **[Scheduling and Aggregation Design for Asynchronous Federated Learning over Wireless Networks](https://arxiv.org/abs/2212.07356v3)** | 2025-12-01 | <details><summary>An am...</summary><p>An amended (corrected) version of the refereed paper published in IEEE Journal on Selected Areas in Communications</p></details> |
+| **[Trace-based, time-resolved analysis of MPI application performance using standard metrics](https://arxiv.org/abs/2512.01764v1)** | 2025-12-01 | <details><summary>Prese...</summary><p>Presented at and submitted to the International Parallel Tools Workshop 2025</p></details> |
+| **[FedHK-MVFC: Federated Heat Kernel Multi-View Clustering](https://arxiv.org/abs/2509.15844v2)** | 2025-12-01 | <details><summary>53 pa...</summary><p>53 pages, 11 figures, and 9 tables</p></details> |
+| **[Morphling: Fast, Fused, and Flexible GNN Training at Scale](https://arxiv.org/abs/2512.01678v1)** | 2025-12-01 |  |
+| **[StarDist: A Code Generator for Distributed Graph Algorithms](https://arxiv.org/abs/2512.01646v1)** | 2025-12-01 |  |
+| **[Optimal Scheduling Algorithms for LLM Inference: Theory and Practice](https://arxiv.org/abs/2508.01002v2)** | 2025-12-01 |  |
+| **[FedAPTA: Federated Multi-task Learning for Heterogeneous Devices with Adaptive Layer-wise Pruning and Task-aware Aggregation](https://arxiv.org/abs/2508.02230v3)** | 2025-12-01 |  |
+| **[Delta Sum Learning: an approach for fast and global convergence in Gossip Learning](https://arxiv.org/abs/2512.01549v1)** | 2025-12-01 |  |
+| **[The Complexity of Testing Message-Passing Concurrency](https://arxiv.org/abs/2505.05162v2)** | 2025-12-01 | <details><summary>Exten...</summary><p>Extended version of paper "The Complexity of Testing Message-Passing Concurrency" on POPL 2026</p></details> |
+| **[Hyperion: Hierarchical Scheduling for Parallel LLM Acceleration in Multi-tier Networks](https://arxiv.org/abs/2511.14450v2)** | 2025-12-01 |  |
+| **[REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving](https://arxiv.org/abs/2506.01374v3)** | 2025-12-01 | NeurIPS 2025 |
+| **[Tangram: Accelerating Serverless LLM Loading through GPU Memory Reuse and Affinity](https://arxiv.org/abs/2512.01357v1)** | 2025-12-01 |  |
 
