@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 08, 2025
+title: Latest 15 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Near Real-time Adaptive Isotropic and Anisotropic Image-to-mesh Conversion for Numerical Simulations Involving Cerebral Aneurysms](https://arxiv.org/abs/2412.13222v3)** | 2025-12-04 | <details><summary>58 pa...</summary><p>58 pages, 16 figures, 13 tables, presented at the 18th U.S. National Congress on Computational Mechanics conference</p></details> |
-| **[Federated Learning for Terahertz Wireless Communication](https://arxiv.org/abs/2512.04984v1)** | 2025-12-04 | 10 pages, 4 figures |
-| **[What is a monoid?](https://arxiv.org/abs/2504.12158v2)** | 2025-12-04 | <details><summary>26 pa...</summary><p>26 pages. Version accepted to POPL 2026</p></details> |
-| **[Deterministic Distributed Algorithms and Measurable Combinatorics on $Δ$-Regular Forests](https://arxiv.org/abs/2204.09329v2)** | 2025-12-04 | <details><summary>This ...</summary><p>This paper is an extension of some parts of the conference paper "Local Problems on Trees from the Perspectives of Distributed Algorithms, Finitary Factors, and Descriptive Combinatorics (arXiv:2106.02066)</p></details> |
-| **[Optimizations and extensions for fair join pattern matching](https://arxiv.org/abs/2512.04876v1)** | 2025-12-04 | <details><summary>This ...</summary><p>This is a Master's thesis for the Master's in Computer Science and Engineering at DTU (Technical University of Denmark)</p></details> |
-| **[Typing Fallback Functions: A Semantic Approach to Type Safe Smart Contracts](https://arxiv.org/abs/2512.04755v1)** | 2025-12-04 |  |
-| **[Integrating High Performance In-Memory Data Streaming and In-Situ Visualization in Hybrid MPI+OpenMP PIC MC Simulations Towards Exascale](https://arxiv.org/abs/2512.03914v2)** | 2025-12-04 | <details><summary>Accep...</summary><p>Accepted by The International Journal of High Performance Computing Applications (IJHPCA) prepared in English, formatted in SAGE Publications (LaTeX) template and consists of 22 pages, which includes the main text, references, and figures</p></details> |
-| **[Orders in Chaos: Enhancing Large-Scale MoE LLM Serving with Data Movement Forecasting](https://arxiv.org/abs/2510.05497v2)** | 2025-12-04 |  |
-| **[N2N: A Parallel Framework for Large-Scale MILP under Distributed Memory](https://arxiv.org/abs/2511.18723v2)** | 2025-12-04 | <details><summary>We ca...</summary><p>We cannot publish the paper at this time because some internal processes have not yet been completed</p></details> |
-| **[Separating the Wheat from the Chaff: Understanding (In-)Completeness of Proof Mechanisms for Separation Logic with Inductive Definitions](https://arxiv.org/abs/2511.20193v2)** | 2025-12-04 |  |
-| **[FLEX: Leveraging FPGA-CPU Synergy for Mixed-Cell-Height Legalization Acceleration](https://arxiv.org/abs/2512.04527v1)** | 2025-12-04 |  |
-| **[Mechanizing Synthetic Tait Computability in Istari](https://arxiv.org/abs/2509.11418v2)** | 2025-12-04 |  |
-| **[Enhanced Quantum Circuit Cutting Framework for Sampling Overhead Reduction](https://arxiv.org/abs/2412.17704v3)** | 2025-12-04 | 29 pages, 6 figures |
-| **[Offloading to CXL-based Computational Memory](https://arxiv.org/abs/2512.04449v1)** | 2025-12-04 |  |
-| **[A Structure-Aware Irregular Blocking Method for Sparse LU Factorization](https://arxiv.org/abs/2512.04389v1)** | 2025-12-04 |  |
+| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
+| **[Precise Reasoning About Container-Internal Pointers with Logical Pinning](https://arxiv.org/abs/2509.23229v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This article will appear in CPP 2026</p></details> |
+| **[Morphling: Fast, Fused, and Flexible GNN Training at Scale](https://arxiv.org/abs/2512.01678v3)** | 2025-12-05 |  |
+| **[Dissecting Embedding Bag Performance in DLRM Inference](https://arxiv.org/abs/2512.05831v1)** | 2025-12-05 |  |
+| **[Consistent Updates for Scalable Microservices](https://arxiv.org/abs/2508.04829v2)** | 2025-12-05 |  |
+| **[Efficient Distributed MLLM Training with Cornstarch](https://arxiv.org/abs/2503.11367v3)** | 2025-12-05 |  |
+| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Deterministic Self-Stabilising Leader Election for Programmable Matter with Constant Memory](https://arxiv.org/abs/2408.08775v2)** | 2025-12-05 | <details><summary>25 pa...</summary><p>25 pages, full version of the paper accepted at DISC 2024</p></details> |
+| **[Compiling Away the Overhead of Race Detection](https://arxiv.org/abs/2512.05555v1)** | 2025-12-05 | 35 pages |
+| **[Are Bus-Mounted Edge Servers Feasible?](https://arxiv.org/abs/2512.05543v1)** | 2025-12-05 |  |
+| **[Compiler-supported reduced precision and AoS-SoA transformations for heterogeneous hardware](https://arxiv.org/abs/2512.05516v1)** | 2025-12-05 |  |
+| **[Orders in Chaos: Enhancing Large-Scale MoE LLM Serving with Data Movement Forecasting](https://arxiv.org/abs/2510.05497v3)** | 2025-12-05 |  |
+| **[Model Gateway: Model Management Platform for Model-Driven Drug Discovery](https://arxiv.org/abs/2512.05462v1)** | 2025-12-05 | 7 pages, 7 figures |
+| **[Datacenter Energy Optimized Power Profiles](https://arxiv.org/abs/2510.03872v2)** | 2025-12-05 |  |
+| **[A Scene-aware Models Adaptation Scheme for Cross-scene Online Inference on Mobile Devices](https://arxiv.org/abs/2407.03331v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This version presents the extended and revised journal version of our 2024 conference paper, incorporating new datasets, expanded evaluations, and improved methodological details. The manuscript has been accepted for publication in IEEE Transactions on Mobile Computing</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Near Real-time Adaptive Isotropic and Anisotropic Image-to-mesh Conversion for Numerical Simulations Involving Cerebral Aneurysms](https://arxiv.org/abs/2412.13222v3)** | 2025-12-04 | <details><summary>58 pa...</summary><p>58 pages, 16 figures, 13 tables, presented at the 18th U.S. National Congress on Computational Mechanics conference</p></details> |
-| **[Federated Learning for Terahertz Wireless Communication](https://arxiv.org/abs/2512.04984v1)** | 2025-12-04 | 10 pages, 4 figures |
-| **[What is a monoid?](https://arxiv.org/abs/2504.12158v2)** | 2025-12-04 | <details><summary>26 pa...</summary><p>26 pages. Version accepted to POPL 2026</p></details> |
-| **[Deterministic Distributed Algorithms and Measurable Combinatorics on $Δ$-Regular Forests](https://arxiv.org/abs/2204.09329v2)** | 2025-12-04 | <details><summary>This ...</summary><p>This paper is an extension of some parts of the conference paper "Local Problems on Trees from the Perspectives of Distributed Algorithms, Finitary Factors, and Descriptive Combinatorics (arXiv:2106.02066)</p></details> |
-| **[Optimizations and extensions for fair join pattern matching](https://arxiv.org/abs/2512.04876v1)** | 2025-12-04 | <details><summary>This ...</summary><p>This is a Master's thesis for the Master's in Computer Science and Engineering at DTU (Technical University of Denmark)</p></details> |
-| **[Typing Fallback Functions: A Semantic Approach to Type Safe Smart Contracts](https://arxiv.org/abs/2512.04755v1)** | 2025-12-04 |  |
-| **[Integrating High Performance In-Memory Data Streaming and In-Situ Visualization in Hybrid MPI+OpenMP PIC MC Simulations Towards Exascale](https://arxiv.org/abs/2512.03914v2)** | 2025-12-04 | <details><summary>Accep...</summary><p>Accepted by The International Journal of High Performance Computing Applications (IJHPCA) prepared in English, formatted in SAGE Publications (LaTeX) template and consists of 22 pages, which includes the main text, references, and figures</p></details> |
-| **[Orders in Chaos: Enhancing Large-Scale MoE LLM Serving with Data Movement Forecasting](https://arxiv.org/abs/2510.05497v2)** | 2025-12-04 |  |
-| **[N2N: A Parallel Framework for Large-Scale MILP under Distributed Memory](https://arxiv.org/abs/2511.18723v2)** | 2025-12-04 | <details><summary>We ca...</summary><p>We cannot publish the paper at this time because some internal processes have not yet been completed</p></details> |
-| **[Separating the Wheat from the Chaff: Understanding (In-)Completeness of Proof Mechanisms for Separation Logic with Inductive Definitions](https://arxiv.org/abs/2511.20193v2)** | 2025-12-04 |  |
-| **[FLEX: Leveraging FPGA-CPU Synergy for Mixed-Cell-Height Legalization Acceleration](https://arxiv.org/abs/2512.04527v1)** | 2025-12-04 |  |
-| **[Mechanizing Synthetic Tait Computability in Istari](https://arxiv.org/abs/2509.11418v2)** | 2025-12-04 |  |
-| **[Enhanced Quantum Circuit Cutting Framework for Sampling Overhead Reduction](https://arxiv.org/abs/2412.17704v3)** | 2025-12-04 | 29 pages, 6 figures |
-| **[Offloading to CXL-based Computational Memory](https://arxiv.org/abs/2512.04449v1)** | 2025-12-04 |  |
-| **[A Structure-Aware Irregular Blocking Method for Sparse LU Factorization](https://arxiv.org/abs/2512.04389v1)** | 2025-12-04 |  |
+| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
+| **[Precise Reasoning About Container-Internal Pointers with Logical Pinning](https://arxiv.org/abs/2509.23229v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This article will appear in CPP 2026</p></details> |
+| **[Morphling: Fast, Fused, and Flexible GNN Training at Scale](https://arxiv.org/abs/2512.01678v3)** | 2025-12-05 |  |
+| **[Dissecting Embedding Bag Performance in DLRM Inference](https://arxiv.org/abs/2512.05831v1)** | 2025-12-05 |  |
+| **[Consistent Updates for Scalable Microservices](https://arxiv.org/abs/2508.04829v2)** | 2025-12-05 |  |
+| **[Efficient Distributed MLLM Training with Cornstarch](https://arxiv.org/abs/2503.11367v3)** | 2025-12-05 |  |
+| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Deterministic Self-Stabilising Leader Election for Programmable Matter with Constant Memory](https://arxiv.org/abs/2408.08775v2)** | 2025-12-05 | <details><summary>25 pa...</summary><p>25 pages, full version of the paper accepted at DISC 2024</p></details> |
+| **[Compiling Away the Overhead of Race Detection](https://arxiv.org/abs/2512.05555v1)** | 2025-12-05 | 35 pages |
+| **[Are Bus-Mounted Edge Servers Feasible?](https://arxiv.org/abs/2512.05543v1)** | 2025-12-05 |  |
+| **[Compiler-supported reduced precision and AoS-SoA transformations for heterogeneous hardware](https://arxiv.org/abs/2512.05516v1)** | 2025-12-05 |  |
+| **[Orders in Chaos: Enhancing Large-Scale MoE LLM Serving with Data Movement Forecasting](https://arxiv.org/abs/2510.05497v3)** | 2025-12-05 |  |
+| **[Model Gateway: Model Management Platform for Model-Driven Drug Discovery](https://arxiv.org/abs/2512.05462v1)** | 2025-12-05 | 7 pages, 7 figures |
+| **[Datacenter Energy Optimized Power Profiles](https://arxiv.org/abs/2510.03872v2)** | 2025-12-05 |  |
+| **[A Scene-aware Models Adaptation Scheme for Cross-scene Online Inference on Mobile Devices](https://arxiv.org/abs/2407.03331v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This version presents the extended and revised journal version of our 2024 conference paper, incorporating new datasets, expanded evaluations, and improved methodological details. The manuscript has been accepted for publication in IEEE Transactions on Mobile Computing</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Near Real-time Adaptive Isotropic and Anisotropic Image-to-mesh Conversion for Numerical Simulations Involving Cerebral Aneurysms](https://arxiv.org/abs/2412.13222v3)** | 2025-12-04 | <details><summary>58 pa...</summary><p>58 pages, 16 figures, 13 tables, presented at the 18th U.S. National Congress on Computational Mechanics conference</p></details> |
-| **[Federated Learning for Terahertz Wireless Communication](https://arxiv.org/abs/2512.04984v1)** | 2025-12-04 | 10 pages, 4 figures |
-| **[What is a monoid?](https://arxiv.org/abs/2504.12158v2)** | 2025-12-04 | <details><summary>26 pa...</summary><p>26 pages. Version accepted to POPL 2026</p></details> |
-| **[Deterministic Distributed Algorithms and Measurable Combinatorics on $Δ$-Regular Forests](https://arxiv.org/abs/2204.09329v2)** | 2025-12-04 | <details><summary>This ...</summary><p>This paper is an extension of some parts of the conference paper "Local Problems on Trees from the Perspectives of Distributed Algorithms, Finitary Factors, and Descriptive Combinatorics (arXiv:2106.02066)</p></details> |
-| **[Optimizations and extensions for fair join pattern matching](https://arxiv.org/abs/2512.04876v1)** | 2025-12-04 | <details><summary>This ...</summary><p>This is a Master's thesis for the Master's in Computer Science and Engineering at DTU (Technical University of Denmark)</p></details> |
-| **[Typing Fallback Functions: A Semantic Approach to Type Safe Smart Contracts](https://arxiv.org/abs/2512.04755v1)** | 2025-12-04 |  |
-| **[Integrating High Performance In-Memory Data Streaming and In-Situ Visualization in Hybrid MPI+OpenMP PIC MC Simulations Towards Exascale](https://arxiv.org/abs/2512.03914v2)** | 2025-12-04 | <details><summary>Accep...</summary><p>Accepted by The International Journal of High Performance Computing Applications (IJHPCA) prepared in English, formatted in SAGE Publications (LaTeX) template and consists of 22 pages, which includes the main text, references, and figures</p></details> |
-| **[Orders in Chaos: Enhancing Large-Scale MoE LLM Serving with Data Movement Forecasting](https://arxiv.org/abs/2510.05497v2)** | 2025-12-04 |  |
-| **[N2N: A Parallel Framework for Large-Scale MILP under Distributed Memory](https://arxiv.org/abs/2511.18723v2)** | 2025-12-04 | <details><summary>We ca...</summary><p>We cannot publish the paper at this time because some internal processes have not yet been completed</p></details> |
-| **[Separating the Wheat from the Chaff: Understanding (In-)Completeness of Proof Mechanisms for Separation Logic with Inductive Definitions](https://arxiv.org/abs/2511.20193v2)** | 2025-12-04 |  |
-| **[FLEX: Leveraging FPGA-CPU Synergy for Mixed-Cell-Height Legalization Acceleration](https://arxiv.org/abs/2512.04527v1)** | 2025-12-04 |  |
-| **[Mechanizing Synthetic Tait Computability in Istari](https://arxiv.org/abs/2509.11418v2)** | 2025-12-04 |  |
-| **[Enhanced Quantum Circuit Cutting Framework for Sampling Overhead Reduction](https://arxiv.org/abs/2412.17704v3)** | 2025-12-04 | 29 pages, 6 figures |
-| **[Offloading to CXL-based Computational Memory](https://arxiv.org/abs/2512.04449v1)** | 2025-12-04 |  |
-| **[A Structure-Aware Irregular Blocking Method for Sparse LU Factorization](https://arxiv.org/abs/2512.04389v1)** | 2025-12-04 |  |
+| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
+| **[Precise Reasoning About Container-Internal Pointers with Logical Pinning](https://arxiv.org/abs/2509.23229v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This article will appear in CPP 2026</p></details> |
+| **[Morphling: Fast, Fused, and Flexible GNN Training at Scale](https://arxiv.org/abs/2512.01678v3)** | 2025-12-05 |  |
+| **[Dissecting Embedding Bag Performance in DLRM Inference](https://arxiv.org/abs/2512.05831v1)** | 2025-12-05 |  |
+| **[Consistent Updates for Scalable Microservices](https://arxiv.org/abs/2508.04829v2)** | 2025-12-05 |  |
+| **[Efficient Distributed MLLM Training with Cornstarch](https://arxiv.org/abs/2503.11367v3)** | 2025-12-05 |  |
+| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Deterministic Self-Stabilising Leader Election for Programmable Matter with Constant Memory](https://arxiv.org/abs/2408.08775v2)** | 2025-12-05 | <details><summary>25 pa...</summary><p>25 pages, full version of the paper accepted at DISC 2024</p></details> |
+| **[Compiling Away the Overhead of Race Detection](https://arxiv.org/abs/2512.05555v1)** | 2025-12-05 | 35 pages |
+| **[Are Bus-Mounted Edge Servers Feasible?](https://arxiv.org/abs/2512.05543v1)** | 2025-12-05 |  |
+| **[Compiler-supported reduced precision and AoS-SoA transformations for heterogeneous hardware](https://arxiv.org/abs/2512.05516v1)** | 2025-12-05 |  |
+| **[Orders in Chaos: Enhancing Large-Scale MoE LLM Serving with Data Movement Forecasting](https://arxiv.org/abs/2510.05497v3)** | 2025-12-05 |  |
+| **[Model Gateway: Model Management Platform for Model-Driven Drug Discovery](https://arxiv.org/abs/2512.05462v1)** | 2025-12-05 | 7 pages, 7 figures |
+| **[Datacenter Energy Optimized Power Profiles](https://arxiv.org/abs/2510.03872v2)** | 2025-12-05 |  |
+| **[A Scene-aware Models Adaptation Scheme for Cross-scene Online Inference on Mobile Devices](https://arxiv.org/abs/2407.03331v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This version presents the extended and revised journal version of our 2024 conference paper, incorporating new datasets, expanded evaluations, and improved methodological details. The manuscript has been accepted for publication in IEEE Transactions on Mobile Computing</p></details> |
 
