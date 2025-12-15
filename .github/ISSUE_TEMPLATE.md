@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 15, 2025
+title: Latest 15 Papers - December 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlanetServe: A Decentralized, Scalable, and Privacy-Preserving Overlay for Democratizing Large Language Model Serving](https://arxiv.org/abs/2504.20101v4)** | 2025-12-11 |  |
-| **[Towards Cumulative Abstract Semantics via Handlers](https://arxiv.org/abs/2512.10861v1)** | 2025-12-11 |  |
-| **[Zorya: Automated Concolic Execution of Single-Threaded Go Binaries](https://arxiv.org/abs/2512.10799v1)** | 2025-12-11 |  |
-| **[Lax Modal Lambda Calculi](https://arxiv.org/abs/2512.10779v1)** | 2025-12-11 | <details><summary>To ap...</summary><p>To appear at CSL 2026</p></details> |
-| **[Intrinsically Correct Algorithms and Recursive Coalgebras](https://arxiv.org/abs/2512.10748v1)** | 2025-12-11 |  |
-| **[TriHaRd: Higher Resilience for TEE Trusted Time](https://arxiv.org/abs/2512.10732v1)** | 2025-12-11 | <details><summary>2026 ...</summary><p>2026 45th IEEE International Conference on Computer Communications (INFOCOM)</p></details> |
-| **[Are Bus-Mounted Edge Servers Feasible?](https://arxiv.org/abs/2512.05543v3)** | 2025-12-11 |  |
-| **[MFC 5.0: An exascale many-physics flow solver](https://arxiv.org/abs/2503.07953v4)** | 2025-12-11 | <details><summary>51 pa...</summary><p>51 pages, 22 figures, 2 tables</p></details> |
-| **[Efficient Gate Reordering for Distributed Quantum Compiling in Data Centers](https://arxiv.org/abs/2507.01090v2)** | 2025-12-11 |  |
-| **[A Proof of Success and Reward Distribution Protocol for Multi-bridge Architecture in Cross-chain Communication](https://arxiv.org/abs/2512.10667v1)** | 2025-12-11 |  |
-| **[ESS: An Offload-Centric Latent-Cache Management Architecture for DeepSeek-V3.2-Exp](https://arxiv.org/abs/2512.10576v1)** | 2025-12-11 |  |
-| **[Clustered Federated Learning with Hierarchical Knowledge Distillation](https://arxiv.org/abs/2512.10443v1)** | 2025-12-11 |  |
-| **[Differential Privacy for Secure Machine Learning in Healthcare IoT-Cloud Systems](https://arxiv.org/abs/2512.10426v1)** | 2025-12-11 |  |
-| **[Making Wide Stripes Practical: Cascaded Parity LRCs for Efficient Repair and High Reliability](https://arxiv.org/abs/2512.10425v1)** | 2025-12-11 |  |
-| **[D2M: A Decentralized, Privacy-Preserving, Incentive-Compatible Data Marketplace for Collaborative Learning](https://arxiv.org/abs/2512.10372v1)** | 2025-12-11 |  |
+| **[Hypergraph based Multi-Party Payment Channel](https://arxiv.org/abs/2512.11775v1)** | 2025-12-12 |  |
+| **[The Relative Monadic Metalanguage](https://arxiv.org/abs/2512.11762v1)** | 2025-12-12 | <details><summary>41 pa...</summary><p>41 pages. Published in Proceedings of the ACM on Programming Languages (POPL 2026)</p></details> |
+| **[REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving](https://arxiv.org/abs/2506.01374v4)** | 2025-12-12 | NeurIPS 2025 |
+| **[TD-Orch: Scalable Load-Balancing for Distributed Systems with Applications to Graph Processing](https://arxiv.org/abs/2511.11843v2)** | 2025-12-12 |  |
+| **[ECCO: Leveraging Cross-Camera Correlations for Efficient Live Video Continuous Learning](https://arxiv.org/abs/2512.11727v1)** | 2025-12-12 |  |
+| **[Stateless Snowflake: A Cloud-Agnostic Distributed ID Generator Using Network-Derived Identity](https://arxiv.org/abs/2512.11643v1)** | 2025-12-12 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure</p></details> |
+| **[FirecREST v2: lessons learned from redesigning an API for scalable HPC resource access](https://arxiv.org/abs/2512.11634v1)** | 2025-12-12 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Presented at Cray User Group 2025 conference at New York, USA (May 4-8, 2025)</p></details> |
+| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
+| **[The Ghosts of Empires: Extracting Modularity from Interleaving-Based Proofs (Extended Version)](https://arxiv.org/abs/2511.20369v3)** | 2025-12-12 | <details><summary>39 pa...</summary><p>39 pages, 10 figures, 1 table. Extended version with proofs of the paper published at POPL'2026 (https://doi.org/10.1145/3776684) [corrections in Fig. 5 and Fig. 6]</p></details> |
+| **[Context-Dependent Effects and Concurrency in Guarded Interaction Trees](https://arxiv.org/abs/2512.11577v1)** | 2025-12-12 |  |
+| **[Parallax: Runtime Parallelization for Operator Fallbacks in Heterogeneous Edge Systems](https://arxiv.org/abs/2512.11532v1)** | 2025-12-12 |  |
+| **[Enhanced Pruning for Distributed Closeness Centrality under Multi-Packet Messaging](https://arxiv.org/abs/2512.11512v1)** | 2025-12-12 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 3 tables. Published in a local annal at the University of Kinshasa, although the annal is not indexed</p></details> |
+| **[Comparing Methods for the Cross-Level Verification of SystemC Peripherals with Symbolic Execution](https://arxiv.org/abs/2509.05504v2)** | 2025-12-12 |  |
+| **[RollMux: Phase-Level Multiplexing for Disaggregated RL Post-Training](https://arxiv.org/abs/2512.11306v1)** | 2025-12-12 | 17 pages, 15 figures |
+| **[Aragog: Just-in-Time Model Routing for Scalable Serving of Agentic Workflows](https://arxiv.org/abs/2511.20975v2)** | 2025-12-12 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlanetServe: A Decentralized, Scalable, and Privacy-Preserving Overlay for Democratizing Large Language Model Serving](https://arxiv.org/abs/2504.20101v4)** | 2025-12-11 |  |
-| **[Towards Cumulative Abstract Semantics via Handlers](https://arxiv.org/abs/2512.10861v1)** | 2025-12-11 |  |
-| **[Zorya: Automated Concolic Execution of Single-Threaded Go Binaries](https://arxiv.org/abs/2512.10799v1)** | 2025-12-11 |  |
-| **[Lax Modal Lambda Calculi](https://arxiv.org/abs/2512.10779v1)** | 2025-12-11 | <details><summary>To ap...</summary><p>To appear at CSL 2026</p></details> |
-| **[Intrinsically Correct Algorithms and Recursive Coalgebras](https://arxiv.org/abs/2512.10748v1)** | 2025-12-11 |  |
-| **[TriHaRd: Higher Resilience for TEE Trusted Time](https://arxiv.org/abs/2512.10732v1)** | 2025-12-11 | <details><summary>2026 ...</summary><p>2026 45th IEEE International Conference on Computer Communications (INFOCOM)</p></details> |
-| **[Are Bus-Mounted Edge Servers Feasible?](https://arxiv.org/abs/2512.05543v3)** | 2025-12-11 |  |
-| **[MFC 5.0: An exascale many-physics flow solver](https://arxiv.org/abs/2503.07953v4)** | 2025-12-11 | <details><summary>51 pa...</summary><p>51 pages, 22 figures, 2 tables</p></details> |
-| **[Efficient Gate Reordering for Distributed Quantum Compiling in Data Centers](https://arxiv.org/abs/2507.01090v2)** | 2025-12-11 |  |
-| **[A Proof of Success and Reward Distribution Protocol for Multi-bridge Architecture in Cross-chain Communication](https://arxiv.org/abs/2512.10667v1)** | 2025-12-11 |  |
-| **[ESS: An Offload-Centric Latent-Cache Management Architecture for DeepSeek-V3.2-Exp](https://arxiv.org/abs/2512.10576v1)** | 2025-12-11 |  |
-| **[Clustered Federated Learning with Hierarchical Knowledge Distillation](https://arxiv.org/abs/2512.10443v1)** | 2025-12-11 |  |
-| **[Differential Privacy for Secure Machine Learning in Healthcare IoT-Cloud Systems](https://arxiv.org/abs/2512.10426v1)** | 2025-12-11 |  |
-| **[Making Wide Stripes Practical: Cascaded Parity LRCs for Efficient Repair and High Reliability](https://arxiv.org/abs/2512.10425v1)** | 2025-12-11 |  |
-| **[D2M: A Decentralized, Privacy-Preserving, Incentive-Compatible Data Marketplace for Collaborative Learning](https://arxiv.org/abs/2512.10372v1)** | 2025-12-11 |  |
+| **[Hypergraph based Multi-Party Payment Channel](https://arxiv.org/abs/2512.11775v1)** | 2025-12-12 |  |
+| **[The Relative Monadic Metalanguage](https://arxiv.org/abs/2512.11762v1)** | 2025-12-12 | <details><summary>41 pa...</summary><p>41 pages. Published in Proceedings of the ACM on Programming Languages (POPL 2026)</p></details> |
+| **[REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving](https://arxiv.org/abs/2506.01374v4)** | 2025-12-12 | NeurIPS 2025 |
+| **[TD-Orch: Scalable Load-Balancing for Distributed Systems with Applications to Graph Processing](https://arxiv.org/abs/2511.11843v2)** | 2025-12-12 |  |
+| **[ECCO: Leveraging Cross-Camera Correlations for Efficient Live Video Continuous Learning](https://arxiv.org/abs/2512.11727v1)** | 2025-12-12 |  |
+| **[Stateless Snowflake: A Cloud-Agnostic Distributed ID Generator Using Network-Derived Identity](https://arxiv.org/abs/2512.11643v1)** | 2025-12-12 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure</p></details> |
+| **[FirecREST v2: lessons learned from redesigning an API for scalable HPC resource access](https://arxiv.org/abs/2512.11634v1)** | 2025-12-12 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Presented at Cray User Group 2025 conference at New York, USA (May 4-8, 2025)</p></details> |
+| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
+| **[The Ghosts of Empires: Extracting Modularity from Interleaving-Based Proofs (Extended Version)](https://arxiv.org/abs/2511.20369v3)** | 2025-12-12 | <details><summary>39 pa...</summary><p>39 pages, 10 figures, 1 table. Extended version with proofs of the paper published at POPL'2026 (https://doi.org/10.1145/3776684) [corrections in Fig. 5 and Fig. 6]</p></details> |
+| **[Context-Dependent Effects and Concurrency in Guarded Interaction Trees](https://arxiv.org/abs/2512.11577v1)** | 2025-12-12 |  |
+| **[Parallax: Runtime Parallelization for Operator Fallbacks in Heterogeneous Edge Systems](https://arxiv.org/abs/2512.11532v1)** | 2025-12-12 |  |
+| **[Enhanced Pruning for Distributed Closeness Centrality under Multi-Packet Messaging](https://arxiv.org/abs/2512.11512v1)** | 2025-12-12 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 3 tables. Published in a local annal at the University of Kinshasa, although the annal is not indexed</p></details> |
+| **[Comparing Methods for the Cross-Level Verification of SystemC Peripherals with Symbolic Execution](https://arxiv.org/abs/2509.05504v2)** | 2025-12-12 |  |
+| **[RollMux: Phase-Level Multiplexing for Disaggregated RL Post-Training](https://arxiv.org/abs/2512.11306v1)** | 2025-12-12 | 17 pages, 15 figures |
+| **[Aragog: Just-in-Time Model Routing for Scalable Serving of Agentic Workflows](https://arxiv.org/abs/2511.20975v2)** | 2025-12-12 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlanetServe: A Decentralized, Scalable, and Privacy-Preserving Overlay for Democratizing Large Language Model Serving](https://arxiv.org/abs/2504.20101v4)** | 2025-12-11 |  |
-| **[Towards Cumulative Abstract Semantics via Handlers](https://arxiv.org/abs/2512.10861v1)** | 2025-12-11 |  |
-| **[Zorya: Automated Concolic Execution of Single-Threaded Go Binaries](https://arxiv.org/abs/2512.10799v1)** | 2025-12-11 |  |
-| **[Lax Modal Lambda Calculi](https://arxiv.org/abs/2512.10779v1)** | 2025-12-11 | <details><summary>To ap...</summary><p>To appear at CSL 2026</p></details> |
-| **[Intrinsically Correct Algorithms and Recursive Coalgebras](https://arxiv.org/abs/2512.10748v1)** | 2025-12-11 |  |
-| **[TriHaRd: Higher Resilience for TEE Trusted Time](https://arxiv.org/abs/2512.10732v1)** | 2025-12-11 | <details><summary>2026 ...</summary><p>2026 45th IEEE International Conference on Computer Communications (INFOCOM)</p></details> |
-| **[Are Bus-Mounted Edge Servers Feasible?](https://arxiv.org/abs/2512.05543v3)** | 2025-12-11 |  |
-| **[MFC 5.0: An exascale many-physics flow solver](https://arxiv.org/abs/2503.07953v4)** | 2025-12-11 | <details><summary>51 pa...</summary><p>51 pages, 22 figures, 2 tables</p></details> |
-| **[Efficient Gate Reordering for Distributed Quantum Compiling in Data Centers](https://arxiv.org/abs/2507.01090v2)** | 2025-12-11 |  |
-| **[A Proof of Success and Reward Distribution Protocol for Multi-bridge Architecture in Cross-chain Communication](https://arxiv.org/abs/2512.10667v1)** | 2025-12-11 |  |
-| **[ESS: An Offload-Centric Latent-Cache Management Architecture for DeepSeek-V3.2-Exp](https://arxiv.org/abs/2512.10576v1)** | 2025-12-11 |  |
-| **[Clustered Federated Learning with Hierarchical Knowledge Distillation](https://arxiv.org/abs/2512.10443v1)** | 2025-12-11 |  |
-| **[Differential Privacy for Secure Machine Learning in Healthcare IoT-Cloud Systems](https://arxiv.org/abs/2512.10426v1)** | 2025-12-11 |  |
-| **[Making Wide Stripes Practical: Cascaded Parity LRCs for Efficient Repair and High Reliability](https://arxiv.org/abs/2512.10425v1)** | 2025-12-11 |  |
-| **[D2M: A Decentralized, Privacy-Preserving, Incentive-Compatible Data Marketplace for Collaborative Learning](https://arxiv.org/abs/2512.10372v1)** | 2025-12-11 |  |
+| **[Hypergraph based Multi-Party Payment Channel](https://arxiv.org/abs/2512.11775v1)** | 2025-12-12 |  |
+| **[The Relative Monadic Metalanguage](https://arxiv.org/abs/2512.11762v1)** | 2025-12-12 | <details><summary>41 pa...</summary><p>41 pages. Published in Proceedings of the ACM on Programming Languages (POPL 2026)</p></details> |
+| **[REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving](https://arxiv.org/abs/2506.01374v4)** | 2025-12-12 | NeurIPS 2025 |
+| **[TD-Orch: Scalable Load-Balancing for Distributed Systems with Applications to Graph Processing](https://arxiv.org/abs/2511.11843v2)** | 2025-12-12 |  |
+| **[ECCO: Leveraging Cross-Camera Correlations for Efficient Live Video Continuous Learning](https://arxiv.org/abs/2512.11727v1)** | 2025-12-12 |  |
+| **[Stateless Snowflake: A Cloud-Agnostic Distributed ID Generator Using Network-Derived Identity](https://arxiv.org/abs/2512.11643v1)** | 2025-12-12 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure</p></details> |
+| **[FirecREST v2: lessons learned from redesigning an API for scalable HPC resource access](https://arxiv.org/abs/2512.11634v1)** | 2025-12-12 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Presented at Cray User Group 2025 conference at New York, USA (May 4-8, 2025)</p></details> |
+| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
+| **[The Ghosts of Empires: Extracting Modularity from Interleaving-Based Proofs (Extended Version)](https://arxiv.org/abs/2511.20369v3)** | 2025-12-12 | <details><summary>39 pa...</summary><p>39 pages, 10 figures, 1 table. Extended version with proofs of the paper published at POPL'2026 (https://doi.org/10.1145/3776684) [corrections in Fig. 5 and Fig. 6]</p></details> |
+| **[Context-Dependent Effects and Concurrency in Guarded Interaction Trees](https://arxiv.org/abs/2512.11577v1)** | 2025-12-12 |  |
+| **[Parallax: Runtime Parallelization for Operator Fallbacks in Heterogeneous Edge Systems](https://arxiv.org/abs/2512.11532v1)** | 2025-12-12 |  |
+| **[Enhanced Pruning for Distributed Closeness Centrality under Multi-Packet Messaging](https://arxiv.org/abs/2512.11512v1)** | 2025-12-12 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 3 tables. Published in a local annal at the University of Kinshasa, although the annal is not indexed</p></details> |
+| **[Comparing Methods for the Cross-Level Verification of SystemC Peripherals with Symbolic Execution](https://arxiv.org/abs/2509.05504v2)** | 2025-12-12 |  |
+| **[RollMux: Phase-Level Multiplexing for Disaggregated RL Post-Training](https://arxiv.org/abs/2512.11306v1)** | 2025-12-12 | 17 pages, 15 figures |
+| **[Aragog: Just-in-Time Model Routing for Scalable Serving of Agentic Workflows](https://arxiv.org/abs/2511.20975v2)** | 2025-12-12 |  |
 
