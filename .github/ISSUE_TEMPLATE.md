@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 19, 2025
+title: Latest 15 Papers - December 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dynamic Rebatching for Efficient Early-Exit Inference with DREX](https://arxiv.org/abs/2512.15705v1)** | 2025-12-17 |  |
-| **[A High-level Synthesis Toolchain for the Julia Language](https://arxiv.org/abs/2512.15679v1)** | 2025-12-17 | <details><summary>Exten...</summary><p>Extended version of poster abstract accepted for presentation at ISFPGA'26</p></details> |
-| **[LeaseGuard: Raft Leases Done Right](https://arxiv.org/abs/2512.15659v1)** | 2025-12-17 |  |
-| **[A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL](https://arxiv.org/abs/2507.18885v3)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted in OOPSLA'26</p></details> |
-| **[Optimizing Bloom Filters for Modern GPU Architectures](https://arxiv.org/abs/2512.15595v1)** | 2025-12-17 | 13 pages, 12 figures |
-| **[Expressivity of AuDaLa: Turing Completeness and Possible Extensions](https://arxiv.org/abs/2412.14938v3)** | 2025-12-17 | <details><summary>30 pa...</summary><p>30 pages, 1 figure, submitted to LMCS, extension of submission to FORTE (preprint at arXiv:2404.12934)</p></details> |
-| **[Efficient Candidate-Free R-S Set Similarity Joins with Filter-and-Verification Trees on MapReduce](https://arxiv.org/abs/2506.03893v3)** | 2025-12-17 |  |
-| **[LLMQ: Efficient Lower-Precision Pretraining for Consumer GPUs](https://arxiv.org/abs/2512.15306v1)** | 2025-12-17 |  |
-| **[Context-Driven Performance Modeling for Causal Inference Operators on Neural Processing Units](https://arxiv.org/abs/2509.25155v2)** | 2025-12-17 | IEEE HiPC 2025 |
-| **[Near-Zero-Overhead Freshness for Recommendation Systems via Inference-Side Model Updates](https://arxiv.org/abs/2512.12295v2)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted by HPCA 2026</p></details> |
-| **[Emulation of Complex Matrix Multiplication based on the Chinese Remainder Theorem](https://arxiv.org/abs/2512.08321v3)** | 2025-12-17 | 11 pages, 13 figures |
-| **[N2N: A Parallel Framework for Large-Scale MILP under Distributed Memory](https://arxiv.org/abs/2511.18723v3)** | 2025-12-17 | 18 pages, 2 figures |
-| **[Reexamining Paradigms of End-to-End Data Movement](https://arxiv.org/abs/2512.15028v1)** | 2025-12-17 | <details><summary>19 pa...</summary><p>19 pages and 13 figures</p></details> |
-| **[Optimizing Sensor Node Localization for Achieving Sustainable Smart Agriculture System Connectivity](https://arxiv.org/abs/2512.14971v1)** | 2025-12-16 |  |
-| **[Modular abstract syntax trees (MAST): substitution tensors with second-class sorts](https://arxiv.org/abs/2511.03946v2)** | 2025-12-16 |  |
+| **[Training Together, Diagnosing Better: Federated Learning for Collagen VI-Related Dystrophies](https://arxiv.org/abs/2512.16876v1)** | 2025-12-18 |  |
+| **[An Upper Bound on the M/M/k Queue With Deterministic Setup Times](https://arxiv.org/abs/2512.16854v1)** | 2025-12-18 |  |
+| **[Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks](https://arxiv.org/abs/2512.10361v2)** | 2025-12-18 | <details><summary>In th...</summary><p>In the proceedings of Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
+| **[Coordinated Anti-Jamming Resilience in Swarm Networks via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2512.16813v1)** | 2025-12-18 |  |
+| **[Delay-Aware Multi-Stage Edge Server Upgrade with Budget Constraint](https://arxiv.org/abs/2512.16792v1)** | 2025-12-18 | 17 pages, 9 figures |
+| **[Efficient Bitcoin Meta-Protocol Transaction and Data Discovery Through nLockTime Field Repurposing](https://arxiv.org/abs/2512.16683v1)** | 2025-12-18 |  |
+| **[Even-Cycle Detection in the Randomized and Quantum CONGEST Model](https://arxiv.org/abs/2402.12018v2)** | 2025-12-18 |  |
+| **[Cornserve: Efficiently Serving Any-to-Any Multimodal Models](https://arxiv.org/abs/2512.14098v2)** | 2025-12-18 | <details><summary>Open-...</summary><p>Open-source at https://github.com/cornserve-ai/cornserve</p></details> |
+| **[XTC, A Research Platform for Optimizing AI Workload Operators](https://arxiv.org/abs/2512.16512v1)** | 2025-12-18 |  |
+| **[Efficient CPU-GPU Collaborative Inference for MoE-based LLMs on Memory-Limited Systems](https://arxiv.org/abs/2512.16473v1)** | 2025-12-18 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, to be published in ASP-DAC 2026</p></details> |
+| **[AI4EOSC: a Federated Cloud Platform for Artificial Intelligence in Scientific Research](https://arxiv.org/abs/2512.16455v1)** | 2025-12-18 |  |
+| **[Modular abstract syntax trees (MAST): substitution tensors with second-class sorts](https://arxiv.org/abs/2511.03946v3)** | 2025-12-18 |  |
+| **[Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference](https://arxiv.org/abs/2512.16391v1)** | 2025-12-18 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 3 tables and 1 algorithm</p></details> |
+| **[N2N: A Parallel Framework for Large-Scale MILP under Distributed Memory](https://arxiv.org/abs/2511.18723v4)** | 2025-12-18 | <details><summary>18 pa...</summary><p>18 pages, 2 figures; the affiliation of some authors is updated in this version</p></details> |
+| **[Are Bus-Mounted Edge Servers Feasible?](https://arxiv.org/abs/2512.05543v4)** | 2025-12-18 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dynamic Rebatching for Efficient Early-Exit Inference with DREX](https://arxiv.org/abs/2512.15705v1)** | 2025-12-17 |  |
-| **[A High-level Synthesis Toolchain for the Julia Language](https://arxiv.org/abs/2512.15679v1)** | 2025-12-17 | <details><summary>Exten...</summary><p>Extended version of poster abstract accepted for presentation at ISFPGA'26</p></details> |
-| **[LeaseGuard: Raft Leases Done Right](https://arxiv.org/abs/2512.15659v1)** | 2025-12-17 |  |
-| **[A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL](https://arxiv.org/abs/2507.18885v3)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted in OOPSLA'26</p></details> |
-| **[Optimizing Bloom Filters for Modern GPU Architectures](https://arxiv.org/abs/2512.15595v1)** | 2025-12-17 | 13 pages, 12 figures |
-| **[Expressivity of AuDaLa: Turing Completeness and Possible Extensions](https://arxiv.org/abs/2412.14938v3)** | 2025-12-17 | <details><summary>30 pa...</summary><p>30 pages, 1 figure, submitted to LMCS, extension of submission to FORTE (preprint at arXiv:2404.12934)</p></details> |
-| **[Efficient Candidate-Free R-S Set Similarity Joins with Filter-and-Verification Trees on MapReduce](https://arxiv.org/abs/2506.03893v3)** | 2025-12-17 |  |
-| **[LLMQ: Efficient Lower-Precision Pretraining for Consumer GPUs](https://arxiv.org/abs/2512.15306v1)** | 2025-12-17 |  |
-| **[Context-Driven Performance Modeling for Causal Inference Operators on Neural Processing Units](https://arxiv.org/abs/2509.25155v2)** | 2025-12-17 | IEEE HiPC 2025 |
-| **[Near-Zero-Overhead Freshness for Recommendation Systems via Inference-Side Model Updates](https://arxiv.org/abs/2512.12295v2)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted by HPCA 2026</p></details> |
-| **[Emulation of Complex Matrix Multiplication based on the Chinese Remainder Theorem](https://arxiv.org/abs/2512.08321v3)** | 2025-12-17 | 11 pages, 13 figures |
-| **[N2N: A Parallel Framework for Large-Scale MILP under Distributed Memory](https://arxiv.org/abs/2511.18723v3)** | 2025-12-17 | 18 pages, 2 figures |
-| **[Reexamining Paradigms of End-to-End Data Movement](https://arxiv.org/abs/2512.15028v1)** | 2025-12-17 | <details><summary>19 pa...</summary><p>19 pages and 13 figures</p></details> |
-| **[Optimizing Sensor Node Localization for Achieving Sustainable Smart Agriculture System Connectivity](https://arxiv.org/abs/2512.14971v1)** | 2025-12-16 |  |
-| **[Modular abstract syntax trees (MAST): substitution tensors with second-class sorts](https://arxiv.org/abs/2511.03946v2)** | 2025-12-16 |  |
+| **[Training Together, Diagnosing Better: Federated Learning for Collagen VI-Related Dystrophies](https://arxiv.org/abs/2512.16876v1)** | 2025-12-18 |  |
+| **[An Upper Bound on the M/M/k Queue With Deterministic Setup Times](https://arxiv.org/abs/2512.16854v1)** | 2025-12-18 |  |
+| **[Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks](https://arxiv.org/abs/2512.10361v2)** | 2025-12-18 | <details><summary>In th...</summary><p>In the proceedings of Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
+| **[Coordinated Anti-Jamming Resilience in Swarm Networks via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2512.16813v1)** | 2025-12-18 |  |
+| **[Delay-Aware Multi-Stage Edge Server Upgrade with Budget Constraint](https://arxiv.org/abs/2512.16792v1)** | 2025-12-18 | 17 pages, 9 figures |
+| **[Efficient Bitcoin Meta-Protocol Transaction and Data Discovery Through nLockTime Field Repurposing](https://arxiv.org/abs/2512.16683v1)** | 2025-12-18 |  |
+| **[Even-Cycle Detection in the Randomized and Quantum CONGEST Model](https://arxiv.org/abs/2402.12018v2)** | 2025-12-18 |  |
+| **[Cornserve: Efficiently Serving Any-to-Any Multimodal Models](https://arxiv.org/abs/2512.14098v2)** | 2025-12-18 | <details><summary>Open-...</summary><p>Open-source at https://github.com/cornserve-ai/cornserve</p></details> |
+| **[XTC, A Research Platform for Optimizing AI Workload Operators](https://arxiv.org/abs/2512.16512v1)** | 2025-12-18 |  |
+| **[Efficient CPU-GPU Collaborative Inference for MoE-based LLMs on Memory-Limited Systems](https://arxiv.org/abs/2512.16473v1)** | 2025-12-18 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, to be published in ASP-DAC 2026</p></details> |
+| **[AI4EOSC: a Federated Cloud Platform for Artificial Intelligence in Scientific Research](https://arxiv.org/abs/2512.16455v1)** | 2025-12-18 |  |
+| **[Modular abstract syntax trees (MAST): substitution tensors with second-class sorts](https://arxiv.org/abs/2511.03946v3)** | 2025-12-18 |  |
+| **[Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference](https://arxiv.org/abs/2512.16391v1)** | 2025-12-18 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 3 tables and 1 algorithm</p></details> |
+| **[N2N: A Parallel Framework for Large-Scale MILP under Distributed Memory](https://arxiv.org/abs/2511.18723v4)** | 2025-12-18 | <details><summary>18 pa...</summary><p>18 pages, 2 figures; the affiliation of some authors is updated in this version</p></details> |
+| **[Are Bus-Mounted Edge Servers Feasible?](https://arxiv.org/abs/2512.05543v4)** | 2025-12-18 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dynamic Rebatching for Efficient Early-Exit Inference with DREX](https://arxiv.org/abs/2512.15705v1)** | 2025-12-17 |  |
-| **[A High-level Synthesis Toolchain for the Julia Language](https://arxiv.org/abs/2512.15679v1)** | 2025-12-17 | <details><summary>Exten...</summary><p>Extended version of poster abstract accepted for presentation at ISFPGA'26</p></details> |
-| **[LeaseGuard: Raft Leases Done Right](https://arxiv.org/abs/2512.15659v1)** | 2025-12-17 |  |
-| **[A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL](https://arxiv.org/abs/2507.18885v3)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted in OOPSLA'26</p></details> |
-| **[Optimizing Bloom Filters for Modern GPU Architectures](https://arxiv.org/abs/2512.15595v1)** | 2025-12-17 | 13 pages, 12 figures |
-| **[Expressivity of AuDaLa: Turing Completeness and Possible Extensions](https://arxiv.org/abs/2412.14938v3)** | 2025-12-17 | <details><summary>30 pa...</summary><p>30 pages, 1 figure, submitted to LMCS, extension of submission to FORTE (preprint at arXiv:2404.12934)</p></details> |
-| **[Efficient Candidate-Free R-S Set Similarity Joins with Filter-and-Verification Trees on MapReduce](https://arxiv.org/abs/2506.03893v3)** | 2025-12-17 |  |
-| **[LLMQ: Efficient Lower-Precision Pretraining for Consumer GPUs](https://arxiv.org/abs/2512.15306v1)** | 2025-12-17 |  |
-| **[Context-Driven Performance Modeling for Causal Inference Operators on Neural Processing Units](https://arxiv.org/abs/2509.25155v2)** | 2025-12-17 | IEEE HiPC 2025 |
-| **[Near-Zero-Overhead Freshness for Recommendation Systems via Inference-Side Model Updates](https://arxiv.org/abs/2512.12295v2)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted by HPCA 2026</p></details> |
-| **[Emulation of Complex Matrix Multiplication based on the Chinese Remainder Theorem](https://arxiv.org/abs/2512.08321v3)** | 2025-12-17 | 11 pages, 13 figures |
-| **[N2N: A Parallel Framework for Large-Scale MILP under Distributed Memory](https://arxiv.org/abs/2511.18723v3)** | 2025-12-17 | 18 pages, 2 figures |
-| **[Reexamining Paradigms of End-to-End Data Movement](https://arxiv.org/abs/2512.15028v1)** | 2025-12-17 | <details><summary>19 pa...</summary><p>19 pages and 13 figures</p></details> |
-| **[Optimizing Sensor Node Localization for Achieving Sustainable Smart Agriculture System Connectivity](https://arxiv.org/abs/2512.14971v1)** | 2025-12-16 |  |
-| **[Modular abstract syntax trees (MAST): substitution tensors with second-class sorts](https://arxiv.org/abs/2511.03946v2)** | 2025-12-16 |  |
+| **[Training Together, Diagnosing Better: Federated Learning for Collagen VI-Related Dystrophies](https://arxiv.org/abs/2512.16876v1)** | 2025-12-18 |  |
+| **[An Upper Bound on the M/M/k Queue With Deterministic Setup Times](https://arxiv.org/abs/2512.16854v1)** | 2025-12-18 |  |
+| **[Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks](https://arxiv.org/abs/2512.10361v2)** | 2025-12-18 | <details><summary>In th...</summary><p>In the proceedings of Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
+| **[Coordinated Anti-Jamming Resilience in Swarm Networks via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2512.16813v1)** | 2025-12-18 |  |
+| **[Delay-Aware Multi-Stage Edge Server Upgrade with Budget Constraint](https://arxiv.org/abs/2512.16792v1)** | 2025-12-18 | 17 pages, 9 figures |
+| **[Efficient Bitcoin Meta-Protocol Transaction and Data Discovery Through nLockTime Field Repurposing](https://arxiv.org/abs/2512.16683v1)** | 2025-12-18 |  |
+| **[Even-Cycle Detection in the Randomized and Quantum CONGEST Model](https://arxiv.org/abs/2402.12018v2)** | 2025-12-18 |  |
+| **[Cornserve: Efficiently Serving Any-to-Any Multimodal Models](https://arxiv.org/abs/2512.14098v2)** | 2025-12-18 | <details><summary>Open-...</summary><p>Open-source at https://github.com/cornserve-ai/cornserve</p></details> |
+| **[XTC, A Research Platform for Optimizing AI Workload Operators](https://arxiv.org/abs/2512.16512v1)** | 2025-12-18 |  |
+| **[Efficient CPU-GPU Collaborative Inference for MoE-based LLMs on Memory-Limited Systems](https://arxiv.org/abs/2512.16473v1)** | 2025-12-18 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, to be published in ASP-DAC 2026</p></details> |
+| **[AI4EOSC: a Federated Cloud Platform for Artificial Intelligence in Scientific Research](https://arxiv.org/abs/2512.16455v1)** | 2025-12-18 |  |
+| **[Modular abstract syntax trees (MAST): substitution tensors with second-class sorts](https://arxiv.org/abs/2511.03946v3)** | 2025-12-18 |  |
+| **[Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference](https://arxiv.org/abs/2512.16391v1)** | 2025-12-18 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 3 tables and 1 algorithm</p></details> |
+| **[N2N: A Parallel Framework for Large-Scale MILP under Distributed Memory](https://arxiv.org/abs/2511.18723v4)** | 2025-12-18 | <details><summary>18 pa...</summary><p>18 pages, 2 figures; the affiliation of some authors is updated in this version</p></details> |
+| **[Are Bus-Mounted Edge Servers Feasible?](https://arxiv.org/abs/2512.05543v4)** | 2025-12-18 |  |
 
