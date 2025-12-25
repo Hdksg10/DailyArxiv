@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 25, 2025
+title: Latest 15 Papers - December 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v1)** | 2025-12-23 |  |
-| **[A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL](https://arxiv.org/abs/2507.18885v4)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted in OOPSLA'26</p></details> |
-| **[WOC: Dual-Path Weighted Object Consensus Made Efficient](https://arxiv.org/abs/2512.20485v1)** | 2025-12-23 |  |
-| **[Becoming Immutable: How Ethereum is Made](https://arxiv.org/abs/2506.04940v3)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Resilient Packet Forwarding: A Reinforcement Learning Approach to Routing in Gaussian Interconnected Networks with Clustered Faults](https://arxiv.org/abs/2512.20394v1)** | 2025-12-23 |  |
-| **[Clust-PSI-PFL: A Population Stability Index Approach for Clustered Non-IID Personalized Federated Learning](https://arxiv.org/abs/2512.20363v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted for publication to the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2026)</p></details> |
-| **[Post-Quantum Cryptography in the 5G Core](https://arxiv.org/abs/2512.20243v1)** | 2025-12-23 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 2 tables</p></details> |
-| **[Error Localization, Certificates, and Hints for Probabilistic Program Verification via Slicing (Extended Version)](https://arxiv.org/abs/2512.20214v1)** | 2025-12-23 |  |
-| **[Predictive-LoRA: A Proactive and Fragmentation-Aware Serverless Inference System for LLMs](https://arxiv.org/abs/2512.20210v1)** | 2025-12-23 |  |
-| **[Fast LLM Post-training via Decoupled and Fastest-of-N Speculation](https://arxiv.org/abs/2511.16193v3)** | 2025-12-23 |  |
-| **[Reaching Agreement Among Reasoning LLM Agents](https://arxiv.org/abs/2512.20184v1)** | 2025-12-23 |  |
-| **[SHIRO: Near-Optimal Communication Strategies for Distributed Sparse Matrix Multiplication](https://arxiv.org/abs/2512.20178v1)** | 2025-12-23 | Under Review |
-| **[Population Protocols Revisited: Parity and Beyond](https://arxiv.org/abs/2512.20163v1)** | 2025-12-23 |  |
+| **[On the Inherent Anonymity of Gossiping](https://arxiv.org/abs/2308.02477v2)** | 2025-12-24 | <details><summary>Full ...</summary><p>Full version of DISC2023 paper</p></details> |
+| **[Error Localization, Certificates, and Hints for Probabilistic Program Verification via Slicing (Extended Version)](https://arxiv.org/abs/2512.20214v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted at the European Symposium on Programming (ESOP) 2026</p></details> |
+| **[Declarative distributed broadcast using three-valued modal logic and semitopologies](https://arxiv.org/abs/2512.21137v1)** | 2025-12-24 |  |
+| **[AutoBaxBuilder: Bootstrapping Code Security Benchmarking](https://arxiv.org/abs/2512.21132v1)** | 2025-12-24 |  |
+| **[zkFL-Health: Blockchain-Enabled Zero-Knowledge Federated Learning for Medical AI Privacy](https://arxiv.org/abs/2512.21048v1)** | 2025-12-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 5 tables</p></details> |
+| **[HYLU: Hybrid Parallel Sparse LU Factorization](https://arxiv.org/abs/2509.07690v5)** | 2025-12-24 |  |
+| **[LLM Swiss Round: Aggregating Multi-Benchmark Performance via Competitive Swiss-System Dynamics](https://arxiv.org/abs/2512.21010v1)** | 2025-12-24 | 18 pages |
+| **[ESCHER: Efficient and Scalable Hypergraph Evolution Representation with Application to Triad Counting](https://arxiv.org/abs/2512.21009v1)** | 2025-12-24 |  |
+| **[Mesh-Attention: A New Communication-Efficient Distributed Attention with Improved Data Locality](https://arxiv.org/abs/2512.20968v1)** | 2025-12-24 |  |
+| **[Deadline-Aware Online Scheduling for LLM Fine-Tuning with Spot Market Predictions](https://arxiv.org/abs/2512.20967v1)** | 2025-12-24 |  |
+| **[Diving into 3D Parallelism with Heterogeneous Spot Instance GPUs: Design and Implications](https://arxiv.org/abs/2512.20953v1)** | 2025-12-24 |  |
+| **[AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences](https://arxiv.org/abs/2512.20943v1)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper is accepted by IEEE International Conference on Computer Communications (INFOCOM), 2026</p></details> |
+| **[Stochastic well-structured transition systems](https://arxiv.org/abs/2512.20939v1)** | 2025-12-24 | 54 pages, 4 figures |
+| **[Optimizing Frequent Checkpointing via Low-Cost Differential for Distributed Training Systems](https://arxiv.org/abs/2509.04084v3)** | 2025-12-24 |  |
+| **[When Should Selfish Miners Double-Spend?](https://arxiv.org/abs/2501.03227v4)** | 2025-12-24 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v1)** | 2025-12-23 |  |
-| **[A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL](https://arxiv.org/abs/2507.18885v4)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted in OOPSLA'26</p></details> |
-| **[WOC: Dual-Path Weighted Object Consensus Made Efficient](https://arxiv.org/abs/2512.20485v1)** | 2025-12-23 |  |
-| **[Becoming Immutable: How Ethereum is Made](https://arxiv.org/abs/2506.04940v3)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Resilient Packet Forwarding: A Reinforcement Learning Approach to Routing in Gaussian Interconnected Networks with Clustered Faults](https://arxiv.org/abs/2512.20394v1)** | 2025-12-23 |  |
-| **[Clust-PSI-PFL: A Population Stability Index Approach for Clustered Non-IID Personalized Federated Learning](https://arxiv.org/abs/2512.20363v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted for publication to the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2026)</p></details> |
-| **[Post-Quantum Cryptography in the 5G Core](https://arxiv.org/abs/2512.20243v1)** | 2025-12-23 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 2 tables</p></details> |
-| **[Error Localization, Certificates, and Hints for Probabilistic Program Verification via Slicing (Extended Version)](https://arxiv.org/abs/2512.20214v1)** | 2025-12-23 |  |
-| **[Predictive-LoRA: A Proactive and Fragmentation-Aware Serverless Inference System for LLMs](https://arxiv.org/abs/2512.20210v1)** | 2025-12-23 |  |
-| **[Fast LLM Post-training via Decoupled and Fastest-of-N Speculation](https://arxiv.org/abs/2511.16193v3)** | 2025-12-23 |  |
-| **[Reaching Agreement Among Reasoning LLM Agents](https://arxiv.org/abs/2512.20184v1)** | 2025-12-23 |  |
-| **[SHIRO: Near-Optimal Communication Strategies for Distributed Sparse Matrix Multiplication](https://arxiv.org/abs/2512.20178v1)** | 2025-12-23 | Under Review |
-| **[Population Protocols Revisited: Parity and Beyond](https://arxiv.org/abs/2512.20163v1)** | 2025-12-23 |  |
+| **[On the Inherent Anonymity of Gossiping](https://arxiv.org/abs/2308.02477v2)** | 2025-12-24 | <details><summary>Full ...</summary><p>Full version of DISC2023 paper</p></details> |
+| **[Error Localization, Certificates, and Hints for Probabilistic Program Verification via Slicing (Extended Version)](https://arxiv.org/abs/2512.20214v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted at the European Symposium on Programming (ESOP) 2026</p></details> |
+| **[Declarative distributed broadcast using three-valued modal logic and semitopologies](https://arxiv.org/abs/2512.21137v1)** | 2025-12-24 |  |
+| **[AutoBaxBuilder: Bootstrapping Code Security Benchmarking](https://arxiv.org/abs/2512.21132v1)** | 2025-12-24 |  |
+| **[zkFL-Health: Blockchain-Enabled Zero-Knowledge Federated Learning for Medical AI Privacy](https://arxiv.org/abs/2512.21048v1)** | 2025-12-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 5 tables</p></details> |
+| **[HYLU: Hybrid Parallel Sparse LU Factorization](https://arxiv.org/abs/2509.07690v5)** | 2025-12-24 |  |
+| **[LLM Swiss Round: Aggregating Multi-Benchmark Performance via Competitive Swiss-System Dynamics](https://arxiv.org/abs/2512.21010v1)** | 2025-12-24 | 18 pages |
+| **[ESCHER: Efficient and Scalable Hypergraph Evolution Representation with Application to Triad Counting](https://arxiv.org/abs/2512.21009v1)** | 2025-12-24 |  |
+| **[Mesh-Attention: A New Communication-Efficient Distributed Attention with Improved Data Locality](https://arxiv.org/abs/2512.20968v1)** | 2025-12-24 |  |
+| **[Deadline-Aware Online Scheduling for LLM Fine-Tuning with Spot Market Predictions](https://arxiv.org/abs/2512.20967v1)** | 2025-12-24 |  |
+| **[Diving into 3D Parallelism with Heterogeneous Spot Instance GPUs: Design and Implications](https://arxiv.org/abs/2512.20953v1)** | 2025-12-24 |  |
+| **[AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences](https://arxiv.org/abs/2512.20943v1)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper is accepted by IEEE International Conference on Computer Communications (INFOCOM), 2026</p></details> |
+| **[Stochastic well-structured transition systems](https://arxiv.org/abs/2512.20939v1)** | 2025-12-24 | 54 pages, 4 figures |
+| **[Optimizing Frequent Checkpointing via Low-Cost Differential for Distributed Training Systems](https://arxiv.org/abs/2509.04084v3)** | 2025-12-24 |  |
+| **[When Should Selfish Miners Double-Spend?](https://arxiv.org/abs/2501.03227v4)** | 2025-12-24 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v1)** | 2025-12-23 |  |
-| **[A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL](https://arxiv.org/abs/2507.18885v4)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted in OOPSLA'26</p></details> |
-| **[WOC: Dual-Path Weighted Object Consensus Made Efficient](https://arxiv.org/abs/2512.20485v1)** | 2025-12-23 |  |
-| **[Becoming Immutable: How Ethereum is Made](https://arxiv.org/abs/2506.04940v3)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Resilient Packet Forwarding: A Reinforcement Learning Approach to Routing in Gaussian Interconnected Networks with Clustered Faults](https://arxiv.org/abs/2512.20394v1)** | 2025-12-23 |  |
-| **[Clust-PSI-PFL: A Population Stability Index Approach for Clustered Non-IID Personalized Federated Learning](https://arxiv.org/abs/2512.20363v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted for publication to the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2026)</p></details> |
-| **[Post-Quantum Cryptography in the 5G Core](https://arxiv.org/abs/2512.20243v1)** | 2025-12-23 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 2 tables</p></details> |
-| **[Error Localization, Certificates, and Hints for Probabilistic Program Verification via Slicing (Extended Version)](https://arxiv.org/abs/2512.20214v1)** | 2025-12-23 |  |
-| **[Predictive-LoRA: A Proactive and Fragmentation-Aware Serverless Inference System for LLMs](https://arxiv.org/abs/2512.20210v1)** | 2025-12-23 |  |
-| **[Fast LLM Post-training via Decoupled and Fastest-of-N Speculation](https://arxiv.org/abs/2511.16193v3)** | 2025-12-23 |  |
-| **[Reaching Agreement Among Reasoning LLM Agents](https://arxiv.org/abs/2512.20184v1)** | 2025-12-23 |  |
-| **[SHIRO: Near-Optimal Communication Strategies for Distributed Sparse Matrix Multiplication](https://arxiv.org/abs/2512.20178v1)** | 2025-12-23 | Under Review |
-| **[Population Protocols Revisited: Parity and Beyond](https://arxiv.org/abs/2512.20163v1)** | 2025-12-23 |  |
+| **[On the Inherent Anonymity of Gossiping](https://arxiv.org/abs/2308.02477v2)** | 2025-12-24 | <details><summary>Full ...</summary><p>Full version of DISC2023 paper</p></details> |
+| **[Error Localization, Certificates, and Hints for Probabilistic Program Verification via Slicing (Extended Version)](https://arxiv.org/abs/2512.20214v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted at the European Symposium on Programming (ESOP) 2026</p></details> |
+| **[Declarative distributed broadcast using three-valued modal logic and semitopologies](https://arxiv.org/abs/2512.21137v1)** | 2025-12-24 |  |
+| **[AutoBaxBuilder: Bootstrapping Code Security Benchmarking](https://arxiv.org/abs/2512.21132v1)** | 2025-12-24 |  |
+| **[zkFL-Health: Blockchain-Enabled Zero-Knowledge Federated Learning for Medical AI Privacy](https://arxiv.org/abs/2512.21048v1)** | 2025-12-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 5 tables</p></details> |
+| **[HYLU: Hybrid Parallel Sparse LU Factorization](https://arxiv.org/abs/2509.07690v5)** | 2025-12-24 |  |
+| **[LLM Swiss Round: Aggregating Multi-Benchmark Performance via Competitive Swiss-System Dynamics](https://arxiv.org/abs/2512.21010v1)** | 2025-12-24 | 18 pages |
+| **[ESCHER: Efficient and Scalable Hypergraph Evolution Representation with Application to Triad Counting](https://arxiv.org/abs/2512.21009v1)** | 2025-12-24 |  |
+| **[Mesh-Attention: A New Communication-Efficient Distributed Attention with Improved Data Locality](https://arxiv.org/abs/2512.20968v1)** | 2025-12-24 |  |
+| **[Deadline-Aware Online Scheduling for LLM Fine-Tuning with Spot Market Predictions](https://arxiv.org/abs/2512.20967v1)** | 2025-12-24 |  |
+| **[Diving into 3D Parallelism with Heterogeneous Spot Instance GPUs: Design and Implications](https://arxiv.org/abs/2512.20953v1)** | 2025-12-24 |  |
+| **[AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences](https://arxiv.org/abs/2512.20943v1)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper is accepted by IEEE International Conference on Computer Communications (INFOCOM), 2026</p></details> |
+| **[Stochastic well-structured transition systems](https://arxiv.org/abs/2512.20939v1)** | 2025-12-24 | 54 pages, 4 figures |
+| **[Optimizing Frequent Checkpointing via Low-Cost Differential for Distributed Training Systems](https://arxiv.org/abs/2509.04084v3)** | 2025-12-24 |  |
+| **[When Should Selfish Miners Double-Spend?](https://arxiv.org/abs/2501.03227v4)** | 2025-12-24 |  |
 
