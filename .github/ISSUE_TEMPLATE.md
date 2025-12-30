@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 30, 2025
+title: Latest 15 Papers - December 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
-| **[Robust Federated Learning in Unreliable Wireless Networks: A Client Selection Approach](https://arxiv.org/abs/2502.17260v4)** | 2025-12-26 |  |
-| **[Communication-Efficient and Differentially Private Vertical Federated Learning with Zeroth-Order Optimization](https://arxiv.org/abs/2502.20565v3)** | 2025-12-26 |  |
-| **[Prefill vs. Decode Bottlenecks: SRAM-Frequency Tradeoffs and the Memory-Bandwidth Ceiling](https://arxiv.org/abs/2512.22066v1)** | 2025-12-26 |  |
-| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
-| **[A Theory of Conversion Relations for Prefixed Units of Measure](https://arxiv.org/abs/2212.11580v6)** | 2025-12-26 |  |
-| **[LOG.io: Unified Rollback Recovery and Data Lineage Capture for Distributed Data Pipelines](https://arxiv.org/abs/2512.16038v2)** | 2025-12-26 |  |
-| **[FUSCO: High-Performance Distributed Data Shuffling via Transformation-Communication Fusion](https://arxiv.org/abs/2512.22036v1)** | 2025-12-26 |  |
-| **[Robust Federated Fine-Tuning in Heterogeneous Networks with Unreliable Connections: An Aggregation View](https://arxiv.org/abs/2512.22035v1)** | 2025-12-26 |  |
-| **[BLEST: Blazingly Efficient BFS using Tensor Cores](https://arxiv.org/abs/2512.21967v1)** | 2025-12-26 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 4 tables, 3 algorithms, 46 references</p></details> |
-| **[Parameter-Efficient and Personalized Federated Training of Generative Models at the Edge](https://arxiv.org/abs/2511.11585v2)** | 2025-12-26 | 37 pages, 8 figures |
-| **[ESCHER: Efficient and Scalable Hypergraph Evolution Representation with Application to Triad Counting](https://arxiv.org/abs/2512.21009v2)** | 2025-12-26 |  |
-| **[Optimizing Resource Allocation for Geographically-Distributed Inference by Large Language Models](https://arxiv.org/abs/2512.21884v1)** | 2025-12-26 |  |
-| **[LIME:Accelerating Collaborative Lossless LLM Inference on Memory-Constrained Edge Devices](https://arxiv.org/abs/2512.21835v1)** | 2025-12-26 | 15 pages, 18 figures |
-| **[Smart IoT-Based Leak Forecasting and Detection for Energy-Efficient Liquid Cooling in AI Data Centers](https://arxiv.org/abs/2512.21801v1)** | 2025-12-25 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, IEEE conference format</p></details> |
+| **[Automating the Analysis of Parsing Algorithms (and other Dynamic Programs)](https://arxiv.org/abs/2512.23665v1)** | 2025-12-29 | <details><summary>2021 ...</summary><p>2021 manuscript; accepted by TACL but not revised for publication</p></details> |
+| **[Sedna: Sharding transactions in multiple concurrent proposer blockchains](https://arxiv.org/abs/2512.17045v2)** | 2025-12-29 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
+| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[Fancy Some Chips for Your TeaStore? Modeling the Control of an Adaptable Discrete System](https://arxiv.org/abs/2512.23496v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054. This work was supported by the ANR grant ANR-23-CE25-0004 (ADAPT). O. Kouchnarenko was supported by the EIPHI Graduate School (grant number ANR-17-EURE-0002)</p></details> |
+| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[Optimal Configuration of API Resources in Cloud Native Computing](https://arxiv.org/abs/2512.23494v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation](https://arxiv.org/abs/2509.15965v2)** | 2025-12-29 | <details><summary>GitHu...</summary><p>GitHub Repo: https://github.com/RLinf/RLinf</p></details> |
+| **[Bitcoin-IPC: Scaling Bitcoin with a Network of Proof-of-Stake Subnets](https://arxiv.org/abs/2512.23439v1)** | 2025-12-29 | 31 pages, 13 figures |
+| **[Local Rendezvous Hashing: Bounded Loads and Minimal Churn via Cache-Local Candidates](https://arxiv.org/abs/2512.23434v1)** | 2025-12-29 | <details><summary>14 pa...</summary><p>14 pages, 10 figures. Includes appendices</p></details> |
+| **[An SLO Driven and Cost-Aware Autoscaling Framework for Kubernetes](https://arxiv.org/abs/2512.23415v1)** | 2025-12-29 |  |
+| **[RapunSL: Untangling Quantum Computing with Separation, Linear Combination and Mixing](https://arxiv.org/abs/2511.23472v3)** | 2025-12-29 | <details><summary>Full ...</summary><p>Full version of the conference paper at POPL 2026. The first two authors contributed equally to this work</p></details> |
+| **[Parameter-Efficient and Personalized Federated Training of Generative Models at the Edge](https://arxiv.org/abs/2511.11585v3)** | 2025-12-29 | 37 pages, 8 figures |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
-| **[Robust Federated Learning in Unreliable Wireless Networks: A Client Selection Approach](https://arxiv.org/abs/2502.17260v4)** | 2025-12-26 |  |
-| **[Communication-Efficient and Differentially Private Vertical Federated Learning with Zeroth-Order Optimization](https://arxiv.org/abs/2502.20565v3)** | 2025-12-26 |  |
-| **[Prefill vs. Decode Bottlenecks: SRAM-Frequency Tradeoffs and the Memory-Bandwidth Ceiling](https://arxiv.org/abs/2512.22066v1)** | 2025-12-26 |  |
-| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
-| **[A Theory of Conversion Relations for Prefixed Units of Measure](https://arxiv.org/abs/2212.11580v6)** | 2025-12-26 |  |
-| **[LOG.io: Unified Rollback Recovery and Data Lineage Capture for Distributed Data Pipelines](https://arxiv.org/abs/2512.16038v2)** | 2025-12-26 |  |
-| **[FUSCO: High-Performance Distributed Data Shuffling via Transformation-Communication Fusion](https://arxiv.org/abs/2512.22036v1)** | 2025-12-26 |  |
-| **[Robust Federated Fine-Tuning in Heterogeneous Networks with Unreliable Connections: An Aggregation View](https://arxiv.org/abs/2512.22035v1)** | 2025-12-26 |  |
-| **[BLEST: Blazingly Efficient BFS using Tensor Cores](https://arxiv.org/abs/2512.21967v1)** | 2025-12-26 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 4 tables, 3 algorithms, 46 references</p></details> |
-| **[Parameter-Efficient and Personalized Federated Training of Generative Models at the Edge](https://arxiv.org/abs/2511.11585v2)** | 2025-12-26 | 37 pages, 8 figures |
-| **[ESCHER: Efficient and Scalable Hypergraph Evolution Representation with Application to Triad Counting](https://arxiv.org/abs/2512.21009v2)** | 2025-12-26 |  |
-| **[Optimizing Resource Allocation for Geographically-Distributed Inference by Large Language Models](https://arxiv.org/abs/2512.21884v1)** | 2025-12-26 |  |
-| **[LIME:Accelerating Collaborative Lossless LLM Inference on Memory-Constrained Edge Devices](https://arxiv.org/abs/2512.21835v1)** | 2025-12-26 | 15 pages, 18 figures |
-| **[Smart IoT-Based Leak Forecasting and Detection for Energy-Efficient Liquid Cooling in AI Data Centers](https://arxiv.org/abs/2512.21801v1)** | 2025-12-25 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, IEEE conference format</p></details> |
+| **[Automating the Analysis of Parsing Algorithms (and other Dynamic Programs)](https://arxiv.org/abs/2512.23665v1)** | 2025-12-29 | <details><summary>2021 ...</summary><p>2021 manuscript; accepted by TACL but not revised for publication</p></details> |
+| **[Sedna: Sharding transactions in multiple concurrent proposer blockchains](https://arxiv.org/abs/2512.17045v2)** | 2025-12-29 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
+| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[Fancy Some Chips for Your TeaStore? Modeling the Control of an Adaptable Discrete System](https://arxiv.org/abs/2512.23496v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054. This work was supported by the ANR grant ANR-23-CE25-0004 (ADAPT). O. Kouchnarenko was supported by the EIPHI Graduate School (grant number ANR-17-EURE-0002)</p></details> |
+| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[Optimal Configuration of API Resources in Cloud Native Computing](https://arxiv.org/abs/2512.23494v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation](https://arxiv.org/abs/2509.15965v2)** | 2025-12-29 | <details><summary>GitHu...</summary><p>GitHub Repo: https://github.com/RLinf/RLinf</p></details> |
+| **[Bitcoin-IPC: Scaling Bitcoin with a Network of Proof-of-Stake Subnets](https://arxiv.org/abs/2512.23439v1)** | 2025-12-29 | 31 pages, 13 figures |
+| **[Local Rendezvous Hashing: Bounded Loads and Minimal Churn via Cache-Local Candidates](https://arxiv.org/abs/2512.23434v1)** | 2025-12-29 | <details><summary>14 pa...</summary><p>14 pages, 10 figures. Includes appendices</p></details> |
+| **[An SLO Driven and Cost-Aware Autoscaling Framework for Kubernetes](https://arxiv.org/abs/2512.23415v1)** | 2025-12-29 |  |
+| **[RapunSL: Untangling Quantum Computing with Separation, Linear Combination and Mixing](https://arxiv.org/abs/2511.23472v3)** | 2025-12-29 | <details><summary>Full ...</summary><p>Full version of the conference paper at POPL 2026. The first two authors contributed equally to this work</p></details> |
+| **[Parameter-Efficient and Personalized Federated Training of Generative Models at the Edge](https://arxiv.org/abs/2511.11585v3)** | 2025-12-29 | 37 pages, 8 figures |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
-| **[Robust Federated Learning in Unreliable Wireless Networks: A Client Selection Approach](https://arxiv.org/abs/2502.17260v4)** | 2025-12-26 |  |
-| **[Communication-Efficient and Differentially Private Vertical Federated Learning with Zeroth-Order Optimization](https://arxiv.org/abs/2502.20565v3)** | 2025-12-26 |  |
-| **[Prefill vs. Decode Bottlenecks: SRAM-Frequency Tradeoffs and the Memory-Bandwidth Ceiling](https://arxiv.org/abs/2512.22066v1)** | 2025-12-26 |  |
-| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
-| **[A Theory of Conversion Relations for Prefixed Units of Measure](https://arxiv.org/abs/2212.11580v6)** | 2025-12-26 |  |
-| **[LOG.io: Unified Rollback Recovery and Data Lineage Capture for Distributed Data Pipelines](https://arxiv.org/abs/2512.16038v2)** | 2025-12-26 |  |
-| **[FUSCO: High-Performance Distributed Data Shuffling via Transformation-Communication Fusion](https://arxiv.org/abs/2512.22036v1)** | 2025-12-26 |  |
-| **[Robust Federated Fine-Tuning in Heterogeneous Networks with Unreliable Connections: An Aggregation View](https://arxiv.org/abs/2512.22035v1)** | 2025-12-26 |  |
-| **[BLEST: Blazingly Efficient BFS using Tensor Cores](https://arxiv.org/abs/2512.21967v1)** | 2025-12-26 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 4 tables, 3 algorithms, 46 references</p></details> |
-| **[Parameter-Efficient and Personalized Federated Training of Generative Models at the Edge](https://arxiv.org/abs/2511.11585v2)** | 2025-12-26 | 37 pages, 8 figures |
-| **[ESCHER: Efficient and Scalable Hypergraph Evolution Representation with Application to Triad Counting](https://arxiv.org/abs/2512.21009v2)** | 2025-12-26 |  |
-| **[Optimizing Resource Allocation for Geographically-Distributed Inference by Large Language Models](https://arxiv.org/abs/2512.21884v1)** | 2025-12-26 |  |
-| **[LIME:Accelerating Collaborative Lossless LLM Inference on Memory-Constrained Edge Devices](https://arxiv.org/abs/2512.21835v1)** | 2025-12-26 | 15 pages, 18 figures |
-| **[Smart IoT-Based Leak Forecasting and Detection for Energy-Efficient Liquid Cooling in AI Data Centers](https://arxiv.org/abs/2512.21801v1)** | 2025-12-25 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, IEEE conference format</p></details> |
+| **[Automating the Analysis of Parsing Algorithms (and other Dynamic Programs)](https://arxiv.org/abs/2512.23665v1)** | 2025-12-29 | <details><summary>2021 ...</summary><p>2021 manuscript; accepted by TACL but not revised for publication</p></details> |
+| **[Sedna: Sharding transactions in multiple concurrent proposer blockchains](https://arxiv.org/abs/2512.17045v2)** | 2025-12-29 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
+| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[Fancy Some Chips for Your TeaStore? Modeling the Control of an Adaptable Discrete System](https://arxiv.org/abs/2512.23496v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054. This work was supported by the ANR grant ANR-23-CE25-0004 (ADAPT). O. Kouchnarenko was supported by the EIPHI Graduate School (grant number ANR-17-EURE-0002)</p></details> |
+| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[Optimal Configuration of API Resources in Cloud Native Computing](https://arxiv.org/abs/2512.23494v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
+| **[RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation](https://arxiv.org/abs/2509.15965v2)** | 2025-12-29 | <details><summary>GitHu...</summary><p>GitHub Repo: https://github.com/RLinf/RLinf</p></details> |
+| **[Bitcoin-IPC: Scaling Bitcoin with a Network of Proof-of-Stake Subnets](https://arxiv.org/abs/2512.23439v1)** | 2025-12-29 | 31 pages, 13 figures |
+| **[Local Rendezvous Hashing: Bounded Loads and Minimal Churn via Cache-Local Candidates](https://arxiv.org/abs/2512.23434v1)** | 2025-12-29 | <details><summary>14 pa...</summary><p>14 pages, 10 figures. Includes appendices</p></details> |
+| **[An SLO Driven and Cost-Aware Autoscaling Framework for Kubernetes](https://arxiv.org/abs/2512.23415v1)** | 2025-12-29 |  |
+| **[RapunSL: Untangling Quantum Computing with Separation, Linear Combination and Mixing](https://arxiv.org/abs/2511.23472v3)** | 2025-12-29 | <details><summary>Full ...</summary><p>Full version of the conference paper at POPL 2026. The first two authors contributed equally to this work</p></details> |
+| **[Parameter-Efficient and Personalized Federated Training of Generative Models at the Edge](https://arxiv.org/abs/2511.11585v3)** | 2025-12-29 | 37 pages, 8 figures |
 
