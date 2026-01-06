@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 06, 2026
+title: Latest 15 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Magnified View into Heterogeneous-ISA Thread Migration Performance without State Transformation](https://arxiv.org/abs/2512.24530v2)** | 2026-01-02 | <details><summary>Edit:...</summary><p>Edit: Removed bogus journal footnote</p></details> |
-| **[Pod: An Optimal-Latency, Censorship-Free, and Accountable Generalized Consensus Layer](https://arxiv.org/abs/2501.14931v5)** | 2026-01-02 | <details><summary>Updat...</summary><p>Updated license from previous version</p></details> |
-| **[FlexSpec: Frozen Drafts Meet Evolving Targets in Edge-Cloud Collaborative LLM Speculative Decoding](https://arxiv.org/abs/2601.00644v1)** | 2026-01-02 |  |
-| **[Parallel Scan on Ascend AI Accelerators](https://arxiv.org/abs/2505.15112v2)** | 2026-01-02 | <details><summary>Exten...</summary><p>Extended abstract of IPDPS 2025 with additional improvements</p></details> |
-| **[Cost-Performance Analysis of Cloud-Based Retail Point-of-Sale Systems: A Comparative Study of Google Cloud Platform and Microsoft Azure](https://arxiv.org/abs/2601.00530v1)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted at 38th International Conference on Computer Applications in Industry and Engineering (CAINE 2025)</p></details> |
-| **[Federated Customization of Large Models: Approaches, Experiments, and Insights](https://arxiv.org/abs/2601.00526v1)** | 2026-01-02 | 8 pages, 1 figure |
-| **[Secure, Verifiable, and Scalable Multi-Client Data Sharing via Consensus-Based Privacy-Preserving Data Distribution](https://arxiv.org/abs/2601.00418v1)** | 2026-01-01 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[Revati: Transparent GPU-Free Time-Warp Emulation for LLM Serving](https://arxiv.org/abs/2601.00397v1)** | 2026-01-01 |  |
-| **[Personalized Federated Heat-Kernel Enhanced Multi-View Clustering via Advanced Tensor Decomposition Techniques](https://arxiv.org/abs/2509.16101v4)** | 2026-01-01 | <details><summary>37 pa...</summary><p>37 pages, 4 algorithms, 5 tables, and 5 figures</p></details> |
-| **[Word Frequency Counting Based on Serverless MapReduce](https://arxiv.org/abs/2601.00380v1)** | 2026-01-01 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, International Conference on Engineering Management, Information Technology and Intelligence (EMITI 2024)</p></details> |
-| **[From Description to Score: Can LLMs Quantify Vulnerabilities?](https://arxiv.org/abs/2512.06781v2)** | 2026-01-01 | 10 pages |
-| **[Virtual Garbage Collector (VGC): A Zone-Based Garbage Collection Architecture for Python's Parallel Runtime](https://arxiv.org/abs/2512.23768v2)** | 2026-01-01 | <details><summary>30 pa...</summary><p>30 pages, 5 figures. Primary category cs.PL, secondary cs.DC</p></details> |
-| **[Accelerating Edge Inference for Distributed MoE Models with Latency-Optimized Expert Placement](https://arxiv.org/abs/2508.12851v2)** | 2026-01-01 |  |
-| **[Bio-inspired Agentic Self-healing Framework for Resilient Distributed Computing Continuum Systems](https://arxiv.org/abs/2601.00339v1)** | 2026-01-01 |  |
-| **[From Consensus to Chaos: A Vulnerability Assessment of the RAFT Algorithm](https://arxiv.org/abs/2601.00273v1)** | 2026-01-01 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 3 tables. Published in International Journal of Advanced Computer Science and Applications (IJACSA), Vol. 16, No. 12 (2025)</p></details> |
+| **[BitDecoding: Unlocking Tensor Cores for Long-Context LLMs with Low-Bit KV Cache](https://arxiv.org/abs/2503.18773v3)** | 2026-01-05 |  |
+| **[Placement Semantics for Distributed Deep Learning: A Systematic Framework for Analyzing Parallelism Strategies](https://arxiv.org/abs/2601.02311v1)** | 2026-01-05 | 8 pages, 3 tables |
+| **[Rollbaccine : Herd Immunity against Storage Rollback Attacks in TEEs [Technical Report]](https://arxiv.org/abs/2505.04014v3)** | 2026-01-05 | <details><summary>Techn...</summary><p>Technical report of paper accepted at SIGMOD 2026</p></details> |
+| **[BigSUMO: A Scalable Framework for Big Data Traffic Analytics and Parallel Simulation](https://arxiv.org/abs/2601.02286v1)** | 2026-01-05 | 6 pages, 10 figures |
+| **[On Optimizing Resource Utilization in Distributed Connected Components](https://arxiv.org/abs/2507.03695v5)** | 2026-01-05 |  |
+| **[Vouchsafe: A Zero-Infrastructure Capability Graph Model for Offline Identity and Trust](https://arxiv.org/abs/2601.02254v1)** | 2026-01-05 | 32 pages |
+| **[Deciding Serializability in Network Systems](https://arxiv.org/abs/2601.02251v1)** | 2026-01-05 | <details><summary>To ap...</summary><p>To appear in TACAS 2026</p></details> |
+| **[MLIR-Smith: A Novel Random Program Generator for Evaluating Compiler Pipelines](https://arxiv.org/abs/2601.02218v1)** | 2026-01-05 |  |
+| **[AQUAREUM: Non-Equivocating Censorship-Evident Centralized Ledger with EVM-Based Verifiable Execution using Trusted Computing and Blockchain](https://arxiv.org/abs/2005.13339v2)** | 2026-01-05 |  |
+| **[Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints](https://arxiv.org/abs/2504.11320v2)** | 2026-01-05 | 49 pages, 18 figures |
+| **[SuperSFL: Resource-Heterogeneous Federated Split Learning with Weight-Sharing Super-Networks](https://arxiv.org/abs/2601.02092v1)** | 2026-01-05 |  |
+| **[Cutting Quantum Circuits Beyond Qubits](https://arxiv.org/abs/2601.02064v1)** | 2026-01-05 |  |
+| **[Perish or Flourish? A Holistic Evaluation of Large Language Models for Code Generation in Functional Programming](https://arxiv.org/abs/2601.02060v1)** | 2026-01-05 |  |
+| **[Differential Privacy for Secure Machine Learning in Healthcare IoT-Cloud Systems](https://arxiv.org/abs/2512.10426v2)** | 2026-01-05 |  |
+| **[The New Compiler Stack: A Survey on the Synergy of LLMs and Compilers](https://arxiv.org/abs/2601.02045v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted by CCF Transactions on High Performance Computing</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Magnified View into Heterogeneous-ISA Thread Migration Performance without State Transformation](https://arxiv.org/abs/2512.24530v2)** | 2026-01-02 | <details><summary>Edit:...</summary><p>Edit: Removed bogus journal footnote</p></details> |
-| **[Pod: An Optimal-Latency, Censorship-Free, and Accountable Generalized Consensus Layer](https://arxiv.org/abs/2501.14931v5)** | 2026-01-02 | <details><summary>Updat...</summary><p>Updated license from previous version</p></details> |
-| **[FlexSpec: Frozen Drafts Meet Evolving Targets in Edge-Cloud Collaborative LLM Speculative Decoding](https://arxiv.org/abs/2601.00644v1)** | 2026-01-02 |  |
-| **[Parallel Scan on Ascend AI Accelerators](https://arxiv.org/abs/2505.15112v2)** | 2026-01-02 | <details><summary>Exten...</summary><p>Extended abstract of IPDPS 2025 with additional improvements</p></details> |
-| **[Cost-Performance Analysis of Cloud-Based Retail Point-of-Sale Systems: A Comparative Study of Google Cloud Platform and Microsoft Azure](https://arxiv.org/abs/2601.00530v1)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted at 38th International Conference on Computer Applications in Industry and Engineering (CAINE 2025)</p></details> |
-| **[Federated Customization of Large Models: Approaches, Experiments, and Insights](https://arxiv.org/abs/2601.00526v1)** | 2026-01-02 | 8 pages, 1 figure |
-| **[Secure, Verifiable, and Scalable Multi-Client Data Sharing via Consensus-Based Privacy-Preserving Data Distribution](https://arxiv.org/abs/2601.00418v1)** | 2026-01-01 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[Revati: Transparent GPU-Free Time-Warp Emulation for LLM Serving](https://arxiv.org/abs/2601.00397v1)** | 2026-01-01 |  |
-| **[Personalized Federated Heat-Kernel Enhanced Multi-View Clustering via Advanced Tensor Decomposition Techniques](https://arxiv.org/abs/2509.16101v4)** | 2026-01-01 | <details><summary>37 pa...</summary><p>37 pages, 4 algorithms, 5 tables, and 5 figures</p></details> |
-| **[Word Frequency Counting Based on Serverless MapReduce](https://arxiv.org/abs/2601.00380v1)** | 2026-01-01 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, International Conference on Engineering Management, Information Technology and Intelligence (EMITI 2024)</p></details> |
-| **[From Description to Score: Can LLMs Quantify Vulnerabilities?](https://arxiv.org/abs/2512.06781v2)** | 2026-01-01 | 10 pages |
-| **[Virtual Garbage Collector (VGC): A Zone-Based Garbage Collection Architecture for Python's Parallel Runtime](https://arxiv.org/abs/2512.23768v2)** | 2026-01-01 | <details><summary>30 pa...</summary><p>30 pages, 5 figures. Primary category cs.PL, secondary cs.DC</p></details> |
-| **[Accelerating Edge Inference for Distributed MoE Models with Latency-Optimized Expert Placement](https://arxiv.org/abs/2508.12851v2)** | 2026-01-01 |  |
-| **[Bio-inspired Agentic Self-healing Framework for Resilient Distributed Computing Continuum Systems](https://arxiv.org/abs/2601.00339v1)** | 2026-01-01 |  |
-| **[From Consensus to Chaos: A Vulnerability Assessment of the RAFT Algorithm](https://arxiv.org/abs/2601.00273v1)** | 2026-01-01 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 3 tables. Published in International Journal of Advanced Computer Science and Applications (IJACSA), Vol. 16, No. 12 (2025)</p></details> |
+| **[BitDecoding: Unlocking Tensor Cores for Long-Context LLMs with Low-Bit KV Cache](https://arxiv.org/abs/2503.18773v3)** | 2026-01-05 |  |
+| **[Placement Semantics for Distributed Deep Learning: A Systematic Framework for Analyzing Parallelism Strategies](https://arxiv.org/abs/2601.02311v1)** | 2026-01-05 | 8 pages, 3 tables |
+| **[Rollbaccine : Herd Immunity against Storage Rollback Attacks in TEEs [Technical Report]](https://arxiv.org/abs/2505.04014v3)** | 2026-01-05 | <details><summary>Techn...</summary><p>Technical report of paper accepted at SIGMOD 2026</p></details> |
+| **[BigSUMO: A Scalable Framework for Big Data Traffic Analytics and Parallel Simulation](https://arxiv.org/abs/2601.02286v1)** | 2026-01-05 | 6 pages, 10 figures |
+| **[On Optimizing Resource Utilization in Distributed Connected Components](https://arxiv.org/abs/2507.03695v5)** | 2026-01-05 |  |
+| **[Vouchsafe: A Zero-Infrastructure Capability Graph Model for Offline Identity and Trust](https://arxiv.org/abs/2601.02254v1)** | 2026-01-05 | 32 pages |
+| **[Deciding Serializability in Network Systems](https://arxiv.org/abs/2601.02251v1)** | 2026-01-05 | <details><summary>To ap...</summary><p>To appear in TACAS 2026</p></details> |
+| **[MLIR-Smith: A Novel Random Program Generator for Evaluating Compiler Pipelines](https://arxiv.org/abs/2601.02218v1)** | 2026-01-05 |  |
+| **[AQUAREUM: Non-Equivocating Censorship-Evident Centralized Ledger with EVM-Based Verifiable Execution using Trusted Computing and Blockchain](https://arxiv.org/abs/2005.13339v2)** | 2026-01-05 |  |
+| **[Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints](https://arxiv.org/abs/2504.11320v2)** | 2026-01-05 | 49 pages, 18 figures |
+| **[SuperSFL: Resource-Heterogeneous Federated Split Learning with Weight-Sharing Super-Networks](https://arxiv.org/abs/2601.02092v1)** | 2026-01-05 |  |
+| **[Cutting Quantum Circuits Beyond Qubits](https://arxiv.org/abs/2601.02064v1)** | 2026-01-05 |  |
+| **[Perish or Flourish? A Holistic Evaluation of Large Language Models for Code Generation in Functional Programming](https://arxiv.org/abs/2601.02060v1)** | 2026-01-05 |  |
+| **[Differential Privacy for Secure Machine Learning in Healthcare IoT-Cloud Systems](https://arxiv.org/abs/2512.10426v2)** | 2026-01-05 |  |
+| **[The New Compiler Stack: A Survey on the Synergy of LLMs and Compilers](https://arxiv.org/abs/2601.02045v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted by CCF Transactions on High Performance Computing</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Magnified View into Heterogeneous-ISA Thread Migration Performance without State Transformation](https://arxiv.org/abs/2512.24530v2)** | 2026-01-02 | <details><summary>Edit:...</summary><p>Edit: Removed bogus journal footnote</p></details> |
-| **[Pod: An Optimal-Latency, Censorship-Free, and Accountable Generalized Consensus Layer](https://arxiv.org/abs/2501.14931v5)** | 2026-01-02 | <details><summary>Updat...</summary><p>Updated license from previous version</p></details> |
-| **[FlexSpec: Frozen Drafts Meet Evolving Targets in Edge-Cloud Collaborative LLM Speculative Decoding](https://arxiv.org/abs/2601.00644v1)** | 2026-01-02 |  |
-| **[Parallel Scan on Ascend AI Accelerators](https://arxiv.org/abs/2505.15112v2)** | 2026-01-02 | <details><summary>Exten...</summary><p>Extended abstract of IPDPS 2025 with additional improvements</p></details> |
-| **[Cost-Performance Analysis of Cloud-Based Retail Point-of-Sale Systems: A Comparative Study of Google Cloud Platform and Microsoft Azure](https://arxiv.org/abs/2601.00530v1)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted at 38th International Conference on Computer Applications in Industry and Engineering (CAINE 2025)</p></details> |
-| **[Federated Customization of Large Models: Approaches, Experiments, and Insights](https://arxiv.org/abs/2601.00526v1)** | 2026-01-02 | 8 pages, 1 figure |
-| **[Secure, Verifiable, and Scalable Multi-Client Data Sharing via Consensus-Based Privacy-Preserving Data Distribution](https://arxiv.org/abs/2601.00418v1)** | 2026-01-01 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[Revati: Transparent GPU-Free Time-Warp Emulation for LLM Serving](https://arxiv.org/abs/2601.00397v1)** | 2026-01-01 |  |
-| **[Personalized Federated Heat-Kernel Enhanced Multi-View Clustering via Advanced Tensor Decomposition Techniques](https://arxiv.org/abs/2509.16101v4)** | 2026-01-01 | <details><summary>37 pa...</summary><p>37 pages, 4 algorithms, 5 tables, and 5 figures</p></details> |
-| **[Word Frequency Counting Based on Serverless MapReduce](https://arxiv.org/abs/2601.00380v1)** | 2026-01-01 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, International Conference on Engineering Management, Information Technology and Intelligence (EMITI 2024)</p></details> |
-| **[From Description to Score: Can LLMs Quantify Vulnerabilities?](https://arxiv.org/abs/2512.06781v2)** | 2026-01-01 | 10 pages |
-| **[Virtual Garbage Collector (VGC): A Zone-Based Garbage Collection Architecture for Python's Parallel Runtime](https://arxiv.org/abs/2512.23768v2)** | 2026-01-01 | <details><summary>30 pa...</summary><p>30 pages, 5 figures. Primary category cs.PL, secondary cs.DC</p></details> |
-| **[Accelerating Edge Inference for Distributed MoE Models with Latency-Optimized Expert Placement](https://arxiv.org/abs/2508.12851v2)** | 2026-01-01 |  |
-| **[Bio-inspired Agentic Self-healing Framework for Resilient Distributed Computing Continuum Systems](https://arxiv.org/abs/2601.00339v1)** | 2026-01-01 |  |
-| **[From Consensus to Chaos: A Vulnerability Assessment of the RAFT Algorithm](https://arxiv.org/abs/2601.00273v1)** | 2026-01-01 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 3 tables. Published in International Journal of Advanced Computer Science and Applications (IJACSA), Vol. 16, No. 12 (2025)</p></details> |
+| **[BitDecoding: Unlocking Tensor Cores for Long-Context LLMs with Low-Bit KV Cache](https://arxiv.org/abs/2503.18773v3)** | 2026-01-05 |  |
+| **[Placement Semantics for Distributed Deep Learning: A Systematic Framework for Analyzing Parallelism Strategies](https://arxiv.org/abs/2601.02311v1)** | 2026-01-05 | 8 pages, 3 tables |
+| **[Rollbaccine : Herd Immunity against Storage Rollback Attacks in TEEs [Technical Report]](https://arxiv.org/abs/2505.04014v3)** | 2026-01-05 | <details><summary>Techn...</summary><p>Technical report of paper accepted at SIGMOD 2026</p></details> |
+| **[BigSUMO: A Scalable Framework for Big Data Traffic Analytics and Parallel Simulation](https://arxiv.org/abs/2601.02286v1)** | 2026-01-05 | 6 pages, 10 figures |
+| **[On Optimizing Resource Utilization in Distributed Connected Components](https://arxiv.org/abs/2507.03695v5)** | 2026-01-05 |  |
+| **[Vouchsafe: A Zero-Infrastructure Capability Graph Model for Offline Identity and Trust](https://arxiv.org/abs/2601.02254v1)** | 2026-01-05 | 32 pages |
+| **[Deciding Serializability in Network Systems](https://arxiv.org/abs/2601.02251v1)** | 2026-01-05 | <details><summary>To ap...</summary><p>To appear in TACAS 2026</p></details> |
+| **[MLIR-Smith: A Novel Random Program Generator for Evaluating Compiler Pipelines](https://arxiv.org/abs/2601.02218v1)** | 2026-01-05 |  |
+| **[AQUAREUM: Non-Equivocating Censorship-Evident Centralized Ledger with EVM-Based Verifiable Execution using Trusted Computing and Blockchain](https://arxiv.org/abs/2005.13339v2)** | 2026-01-05 |  |
+| **[Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints](https://arxiv.org/abs/2504.11320v2)** | 2026-01-05 | 49 pages, 18 figures |
+| **[SuperSFL: Resource-Heterogeneous Federated Split Learning with Weight-Sharing Super-Networks](https://arxiv.org/abs/2601.02092v1)** | 2026-01-05 |  |
+| **[Cutting Quantum Circuits Beyond Qubits](https://arxiv.org/abs/2601.02064v1)** | 2026-01-05 |  |
+| **[Perish or Flourish? A Holistic Evaluation of Large Language Models for Code Generation in Functional Programming](https://arxiv.org/abs/2601.02060v1)** | 2026-01-05 |  |
+| **[Differential Privacy for Secure Machine Learning in Healthcare IoT-Cloud Systems](https://arxiv.org/abs/2512.10426v2)** | 2026-01-05 |  |
+| **[The New Compiler Stack: A Survey on the Synergy of LLMs and Compilers](https://arxiv.org/abs/2601.02045v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted by CCF Transactions on High Performance Computing</p></details> |
 
