@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 08, 2026
+title: Latest 15 Papers - January 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TTrace: Lightweight Error Checking and Diagnosis for Distributed Training](https://arxiv.org/abs/2506.09280v2)** | 2026-01-06 |  |
-| **[Proceedings 16th International Workshop on Graph Computation Models](https://arxiv.org/abs/2601.03249v1)** | 2026-01-06 |  |
-| **[Software-Defined Agentic Serving](https://arxiv.org/abs/2601.03197v1)** | 2026-01-06 |  |
-| **[Rapid Augmentations for Time Series (RATS): A High-Performance Library for Time Series Augmentation](https://arxiv.org/abs/2601.03159v1)** | 2026-01-06 |  |
-| **[Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC](https://arxiv.org/abs/2506.24045v2)** | 2026-01-06 |  |
-| **[FSLH: Flexible Mechanized Speculative Load Hardening](https://arxiv.org/abs/2502.03203v6)** | 2026-01-06 | <details><summary>CSF'2...</summary><p>CSF'25 camera-ready version extended with appendices and a few typos fixed</p></details> |
-| **[MAST: Model-Agnostic Sparsified Training](https://arxiv.org/abs/2311.16086v2)** | 2026-01-06 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
-| **[BandPilot: Towards Performance- and Contention-Aware GPU Dispatching in AI Clusters](https://arxiv.org/abs/2506.15595v4)** | 2026-01-06 | 13 pages, 9 figures |
-| **[Asynchronous Global Protocols, Precisely: Full Proofs](https://arxiv.org/abs/2505.17676v2)** | 2026-01-06 | 44 pages |
-| **[A Survey on Failure Analysis and Fault Injection in AI Systems](https://arxiv.org/abs/2407.00125v2)** | 2026-01-06 | Accepted by TOSEM |
-| **[Exploring Blockchain Interoperability: Frameworks, Use Cases, and Future Challenges](https://arxiv.org/abs/2601.02949v1)** | 2026-01-06 |  |
-| **[Proceedings of the 1st International Workshop on Low Carbon Computing (LOCO 2024)](https://arxiv.org/abs/2601.02898v1)** | 2026-01-06 | <details><summary>arXiv...</summary><p>arXiv overlay proceedings for LOCO 2024. Living index of papers submitted individually</p></details> |
-| **[Scalable Tree Ensemble Proximities in Python](https://arxiv.org/abs/2601.02735v1)** | 2026-01-06 |  |
-| **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Resource Efficiency](https://arxiv.org/abs/2505.24551v4)** | 2026-01-06 |  |
-| **[Making MoE-based LLM Inference Resilient with Tarragon](https://arxiv.org/abs/2601.01310v2)** | 2026-01-06 |  |
+| **[FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning](https://arxiv.org/abs/2412.04416v2)** | 2026-01-07 | <details><summary>Trans...</summary><p>Transactions on Machine Learning Research (TMLR)</p></details> |
+| **[Failure-Resilient and Carbon-Efficient Deployment of Microservices over the Cloud-Edge Continuum](https://arxiv.org/abs/2601.04123v1)** | 2026-01-07 | <details><summary>Submi...</summary><p>Submitted to Cluster Computing</p></details> |
+| **[On the Operational Resilience of CBDC: Threats and Prospects of Formal Validation for Offline Payments](https://arxiv.org/abs/2508.08064v3)** | 2026-01-07 |  |
+| **[CSSG: Measuring Code Similarity with Semantic Graphs](https://arxiv.org/abs/2601.04085v1)** | 2026-01-07 |  |
+| **[Supercomputing for High-speed Avoidance and Reactive Planning in Robots](https://arxiv.org/abs/2509.19486v3)** | 2026-01-07 | <details><summary>Error...</summary><p>Error in the graph size calculation, recalculated and resubmitted</p></details> |
+| **[Hummingbird: SLO-Oriented GPU Preemption at Microsecond-scale](https://arxiv.org/abs/2601.04071v1)** | 2026-01-07 |  |
+| **[Deadlock-free Context-free Session Types](https://arxiv.org/abs/2506.20356v2)** | 2026-01-07 |  |
+| **[Venus: An Efficient Edge Memory-and-Retrieval System for VLM-based Online Video Understanding](https://arxiv.org/abs/2512.07344v2)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Computer Communications 2026</p></details> |
+| **[A Scheduling Framework for Efficient MoE Inference on Edge GPU-NDP Systems](https://arxiv.org/abs/2601.03992v1)** | 2026-01-07 | <details><summary>To ap...</summary><p>To appear in 2026 Design, Automation and Test in Europe Conference (DATE 2026)</p></details> |
+| **[Static Deadlock Detection for Rust Programs](https://arxiv.org/abs/2401.01114v2)** | 2026-01-07 |  |
+| **[$\varphi$-Calculus: Object-Oriented Formalism](https://arxiv.org/abs/2111.13384v9)** | 2026-01-07 |  |
+| **[Implementing Binary Search Trees in GP 2 (Extended Abstract)](https://arxiv.org/abs/2601.03897v1)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings GCM 2025, arXiv:2601.03249</p></details> |
+| **[Algebraic and Algorithmic Methods for Computing Polynomial Loop Invariants](https://arxiv.org/abs/2412.14043v2)** | 2026-01-07 | 44 pages, 1 figure |
+| **[Majorum: Ebb-and-Flow Consensus with Dynamic Quorums](https://arxiv.org/abs/2601.03862v1)** | 2026-01-07 |  |
+| **[Picat Through the Lens of Advent of Code](https://arxiv.org/abs/2507.11731v2)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TTrace: Lightweight Error Checking and Diagnosis for Distributed Training](https://arxiv.org/abs/2506.09280v2)** | 2026-01-06 |  |
-| **[Proceedings 16th International Workshop on Graph Computation Models](https://arxiv.org/abs/2601.03249v1)** | 2026-01-06 |  |
-| **[Software-Defined Agentic Serving](https://arxiv.org/abs/2601.03197v1)** | 2026-01-06 |  |
-| **[Rapid Augmentations for Time Series (RATS): A High-Performance Library for Time Series Augmentation](https://arxiv.org/abs/2601.03159v1)** | 2026-01-06 |  |
-| **[Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC](https://arxiv.org/abs/2506.24045v2)** | 2026-01-06 |  |
-| **[FSLH: Flexible Mechanized Speculative Load Hardening](https://arxiv.org/abs/2502.03203v6)** | 2026-01-06 | <details><summary>CSF'2...</summary><p>CSF'25 camera-ready version extended with appendices and a few typos fixed</p></details> |
-| **[MAST: Model-Agnostic Sparsified Training](https://arxiv.org/abs/2311.16086v2)** | 2026-01-06 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
-| **[BandPilot: Towards Performance- and Contention-Aware GPU Dispatching in AI Clusters](https://arxiv.org/abs/2506.15595v4)** | 2026-01-06 | 13 pages, 9 figures |
-| **[Asynchronous Global Protocols, Precisely: Full Proofs](https://arxiv.org/abs/2505.17676v2)** | 2026-01-06 | 44 pages |
-| **[A Survey on Failure Analysis and Fault Injection in AI Systems](https://arxiv.org/abs/2407.00125v2)** | 2026-01-06 | Accepted by TOSEM |
-| **[Exploring Blockchain Interoperability: Frameworks, Use Cases, and Future Challenges](https://arxiv.org/abs/2601.02949v1)** | 2026-01-06 |  |
-| **[Proceedings of the 1st International Workshop on Low Carbon Computing (LOCO 2024)](https://arxiv.org/abs/2601.02898v1)** | 2026-01-06 | <details><summary>arXiv...</summary><p>arXiv overlay proceedings for LOCO 2024. Living index of papers submitted individually</p></details> |
-| **[Scalable Tree Ensemble Proximities in Python](https://arxiv.org/abs/2601.02735v1)** | 2026-01-06 |  |
-| **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Resource Efficiency](https://arxiv.org/abs/2505.24551v4)** | 2026-01-06 |  |
-| **[Making MoE-based LLM Inference Resilient with Tarragon](https://arxiv.org/abs/2601.01310v2)** | 2026-01-06 |  |
+| **[FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning](https://arxiv.org/abs/2412.04416v2)** | 2026-01-07 | <details><summary>Trans...</summary><p>Transactions on Machine Learning Research (TMLR)</p></details> |
+| **[Failure-Resilient and Carbon-Efficient Deployment of Microservices over the Cloud-Edge Continuum](https://arxiv.org/abs/2601.04123v1)** | 2026-01-07 | <details><summary>Submi...</summary><p>Submitted to Cluster Computing</p></details> |
+| **[On the Operational Resilience of CBDC: Threats and Prospects of Formal Validation for Offline Payments](https://arxiv.org/abs/2508.08064v3)** | 2026-01-07 |  |
+| **[CSSG: Measuring Code Similarity with Semantic Graphs](https://arxiv.org/abs/2601.04085v1)** | 2026-01-07 |  |
+| **[Supercomputing for High-speed Avoidance and Reactive Planning in Robots](https://arxiv.org/abs/2509.19486v3)** | 2026-01-07 | <details><summary>Error...</summary><p>Error in the graph size calculation, recalculated and resubmitted</p></details> |
+| **[Hummingbird: SLO-Oriented GPU Preemption at Microsecond-scale](https://arxiv.org/abs/2601.04071v1)** | 2026-01-07 |  |
+| **[Deadlock-free Context-free Session Types](https://arxiv.org/abs/2506.20356v2)** | 2026-01-07 |  |
+| **[Venus: An Efficient Edge Memory-and-Retrieval System for VLM-based Online Video Understanding](https://arxiv.org/abs/2512.07344v2)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Computer Communications 2026</p></details> |
+| **[A Scheduling Framework for Efficient MoE Inference on Edge GPU-NDP Systems](https://arxiv.org/abs/2601.03992v1)** | 2026-01-07 | <details><summary>To ap...</summary><p>To appear in 2026 Design, Automation and Test in Europe Conference (DATE 2026)</p></details> |
+| **[Static Deadlock Detection for Rust Programs](https://arxiv.org/abs/2401.01114v2)** | 2026-01-07 |  |
+| **[$\varphi$-Calculus: Object-Oriented Formalism](https://arxiv.org/abs/2111.13384v9)** | 2026-01-07 |  |
+| **[Implementing Binary Search Trees in GP 2 (Extended Abstract)](https://arxiv.org/abs/2601.03897v1)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings GCM 2025, arXiv:2601.03249</p></details> |
+| **[Algebraic and Algorithmic Methods for Computing Polynomial Loop Invariants](https://arxiv.org/abs/2412.14043v2)** | 2026-01-07 | 44 pages, 1 figure |
+| **[Majorum: Ebb-and-Flow Consensus with Dynamic Quorums](https://arxiv.org/abs/2601.03862v1)** | 2026-01-07 |  |
+| **[Picat Through the Lens of Advent of Code](https://arxiv.org/abs/2507.11731v2)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TTrace: Lightweight Error Checking and Diagnosis for Distributed Training](https://arxiv.org/abs/2506.09280v2)** | 2026-01-06 |  |
-| **[Proceedings 16th International Workshop on Graph Computation Models](https://arxiv.org/abs/2601.03249v1)** | 2026-01-06 |  |
-| **[Software-Defined Agentic Serving](https://arxiv.org/abs/2601.03197v1)** | 2026-01-06 |  |
-| **[Rapid Augmentations for Time Series (RATS): A High-Performance Library for Time Series Augmentation](https://arxiv.org/abs/2601.03159v1)** | 2026-01-06 |  |
-| **[Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC](https://arxiv.org/abs/2506.24045v2)** | 2026-01-06 |  |
-| **[FSLH: Flexible Mechanized Speculative Load Hardening](https://arxiv.org/abs/2502.03203v6)** | 2026-01-06 | <details><summary>CSF'2...</summary><p>CSF'25 camera-ready version extended with appendices and a few typos fixed</p></details> |
-| **[MAST: Model-Agnostic Sparsified Training](https://arxiv.org/abs/2311.16086v2)** | 2026-01-06 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
-| **[BandPilot: Towards Performance- and Contention-Aware GPU Dispatching in AI Clusters](https://arxiv.org/abs/2506.15595v4)** | 2026-01-06 | 13 pages, 9 figures |
-| **[Asynchronous Global Protocols, Precisely: Full Proofs](https://arxiv.org/abs/2505.17676v2)** | 2026-01-06 | 44 pages |
-| **[A Survey on Failure Analysis and Fault Injection in AI Systems](https://arxiv.org/abs/2407.00125v2)** | 2026-01-06 | Accepted by TOSEM |
-| **[Exploring Blockchain Interoperability: Frameworks, Use Cases, and Future Challenges](https://arxiv.org/abs/2601.02949v1)** | 2026-01-06 |  |
-| **[Proceedings of the 1st International Workshop on Low Carbon Computing (LOCO 2024)](https://arxiv.org/abs/2601.02898v1)** | 2026-01-06 | <details><summary>arXiv...</summary><p>arXiv overlay proceedings for LOCO 2024. Living index of papers submitted individually</p></details> |
-| **[Scalable Tree Ensemble Proximities in Python](https://arxiv.org/abs/2601.02735v1)** | 2026-01-06 |  |
-| **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Resource Efficiency](https://arxiv.org/abs/2505.24551v4)** | 2026-01-06 |  |
-| **[Making MoE-based LLM Inference Resilient with Tarragon](https://arxiv.org/abs/2601.01310v2)** | 2026-01-06 |  |
+| **[FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning](https://arxiv.org/abs/2412.04416v2)** | 2026-01-07 | <details><summary>Trans...</summary><p>Transactions on Machine Learning Research (TMLR)</p></details> |
+| **[Failure-Resilient and Carbon-Efficient Deployment of Microservices over the Cloud-Edge Continuum](https://arxiv.org/abs/2601.04123v1)** | 2026-01-07 | <details><summary>Submi...</summary><p>Submitted to Cluster Computing</p></details> |
+| **[On the Operational Resilience of CBDC: Threats and Prospects of Formal Validation for Offline Payments](https://arxiv.org/abs/2508.08064v3)** | 2026-01-07 |  |
+| **[CSSG: Measuring Code Similarity with Semantic Graphs](https://arxiv.org/abs/2601.04085v1)** | 2026-01-07 |  |
+| **[Supercomputing for High-speed Avoidance and Reactive Planning in Robots](https://arxiv.org/abs/2509.19486v3)** | 2026-01-07 | <details><summary>Error...</summary><p>Error in the graph size calculation, recalculated and resubmitted</p></details> |
+| **[Hummingbird: SLO-Oriented GPU Preemption at Microsecond-scale](https://arxiv.org/abs/2601.04071v1)** | 2026-01-07 |  |
+| **[Deadlock-free Context-free Session Types](https://arxiv.org/abs/2506.20356v2)** | 2026-01-07 |  |
+| **[Venus: An Efficient Edge Memory-and-Retrieval System for VLM-based Online Video Understanding](https://arxiv.org/abs/2512.07344v2)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Computer Communications 2026</p></details> |
+| **[A Scheduling Framework for Efficient MoE Inference on Edge GPU-NDP Systems](https://arxiv.org/abs/2601.03992v1)** | 2026-01-07 | <details><summary>To ap...</summary><p>To appear in 2026 Design, Automation and Test in Europe Conference (DATE 2026)</p></details> |
+| **[Static Deadlock Detection for Rust Programs](https://arxiv.org/abs/2401.01114v2)** | 2026-01-07 |  |
+| **[$\varphi$-Calculus: Object-Oriented Formalism](https://arxiv.org/abs/2111.13384v9)** | 2026-01-07 |  |
+| **[Implementing Binary Search Trees in GP 2 (Extended Abstract)](https://arxiv.org/abs/2601.03897v1)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings GCM 2025, arXiv:2601.03249</p></details> |
+| **[Algebraic and Algorithmic Methods for Computing Polynomial Loop Invariants](https://arxiv.org/abs/2412.14043v2)** | 2026-01-07 | 44 pages, 1 figure |
+| **[Majorum: Ebb-and-Flow Consensus with Dynamic Quorums](https://arxiv.org/abs/2601.03862v1)** | 2026-01-07 |  |
+| **[Picat Through the Lens of Advent of Code](https://arxiv.org/abs/2507.11731v2)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
 
