@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 13, 2026
+title: Latest 15 Papers - January 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Categorical Foundations for CuTe Layouts](https://arxiv.org/abs/2601.05972v1)** | 2026-01-09 | 174 pages |
-| **[Multi-Modal Style Transfer-based Prompt Tuning for Efficient Federated Domain Generalization](https://arxiv.org/abs/2601.05955v1)** | 2026-01-09 |  |
-| **[Collective Communication for 100k+ GPUs](https://arxiv.org/abs/2510.20171v4)** | 2026-01-09 |  |
-| **[Multi-GPU Acceleration of PALABOS Fluid Solver using C++ Standard Parallelism](https://arxiv.org/abs/2506.09242v2)** | 2026-01-09 |  |
-| **[Performance-Portable Optimization and Analysis of Multiple Right-Hand Sides in a Lattice QCD Solver](https://arxiv.org/abs/2601.05816v1)** | 2026-01-09 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 IEEE 32nd International Conference on High Performance Computing, Data, and Analytics (HiPC)</p></details> |
-| **[LACIN: Linearly Arranged Complete Interconnection Networks](https://arxiv.org/abs/2601.05668v1)** | 2026-01-09 | 5 pages, 4 figures |
-| **[A Lazy, Concurrent Convertibility Checker](https://arxiv.org/abs/2510.18418v2)** | 2026-01-09 |  |
-| **[Self-Evolving Distributed Memory Architecture for Scalable AI Systems](https://arxiv.org/abs/2601.05569v1)** | 2026-01-09 | 21 pages |
-| **[Typing Strictness (Extended Version)](https://arxiv.org/abs/2510.16133v2)** | 2026-01-08 | <details><summary>30 pa...</summary><p>30 pages, 22 figures, extended version of a paper at POPL 2026</p></details> |
-| **[Phaedrus: Predicting Dynamic Application Behavior with Lightweight Generative Models and LLMs](https://arxiv.org/abs/2412.06994v5)** | 2026-01-08 |  |
-| **[GPU-based complete search for nonlinear minimization subject to bounds](https://arxiv.org/abs/2507.01770v3)** | 2026-01-08 | 36 pages, 3 figures |
-| **[Dynamic and Distributed Routing in IoT Networks based on Multi-Objective Q-Learning](https://arxiv.org/abs/2505.00918v3)** | 2026-01-08 |  |
-| **[EARL: Energy-Aware Optimization of Liquid State Machines for Pervasive AI](https://arxiv.org/abs/2601.05205v1)** | 2026-01-08 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, 2 Tables, conference [Submitted in PerConAI-2026]</p></details> |
-| **[Nalar: An agent serving framework](https://arxiv.org/abs/2601.05109v1)** | 2026-01-08 |  |
-| **[The Squirrel Parser: A Linear-Time PEG Packrat Parser Capable of Left Recursion and Optimal Error Recovery](https://arxiv.org/abs/2601.05012v1)** | 2026-01-08 |  |
+| **[Beyond Single-GPU: Scaling PDLP to Distributed Multi-GPU Systems](https://arxiv.org/abs/2601.07628v1)** | 2026-01-12 | <details><summary>Distr...</summary><p>Distributed PDLP For Improve PDLP Efficiency</p></details> |
+| **[Peformance Isolation for Inference Processes in Edge GPU Systems](https://arxiv.org/abs/2601.07600v1)** | 2026-01-12 |  |
+| **[MegaFlow: Large-Scale Distributed Orchestration System for the Agentic Era](https://arxiv.org/abs/2601.07526v1)** | 2026-01-12 |  |
+| **[Multi-dimensional Autoscaling of Processing Services: A Comparison of Agent-based Methods](https://arxiv.org/abs/2506.10420v2)** | 2026-01-12 |  |
+| **[Advanced computing for reproducibility of astronomy Big Data Science, with a showcase of AMIGA and the SKA Science prototype](https://arxiv.org/abs/2601.07439v1)** | 2026-01-12 | <details><summary>18 pa...</summary><p>18 pages, 3 figures. Proceedings of the Square Kilometre Array - Cutting Edge Astronomical Facilities & Advanced Computing, 2025 Astrophysics and space Science Series (to be published by 2026)</p></details> |
+| **[OpenTinker: Separating Concerns in Agentic Reinforcement Learning](https://arxiv.org/abs/2601.07376v1)** | 2026-01-12 |  |
+| **[Modern Middlewares for Automated Vehicles: A Tutorial](https://arxiv.org/abs/2412.07817v2)** | 2026-01-12 | <details><summary>This ...</summary><p>This work has been submitted and accepted to the IEEE for possible publication</p></details> |
+| **[Bringing Computation to the data: Interoperable serverless function execution for astrophysical data analysis in the SRCNet](https://arxiv.org/abs/2601.07308v1)** | 2026-01-12 |  |
+| **[Paris: A Decentralized Trained Open-Weight Diffusion Model](https://arxiv.org/abs/2510.03434v2)** | 2026-01-12 |  |
+| **[SC-MII: Infrastructure LiDAR-based 3D Object Detection on Edge Devices for Split Computing with Multiple Intermediate Outputs Integration](https://arxiv.org/abs/2601.07119v1)** | 2026-01-12 | <details><summary>6 pag...</summary><p>6 pages. This version includes minor lstlisting configuration adjustments for successful compilation. No changes to content or layout. Originally published at IEEE CCNC 2026</p></details> |
+| **[MemFine: Memory-Aware Fine-Grained Scheduling for MoE Training](https://arxiv.org/abs/2511.21431v3)** | 2026-01-12 |  |
+| **[Deep Learning Model Deployment in Multiple Cloud Providers: an Exploratory Study Using Low Computing Power Environments](https://arxiv.org/abs/2503.23988v2)** | 2026-01-11 | 15 pages, 7 figures |
+| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v2)** | 2026-01-11 |  |
+| **[Polymorph: Energy-Efficient Multi-Label Classification for Video Streams on Embedded Devices](https://arxiv.org/abs/2507.14959v3)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF winter conference on applications of computer vision (WACV 2026)</p></details> |
+| **[Deciding Serializability in Network Systems](https://arxiv.org/abs/2601.02251v3)** | 2026-01-11 | <details><summary>To ap...</summary><p>To appear in TACAS 2026</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Categorical Foundations for CuTe Layouts](https://arxiv.org/abs/2601.05972v1)** | 2026-01-09 | 174 pages |
-| **[Multi-Modal Style Transfer-based Prompt Tuning for Efficient Federated Domain Generalization](https://arxiv.org/abs/2601.05955v1)** | 2026-01-09 |  |
-| **[Collective Communication for 100k+ GPUs](https://arxiv.org/abs/2510.20171v4)** | 2026-01-09 |  |
-| **[Multi-GPU Acceleration of PALABOS Fluid Solver using C++ Standard Parallelism](https://arxiv.org/abs/2506.09242v2)** | 2026-01-09 |  |
-| **[Performance-Portable Optimization and Analysis of Multiple Right-Hand Sides in a Lattice QCD Solver](https://arxiv.org/abs/2601.05816v1)** | 2026-01-09 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 IEEE 32nd International Conference on High Performance Computing, Data, and Analytics (HiPC)</p></details> |
-| **[LACIN: Linearly Arranged Complete Interconnection Networks](https://arxiv.org/abs/2601.05668v1)** | 2026-01-09 | 5 pages, 4 figures |
-| **[A Lazy, Concurrent Convertibility Checker](https://arxiv.org/abs/2510.18418v2)** | 2026-01-09 |  |
-| **[Self-Evolving Distributed Memory Architecture for Scalable AI Systems](https://arxiv.org/abs/2601.05569v1)** | 2026-01-09 | 21 pages |
-| **[Typing Strictness (Extended Version)](https://arxiv.org/abs/2510.16133v2)** | 2026-01-08 | <details><summary>30 pa...</summary><p>30 pages, 22 figures, extended version of a paper at POPL 2026</p></details> |
-| **[Phaedrus: Predicting Dynamic Application Behavior with Lightweight Generative Models and LLMs](https://arxiv.org/abs/2412.06994v5)** | 2026-01-08 |  |
-| **[GPU-based complete search for nonlinear minimization subject to bounds](https://arxiv.org/abs/2507.01770v3)** | 2026-01-08 | 36 pages, 3 figures |
-| **[Dynamic and Distributed Routing in IoT Networks based on Multi-Objective Q-Learning](https://arxiv.org/abs/2505.00918v3)** | 2026-01-08 |  |
-| **[EARL: Energy-Aware Optimization of Liquid State Machines for Pervasive AI](https://arxiv.org/abs/2601.05205v1)** | 2026-01-08 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, 2 Tables, conference [Submitted in PerConAI-2026]</p></details> |
-| **[Nalar: An agent serving framework](https://arxiv.org/abs/2601.05109v1)** | 2026-01-08 |  |
-| **[The Squirrel Parser: A Linear-Time PEG Packrat Parser Capable of Left Recursion and Optimal Error Recovery](https://arxiv.org/abs/2601.05012v1)** | 2026-01-08 |  |
+| **[Beyond Single-GPU: Scaling PDLP to Distributed Multi-GPU Systems](https://arxiv.org/abs/2601.07628v1)** | 2026-01-12 | <details><summary>Distr...</summary><p>Distributed PDLP For Improve PDLP Efficiency</p></details> |
+| **[Peformance Isolation for Inference Processes in Edge GPU Systems](https://arxiv.org/abs/2601.07600v1)** | 2026-01-12 |  |
+| **[MegaFlow: Large-Scale Distributed Orchestration System for the Agentic Era](https://arxiv.org/abs/2601.07526v1)** | 2026-01-12 |  |
+| **[Multi-dimensional Autoscaling of Processing Services: A Comparison of Agent-based Methods](https://arxiv.org/abs/2506.10420v2)** | 2026-01-12 |  |
+| **[Advanced computing for reproducibility of astronomy Big Data Science, with a showcase of AMIGA and the SKA Science prototype](https://arxiv.org/abs/2601.07439v1)** | 2026-01-12 | <details><summary>18 pa...</summary><p>18 pages, 3 figures. Proceedings of the Square Kilometre Array - Cutting Edge Astronomical Facilities & Advanced Computing, 2025 Astrophysics and space Science Series (to be published by 2026)</p></details> |
+| **[OpenTinker: Separating Concerns in Agentic Reinforcement Learning](https://arxiv.org/abs/2601.07376v1)** | 2026-01-12 |  |
+| **[Modern Middlewares for Automated Vehicles: A Tutorial](https://arxiv.org/abs/2412.07817v2)** | 2026-01-12 | <details><summary>This ...</summary><p>This work has been submitted and accepted to the IEEE for possible publication</p></details> |
+| **[Bringing Computation to the data: Interoperable serverless function execution for astrophysical data analysis in the SRCNet](https://arxiv.org/abs/2601.07308v1)** | 2026-01-12 |  |
+| **[Paris: A Decentralized Trained Open-Weight Diffusion Model](https://arxiv.org/abs/2510.03434v2)** | 2026-01-12 |  |
+| **[SC-MII: Infrastructure LiDAR-based 3D Object Detection on Edge Devices for Split Computing with Multiple Intermediate Outputs Integration](https://arxiv.org/abs/2601.07119v1)** | 2026-01-12 | <details><summary>6 pag...</summary><p>6 pages. This version includes minor lstlisting configuration adjustments for successful compilation. No changes to content or layout. Originally published at IEEE CCNC 2026</p></details> |
+| **[MemFine: Memory-Aware Fine-Grained Scheduling for MoE Training](https://arxiv.org/abs/2511.21431v3)** | 2026-01-12 |  |
+| **[Deep Learning Model Deployment in Multiple Cloud Providers: an Exploratory Study Using Low Computing Power Environments](https://arxiv.org/abs/2503.23988v2)** | 2026-01-11 | 15 pages, 7 figures |
+| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v2)** | 2026-01-11 |  |
+| **[Polymorph: Energy-Efficient Multi-Label Classification for Video Streams on Embedded Devices](https://arxiv.org/abs/2507.14959v3)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF winter conference on applications of computer vision (WACV 2026)</p></details> |
+| **[Deciding Serializability in Network Systems](https://arxiv.org/abs/2601.02251v3)** | 2026-01-11 | <details><summary>To ap...</summary><p>To appear in TACAS 2026</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Categorical Foundations for CuTe Layouts](https://arxiv.org/abs/2601.05972v1)** | 2026-01-09 | 174 pages |
-| **[Multi-Modal Style Transfer-based Prompt Tuning for Efficient Federated Domain Generalization](https://arxiv.org/abs/2601.05955v1)** | 2026-01-09 |  |
-| **[Collective Communication for 100k+ GPUs](https://arxiv.org/abs/2510.20171v4)** | 2026-01-09 |  |
-| **[Multi-GPU Acceleration of PALABOS Fluid Solver using C++ Standard Parallelism](https://arxiv.org/abs/2506.09242v2)** | 2026-01-09 |  |
-| **[Performance-Portable Optimization and Analysis of Multiple Right-Hand Sides in a Lattice QCD Solver](https://arxiv.org/abs/2601.05816v1)** | 2026-01-09 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 IEEE 32nd International Conference on High Performance Computing, Data, and Analytics (HiPC)</p></details> |
-| **[LACIN: Linearly Arranged Complete Interconnection Networks](https://arxiv.org/abs/2601.05668v1)** | 2026-01-09 | 5 pages, 4 figures |
-| **[A Lazy, Concurrent Convertibility Checker](https://arxiv.org/abs/2510.18418v2)** | 2026-01-09 |  |
-| **[Self-Evolving Distributed Memory Architecture for Scalable AI Systems](https://arxiv.org/abs/2601.05569v1)** | 2026-01-09 | 21 pages |
-| **[Typing Strictness (Extended Version)](https://arxiv.org/abs/2510.16133v2)** | 2026-01-08 | <details><summary>30 pa...</summary><p>30 pages, 22 figures, extended version of a paper at POPL 2026</p></details> |
-| **[Phaedrus: Predicting Dynamic Application Behavior with Lightweight Generative Models and LLMs](https://arxiv.org/abs/2412.06994v5)** | 2026-01-08 |  |
-| **[GPU-based complete search for nonlinear minimization subject to bounds](https://arxiv.org/abs/2507.01770v3)** | 2026-01-08 | 36 pages, 3 figures |
-| **[Dynamic and Distributed Routing in IoT Networks based on Multi-Objective Q-Learning](https://arxiv.org/abs/2505.00918v3)** | 2026-01-08 |  |
-| **[EARL: Energy-Aware Optimization of Liquid State Machines for Pervasive AI](https://arxiv.org/abs/2601.05205v1)** | 2026-01-08 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, 2 Tables, conference [Submitted in PerConAI-2026]</p></details> |
-| **[Nalar: An agent serving framework](https://arxiv.org/abs/2601.05109v1)** | 2026-01-08 |  |
-| **[The Squirrel Parser: A Linear-Time PEG Packrat Parser Capable of Left Recursion and Optimal Error Recovery](https://arxiv.org/abs/2601.05012v1)** | 2026-01-08 |  |
+| **[Beyond Single-GPU: Scaling PDLP to Distributed Multi-GPU Systems](https://arxiv.org/abs/2601.07628v1)** | 2026-01-12 | <details><summary>Distr...</summary><p>Distributed PDLP For Improve PDLP Efficiency</p></details> |
+| **[Peformance Isolation for Inference Processes in Edge GPU Systems](https://arxiv.org/abs/2601.07600v1)** | 2026-01-12 |  |
+| **[MegaFlow: Large-Scale Distributed Orchestration System for the Agentic Era](https://arxiv.org/abs/2601.07526v1)** | 2026-01-12 |  |
+| **[Multi-dimensional Autoscaling of Processing Services: A Comparison of Agent-based Methods](https://arxiv.org/abs/2506.10420v2)** | 2026-01-12 |  |
+| **[Advanced computing for reproducibility of astronomy Big Data Science, with a showcase of AMIGA and the SKA Science prototype](https://arxiv.org/abs/2601.07439v1)** | 2026-01-12 | <details><summary>18 pa...</summary><p>18 pages, 3 figures. Proceedings of the Square Kilometre Array - Cutting Edge Astronomical Facilities & Advanced Computing, 2025 Astrophysics and space Science Series (to be published by 2026)</p></details> |
+| **[OpenTinker: Separating Concerns in Agentic Reinforcement Learning](https://arxiv.org/abs/2601.07376v1)** | 2026-01-12 |  |
+| **[Modern Middlewares for Automated Vehicles: A Tutorial](https://arxiv.org/abs/2412.07817v2)** | 2026-01-12 | <details><summary>This ...</summary><p>This work has been submitted and accepted to the IEEE for possible publication</p></details> |
+| **[Bringing Computation to the data: Interoperable serverless function execution for astrophysical data analysis in the SRCNet](https://arxiv.org/abs/2601.07308v1)** | 2026-01-12 |  |
+| **[Paris: A Decentralized Trained Open-Weight Diffusion Model](https://arxiv.org/abs/2510.03434v2)** | 2026-01-12 |  |
+| **[SC-MII: Infrastructure LiDAR-based 3D Object Detection on Edge Devices for Split Computing with Multiple Intermediate Outputs Integration](https://arxiv.org/abs/2601.07119v1)** | 2026-01-12 | <details><summary>6 pag...</summary><p>6 pages. This version includes minor lstlisting configuration adjustments for successful compilation. No changes to content or layout. Originally published at IEEE CCNC 2026</p></details> |
+| **[MemFine: Memory-Aware Fine-Grained Scheduling for MoE Training](https://arxiv.org/abs/2511.21431v3)** | 2026-01-12 |  |
+| **[Deep Learning Model Deployment in Multiple Cloud Providers: an Exploratory Study Using Low Computing Power Environments](https://arxiv.org/abs/2503.23988v2)** | 2026-01-11 | 15 pages, 7 figures |
+| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v2)** | 2026-01-11 |  |
+| **[Polymorph: Energy-Efficient Multi-Label Classification for Video Streams on Embedded Devices](https://arxiv.org/abs/2507.14959v3)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF winter conference on applications of computer vision (WACV 2026)</p></details> |
+| **[Deciding Serializability in Network Systems](https://arxiv.org/abs/2601.02251v3)** | 2026-01-11 | <details><summary>To ap...</summary><p>To appear in TACAS 2026</p></details> |
 
