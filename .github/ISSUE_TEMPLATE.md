@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 16, 2026
+title: Latest 15 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Broadcast in Almost Mixing Time](https://arxiv.org/abs/2502.02165v3)** | 2026-01-14 |  |
-| **[Representing Molecules with Algebraic Data Types: Beyond SMILES and SELFIES](https://arxiv.org/abs/2501.13633v4)** | 2026-01-14 | 3 Figures |
-| **[Generic Algorithm for Universal TDM Communication Over Inter Satellite Links](https://arxiv.org/abs/2511.08034v2)** | 2026-01-14 | <details><summary>4 pag...</summary><p>4 pages, 3 figures, 1 algorithm. Published by IEEE Xplore</p></details> |
-| **[Expressivity of AuDaLa: Turing Completeness and Possible Extensions](https://arxiv.org/abs/2412.14938v4)** | 2026-01-14 | <details><summary>30 pa...</summary><p>30 pages, 1 figure, submitted to LMCS, extension of submission to FORTE (preprint at arXiv:2404.12934)</p></details> |
-| **[MLIR-Forge: A Modular Framework for Language Smiths](https://arxiv.org/abs/2601.09583v1)** | 2026-01-14 |  |
-| **[Private LLM Inference on Consumer Blackwell GPUs: A Practical Guide for Cost-Effective Local Deployment in SMEs](https://arxiv.org/abs/2601.09527v1)** | 2026-01-14 | <details><summary>15 pa...</summary><p>15 pages, 18 tables, 7 figures. Includes link to GitHub repository and Docker image for reproducibility</p></details> |
-| **[CascadeInfer: Low-Latency and Load-Balanced LLM Serving via Length-Aware Scheduling](https://arxiv.org/abs/2512.19179v2)** | 2026-01-14 | 15 pages, 16 figures |
-| **[CSSG: Measuring Code Similarity with Semantic Graphs](https://arxiv.org/abs/2601.04085v2)** | 2026-01-14 |  |
-| **[Extending the Network Calculus Algorithmic Toolbox for Ultimately Pseudo-Periodic Functions: Pseudo-Inverse and Composition](https://arxiv.org/abs/2205.12139v2)** | 2026-01-14 | <details><summary>Prepr...</summary><p>Preprint submitted to Journal of Discrete Event Dynamic Systems; Erratum attached as ancillary file</p></details> |
-| **[AI-NativeBench: An Open-Source White-Box Agentic Benchmark Suite for AI-Native Systems](https://arxiv.org/abs/2601.09393v1)** | 2026-01-14 |  |
-| **[GroupNL: Low-Resource and Robust CNN Design over Cloud and Device](https://arxiv.org/abs/2506.12335v2)** | 2026-01-14 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Mobile Computing, accepted manuscript</p></details> |
-| **[Network-Based Quantum Computing: an efficient design framework for many-small-node distributed fault-tolerant quantum computing](https://arxiv.org/abs/2601.09374v1)** | 2026-01-14 | 29 pages, 17 figures |
-| **[High-Performance Serverless Computing: A Systematic Literature Review on Serverless for HPC, AI, and Big Data](https://arxiv.org/abs/2601.09334v1)** | 2026-01-14 |  |
-| **[Context Adaptive Cooperation](https://arxiv.org/abs/2311.08776v3)** | 2026-01-14 |  |
-| **[Efficient Routing of Inference Requests across LLM Instances in Cloud-Edge Computing](https://arxiv.org/abs/2507.15553v2)** | 2026-01-14 |  |
+| **[Breaking the Storage-Bandwidth Tradeoff in Distributed Storage with Quantum Entanglement](https://arxiv.org/abs/2601.10676v1)** | 2026-01-15 |  |
+| **[SSFL: Discovering Sparse Unified Subnetworks at Initialization for Efficient Federated Learning](https://arxiv.org/abs/2405.09037v2)** | 2026-01-15 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), 2026</p></details> |
+| **[Mitigating GIL Bottlenecks in Edge AI Systems](https://arxiv.org/abs/2601.10582v1)** | 2026-01-15 |  |
+| **[Long-term Monitoring of Kernel and Hardware Events to Understand Latency Variance](https://arxiv.org/abs/2601.10572v1)** | 2026-01-15 |  |
+| **[Chebyshev Accelerated Subspsace Eigensolver for Pseudo-hermitian Hamiltonians](https://arxiv.org/abs/2601.10557v1)** | 2026-01-15 | <details><summary>To be...</summary><p>To be submitted to SISC</p></details> |
+| **[Accelerating Edge Inference for Distributed MoE Models with Latency-Optimized Expert Placement](https://arxiv.org/abs/2508.12851v3)** | 2026-01-15 |  |
+| **[NestedFP: High-Performance, Memory-Efficient Dual-Precision Floating Point Support for LLMs](https://arxiv.org/abs/2506.02024v3)** | 2026-01-15 |  |
+| **[HP2C-DT: High-Precision High-Performance Computer-enabled Digital Twin](https://arxiv.org/abs/2506.10523v2)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. Accepted in Future Generation Computer Systems journal</p></details> |
+| **[SCRamble: Adaptive Decentralized Overlay Construction for Blockchain Networks](https://arxiv.org/abs/2601.10277v1)** | 2026-01-15 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, The 27th ACM International Conference on Distributed Computing and Networking, ACM ICDCN 2026</p></details> |
+| **[Distributed Linearly Separable Computation with Arbitrary Heterogeneous Data Assignment](https://arxiv.org/abs/2601.10177v1)** | 2026-01-15 |  |
+| **[Multi-Threaded Software Model Checking via Parallel Trace Abstraction Refinement](https://arxiv.org/abs/2509.13699v2)** | 2026-01-15 |  |
+| **[Formal Verification of a Generic Algorithm for TDM Communication Over Inter Satellite Links](https://arxiv.org/abs/2511.09485v2)** | 2026-01-15 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, 3 tables</p></details> |
+| **[Fuzzychain-edge: A novel Fuzzy logic-based adaptive Access control model for Blockchain in Edge Computing](https://arxiv.org/abs/2601.10105v1)** | 2026-01-15 |  |
+| **[Emergency Department Patient Flow Optimization with an Alternative Care Threshold Policy](https://arxiv.org/abs/2601.10041v1)** | 2026-01-15 | 37 pages, 14 figures |
+| **[Fundamental Limits of Coded Polynomial Aggregation](https://arxiv.org/abs/2601.10028v1)** | 2026-01-15 | 7 pages, 1 figure |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Broadcast in Almost Mixing Time](https://arxiv.org/abs/2502.02165v3)** | 2026-01-14 |  |
-| **[Representing Molecules with Algebraic Data Types: Beyond SMILES and SELFIES](https://arxiv.org/abs/2501.13633v4)** | 2026-01-14 | 3 Figures |
-| **[Generic Algorithm for Universal TDM Communication Over Inter Satellite Links](https://arxiv.org/abs/2511.08034v2)** | 2026-01-14 | <details><summary>4 pag...</summary><p>4 pages, 3 figures, 1 algorithm. Published by IEEE Xplore</p></details> |
-| **[Expressivity of AuDaLa: Turing Completeness and Possible Extensions](https://arxiv.org/abs/2412.14938v4)** | 2026-01-14 | <details><summary>30 pa...</summary><p>30 pages, 1 figure, submitted to LMCS, extension of submission to FORTE (preprint at arXiv:2404.12934)</p></details> |
-| **[MLIR-Forge: A Modular Framework for Language Smiths](https://arxiv.org/abs/2601.09583v1)** | 2026-01-14 |  |
-| **[Private LLM Inference on Consumer Blackwell GPUs: A Practical Guide for Cost-Effective Local Deployment in SMEs](https://arxiv.org/abs/2601.09527v1)** | 2026-01-14 | <details><summary>15 pa...</summary><p>15 pages, 18 tables, 7 figures. Includes link to GitHub repository and Docker image for reproducibility</p></details> |
-| **[CascadeInfer: Low-Latency and Load-Balanced LLM Serving via Length-Aware Scheduling](https://arxiv.org/abs/2512.19179v2)** | 2026-01-14 | 15 pages, 16 figures |
-| **[CSSG: Measuring Code Similarity with Semantic Graphs](https://arxiv.org/abs/2601.04085v2)** | 2026-01-14 |  |
-| **[Extending the Network Calculus Algorithmic Toolbox for Ultimately Pseudo-Periodic Functions: Pseudo-Inverse and Composition](https://arxiv.org/abs/2205.12139v2)** | 2026-01-14 | <details><summary>Prepr...</summary><p>Preprint submitted to Journal of Discrete Event Dynamic Systems; Erratum attached as ancillary file</p></details> |
-| **[AI-NativeBench: An Open-Source White-Box Agentic Benchmark Suite for AI-Native Systems](https://arxiv.org/abs/2601.09393v1)** | 2026-01-14 |  |
-| **[GroupNL: Low-Resource and Robust CNN Design over Cloud and Device](https://arxiv.org/abs/2506.12335v2)** | 2026-01-14 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Mobile Computing, accepted manuscript</p></details> |
-| **[Network-Based Quantum Computing: an efficient design framework for many-small-node distributed fault-tolerant quantum computing](https://arxiv.org/abs/2601.09374v1)** | 2026-01-14 | 29 pages, 17 figures |
-| **[High-Performance Serverless Computing: A Systematic Literature Review on Serverless for HPC, AI, and Big Data](https://arxiv.org/abs/2601.09334v1)** | 2026-01-14 |  |
-| **[Context Adaptive Cooperation](https://arxiv.org/abs/2311.08776v3)** | 2026-01-14 |  |
-| **[Efficient Routing of Inference Requests across LLM Instances in Cloud-Edge Computing](https://arxiv.org/abs/2507.15553v2)** | 2026-01-14 |  |
+| **[Breaking the Storage-Bandwidth Tradeoff in Distributed Storage with Quantum Entanglement](https://arxiv.org/abs/2601.10676v1)** | 2026-01-15 |  |
+| **[SSFL: Discovering Sparse Unified Subnetworks at Initialization for Efficient Federated Learning](https://arxiv.org/abs/2405.09037v2)** | 2026-01-15 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), 2026</p></details> |
+| **[Mitigating GIL Bottlenecks in Edge AI Systems](https://arxiv.org/abs/2601.10582v1)** | 2026-01-15 |  |
+| **[Long-term Monitoring of Kernel and Hardware Events to Understand Latency Variance](https://arxiv.org/abs/2601.10572v1)** | 2026-01-15 |  |
+| **[Chebyshev Accelerated Subspsace Eigensolver for Pseudo-hermitian Hamiltonians](https://arxiv.org/abs/2601.10557v1)** | 2026-01-15 | <details><summary>To be...</summary><p>To be submitted to SISC</p></details> |
+| **[Accelerating Edge Inference for Distributed MoE Models with Latency-Optimized Expert Placement](https://arxiv.org/abs/2508.12851v3)** | 2026-01-15 |  |
+| **[NestedFP: High-Performance, Memory-Efficient Dual-Precision Floating Point Support for LLMs](https://arxiv.org/abs/2506.02024v3)** | 2026-01-15 |  |
+| **[HP2C-DT: High-Precision High-Performance Computer-enabled Digital Twin](https://arxiv.org/abs/2506.10523v2)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. Accepted in Future Generation Computer Systems journal</p></details> |
+| **[SCRamble: Adaptive Decentralized Overlay Construction for Blockchain Networks](https://arxiv.org/abs/2601.10277v1)** | 2026-01-15 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, The 27th ACM International Conference on Distributed Computing and Networking, ACM ICDCN 2026</p></details> |
+| **[Distributed Linearly Separable Computation with Arbitrary Heterogeneous Data Assignment](https://arxiv.org/abs/2601.10177v1)** | 2026-01-15 |  |
+| **[Multi-Threaded Software Model Checking via Parallel Trace Abstraction Refinement](https://arxiv.org/abs/2509.13699v2)** | 2026-01-15 |  |
+| **[Formal Verification of a Generic Algorithm for TDM Communication Over Inter Satellite Links](https://arxiv.org/abs/2511.09485v2)** | 2026-01-15 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, 3 tables</p></details> |
+| **[Fuzzychain-edge: A novel Fuzzy logic-based adaptive Access control model for Blockchain in Edge Computing](https://arxiv.org/abs/2601.10105v1)** | 2026-01-15 |  |
+| **[Emergency Department Patient Flow Optimization with an Alternative Care Threshold Policy](https://arxiv.org/abs/2601.10041v1)** | 2026-01-15 | 37 pages, 14 figures |
+| **[Fundamental Limits of Coded Polynomial Aggregation](https://arxiv.org/abs/2601.10028v1)** | 2026-01-15 | 7 pages, 1 figure |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Broadcast in Almost Mixing Time](https://arxiv.org/abs/2502.02165v3)** | 2026-01-14 |  |
-| **[Representing Molecules with Algebraic Data Types: Beyond SMILES and SELFIES](https://arxiv.org/abs/2501.13633v4)** | 2026-01-14 | 3 Figures |
-| **[Generic Algorithm for Universal TDM Communication Over Inter Satellite Links](https://arxiv.org/abs/2511.08034v2)** | 2026-01-14 | <details><summary>4 pag...</summary><p>4 pages, 3 figures, 1 algorithm. Published by IEEE Xplore</p></details> |
-| **[Expressivity of AuDaLa: Turing Completeness and Possible Extensions](https://arxiv.org/abs/2412.14938v4)** | 2026-01-14 | <details><summary>30 pa...</summary><p>30 pages, 1 figure, submitted to LMCS, extension of submission to FORTE (preprint at arXiv:2404.12934)</p></details> |
-| **[MLIR-Forge: A Modular Framework for Language Smiths](https://arxiv.org/abs/2601.09583v1)** | 2026-01-14 |  |
-| **[Private LLM Inference on Consumer Blackwell GPUs: A Practical Guide for Cost-Effective Local Deployment in SMEs](https://arxiv.org/abs/2601.09527v1)** | 2026-01-14 | <details><summary>15 pa...</summary><p>15 pages, 18 tables, 7 figures. Includes link to GitHub repository and Docker image for reproducibility</p></details> |
-| **[CascadeInfer: Low-Latency and Load-Balanced LLM Serving via Length-Aware Scheduling](https://arxiv.org/abs/2512.19179v2)** | 2026-01-14 | 15 pages, 16 figures |
-| **[CSSG: Measuring Code Similarity with Semantic Graphs](https://arxiv.org/abs/2601.04085v2)** | 2026-01-14 |  |
-| **[Extending the Network Calculus Algorithmic Toolbox for Ultimately Pseudo-Periodic Functions: Pseudo-Inverse and Composition](https://arxiv.org/abs/2205.12139v2)** | 2026-01-14 | <details><summary>Prepr...</summary><p>Preprint submitted to Journal of Discrete Event Dynamic Systems; Erratum attached as ancillary file</p></details> |
-| **[AI-NativeBench: An Open-Source White-Box Agentic Benchmark Suite for AI-Native Systems](https://arxiv.org/abs/2601.09393v1)** | 2026-01-14 |  |
-| **[GroupNL: Low-Resource and Robust CNN Design over Cloud and Device](https://arxiv.org/abs/2506.12335v2)** | 2026-01-14 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Mobile Computing, accepted manuscript</p></details> |
-| **[Network-Based Quantum Computing: an efficient design framework for many-small-node distributed fault-tolerant quantum computing](https://arxiv.org/abs/2601.09374v1)** | 2026-01-14 | 29 pages, 17 figures |
-| **[High-Performance Serverless Computing: A Systematic Literature Review on Serverless for HPC, AI, and Big Data](https://arxiv.org/abs/2601.09334v1)** | 2026-01-14 |  |
-| **[Context Adaptive Cooperation](https://arxiv.org/abs/2311.08776v3)** | 2026-01-14 |  |
-| **[Efficient Routing of Inference Requests across LLM Instances in Cloud-Edge Computing](https://arxiv.org/abs/2507.15553v2)** | 2026-01-14 |  |
+| **[Breaking the Storage-Bandwidth Tradeoff in Distributed Storage with Quantum Entanglement](https://arxiv.org/abs/2601.10676v1)** | 2026-01-15 |  |
+| **[SSFL: Discovering Sparse Unified Subnetworks at Initialization for Efficient Federated Learning](https://arxiv.org/abs/2405.09037v2)** | 2026-01-15 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), 2026</p></details> |
+| **[Mitigating GIL Bottlenecks in Edge AI Systems](https://arxiv.org/abs/2601.10582v1)** | 2026-01-15 |  |
+| **[Long-term Monitoring of Kernel and Hardware Events to Understand Latency Variance](https://arxiv.org/abs/2601.10572v1)** | 2026-01-15 |  |
+| **[Chebyshev Accelerated Subspsace Eigensolver for Pseudo-hermitian Hamiltonians](https://arxiv.org/abs/2601.10557v1)** | 2026-01-15 | <details><summary>To be...</summary><p>To be submitted to SISC</p></details> |
+| **[Accelerating Edge Inference for Distributed MoE Models with Latency-Optimized Expert Placement](https://arxiv.org/abs/2508.12851v3)** | 2026-01-15 |  |
+| **[NestedFP: High-Performance, Memory-Efficient Dual-Precision Floating Point Support for LLMs](https://arxiv.org/abs/2506.02024v3)** | 2026-01-15 |  |
+| **[HP2C-DT: High-Precision High-Performance Computer-enabled Digital Twin](https://arxiv.org/abs/2506.10523v2)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. Accepted in Future Generation Computer Systems journal</p></details> |
+| **[SCRamble: Adaptive Decentralized Overlay Construction for Blockchain Networks](https://arxiv.org/abs/2601.10277v1)** | 2026-01-15 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, The 27th ACM International Conference on Distributed Computing and Networking, ACM ICDCN 2026</p></details> |
+| **[Distributed Linearly Separable Computation with Arbitrary Heterogeneous Data Assignment](https://arxiv.org/abs/2601.10177v1)** | 2026-01-15 |  |
+| **[Multi-Threaded Software Model Checking via Parallel Trace Abstraction Refinement](https://arxiv.org/abs/2509.13699v2)** | 2026-01-15 |  |
+| **[Formal Verification of a Generic Algorithm for TDM Communication Over Inter Satellite Links](https://arxiv.org/abs/2511.09485v2)** | 2026-01-15 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, 3 tables</p></details> |
+| **[Fuzzychain-edge: A novel Fuzzy logic-based adaptive Access control model for Blockchain in Edge Computing](https://arxiv.org/abs/2601.10105v1)** | 2026-01-15 |  |
+| **[Emergency Department Patient Flow Optimization with an Alternative Care Threshold Policy](https://arxiv.org/abs/2601.10041v1)** | 2026-01-15 | 37 pages, 14 figures |
+| **[Fundamental Limits of Coded Polynomial Aggregation](https://arxiv.org/abs/2601.10028v1)** | 2026-01-15 | 7 pages, 1 figure |
 
