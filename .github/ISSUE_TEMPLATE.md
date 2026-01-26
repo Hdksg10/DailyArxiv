@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 26, 2026
+title: Latest 15 Papers - January 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers](https://arxiv.org/abs/2601.16956v1)** | 2026-01-23 |  |
+| **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v2)** | 2026-01-23 | <details><summary>To Ap...</summary><p>To Appear in IEEE INFOCOM 2026</p></details> |
+| **[The Green Side of the Lua](https://arxiv.org/abs/2601.16670v1)** | 2026-01-23 |  |
+| **[GPU-Accelerated Selected Basis Diagonalization with Thrust for SQD-based Algorithms](https://arxiv.org/abs/2601.16637v1)** | 2026-01-23 |  |
+| **[Artifact for Service-Level Energy Modeling and Experimentation for Cloud-Native Microservices](https://arxiv.org/abs/2601.16635v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted Artifact Paper at ICSOC2025</p></details> |
+| **[W4A16 Mixed-Precision Matrix Multiplication on Decoupled Architecture: Kernel Design and Memory Bottleneck Analysis for Ascend NPUs](https://arxiv.org/abs/2601.16536v1)** | 2026-01-23 |  |
+| **[Consensus In Asynchrony](https://arxiv.org/abs/2601.16460v1)** | 2026-01-23 |  |
+| **[Advancing RT Core-Accelerated Fixed-Radius Nearest Neighbor Search](https://arxiv.org/abs/2601.15633v2)** | 2026-01-23 | Journal submission |
+| **[Relational Hoare Logic for High-Level Synthesis of Hardware Accelerators](https://arxiv.org/abs/2601.09217v2)** | 2026-01-23 | <details><summary>An ex...</summary><p>An extended version of the paper to appear in Proceedings of ESOP 2026</p></details> |
+| **[RevaMp3D: Architecting the Processor Core and Cache Hierarchy for Systems with Monolithically-Integrated Logic and Memory](https://arxiv.org/abs/2210.08508v3)** | 2026-01-22 |  |
+| **[Enhancing Model Context Protocol (MCP) with Context-Aware Server Collaboration](https://arxiv.org/abs/2601.11595v2)** | 2026-01-22 |  |
+| **[SAGe: A Lightweight Algorithm-Architecture Co-Design for Mitigating the Data Preparation Bottleneck in Large-Scale Genome Sequence Analysis](https://arxiv.org/abs/2504.03732v4)** | 2026-01-22 | <details><summary>To ap...</summary><p>To appear in HPCA 2026</p></details> |
+| **[Space Filling Curves is All You Need: Communication-Avoiding Matrix Multiplication Made Simple](https://arxiv.org/abs/2601.16294v1)** | 2026-01-22 |  |
+| **[Outrunning Big KATs: Efficient Decision Procedures for Variants of GKAT](https://arxiv.org/abs/2601.09986v2)** | 2026-01-22 | <details><summary>Condi...</summary><p>Conditionally Accepted at ESOP 2026</p></details> |
 | **[Scaling Sample-Based Quantum Diagonalization on GPU-Accelerated Systems using OpenMP Offload](https://arxiv.org/abs/2601.16169v1)** | 2026-01-22 | 12 pages |
-| **[DSFedMed: Dual-Scale Federated Medical Image Segmentation via Mutual Distillation Between Foundation and Lightweight Models](https://arxiv.org/abs/2601.16073v1)** | 2026-01-22 |  |
-| **[Sawtooth Wavefront Reordering: Enhanced CuTile FlashAttention on NVIDIA GB10](https://arxiv.org/abs/2601.16032v1)** | 2026-01-22 |  |
-| **[Prioritizing Configuration Relevance via Compiler-Based Refined Feature Ranking](https://arxiv.org/abs/2601.16008v1)** | 2026-01-22 | 29 pages 4 figures |
-| **[Skipper: Maximal Matching with a Single Pass over Edges](https://arxiv.org/abs/2507.04420v4)** | 2026-01-22 |  |
-| **[Dependently-Typed AARA: A Non-Affine Approach for Resource Analysis of Higher-Order Programs](https://arxiv.org/abs/2601.12943v2)** | 2026-01-22 |  |
-| **[Class Confidence Aware Reweighting for Long Tailed Learning](https://arxiv.org/abs/2601.15924v1)** | 2026-01-22 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, IEEE Transaction on Neural Networks and Learning Systems (Submitted)</p></details> |
-| **[DAGs for the Masses](https://arxiv.org/abs/2506.13998v3)** | 2026-01-22 |  |
-| **[Evaluating Compiler Optimization Impacts on zkVM Performance](https://arxiv.org/abs/2508.17518v2)** | 2026-01-22 |  |
-| **[Advancing RT Core-Accelerated Fixed-Radius Nearest Neighbor Search](https://arxiv.org/abs/2601.15633v1)** | 2026-01-22 | Journal submission |
-| **[UCCL-EP: Portable Expert-Parallel Communication](https://arxiv.org/abs/2512.19849v2)** | 2026-01-22 |  |
-| **[Identification capacity and rate-query tradeoffs in classification systems](https://arxiv.org/abs/2601.14252v2)** | 2026-01-22 | <details><summary>15 pa...</summary><p>15 pages, 1 table. Lean 4 formalization (6,100+ lines, 0 sorry) included in source and archived at https://doi.org/10.5281/zenodo.18261188</p></details> |
-| **[A Domain Decomposition-based Solver for Acoustic Wave propagation in Two-Dimensional Random Media](https://arxiv.org/abs/2512.23027v2)** | 2026-01-22 | 29 pages, 55 figures |
-| **[Securing LLM-as-a-Service for Small Businesses: An Industry Case Study of a Distributed Chatbot Deployment Platform](https://arxiv.org/abs/2601.15528v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted by AISC 2026</p></details> |
-| **[Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v2)** | 2026-01-21 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers](https://arxiv.org/abs/2601.16956v1)** | 2026-01-23 |  |
+| **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v2)** | 2026-01-23 | <details><summary>To Ap...</summary><p>To Appear in IEEE INFOCOM 2026</p></details> |
+| **[The Green Side of the Lua](https://arxiv.org/abs/2601.16670v1)** | 2026-01-23 |  |
+| **[GPU-Accelerated Selected Basis Diagonalization with Thrust for SQD-based Algorithms](https://arxiv.org/abs/2601.16637v1)** | 2026-01-23 |  |
+| **[Artifact for Service-Level Energy Modeling and Experimentation for Cloud-Native Microservices](https://arxiv.org/abs/2601.16635v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted Artifact Paper at ICSOC2025</p></details> |
+| **[W4A16 Mixed-Precision Matrix Multiplication on Decoupled Architecture: Kernel Design and Memory Bottleneck Analysis for Ascend NPUs](https://arxiv.org/abs/2601.16536v1)** | 2026-01-23 |  |
+| **[Consensus In Asynchrony](https://arxiv.org/abs/2601.16460v1)** | 2026-01-23 |  |
+| **[Advancing RT Core-Accelerated Fixed-Radius Nearest Neighbor Search](https://arxiv.org/abs/2601.15633v2)** | 2026-01-23 | Journal submission |
+| **[Relational Hoare Logic for High-Level Synthesis of Hardware Accelerators](https://arxiv.org/abs/2601.09217v2)** | 2026-01-23 | <details><summary>An ex...</summary><p>An extended version of the paper to appear in Proceedings of ESOP 2026</p></details> |
+| **[RevaMp3D: Architecting the Processor Core and Cache Hierarchy for Systems with Monolithically-Integrated Logic and Memory](https://arxiv.org/abs/2210.08508v3)** | 2026-01-22 |  |
+| **[Enhancing Model Context Protocol (MCP) with Context-Aware Server Collaboration](https://arxiv.org/abs/2601.11595v2)** | 2026-01-22 |  |
+| **[SAGe: A Lightweight Algorithm-Architecture Co-Design for Mitigating the Data Preparation Bottleneck in Large-Scale Genome Sequence Analysis](https://arxiv.org/abs/2504.03732v4)** | 2026-01-22 | <details><summary>To ap...</summary><p>To appear in HPCA 2026</p></details> |
+| **[Space Filling Curves is All You Need: Communication-Avoiding Matrix Multiplication Made Simple](https://arxiv.org/abs/2601.16294v1)** | 2026-01-22 |  |
+| **[Outrunning Big KATs: Efficient Decision Procedures for Variants of GKAT](https://arxiv.org/abs/2601.09986v2)** | 2026-01-22 | <details><summary>Condi...</summary><p>Conditionally Accepted at ESOP 2026</p></details> |
 | **[Scaling Sample-Based Quantum Diagonalization on GPU-Accelerated Systems using OpenMP Offload](https://arxiv.org/abs/2601.16169v1)** | 2026-01-22 | 12 pages |
-| **[DSFedMed: Dual-Scale Federated Medical Image Segmentation via Mutual Distillation Between Foundation and Lightweight Models](https://arxiv.org/abs/2601.16073v1)** | 2026-01-22 |  |
-| **[Sawtooth Wavefront Reordering: Enhanced CuTile FlashAttention on NVIDIA GB10](https://arxiv.org/abs/2601.16032v1)** | 2026-01-22 |  |
-| **[Prioritizing Configuration Relevance via Compiler-Based Refined Feature Ranking](https://arxiv.org/abs/2601.16008v1)** | 2026-01-22 | 29 pages 4 figures |
-| **[Skipper: Maximal Matching with a Single Pass over Edges](https://arxiv.org/abs/2507.04420v4)** | 2026-01-22 |  |
-| **[Dependently-Typed AARA: A Non-Affine Approach for Resource Analysis of Higher-Order Programs](https://arxiv.org/abs/2601.12943v2)** | 2026-01-22 |  |
-| **[Class Confidence Aware Reweighting for Long Tailed Learning](https://arxiv.org/abs/2601.15924v1)** | 2026-01-22 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, IEEE Transaction on Neural Networks and Learning Systems (Submitted)</p></details> |
-| **[DAGs for the Masses](https://arxiv.org/abs/2506.13998v3)** | 2026-01-22 |  |
-| **[Evaluating Compiler Optimization Impacts on zkVM Performance](https://arxiv.org/abs/2508.17518v2)** | 2026-01-22 |  |
-| **[Advancing RT Core-Accelerated Fixed-Radius Nearest Neighbor Search](https://arxiv.org/abs/2601.15633v1)** | 2026-01-22 | Journal submission |
-| **[UCCL-EP: Portable Expert-Parallel Communication](https://arxiv.org/abs/2512.19849v2)** | 2026-01-22 |  |
-| **[Identification capacity and rate-query tradeoffs in classification systems](https://arxiv.org/abs/2601.14252v2)** | 2026-01-22 | <details><summary>15 pa...</summary><p>15 pages, 1 table. Lean 4 formalization (6,100+ lines, 0 sorry) included in source and archived at https://doi.org/10.5281/zenodo.18261188</p></details> |
-| **[A Domain Decomposition-based Solver for Acoustic Wave propagation in Two-Dimensional Random Media](https://arxiv.org/abs/2512.23027v2)** | 2026-01-22 | 29 pages, 55 figures |
-| **[Securing LLM-as-a-Service for Small Businesses: An Industry Case Study of a Distributed Chatbot Deployment Platform](https://arxiv.org/abs/2601.15528v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted by AISC 2026</p></details> |
-| **[Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v2)** | 2026-01-21 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers](https://arxiv.org/abs/2601.16956v1)** | 2026-01-23 |  |
+| **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v2)** | 2026-01-23 | <details><summary>To Ap...</summary><p>To Appear in IEEE INFOCOM 2026</p></details> |
+| **[The Green Side of the Lua](https://arxiv.org/abs/2601.16670v1)** | 2026-01-23 |  |
+| **[GPU-Accelerated Selected Basis Diagonalization with Thrust for SQD-based Algorithms](https://arxiv.org/abs/2601.16637v1)** | 2026-01-23 |  |
+| **[Artifact for Service-Level Energy Modeling and Experimentation for Cloud-Native Microservices](https://arxiv.org/abs/2601.16635v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted Artifact Paper at ICSOC2025</p></details> |
+| **[W4A16 Mixed-Precision Matrix Multiplication on Decoupled Architecture: Kernel Design and Memory Bottleneck Analysis for Ascend NPUs](https://arxiv.org/abs/2601.16536v1)** | 2026-01-23 |  |
+| **[Consensus In Asynchrony](https://arxiv.org/abs/2601.16460v1)** | 2026-01-23 |  |
+| **[Advancing RT Core-Accelerated Fixed-Radius Nearest Neighbor Search](https://arxiv.org/abs/2601.15633v2)** | 2026-01-23 | Journal submission |
+| **[Relational Hoare Logic for High-Level Synthesis of Hardware Accelerators](https://arxiv.org/abs/2601.09217v2)** | 2026-01-23 | <details><summary>An ex...</summary><p>An extended version of the paper to appear in Proceedings of ESOP 2026</p></details> |
+| **[RevaMp3D: Architecting the Processor Core and Cache Hierarchy for Systems with Monolithically-Integrated Logic and Memory](https://arxiv.org/abs/2210.08508v3)** | 2026-01-22 |  |
+| **[Enhancing Model Context Protocol (MCP) with Context-Aware Server Collaboration](https://arxiv.org/abs/2601.11595v2)** | 2026-01-22 |  |
+| **[SAGe: A Lightweight Algorithm-Architecture Co-Design for Mitigating the Data Preparation Bottleneck in Large-Scale Genome Sequence Analysis](https://arxiv.org/abs/2504.03732v4)** | 2026-01-22 | <details><summary>To ap...</summary><p>To appear in HPCA 2026</p></details> |
+| **[Space Filling Curves is All You Need: Communication-Avoiding Matrix Multiplication Made Simple](https://arxiv.org/abs/2601.16294v1)** | 2026-01-22 |  |
+| **[Outrunning Big KATs: Efficient Decision Procedures for Variants of GKAT](https://arxiv.org/abs/2601.09986v2)** | 2026-01-22 | <details><summary>Condi...</summary><p>Conditionally Accepted at ESOP 2026</p></details> |
 | **[Scaling Sample-Based Quantum Diagonalization on GPU-Accelerated Systems using OpenMP Offload](https://arxiv.org/abs/2601.16169v1)** | 2026-01-22 | 12 pages |
-| **[DSFedMed: Dual-Scale Federated Medical Image Segmentation via Mutual Distillation Between Foundation and Lightweight Models](https://arxiv.org/abs/2601.16073v1)** | 2026-01-22 |  |
-| **[Sawtooth Wavefront Reordering: Enhanced CuTile FlashAttention on NVIDIA GB10](https://arxiv.org/abs/2601.16032v1)** | 2026-01-22 |  |
-| **[Prioritizing Configuration Relevance via Compiler-Based Refined Feature Ranking](https://arxiv.org/abs/2601.16008v1)** | 2026-01-22 | 29 pages 4 figures |
-| **[Skipper: Maximal Matching with a Single Pass over Edges](https://arxiv.org/abs/2507.04420v4)** | 2026-01-22 |  |
-| **[Dependently-Typed AARA: A Non-Affine Approach for Resource Analysis of Higher-Order Programs](https://arxiv.org/abs/2601.12943v2)** | 2026-01-22 |  |
-| **[Class Confidence Aware Reweighting for Long Tailed Learning](https://arxiv.org/abs/2601.15924v1)** | 2026-01-22 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, IEEE Transaction on Neural Networks and Learning Systems (Submitted)</p></details> |
-| **[DAGs for the Masses](https://arxiv.org/abs/2506.13998v3)** | 2026-01-22 |  |
-| **[Evaluating Compiler Optimization Impacts on zkVM Performance](https://arxiv.org/abs/2508.17518v2)** | 2026-01-22 |  |
-| **[Advancing RT Core-Accelerated Fixed-Radius Nearest Neighbor Search](https://arxiv.org/abs/2601.15633v1)** | 2026-01-22 | Journal submission |
-| **[UCCL-EP: Portable Expert-Parallel Communication](https://arxiv.org/abs/2512.19849v2)** | 2026-01-22 |  |
-| **[Identification capacity and rate-query tradeoffs in classification systems](https://arxiv.org/abs/2601.14252v2)** | 2026-01-22 | <details><summary>15 pa...</summary><p>15 pages, 1 table. Lean 4 formalization (6,100+ lines, 0 sorry) included in source and archived at https://doi.org/10.5281/zenodo.18261188</p></details> |
-| **[A Domain Decomposition-based Solver for Acoustic Wave propagation in Two-Dimensional Random Media](https://arxiv.org/abs/2512.23027v2)** | 2026-01-22 | 29 pages, 55 figures |
-| **[Securing LLM-as-a-Service for Small Businesses: An Industry Case Study of a Distributed Chatbot Deployment Platform](https://arxiv.org/abs/2601.15528v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted by AISC 2026</p></details> |
-| **[Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v2)** | 2026-01-21 |  |
 
