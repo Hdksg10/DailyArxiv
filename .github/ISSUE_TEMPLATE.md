@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 28, 2026
+title: Latest 15 Papers - January 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Handling Scope Checks (Extended Version)](https://arxiv.org/abs/2601.18793v1)** | 2026-01-26 | <details><summary>Exten...</summary><p>Extended version of Handling Scope Checks (POPL'26): includes appendices, fixes minor typos, and tweaks phrasing for readability</p></details> |
-| **[Symmetric Proofs of Parameterized Programs](https://arxiv.org/abs/2601.18745v1)** | 2026-01-26 |  |
-| **[Fundamental Limits of Hierarchical Secure Aggregation with Cyclic User Association](https://arxiv.org/abs/2503.04564v6)** | 2026-01-26 | <details><summary>Manus...</summary><p>Manuscript submitted to IEEE Transactions on Information Theory for review</p></details> |
-| **[KeyMemRT Compiler and Runtime: Unlocking Memory-Scalable FHE](https://arxiv.org/abs/2601.18445v1)** | 2026-01-26 |  |
-| **[Shift Parallelism: Low-Latency, High-Throughput LLM Inference for Dynamic Workloads](https://arxiv.org/abs/2509.16495v2)** | 2026-01-26 | Revised |
-| **[On the Bandwidth Consumption of Blockchains](https://arxiv.org/abs/2601.18400v1)** | 2026-01-26 | 11 pages, 6 figures |
-| **[An Adaptive Purification Controller for Quantum Networks: Dynamic Protocol Selection and Multipartite Distillation](https://arxiv.org/abs/2601.18351v1)** | 2026-01-26 |  |
-| **[Rhea: Detecting Privilege-Escalated Evasive Ransomware Attacks Using Format-Aware Validation in the Cloud](https://arxiv.org/abs/2601.18216v1)** | 2026-01-26 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, under review (Jan 2026)</p></details> |
-| **[On the Fundamental Limits of LLMs at Scale](https://arxiv.org/abs/2511.12869v2)** | 2026-01-26 | <details><summary>Submi...</summary><p>Submitted to TMLR 2025</p></details> |
-| **[An Initial Evaluation of Distributed Graph Algorithms using NWGraph and HPX](https://arxiv.org/abs/2601.18158v1)** | 2026-01-26 | <details><summary>Initi...</summary><p>Initial technical report. Extended version of work under submission</p></details> |
-| **[Reexamining Paradigms of End-to-End Data Movement](https://arxiv.org/abs/2512.15028v3)** | 2026-01-26 | <details><summary>19 pa...</summary><p>19 pages and 13 figures</p></details> |
-| **[Sawtooth Wavefront Reordering: Enhanced CuTile FlashAttention on NVIDIA GB10](https://arxiv.org/abs/2601.16032v2)** | 2026-01-26 |  |
-| **[EvolVE: Evolutionary Search for LLM-based Verilog Generation and Optimization](https://arxiv.org/abs/2601.18067v1)** | 2026-01-26 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 8 tables</p></details> |
-| **[Joint Resource Optimization, Computation Offloading and Resource Slicing for Multi-Edge Traffic-Cognitive Networks](https://arxiv.org/abs/2411.17782v2)** | 2026-01-26 |  |
-| **[Parameterized Hardware Design with Latency-Abstract Interfaces](https://arxiv.org/abs/2401.02570v2)** | 2026-01-25 | <details><summary>To ap...</summary><p>To appear at ASPLOS '26</p></details> |
+| **[Enabling SSI-Compliant Use of EUDI Wallet Credentials through Trusted Execution Environment and Zero-Knowledge Proof](https://arxiv.org/abs/2601.19893v1)** | 2026-01-27 |  |
+| **[Self-Sovereign Identity and eIDAS 2.0: An Analysis of Control, Privacy, and Legal Implications](https://arxiv.org/abs/2601.19837v1)** | 2026-01-27 |  |
+| **[Knowledge-Aware Evolution for Streaming Federated Continual Learning with Category Overlap and without Task Identifiers](https://arxiv.org/abs/2601.19788v1)** | 2026-01-27 |  |
+| **[Accelerating radio astronomy imaging with RICK: a step towards SKA-Mid and SKA-Low](https://arxiv.org/abs/2601.19714v1)** | 2026-01-27 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, Accepted for publication on Astronomy and Computing Journal</p></details> |
+| **[MSCCL++: Rethinking GPU Communication Abstractions for AI Inference](https://arxiv.org/abs/2504.09014v4)** | 2026-01-27 | 15 pages, 13 figures |
+| **[Parallel Spawning Strategies for Dynamic-Aware MPI Applications](https://arxiv.org/abs/2511.04268v2)** | 2026-01-27 | <details><summary>14 pa...</summary><p>14 pages, 2 Tables, 6 Figures, 9 Equations, 4 Listings</p></details> |
+| **[Minimmit: Fast Finality with Even Faster Blocks](https://arxiv.org/abs/2508.10862v7)** | 2026-01-27 |  |
+| **[Convex Hull 3D Filtering with GPU Ray Tracing and Tensor Cores](https://arxiv.org/abs/2601.19647v1)** | 2026-01-27 |  |
+| **[Modular Foundation Model Inference at the Edge: Network-Aware Microservice Optimization](https://arxiv.org/abs/2601.19563v1)** | 2026-01-27 | <details><summary>4 fig...</summary><p>4 figures. Conference</p></details> |
+| **[Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144v4)** | 2026-01-27 | LMCS |
+| **[Optimizing FaaS Platforms for MCP-enabled Agentic Workflows](https://arxiv.org/abs/2601.14735v2)** | 2026-01-27 |  |
+| **[For Generalised Algebraic Theories, Two Sorts Are Enough](https://arxiv.org/abs/2601.19426v1)** | 2026-01-27 |  |
+| **[Specifying and Verifying RDMA Synchronisation (Extended Version)](https://arxiv.org/abs/2601.14642v2)** | 2026-01-27 | <details><summary>95 pa...</summary><p>95 pages, extended version of ESOP 2026 paper, replaced to fix a tikz opacity problem</p></details> |
+| **[Decentralized Nonsmooth Nonconvex Optimization with Client Sampling](https://arxiv.org/abs/2601.19381v1)** | 2026-01-27 |  |
+| **[An Adaptive Purification Controller for Quantum Networks: Dynamic Protocol Selection and Multipartite Distillation](https://arxiv.org/abs/2601.18351v2)** | 2026-01-27 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Handling Scope Checks (Extended Version)](https://arxiv.org/abs/2601.18793v1)** | 2026-01-26 | <details><summary>Exten...</summary><p>Extended version of Handling Scope Checks (POPL'26): includes appendices, fixes minor typos, and tweaks phrasing for readability</p></details> |
-| **[Symmetric Proofs of Parameterized Programs](https://arxiv.org/abs/2601.18745v1)** | 2026-01-26 |  |
-| **[Fundamental Limits of Hierarchical Secure Aggregation with Cyclic User Association](https://arxiv.org/abs/2503.04564v6)** | 2026-01-26 | <details><summary>Manus...</summary><p>Manuscript submitted to IEEE Transactions on Information Theory for review</p></details> |
-| **[KeyMemRT Compiler and Runtime: Unlocking Memory-Scalable FHE](https://arxiv.org/abs/2601.18445v1)** | 2026-01-26 |  |
-| **[Shift Parallelism: Low-Latency, High-Throughput LLM Inference for Dynamic Workloads](https://arxiv.org/abs/2509.16495v2)** | 2026-01-26 | Revised |
-| **[On the Bandwidth Consumption of Blockchains](https://arxiv.org/abs/2601.18400v1)** | 2026-01-26 | 11 pages, 6 figures |
-| **[An Adaptive Purification Controller for Quantum Networks: Dynamic Protocol Selection and Multipartite Distillation](https://arxiv.org/abs/2601.18351v1)** | 2026-01-26 |  |
-| **[Rhea: Detecting Privilege-Escalated Evasive Ransomware Attacks Using Format-Aware Validation in the Cloud](https://arxiv.org/abs/2601.18216v1)** | 2026-01-26 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, under review (Jan 2026)</p></details> |
-| **[On the Fundamental Limits of LLMs at Scale](https://arxiv.org/abs/2511.12869v2)** | 2026-01-26 | <details><summary>Submi...</summary><p>Submitted to TMLR 2025</p></details> |
-| **[An Initial Evaluation of Distributed Graph Algorithms using NWGraph and HPX](https://arxiv.org/abs/2601.18158v1)** | 2026-01-26 | <details><summary>Initi...</summary><p>Initial technical report. Extended version of work under submission</p></details> |
-| **[Reexamining Paradigms of End-to-End Data Movement](https://arxiv.org/abs/2512.15028v3)** | 2026-01-26 | <details><summary>19 pa...</summary><p>19 pages and 13 figures</p></details> |
-| **[Sawtooth Wavefront Reordering: Enhanced CuTile FlashAttention on NVIDIA GB10](https://arxiv.org/abs/2601.16032v2)** | 2026-01-26 |  |
-| **[EvolVE: Evolutionary Search for LLM-based Verilog Generation and Optimization](https://arxiv.org/abs/2601.18067v1)** | 2026-01-26 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 8 tables</p></details> |
-| **[Joint Resource Optimization, Computation Offloading and Resource Slicing for Multi-Edge Traffic-Cognitive Networks](https://arxiv.org/abs/2411.17782v2)** | 2026-01-26 |  |
-| **[Parameterized Hardware Design with Latency-Abstract Interfaces](https://arxiv.org/abs/2401.02570v2)** | 2026-01-25 | <details><summary>To ap...</summary><p>To appear at ASPLOS '26</p></details> |
+| **[Enabling SSI-Compliant Use of EUDI Wallet Credentials through Trusted Execution Environment and Zero-Knowledge Proof](https://arxiv.org/abs/2601.19893v1)** | 2026-01-27 |  |
+| **[Self-Sovereign Identity and eIDAS 2.0: An Analysis of Control, Privacy, and Legal Implications](https://arxiv.org/abs/2601.19837v1)** | 2026-01-27 |  |
+| **[Knowledge-Aware Evolution for Streaming Federated Continual Learning with Category Overlap and without Task Identifiers](https://arxiv.org/abs/2601.19788v1)** | 2026-01-27 |  |
+| **[Accelerating radio astronomy imaging with RICK: a step towards SKA-Mid and SKA-Low](https://arxiv.org/abs/2601.19714v1)** | 2026-01-27 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, Accepted for publication on Astronomy and Computing Journal</p></details> |
+| **[MSCCL++: Rethinking GPU Communication Abstractions for AI Inference](https://arxiv.org/abs/2504.09014v4)** | 2026-01-27 | 15 pages, 13 figures |
+| **[Parallel Spawning Strategies for Dynamic-Aware MPI Applications](https://arxiv.org/abs/2511.04268v2)** | 2026-01-27 | <details><summary>14 pa...</summary><p>14 pages, 2 Tables, 6 Figures, 9 Equations, 4 Listings</p></details> |
+| **[Minimmit: Fast Finality with Even Faster Blocks](https://arxiv.org/abs/2508.10862v7)** | 2026-01-27 |  |
+| **[Convex Hull 3D Filtering with GPU Ray Tracing and Tensor Cores](https://arxiv.org/abs/2601.19647v1)** | 2026-01-27 |  |
+| **[Modular Foundation Model Inference at the Edge: Network-Aware Microservice Optimization](https://arxiv.org/abs/2601.19563v1)** | 2026-01-27 | <details><summary>4 fig...</summary><p>4 figures. Conference</p></details> |
+| **[Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144v4)** | 2026-01-27 | LMCS |
+| **[Optimizing FaaS Platforms for MCP-enabled Agentic Workflows](https://arxiv.org/abs/2601.14735v2)** | 2026-01-27 |  |
+| **[For Generalised Algebraic Theories, Two Sorts Are Enough](https://arxiv.org/abs/2601.19426v1)** | 2026-01-27 |  |
+| **[Specifying and Verifying RDMA Synchronisation (Extended Version)](https://arxiv.org/abs/2601.14642v2)** | 2026-01-27 | <details><summary>95 pa...</summary><p>95 pages, extended version of ESOP 2026 paper, replaced to fix a tikz opacity problem</p></details> |
+| **[Decentralized Nonsmooth Nonconvex Optimization with Client Sampling](https://arxiv.org/abs/2601.19381v1)** | 2026-01-27 |  |
+| **[An Adaptive Purification Controller for Quantum Networks: Dynamic Protocol Selection and Multipartite Distillation](https://arxiv.org/abs/2601.18351v2)** | 2026-01-27 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Handling Scope Checks (Extended Version)](https://arxiv.org/abs/2601.18793v1)** | 2026-01-26 | <details><summary>Exten...</summary><p>Extended version of Handling Scope Checks (POPL'26): includes appendices, fixes minor typos, and tweaks phrasing for readability</p></details> |
-| **[Symmetric Proofs of Parameterized Programs](https://arxiv.org/abs/2601.18745v1)** | 2026-01-26 |  |
-| **[Fundamental Limits of Hierarchical Secure Aggregation with Cyclic User Association](https://arxiv.org/abs/2503.04564v6)** | 2026-01-26 | <details><summary>Manus...</summary><p>Manuscript submitted to IEEE Transactions on Information Theory for review</p></details> |
-| **[KeyMemRT Compiler and Runtime: Unlocking Memory-Scalable FHE](https://arxiv.org/abs/2601.18445v1)** | 2026-01-26 |  |
-| **[Shift Parallelism: Low-Latency, High-Throughput LLM Inference for Dynamic Workloads](https://arxiv.org/abs/2509.16495v2)** | 2026-01-26 | Revised |
-| **[On the Bandwidth Consumption of Blockchains](https://arxiv.org/abs/2601.18400v1)** | 2026-01-26 | 11 pages, 6 figures |
-| **[An Adaptive Purification Controller for Quantum Networks: Dynamic Protocol Selection and Multipartite Distillation](https://arxiv.org/abs/2601.18351v1)** | 2026-01-26 |  |
-| **[Rhea: Detecting Privilege-Escalated Evasive Ransomware Attacks Using Format-Aware Validation in the Cloud](https://arxiv.org/abs/2601.18216v1)** | 2026-01-26 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, under review (Jan 2026)</p></details> |
-| **[On the Fundamental Limits of LLMs at Scale](https://arxiv.org/abs/2511.12869v2)** | 2026-01-26 | <details><summary>Submi...</summary><p>Submitted to TMLR 2025</p></details> |
-| **[An Initial Evaluation of Distributed Graph Algorithms using NWGraph and HPX](https://arxiv.org/abs/2601.18158v1)** | 2026-01-26 | <details><summary>Initi...</summary><p>Initial technical report. Extended version of work under submission</p></details> |
-| **[Reexamining Paradigms of End-to-End Data Movement](https://arxiv.org/abs/2512.15028v3)** | 2026-01-26 | <details><summary>19 pa...</summary><p>19 pages and 13 figures</p></details> |
-| **[Sawtooth Wavefront Reordering: Enhanced CuTile FlashAttention on NVIDIA GB10](https://arxiv.org/abs/2601.16032v2)** | 2026-01-26 |  |
-| **[EvolVE: Evolutionary Search for LLM-based Verilog Generation and Optimization](https://arxiv.org/abs/2601.18067v1)** | 2026-01-26 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 8 tables</p></details> |
-| **[Joint Resource Optimization, Computation Offloading and Resource Slicing for Multi-Edge Traffic-Cognitive Networks](https://arxiv.org/abs/2411.17782v2)** | 2026-01-26 |  |
-| **[Parameterized Hardware Design with Latency-Abstract Interfaces](https://arxiv.org/abs/2401.02570v2)** | 2026-01-25 | <details><summary>To ap...</summary><p>To appear at ASPLOS '26</p></details> |
+| **[Enabling SSI-Compliant Use of EUDI Wallet Credentials through Trusted Execution Environment and Zero-Knowledge Proof](https://arxiv.org/abs/2601.19893v1)** | 2026-01-27 |  |
+| **[Self-Sovereign Identity and eIDAS 2.0: An Analysis of Control, Privacy, and Legal Implications](https://arxiv.org/abs/2601.19837v1)** | 2026-01-27 |  |
+| **[Knowledge-Aware Evolution for Streaming Federated Continual Learning with Category Overlap and without Task Identifiers](https://arxiv.org/abs/2601.19788v1)** | 2026-01-27 |  |
+| **[Accelerating radio astronomy imaging with RICK: a step towards SKA-Mid and SKA-Low](https://arxiv.org/abs/2601.19714v1)** | 2026-01-27 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, Accepted for publication on Astronomy and Computing Journal</p></details> |
+| **[MSCCL++: Rethinking GPU Communication Abstractions for AI Inference](https://arxiv.org/abs/2504.09014v4)** | 2026-01-27 | 15 pages, 13 figures |
+| **[Parallel Spawning Strategies for Dynamic-Aware MPI Applications](https://arxiv.org/abs/2511.04268v2)** | 2026-01-27 | <details><summary>14 pa...</summary><p>14 pages, 2 Tables, 6 Figures, 9 Equations, 4 Listings</p></details> |
+| **[Minimmit: Fast Finality with Even Faster Blocks](https://arxiv.org/abs/2508.10862v7)** | 2026-01-27 |  |
+| **[Convex Hull 3D Filtering with GPU Ray Tracing and Tensor Cores](https://arxiv.org/abs/2601.19647v1)** | 2026-01-27 |  |
+| **[Modular Foundation Model Inference at the Edge: Network-Aware Microservice Optimization](https://arxiv.org/abs/2601.19563v1)** | 2026-01-27 | <details><summary>4 fig...</summary><p>4 figures. Conference</p></details> |
+| **[Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144v4)** | 2026-01-27 | LMCS |
+| **[Optimizing FaaS Platforms for MCP-enabled Agentic Workflows](https://arxiv.org/abs/2601.14735v2)** | 2026-01-27 |  |
+| **[For Generalised Algebraic Theories, Two Sorts Are Enough](https://arxiv.org/abs/2601.19426v1)** | 2026-01-27 |  |
+| **[Specifying and Verifying RDMA Synchronisation (Extended Version)](https://arxiv.org/abs/2601.14642v2)** | 2026-01-27 | <details><summary>95 pa...</summary><p>95 pages, extended version of ESOP 2026 paper, replaced to fix a tikz opacity problem</p></details> |
+| **[Decentralized Nonsmooth Nonconvex Optimization with Client Sampling](https://arxiv.org/abs/2601.19381v1)** | 2026-01-27 |  |
+| **[An Adaptive Purification Controller for Quantum Networks: Dynamic Protocol Selection and Multipartite Distillation](https://arxiv.org/abs/2601.18351v2)** | 2026-01-27 |  |
 
