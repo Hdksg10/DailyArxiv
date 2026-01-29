@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 29, 2026
+title: Latest 15 Papers - January 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enabling SSI-Compliant Use of EUDI Wallet Credentials through Trusted Execution Environment and Zero-Knowledge Proof](https://arxiv.org/abs/2601.19893v1)** | 2026-01-27 |  |
-| **[Self-Sovereign Identity and eIDAS 2.0: An Analysis of Control, Privacy, and Legal Implications](https://arxiv.org/abs/2601.19837v1)** | 2026-01-27 |  |
-| **[Knowledge-Aware Evolution for Streaming Federated Continual Learning with Category Overlap and without Task Identifiers](https://arxiv.org/abs/2601.19788v1)** | 2026-01-27 |  |
-| **[Accelerating radio astronomy imaging with RICK: a step towards SKA-Mid and SKA-Low](https://arxiv.org/abs/2601.19714v1)** | 2026-01-27 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, Accepted for publication on Astronomy and Computing Journal</p></details> |
-| **[MSCCL++: Rethinking GPU Communication Abstractions for AI Inference](https://arxiv.org/abs/2504.09014v4)** | 2026-01-27 | 15 pages, 13 figures |
-| **[Parallel Spawning Strategies for Dynamic-Aware MPI Applications](https://arxiv.org/abs/2511.04268v2)** | 2026-01-27 | <details><summary>14 pa...</summary><p>14 pages, 2 Tables, 6 Figures, 9 Equations, 4 Listings</p></details> |
-| **[Minimmit: Fast Finality with Even Faster Blocks](https://arxiv.org/abs/2508.10862v7)** | 2026-01-27 |  |
-| **[Convex Hull 3D Filtering with GPU Ray Tracing and Tensor Cores](https://arxiv.org/abs/2601.19647v1)** | 2026-01-27 |  |
-| **[Modular Foundation Model Inference at the Edge: Network-Aware Microservice Optimization](https://arxiv.org/abs/2601.19563v1)** | 2026-01-27 | <details><summary>4 fig...</summary><p>4 figures. Conference</p></details> |
-| **[Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144v4)** | 2026-01-27 | LMCS |
-| **[Optimizing FaaS Platforms for MCP-enabled Agentic Workflows](https://arxiv.org/abs/2601.14735v2)** | 2026-01-27 |  |
-| **[For Generalised Algebraic Theories, Two Sorts Are Enough](https://arxiv.org/abs/2601.19426v1)** | 2026-01-27 |  |
-| **[Specifying and Verifying RDMA Synchronisation (Extended Version)](https://arxiv.org/abs/2601.14642v2)** | 2026-01-27 | <details><summary>95 pa...</summary><p>95 pages, extended version of ESOP 2026 paper, replaced to fix a tikz opacity problem</p></details> |
-| **[Decentralized Nonsmooth Nonconvex Optimization with Client Sampling](https://arxiv.org/abs/2601.19381v1)** | 2026-01-27 |  |
-| **[An Adaptive Purification Controller for Quantum Networks: Dynamic Protocol Selection and Multipartite Distillation](https://arxiv.org/abs/2601.18351v2)** | 2026-01-27 |  |
+| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v3)** | 2026-01-28 |  |
+| **[Neural Theorem Proving for Verification Conditions: A Real-World Benchmark](https://arxiv.org/abs/2601.18944v2)** | 2026-01-28 | Accepted in ICLR'26 |
+| **[The Monotone Priority System: Foundations of Contract-Specific Sequencing](https://arxiv.org/abs/2601.20783v1)** | 2026-01-28 |  |
+| **[Agentic Fog: A Policy-driven Framework for Distributed Intelligence in Fog Computing](https://arxiv.org/abs/2601.20764v1)** | 2026-01-28 | 09 Pages |
+| **[SA-PEF: Step-Ahead Partial Error Feedback for Efficient Federated Learning](https://arxiv.org/abs/2601.20738v1)** | 2026-01-28 |  |
+| **[Beyond GEMM-Centric NPUs: Enabling Efficient Diffusion LLM Sampling](https://arxiv.org/abs/2601.20706v1)** | 2026-01-28 |  |
+| **[OnePiece: A Large-Scale Distributed Inference System with RDMA for Complex AI-Generated Content (AIGC) Workflows](https://arxiv.org/abs/2601.20655v1)** | 2026-01-28 | 12 pages |
+| **[The Multiserver-Job Stochastic Recurrence Equation for Cloud Computing Performance Evaluation](https://arxiv.org/abs/2601.20653v1)** | 2026-01-28 |  |
+| **[Types for Grassroots Logic Programs](https://arxiv.org/abs/2601.17957v2)** | 2026-01-28 |  |
+| **[Predictor-Free and Hardware-Aware Federated Neural Architecture Search via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v2)** | 2026-01-28 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work accepted at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
+| **[AutoOverlap: Enabling Fine-Grained Overlap of Computation and Communication with Chunk-Based Scheduling](https://arxiv.org/abs/2601.20595v1)** | 2026-01-28 |  |
+| **[LLMs versus the Halting Problem: Revisiting Program Termination Prediction](https://arxiv.org/abs/2601.18987v2)** | 2026-01-28 |  |
+| **[Colored Markov Modulated Fluid Queues](https://arxiv.org/abs/2601.20537v1)** | 2026-01-28 |  |
+| **[SketchGuard: Scaling Byzantine-Robust Decentralized Federated Learning via Sketch-Based Screening](https://arxiv.org/abs/2510.07922v3)** | 2026-01-28 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, Code Available: https://doi.org/10.5281/zenodo.17223405</p></details> |
+| **[DGRAG: Distributed Graph-based Retrieval-Augmented Generation in Edge-Cloud Systems](https://arxiv.org/abs/2505.19847v2)** | 2026-01-28 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enabling SSI-Compliant Use of EUDI Wallet Credentials through Trusted Execution Environment and Zero-Knowledge Proof](https://arxiv.org/abs/2601.19893v1)** | 2026-01-27 |  |
-| **[Self-Sovereign Identity and eIDAS 2.0: An Analysis of Control, Privacy, and Legal Implications](https://arxiv.org/abs/2601.19837v1)** | 2026-01-27 |  |
-| **[Knowledge-Aware Evolution for Streaming Federated Continual Learning with Category Overlap and without Task Identifiers](https://arxiv.org/abs/2601.19788v1)** | 2026-01-27 |  |
-| **[Accelerating radio astronomy imaging with RICK: a step towards SKA-Mid and SKA-Low](https://arxiv.org/abs/2601.19714v1)** | 2026-01-27 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, Accepted for publication on Astronomy and Computing Journal</p></details> |
-| **[MSCCL++: Rethinking GPU Communication Abstractions for AI Inference](https://arxiv.org/abs/2504.09014v4)** | 2026-01-27 | 15 pages, 13 figures |
-| **[Parallel Spawning Strategies for Dynamic-Aware MPI Applications](https://arxiv.org/abs/2511.04268v2)** | 2026-01-27 | <details><summary>14 pa...</summary><p>14 pages, 2 Tables, 6 Figures, 9 Equations, 4 Listings</p></details> |
-| **[Minimmit: Fast Finality with Even Faster Blocks](https://arxiv.org/abs/2508.10862v7)** | 2026-01-27 |  |
-| **[Convex Hull 3D Filtering with GPU Ray Tracing and Tensor Cores](https://arxiv.org/abs/2601.19647v1)** | 2026-01-27 |  |
-| **[Modular Foundation Model Inference at the Edge: Network-Aware Microservice Optimization](https://arxiv.org/abs/2601.19563v1)** | 2026-01-27 | <details><summary>4 fig...</summary><p>4 figures. Conference</p></details> |
-| **[Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144v4)** | 2026-01-27 | LMCS |
-| **[Optimizing FaaS Platforms for MCP-enabled Agentic Workflows](https://arxiv.org/abs/2601.14735v2)** | 2026-01-27 |  |
-| **[For Generalised Algebraic Theories, Two Sorts Are Enough](https://arxiv.org/abs/2601.19426v1)** | 2026-01-27 |  |
-| **[Specifying and Verifying RDMA Synchronisation (Extended Version)](https://arxiv.org/abs/2601.14642v2)** | 2026-01-27 | <details><summary>95 pa...</summary><p>95 pages, extended version of ESOP 2026 paper, replaced to fix a tikz opacity problem</p></details> |
-| **[Decentralized Nonsmooth Nonconvex Optimization with Client Sampling](https://arxiv.org/abs/2601.19381v1)** | 2026-01-27 |  |
-| **[An Adaptive Purification Controller for Quantum Networks: Dynamic Protocol Selection and Multipartite Distillation](https://arxiv.org/abs/2601.18351v2)** | 2026-01-27 |  |
+| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v3)** | 2026-01-28 |  |
+| **[Neural Theorem Proving for Verification Conditions: A Real-World Benchmark](https://arxiv.org/abs/2601.18944v2)** | 2026-01-28 | Accepted in ICLR'26 |
+| **[The Monotone Priority System: Foundations of Contract-Specific Sequencing](https://arxiv.org/abs/2601.20783v1)** | 2026-01-28 |  |
+| **[Agentic Fog: A Policy-driven Framework for Distributed Intelligence in Fog Computing](https://arxiv.org/abs/2601.20764v1)** | 2026-01-28 | 09 Pages |
+| **[SA-PEF: Step-Ahead Partial Error Feedback for Efficient Federated Learning](https://arxiv.org/abs/2601.20738v1)** | 2026-01-28 |  |
+| **[Beyond GEMM-Centric NPUs: Enabling Efficient Diffusion LLM Sampling](https://arxiv.org/abs/2601.20706v1)** | 2026-01-28 |  |
+| **[OnePiece: A Large-Scale Distributed Inference System with RDMA for Complex AI-Generated Content (AIGC) Workflows](https://arxiv.org/abs/2601.20655v1)** | 2026-01-28 | 12 pages |
+| **[The Multiserver-Job Stochastic Recurrence Equation for Cloud Computing Performance Evaluation](https://arxiv.org/abs/2601.20653v1)** | 2026-01-28 |  |
+| **[Types for Grassroots Logic Programs](https://arxiv.org/abs/2601.17957v2)** | 2026-01-28 |  |
+| **[Predictor-Free and Hardware-Aware Federated Neural Architecture Search via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v2)** | 2026-01-28 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work accepted at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
+| **[AutoOverlap: Enabling Fine-Grained Overlap of Computation and Communication with Chunk-Based Scheduling](https://arxiv.org/abs/2601.20595v1)** | 2026-01-28 |  |
+| **[LLMs versus the Halting Problem: Revisiting Program Termination Prediction](https://arxiv.org/abs/2601.18987v2)** | 2026-01-28 |  |
+| **[Colored Markov Modulated Fluid Queues](https://arxiv.org/abs/2601.20537v1)** | 2026-01-28 |  |
+| **[SketchGuard: Scaling Byzantine-Robust Decentralized Federated Learning via Sketch-Based Screening](https://arxiv.org/abs/2510.07922v3)** | 2026-01-28 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, Code Available: https://doi.org/10.5281/zenodo.17223405</p></details> |
+| **[DGRAG: Distributed Graph-based Retrieval-Augmented Generation in Edge-Cloud Systems](https://arxiv.org/abs/2505.19847v2)** | 2026-01-28 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enabling SSI-Compliant Use of EUDI Wallet Credentials through Trusted Execution Environment and Zero-Knowledge Proof](https://arxiv.org/abs/2601.19893v1)** | 2026-01-27 |  |
-| **[Self-Sovereign Identity and eIDAS 2.0: An Analysis of Control, Privacy, and Legal Implications](https://arxiv.org/abs/2601.19837v1)** | 2026-01-27 |  |
-| **[Knowledge-Aware Evolution for Streaming Federated Continual Learning with Category Overlap and without Task Identifiers](https://arxiv.org/abs/2601.19788v1)** | 2026-01-27 |  |
-| **[Accelerating radio astronomy imaging with RICK: a step towards SKA-Mid and SKA-Low](https://arxiv.org/abs/2601.19714v1)** | 2026-01-27 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, Accepted for publication on Astronomy and Computing Journal</p></details> |
-| **[MSCCL++: Rethinking GPU Communication Abstractions for AI Inference](https://arxiv.org/abs/2504.09014v4)** | 2026-01-27 | 15 pages, 13 figures |
-| **[Parallel Spawning Strategies for Dynamic-Aware MPI Applications](https://arxiv.org/abs/2511.04268v2)** | 2026-01-27 | <details><summary>14 pa...</summary><p>14 pages, 2 Tables, 6 Figures, 9 Equations, 4 Listings</p></details> |
-| **[Minimmit: Fast Finality with Even Faster Blocks](https://arxiv.org/abs/2508.10862v7)** | 2026-01-27 |  |
-| **[Convex Hull 3D Filtering with GPU Ray Tracing and Tensor Cores](https://arxiv.org/abs/2601.19647v1)** | 2026-01-27 |  |
-| **[Modular Foundation Model Inference at the Edge: Network-Aware Microservice Optimization](https://arxiv.org/abs/2601.19563v1)** | 2026-01-27 | <details><summary>4 fig...</summary><p>4 figures. Conference</p></details> |
-| **[Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144v4)** | 2026-01-27 | LMCS |
-| **[Optimizing FaaS Platforms for MCP-enabled Agentic Workflows](https://arxiv.org/abs/2601.14735v2)** | 2026-01-27 |  |
-| **[For Generalised Algebraic Theories, Two Sorts Are Enough](https://arxiv.org/abs/2601.19426v1)** | 2026-01-27 |  |
-| **[Specifying and Verifying RDMA Synchronisation (Extended Version)](https://arxiv.org/abs/2601.14642v2)** | 2026-01-27 | <details><summary>95 pa...</summary><p>95 pages, extended version of ESOP 2026 paper, replaced to fix a tikz opacity problem</p></details> |
-| **[Decentralized Nonsmooth Nonconvex Optimization with Client Sampling](https://arxiv.org/abs/2601.19381v1)** | 2026-01-27 |  |
-| **[An Adaptive Purification Controller for Quantum Networks: Dynamic Protocol Selection and Multipartite Distillation](https://arxiv.org/abs/2601.18351v2)** | 2026-01-27 |  |
+| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v3)** | 2026-01-28 |  |
+| **[Neural Theorem Proving for Verification Conditions: A Real-World Benchmark](https://arxiv.org/abs/2601.18944v2)** | 2026-01-28 | Accepted in ICLR'26 |
+| **[The Monotone Priority System: Foundations of Contract-Specific Sequencing](https://arxiv.org/abs/2601.20783v1)** | 2026-01-28 |  |
+| **[Agentic Fog: A Policy-driven Framework for Distributed Intelligence in Fog Computing](https://arxiv.org/abs/2601.20764v1)** | 2026-01-28 | 09 Pages |
+| **[SA-PEF: Step-Ahead Partial Error Feedback for Efficient Federated Learning](https://arxiv.org/abs/2601.20738v1)** | 2026-01-28 |  |
+| **[Beyond GEMM-Centric NPUs: Enabling Efficient Diffusion LLM Sampling](https://arxiv.org/abs/2601.20706v1)** | 2026-01-28 |  |
+| **[OnePiece: A Large-Scale Distributed Inference System with RDMA for Complex AI-Generated Content (AIGC) Workflows](https://arxiv.org/abs/2601.20655v1)** | 2026-01-28 | 12 pages |
+| **[The Multiserver-Job Stochastic Recurrence Equation for Cloud Computing Performance Evaluation](https://arxiv.org/abs/2601.20653v1)** | 2026-01-28 |  |
+| **[Types for Grassroots Logic Programs](https://arxiv.org/abs/2601.17957v2)** | 2026-01-28 |  |
+| **[Predictor-Free and Hardware-Aware Federated Neural Architecture Search via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v2)** | 2026-01-28 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work accepted at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
+| **[AutoOverlap: Enabling Fine-Grained Overlap of Computation and Communication with Chunk-Based Scheduling](https://arxiv.org/abs/2601.20595v1)** | 2026-01-28 |  |
+| **[LLMs versus the Halting Problem: Revisiting Program Termination Prediction](https://arxiv.org/abs/2601.18987v2)** | 2026-01-28 |  |
+| **[Colored Markov Modulated Fluid Queues](https://arxiv.org/abs/2601.20537v1)** | 2026-01-28 |  |
+| **[SketchGuard: Scaling Byzantine-Robust Decentralized Federated Learning via Sketch-Based Screening](https://arxiv.org/abs/2510.07922v3)** | 2026-01-28 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, Code Available: https://doi.org/10.5281/zenodo.17223405</p></details> |
+| **[DGRAG: Distributed Graph-based Retrieval-Augmented Generation in Edge-Cloud Systems](https://arxiv.org/abs/2505.19847v2)** | 2026-01-28 |  |
 
