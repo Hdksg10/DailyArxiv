@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 30, 2026
+title: Latest 15 Papers - February 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v3)** | 2026-01-28 |  |
-| **[Neural Theorem Proving for Verification Conditions: A Real-World Benchmark](https://arxiv.org/abs/2601.18944v2)** | 2026-01-28 | Accepted in ICLR'26 |
-| **[The Monotone Priority System: Foundations of Contract-Specific Sequencing](https://arxiv.org/abs/2601.20783v1)** | 2026-01-28 |  |
-| **[Agentic Fog: A Policy-driven Framework for Distributed Intelligence in Fog Computing](https://arxiv.org/abs/2601.20764v1)** | 2026-01-28 | 09 Pages |
-| **[SA-PEF: Step-Ahead Partial Error Feedback for Efficient Federated Learning](https://arxiv.org/abs/2601.20738v1)** | 2026-01-28 |  |
-| **[Beyond GEMM-Centric NPUs: Enabling Efficient Diffusion LLM Sampling](https://arxiv.org/abs/2601.20706v1)** | 2026-01-28 |  |
-| **[OnePiece: A Large-Scale Distributed Inference System with RDMA for Complex AI-Generated Content (AIGC) Workflows](https://arxiv.org/abs/2601.20655v1)** | 2026-01-28 | 12 pages |
-| **[The Multiserver-Job Stochastic Recurrence Equation for Cloud Computing Performance Evaluation](https://arxiv.org/abs/2601.20653v1)** | 2026-01-28 |  |
-| **[Types for Grassroots Logic Programs](https://arxiv.org/abs/2601.17957v2)** | 2026-01-28 |  |
-| **[Predictor-Free and Hardware-Aware Federated Neural Architecture Search via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v2)** | 2026-01-28 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work accepted at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
-| **[AutoOverlap: Enabling Fine-Grained Overlap of Computation and Communication with Chunk-Based Scheduling](https://arxiv.org/abs/2601.20595v1)** | 2026-01-28 |  |
-| **[LLMs versus the Halting Problem: Revisiting Program Termination Prediction](https://arxiv.org/abs/2601.18987v2)** | 2026-01-28 |  |
-| **[Colored Markov Modulated Fluid Queues](https://arxiv.org/abs/2601.20537v1)** | 2026-01-28 |  |
-| **[SketchGuard: Scaling Byzantine-Robust Decentralized Federated Learning via Sketch-Based Screening](https://arxiv.org/abs/2510.07922v3)** | 2026-01-28 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, Code Available: https://doi.org/10.5281/zenodo.17223405</p></details> |
-| **[DGRAG: Distributed Graph-based Retrieval-Augmented Generation in Edge-Cloud Systems](https://arxiv.org/abs/2505.19847v2)** | 2026-01-28 |  |
+| **[A Federated and Parameter-Efficient Framework for Large Language Model Training in Medicine](https://arxiv.org/abs/2601.22124v1)** | 2026-01-29 | <details><summary>38 pa...</summary><p>38 pages, 9 tables, 3 figures</p></details> |
+| **[Convex Hull 3D Filtering with GPU Ray Tracing and Tensor Cores](https://arxiv.org/abs/2601.19647v2)** | 2026-01-29 |  |
+| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
+| **[Heterogeneous Computing: The Key to Powering the Future of AI Agent Inference](https://arxiv.org/abs/2601.22001v1)** | 2026-01-29 |  |
+| **[Cutting Quantum Circuits Beyond Qubits](https://arxiv.org/abs/2601.02064v2)** | 2026-01-29 |  |
+| **[Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](https://arxiv.org/abs/2601.21972v1)** | 2026-01-29 |  |
+| **[Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs](https://arxiv.org/abs/2601.21935v1)** | 2026-01-29 | <details><summary>Prepr...</summary><p>Preprint. Under review. 25 pages (including Appendix). 8 Figures</p></details> |
+| **[Speeding up Local Optimization in Vehicle Routing with Tensor-based GPU Acceleration](https://arxiv.org/abs/2506.17357v2)** | 2026-01-29 |  |
+| **[Self-Adaptive Probabilistic Skyline Query Processing in Distributed Edge Computing via Deep Reinforcement Learning](https://arxiv.org/abs/2601.21855v1)** | 2026-01-29 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, manuscript submitted to IEEE Transactions on Emerging Topics in Computing</p></details> |
+| **[Optimal Software Pipelining using an SMT-Solver](https://arxiv.org/abs/2601.21842v1)** | 2026-01-29 |  |
+| **[DASH: Deterministic Attention Scheduling for High-throughput Reproducible LLM Training](https://arxiv.org/abs/2601.21824v1)** | 2026-01-29 |  |
+| **[EWSJF: An Adaptive Scheduler with Hybrid Partitioning for Mixed-Workload LLM Inference](https://arxiv.org/abs/2601.21758v1)** | 2026-01-29 |  |
+| **[bigMICE: Multiple Imputation of Big Data](https://arxiv.org/abs/2601.21613v1)** | 2026-01-29 |  |
+| **[ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management](https://arxiv.org/abs/2601.21473v1)** | 2026-01-29 |  |
+| **[Nimbus: A Unified Embodied Synthetic Data Generation Framework](https://arxiv.org/abs/2601.21449v1)** | 2026-01-29 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v3)** | 2026-01-28 |  |
-| **[Neural Theorem Proving for Verification Conditions: A Real-World Benchmark](https://arxiv.org/abs/2601.18944v2)** | 2026-01-28 | Accepted in ICLR'26 |
-| **[The Monotone Priority System: Foundations of Contract-Specific Sequencing](https://arxiv.org/abs/2601.20783v1)** | 2026-01-28 |  |
-| **[Agentic Fog: A Policy-driven Framework for Distributed Intelligence in Fog Computing](https://arxiv.org/abs/2601.20764v1)** | 2026-01-28 | 09 Pages |
-| **[SA-PEF: Step-Ahead Partial Error Feedback for Efficient Federated Learning](https://arxiv.org/abs/2601.20738v1)** | 2026-01-28 |  |
-| **[Beyond GEMM-Centric NPUs: Enabling Efficient Diffusion LLM Sampling](https://arxiv.org/abs/2601.20706v1)** | 2026-01-28 |  |
-| **[OnePiece: A Large-Scale Distributed Inference System with RDMA for Complex AI-Generated Content (AIGC) Workflows](https://arxiv.org/abs/2601.20655v1)** | 2026-01-28 | 12 pages |
-| **[The Multiserver-Job Stochastic Recurrence Equation for Cloud Computing Performance Evaluation](https://arxiv.org/abs/2601.20653v1)** | 2026-01-28 |  |
-| **[Types for Grassroots Logic Programs](https://arxiv.org/abs/2601.17957v2)** | 2026-01-28 |  |
-| **[Predictor-Free and Hardware-Aware Federated Neural Architecture Search via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v2)** | 2026-01-28 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work accepted at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
-| **[AutoOverlap: Enabling Fine-Grained Overlap of Computation and Communication with Chunk-Based Scheduling](https://arxiv.org/abs/2601.20595v1)** | 2026-01-28 |  |
-| **[LLMs versus the Halting Problem: Revisiting Program Termination Prediction](https://arxiv.org/abs/2601.18987v2)** | 2026-01-28 |  |
-| **[Colored Markov Modulated Fluid Queues](https://arxiv.org/abs/2601.20537v1)** | 2026-01-28 |  |
-| **[SketchGuard: Scaling Byzantine-Robust Decentralized Federated Learning via Sketch-Based Screening](https://arxiv.org/abs/2510.07922v3)** | 2026-01-28 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, Code Available: https://doi.org/10.5281/zenodo.17223405</p></details> |
-| **[DGRAG: Distributed Graph-based Retrieval-Augmented Generation in Edge-Cloud Systems](https://arxiv.org/abs/2505.19847v2)** | 2026-01-28 |  |
+| **[A Federated and Parameter-Efficient Framework for Large Language Model Training in Medicine](https://arxiv.org/abs/2601.22124v1)** | 2026-01-29 | <details><summary>38 pa...</summary><p>38 pages, 9 tables, 3 figures</p></details> |
+| **[Convex Hull 3D Filtering with GPU Ray Tracing and Tensor Cores](https://arxiv.org/abs/2601.19647v2)** | 2026-01-29 |  |
+| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
+| **[Heterogeneous Computing: The Key to Powering the Future of AI Agent Inference](https://arxiv.org/abs/2601.22001v1)** | 2026-01-29 |  |
+| **[Cutting Quantum Circuits Beyond Qubits](https://arxiv.org/abs/2601.02064v2)** | 2026-01-29 |  |
+| **[Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](https://arxiv.org/abs/2601.21972v1)** | 2026-01-29 |  |
+| **[Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs](https://arxiv.org/abs/2601.21935v1)** | 2026-01-29 | <details><summary>Prepr...</summary><p>Preprint. Under review. 25 pages (including Appendix). 8 Figures</p></details> |
+| **[Speeding up Local Optimization in Vehicle Routing with Tensor-based GPU Acceleration](https://arxiv.org/abs/2506.17357v2)** | 2026-01-29 |  |
+| **[Self-Adaptive Probabilistic Skyline Query Processing in Distributed Edge Computing via Deep Reinforcement Learning](https://arxiv.org/abs/2601.21855v1)** | 2026-01-29 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, manuscript submitted to IEEE Transactions on Emerging Topics in Computing</p></details> |
+| **[Optimal Software Pipelining using an SMT-Solver](https://arxiv.org/abs/2601.21842v1)** | 2026-01-29 |  |
+| **[DASH: Deterministic Attention Scheduling for High-throughput Reproducible LLM Training](https://arxiv.org/abs/2601.21824v1)** | 2026-01-29 |  |
+| **[EWSJF: An Adaptive Scheduler with Hybrid Partitioning for Mixed-Workload LLM Inference](https://arxiv.org/abs/2601.21758v1)** | 2026-01-29 |  |
+| **[bigMICE: Multiple Imputation of Big Data](https://arxiv.org/abs/2601.21613v1)** | 2026-01-29 |  |
+| **[ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management](https://arxiv.org/abs/2601.21473v1)** | 2026-01-29 |  |
+| **[Nimbus: A Unified Embodied Synthetic Data Generation Framework](https://arxiv.org/abs/2601.21449v1)** | 2026-01-29 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v3)** | 2026-01-28 |  |
-| **[Neural Theorem Proving for Verification Conditions: A Real-World Benchmark](https://arxiv.org/abs/2601.18944v2)** | 2026-01-28 | Accepted in ICLR'26 |
-| **[The Monotone Priority System: Foundations of Contract-Specific Sequencing](https://arxiv.org/abs/2601.20783v1)** | 2026-01-28 |  |
-| **[Agentic Fog: A Policy-driven Framework for Distributed Intelligence in Fog Computing](https://arxiv.org/abs/2601.20764v1)** | 2026-01-28 | 09 Pages |
-| **[SA-PEF: Step-Ahead Partial Error Feedback for Efficient Federated Learning](https://arxiv.org/abs/2601.20738v1)** | 2026-01-28 |  |
-| **[Beyond GEMM-Centric NPUs: Enabling Efficient Diffusion LLM Sampling](https://arxiv.org/abs/2601.20706v1)** | 2026-01-28 |  |
-| **[OnePiece: A Large-Scale Distributed Inference System with RDMA for Complex AI-Generated Content (AIGC) Workflows](https://arxiv.org/abs/2601.20655v1)** | 2026-01-28 | 12 pages |
-| **[The Multiserver-Job Stochastic Recurrence Equation for Cloud Computing Performance Evaluation](https://arxiv.org/abs/2601.20653v1)** | 2026-01-28 |  |
-| **[Types for Grassroots Logic Programs](https://arxiv.org/abs/2601.17957v2)** | 2026-01-28 |  |
-| **[Predictor-Free and Hardware-Aware Federated Neural Architecture Search via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v2)** | 2026-01-28 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work accepted at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
-| **[AutoOverlap: Enabling Fine-Grained Overlap of Computation and Communication with Chunk-Based Scheduling](https://arxiv.org/abs/2601.20595v1)** | 2026-01-28 |  |
-| **[LLMs versus the Halting Problem: Revisiting Program Termination Prediction](https://arxiv.org/abs/2601.18987v2)** | 2026-01-28 |  |
-| **[Colored Markov Modulated Fluid Queues](https://arxiv.org/abs/2601.20537v1)** | 2026-01-28 |  |
-| **[SketchGuard: Scaling Byzantine-Robust Decentralized Federated Learning via Sketch-Based Screening](https://arxiv.org/abs/2510.07922v3)** | 2026-01-28 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, Code Available: https://doi.org/10.5281/zenodo.17223405</p></details> |
-| **[DGRAG: Distributed Graph-based Retrieval-Augmented Generation in Edge-Cloud Systems](https://arxiv.org/abs/2505.19847v2)** | 2026-01-28 |  |
+| **[A Federated and Parameter-Efficient Framework for Large Language Model Training in Medicine](https://arxiv.org/abs/2601.22124v1)** | 2026-01-29 | <details><summary>38 pa...</summary><p>38 pages, 9 tables, 3 figures</p></details> |
+| **[Convex Hull 3D Filtering with GPU Ray Tracing and Tensor Cores](https://arxiv.org/abs/2601.19647v2)** | 2026-01-29 |  |
+| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
+| **[Heterogeneous Computing: The Key to Powering the Future of AI Agent Inference](https://arxiv.org/abs/2601.22001v1)** | 2026-01-29 |  |
+| **[Cutting Quantum Circuits Beyond Qubits](https://arxiv.org/abs/2601.02064v2)** | 2026-01-29 |  |
+| **[Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](https://arxiv.org/abs/2601.21972v1)** | 2026-01-29 |  |
+| **[Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs](https://arxiv.org/abs/2601.21935v1)** | 2026-01-29 | <details><summary>Prepr...</summary><p>Preprint. Under review. 25 pages (including Appendix). 8 Figures</p></details> |
+| **[Speeding up Local Optimization in Vehicle Routing with Tensor-based GPU Acceleration](https://arxiv.org/abs/2506.17357v2)** | 2026-01-29 |  |
+| **[Self-Adaptive Probabilistic Skyline Query Processing in Distributed Edge Computing via Deep Reinforcement Learning](https://arxiv.org/abs/2601.21855v1)** | 2026-01-29 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, manuscript submitted to IEEE Transactions on Emerging Topics in Computing</p></details> |
+| **[Optimal Software Pipelining using an SMT-Solver](https://arxiv.org/abs/2601.21842v1)** | 2026-01-29 |  |
+| **[DASH: Deterministic Attention Scheduling for High-throughput Reproducible LLM Training](https://arxiv.org/abs/2601.21824v1)** | 2026-01-29 |  |
+| **[EWSJF: An Adaptive Scheduler with Hybrid Partitioning for Mixed-Workload LLM Inference](https://arxiv.org/abs/2601.21758v1)** | 2026-01-29 |  |
+| **[bigMICE: Multiple Imputation of Big Data](https://arxiv.org/abs/2601.21613v1)** | 2026-01-29 |  |
+| **[ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management](https://arxiv.org/abs/2601.21473v1)** | 2026-01-29 |  |
+| **[Nimbus: A Unified Embodied Synthetic Data Generation Framework](https://arxiv.org/abs/2601.21449v1)** | 2026-01-29 |  |
 
