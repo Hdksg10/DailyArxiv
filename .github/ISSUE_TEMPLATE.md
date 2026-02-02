@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 02, 2026
+title: Latest 15 Papers - February 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Federated and Parameter-Efficient Framework for Large Language Model Training in Medicine](https://arxiv.org/abs/2601.22124v1)** | 2026-01-29 | <details><summary>38 pa...</summary><p>38 pages, 9 tables, 3 figures</p></details> |
-| **[Convex Hull 3D Filtering with GPU Ray Tracing and Tensor Cores](https://arxiv.org/abs/2601.19647v2)** | 2026-01-29 |  |
-| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
-| **[Heterogeneous Computing: The Key to Powering the Future of AI Agent Inference](https://arxiv.org/abs/2601.22001v1)** | 2026-01-29 |  |
-| **[Cutting Quantum Circuits Beyond Qubits](https://arxiv.org/abs/2601.02064v2)** | 2026-01-29 |  |
-| **[Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](https://arxiv.org/abs/2601.21972v1)** | 2026-01-29 |  |
-| **[Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs](https://arxiv.org/abs/2601.21935v1)** | 2026-01-29 | <details><summary>Prepr...</summary><p>Preprint. Under review. 25 pages (including Appendix). 8 Figures</p></details> |
-| **[Speeding up Local Optimization in Vehicle Routing with Tensor-based GPU Acceleration](https://arxiv.org/abs/2506.17357v2)** | 2026-01-29 |  |
-| **[Self-Adaptive Probabilistic Skyline Query Processing in Distributed Edge Computing via Deep Reinforcement Learning](https://arxiv.org/abs/2601.21855v1)** | 2026-01-29 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, manuscript submitted to IEEE Transactions on Emerging Topics in Computing</p></details> |
-| **[Optimal Software Pipelining using an SMT-Solver](https://arxiv.org/abs/2601.21842v1)** | 2026-01-29 |  |
-| **[DASH: Deterministic Attention Scheduling for High-throughput Reproducible LLM Training](https://arxiv.org/abs/2601.21824v1)** | 2026-01-29 |  |
-| **[EWSJF: An Adaptive Scheduler with Hybrid Partitioning for Mixed-Workload LLM Inference](https://arxiv.org/abs/2601.21758v1)** | 2026-01-29 |  |
-| **[bigMICE: Multiple Imputation of Big Data](https://arxiv.org/abs/2601.21613v1)** | 2026-01-29 |  |
-| **[ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management](https://arxiv.org/abs/2601.21473v1)** | 2026-01-29 |  |
-| **[Nimbus: A Unified Embodied Synthetic Data Generation Framework](https://arxiv.org/abs/2601.21449v1)** | 2026-01-29 |  |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[LLM-42: Enabling Determinism in LLM Inference with Verified Speculation](https://arxiv.org/abs/2601.17768v2)** | 2026-01-30 | <details><summary>https...</summary><p>https://github.com/microsoft/llm-42</p></details> |
+| **[Optimal Software Pipelining using an SMT-Solver](https://arxiv.org/abs/2601.21842v2)** | 2026-01-30 |  |
+| **[SpecIBT: Formally Verified Protection Against Speculative Control-Flow Hijacking](https://arxiv.org/abs/2601.22978v1)** | 2026-01-30 | Submitted to CSF'26 |
+| **[ERA: Epoch-Resolved Arbitration for Duelling Admins in Group Management CRDTs](https://arxiv.org/abs/2601.22963v1)** | 2026-01-30 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, submitted to the 13th Workshop on Principles and Practice of Consistency for Distributed Data</p></details> |
+| **[Assessing the Real-World Impact of Post-Quantum Cryptography on WPA-Enterprise Networks](https://arxiv.org/abs/2601.22892v1)** | 2026-01-30 |  |
+| **[Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts](https://arxiv.org/abs/2512.02918v2)** | 2026-01-30 | <details><summary>Revis...</summary><p>Revised a lot with new details</p></details> |
+| **[Herb.jl: A Unifying Program Synthesis Library](https://arxiv.org/abs/2510.09726v2)** | 2026-01-30 |  |
+| **[AscendCraft: Automatic Ascend NPU Kernel Generation via DSL-Guided Transcompilation](https://arxiv.org/abs/2601.22760v1)** | 2026-01-30 |  |
+| **[SQUAD: Scalable Quorum Adaptive Decisions via ensemble of early exit neural networks](https://arxiv.org/abs/2601.22711v1)** | 2026-01-30 |  |
+| **[CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control](https://arxiv.org/abs/2601.22705v1)** | 2026-01-30 |  |
+| **[Spattack: Subgroup Poisoning Attacks on Federated Recommender Systems](https://arxiv.org/abs/2507.06258v2)** | 2026-01-30 | Accepted by WWW 2026 |
+| **[The Green Side of the Lua](https://arxiv.org/abs/2601.16670v2)** | 2026-01-30 |  |
+| **[Obfuscation as an Effective Signal for Prioritizing Cross-Chain Smart Contract Audits: Large-Scale Measurement and Risk Profiling](https://arxiv.org/abs/2601.17356v2)** | 2026-01-30 |  |
+| **[HetCCL: Accelerating LLM Training with Heterogeneous GPUs](https://arxiv.org/abs/2601.22585v1)** | 2026-01-30 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Federated and Parameter-Efficient Framework for Large Language Model Training in Medicine](https://arxiv.org/abs/2601.22124v1)** | 2026-01-29 | <details><summary>38 pa...</summary><p>38 pages, 9 tables, 3 figures</p></details> |
-| **[Convex Hull 3D Filtering with GPU Ray Tracing and Tensor Cores](https://arxiv.org/abs/2601.19647v2)** | 2026-01-29 |  |
-| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
-| **[Heterogeneous Computing: The Key to Powering the Future of AI Agent Inference](https://arxiv.org/abs/2601.22001v1)** | 2026-01-29 |  |
-| **[Cutting Quantum Circuits Beyond Qubits](https://arxiv.org/abs/2601.02064v2)** | 2026-01-29 |  |
-| **[Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](https://arxiv.org/abs/2601.21972v1)** | 2026-01-29 |  |
-| **[Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs](https://arxiv.org/abs/2601.21935v1)** | 2026-01-29 | <details><summary>Prepr...</summary><p>Preprint. Under review. 25 pages (including Appendix). 8 Figures</p></details> |
-| **[Speeding up Local Optimization in Vehicle Routing with Tensor-based GPU Acceleration](https://arxiv.org/abs/2506.17357v2)** | 2026-01-29 |  |
-| **[Self-Adaptive Probabilistic Skyline Query Processing in Distributed Edge Computing via Deep Reinforcement Learning](https://arxiv.org/abs/2601.21855v1)** | 2026-01-29 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, manuscript submitted to IEEE Transactions on Emerging Topics in Computing</p></details> |
-| **[Optimal Software Pipelining using an SMT-Solver](https://arxiv.org/abs/2601.21842v1)** | 2026-01-29 |  |
-| **[DASH: Deterministic Attention Scheduling for High-throughput Reproducible LLM Training](https://arxiv.org/abs/2601.21824v1)** | 2026-01-29 |  |
-| **[EWSJF: An Adaptive Scheduler with Hybrid Partitioning for Mixed-Workload LLM Inference](https://arxiv.org/abs/2601.21758v1)** | 2026-01-29 |  |
-| **[bigMICE: Multiple Imputation of Big Data](https://arxiv.org/abs/2601.21613v1)** | 2026-01-29 |  |
-| **[ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management](https://arxiv.org/abs/2601.21473v1)** | 2026-01-29 |  |
-| **[Nimbus: A Unified Embodied Synthetic Data Generation Framework](https://arxiv.org/abs/2601.21449v1)** | 2026-01-29 |  |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[LLM-42: Enabling Determinism in LLM Inference with Verified Speculation](https://arxiv.org/abs/2601.17768v2)** | 2026-01-30 | <details><summary>https...</summary><p>https://github.com/microsoft/llm-42</p></details> |
+| **[Optimal Software Pipelining using an SMT-Solver](https://arxiv.org/abs/2601.21842v2)** | 2026-01-30 |  |
+| **[SpecIBT: Formally Verified Protection Against Speculative Control-Flow Hijacking](https://arxiv.org/abs/2601.22978v1)** | 2026-01-30 | Submitted to CSF'26 |
+| **[ERA: Epoch-Resolved Arbitration for Duelling Admins in Group Management CRDTs](https://arxiv.org/abs/2601.22963v1)** | 2026-01-30 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, submitted to the 13th Workshop on Principles and Practice of Consistency for Distributed Data</p></details> |
+| **[Assessing the Real-World Impact of Post-Quantum Cryptography on WPA-Enterprise Networks](https://arxiv.org/abs/2601.22892v1)** | 2026-01-30 |  |
+| **[Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts](https://arxiv.org/abs/2512.02918v2)** | 2026-01-30 | <details><summary>Revis...</summary><p>Revised a lot with new details</p></details> |
+| **[Herb.jl: A Unifying Program Synthesis Library](https://arxiv.org/abs/2510.09726v2)** | 2026-01-30 |  |
+| **[AscendCraft: Automatic Ascend NPU Kernel Generation via DSL-Guided Transcompilation](https://arxiv.org/abs/2601.22760v1)** | 2026-01-30 |  |
+| **[SQUAD: Scalable Quorum Adaptive Decisions via ensemble of early exit neural networks](https://arxiv.org/abs/2601.22711v1)** | 2026-01-30 |  |
+| **[CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control](https://arxiv.org/abs/2601.22705v1)** | 2026-01-30 |  |
+| **[Spattack: Subgroup Poisoning Attacks on Federated Recommender Systems](https://arxiv.org/abs/2507.06258v2)** | 2026-01-30 | Accepted by WWW 2026 |
+| **[The Green Side of the Lua](https://arxiv.org/abs/2601.16670v2)** | 2026-01-30 |  |
+| **[Obfuscation as an Effective Signal for Prioritizing Cross-Chain Smart Contract Audits: Large-Scale Measurement and Risk Profiling](https://arxiv.org/abs/2601.17356v2)** | 2026-01-30 |  |
+| **[HetCCL: Accelerating LLM Training with Heterogeneous GPUs](https://arxiv.org/abs/2601.22585v1)** | 2026-01-30 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Federated and Parameter-Efficient Framework for Large Language Model Training in Medicine](https://arxiv.org/abs/2601.22124v1)** | 2026-01-29 | <details><summary>38 pa...</summary><p>38 pages, 9 tables, 3 figures</p></details> |
-| **[Convex Hull 3D Filtering with GPU Ray Tracing and Tensor Cores](https://arxiv.org/abs/2601.19647v2)** | 2026-01-29 |  |
-| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
-| **[Heterogeneous Computing: The Key to Powering the Future of AI Agent Inference](https://arxiv.org/abs/2601.22001v1)** | 2026-01-29 |  |
-| **[Cutting Quantum Circuits Beyond Qubits](https://arxiv.org/abs/2601.02064v2)** | 2026-01-29 |  |
-| **[Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](https://arxiv.org/abs/2601.21972v1)** | 2026-01-29 |  |
-| **[Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs](https://arxiv.org/abs/2601.21935v1)** | 2026-01-29 | <details><summary>Prepr...</summary><p>Preprint. Under review. 25 pages (including Appendix). 8 Figures</p></details> |
-| **[Speeding up Local Optimization in Vehicle Routing with Tensor-based GPU Acceleration](https://arxiv.org/abs/2506.17357v2)** | 2026-01-29 |  |
-| **[Self-Adaptive Probabilistic Skyline Query Processing in Distributed Edge Computing via Deep Reinforcement Learning](https://arxiv.org/abs/2601.21855v1)** | 2026-01-29 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, manuscript submitted to IEEE Transactions on Emerging Topics in Computing</p></details> |
-| **[Optimal Software Pipelining using an SMT-Solver](https://arxiv.org/abs/2601.21842v1)** | 2026-01-29 |  |
-| **[DASH: Deterministic Attention Scheduling for High-throughput Reproducible LLM Training](https://arxiv.org/abs/2601.21824v1)** | 2026-01-29 |  |
-| **[EWSJF: An Adaptive Scheduler with Hybrid Partitioning for Mixed-Workload LLM Inference](https://arxiv.org/abs/2601.21758v1)** | 2026-01-29 |  |
-| **[bigMICE: Multiple Imputation of Big Data](https://arxiv.org/abs/2601.21613v1)** | 2026-01-29 |  |
-| **[ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management](https://arxiv.org/abs/2601.21473v1)** | 2026-01-29 |  |
-| **[Nimbus: A Unified Embodied Synthetic Data Generation Framework](https://arxiv.org/abs/2601.21449v1)** | 2026-01-29 |  |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[LLM-42: Enabling Determinism in LLM Inference with Verified Speculation](https://arxiv.org/abs/2601.17768v2)** | 2026-01-30 | <details><summary>https...</summary><p>https://github.com/microsoft/llm-42</p></details> |
+| **[Optimal Software Pipelining using an SMT-Solver](https://arxiv.org/abs/2601.21842v2)** | 2026-01-30 |  |
+| **[SpecIBT: Formally Verified Protection Against Speculative Control-Flow Hijacking](https://arxiv.org/abs/2601.22978v1)** | 2026-01-30 | Submitted to CSF'26 |
+| **[ERA: Epoch-Resolved Arbitration for Duelling Admins in Group Management CRDTs](https://arxiv.org/abs/2601.22963v1)** | 2026-01-30 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, submitted to the 13th Workshop on Principles and Practice of Consistency for Distributed Data</p></details> |
+| **[Assessing the Real-World Impact of Post-Quantum Cryptography on WPA-Enterprise Networks](https://arxiv.org/abs/2601.22892v1)** | 2026-01-30 |  |
+| **[Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts](https://arxiv.org/abs/2512.02918v2)** | 2026-01-30 | <details><summary>Revis...</summary><p>Revised a lot with new details</p></details> |
+| **[Herb.jl: A Unifying Program Synthesis Library](https://arxiv.org/abs/2510.09726v2)** | 2026-01-30 |  |
+| **[AscendCraft: Automatic Ascend NPU Kernel Generation via DSL-Guided Transcompilation](https://arxiv.org/abs/2601.22760v1)** | 2026-01-30 |  |
+| **[SQUAD: Scalable Quorum Adaptive Decisions via ensemble of early exit neural networks](https://arxiv.org/abs/2601.22711v1)** | 2026-01-30 |  |
+| **[CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control](https://arxiv.org/abs/2601.22705v1)** | 2026-01-30 |  |
+| **[Spattack: Subgroup Poisoning Attacks on Federated Recommender Systems](https://arxiv.org/abs/2507.06258v2)** | 2026-01-30 | Accepted by WWW 2026 |
+| **[The Green Side of the Lua](https://arxiv.org/abs/2601.16670v2)** | 2026-01-30 |  |
+| **[Obfuscation as an Effective Signal for Prioritizing Cross-Chain Smart Contract Audits: Large-Scale Measurement and Risk Profiling](https://arxiv.org/abs/2601.17356v2)** | 2026-01-30 |  |
+| **[HetCCL: Accelerating LLM Training with Heterogeneous GPUs](https://arxiv.org/abs/2601.22585v1)** | 2026-01-30 |  |
 
