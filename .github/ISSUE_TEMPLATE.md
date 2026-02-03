@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2026
+title: Latest 15 Papers - February 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[LLM-42: Enabling Determinism in LLM Inference with Verified Speculation](https://arxiv.org/abs/2601.17768v2)** | 2026-01-30 | <details><summary>https...</summary><p>https://github.com/microsoft/llm-42</p></details> |
-| **[Optimal Software Pipelining using an SMT-Solver](https://arxiv.org/abs/2601.21842v2)** | 2026-01-30 |  |
-| **[SpecIBT: Formally Verified Protection Against Speculative Control-Flow Hijacking](https://arxiv.org/abs/2601.22978v1)** | 2026-01-30 | Submitted to CSF'26 |
-| **[ERA: Epoch-Resolved Arbitration for Duelling Admins in Group Management CRDTs](https://arxiv.org/abs/2601.22963v1)** | 2026-01-30 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, submitted to the 13th Workshop on Principles and Practice of Consistency for Distributed Data</p></details> |
-| **[Assessing the Real-World Impact of Post-Quantum Cryptography on WPA-Enterprise Networks](https://arxiv.org/abs/2601.22892v1)** | 2026-01-30 |  |
-| **[Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts](https://arxiv.org/abs/2512.02918v2)** | 2026-01-30 | <details><summary>Revis...</summary><p>Revised a lot with new details</p></details> |
-| **[Herb.jl: A Unifying Program Synthesis Library](https://arxiv.org/abs/2510.09726v2)** | 2026-01-30 |  |
-| **[AscendCraft: Automatic Ascend NPU Kernel Generation via DSL-Guided Transcompilation](https://arxiv.org/abs/2601.22760v1)** | 2026-01-30 |  |
-| **[SQUAD: Scalable Quorum Adaptive Decisions via ensemble of early exit neural networks](https://arxiv.org/abs/2601.22711v1)** | 2026-01-30 |  |
-| **[CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control](https://arxiv.org/abs/2601.22705v1)** | 2026-01-30 |  |
-| **[Spattack: Subgroup Poisoning Attacks on Federated Recommender Systems](https://arxiv.org/abs/2507.06258v2)** | 2026-01-30 | Accepted by WWW 2026 |
-| **[The Green Side of the Lua](https://arxiv.org/abs/2601.16670v2)** | 2026-01-30 |  |
-| **[Obfuscation as an Effective Signal for Prioritizing Cross-Chain Smart Contract Audits: Large-Scale Measurement and Risk Profiling](https://arxiv.org/abs/2601.17356v2)** | 2026-01-30 |  |
-| **[HetCCL: Accelerating LLM Training with Heterogeneous GPUs](https://arxiv.org/abs/2601.22585v1)** | 2026-01-30 |  |
+| **[sVIRGO: A Scalable Virtual Tree Hierarchical Framework for Distributed Systems](https://arxiv.org/abs/2602.02438v1)** | 2026-02-02 | 10 pages |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[Hierarchical Federated Learning with SignSGD: A Highly Communication-Efficient Approach](https://arxiv.org/abs/2602.02355v1)** | 2026-02-02 |  |
+| **[LCLs Beyond Bounded Degrees](https://arxiv.org/abs/2602.02340v1)** | 2026-02-02 |  |
+| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v1)** | 2026-02-02 | <details><summary>Pre-p...</summary><p>Pre-print (PaPoC 2026)</p></details> |
+| **[Enabling AI Deep Potentials for Ab Initio-quality Molecular Dynamics Simulations in GROMACS](https://arxiv.org/abs/2602.02234v1)** | 2026-02-02 |  |
+| **[Resolving Extreme Data Scarcity by Explicit Physics Integration: An Application to Groundwater Heat Transport](https://arxiv.org/abs/2507.06062v2)** | 2026-02-02 |  |
+| **[vLLM-Omni: Fully Disaggregated Serving for Any-to-Any Multimodal Models](https://arxiv.org/abs/2602.02204v1)** | 2026-02-02 | 12 pages, 8 figures |
+| **[ECHO-2: A Large Scale Distributed Rollout Framework for Cost-efficient Reinforcement Learning](https://arxiv.org/abs/2602.02192v1)** | 2026-02-02 | 23 pages, 7 figures |
+| **[TriCloudEdge: A multi-layer Cloud Continuum](https://arxiv.org/abs/2602.02121v1)** | 2026-02-02 | 16 pages, 6 figures |
+| **[A Latency-Constrained, Gated Recurrent Unit (GRU) Implementation in the Versal AI Engine](https://arxiv.org/abs/2511.15626v2)** | 2026-02-02 |  |
+| **[COLT: Lightweight Multi-LLM Collaboration through Shared MCTS Reasoning for Model Compilation](https://arxiv.org/abs/2602.01935v1)** | 2026-02-02 |  |
+| **[Distributed Hierarchical Machine Learning for Joint Resource Allocation and Slice Selection in In-Network Edge Systems](https://arxiv.org/abs/2511.13313v3)** | 2026-02-02 |  |
+| **[AVERY: Adaptive VLM Split Computing through Embodied Self-Awareness for Efficient Disaster Response Systems](https://arxiv.org/abs/2511.18151v2)** | 2026-02-02 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Paper is currently under review. Authors' version posted for personal use and not for redistribution</p></details> |
+| **[Grappa: Gradient-Only Communication for Scalable Graph Neural Network Training](https://arxiv.org/abs/2602.01872v1)** | 2026-02-02 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[LLM-42: Enabling Determinism in LLM Inference with Verified Speculation](https://arxiv.org/abs/2601.17768v2)** | 2026-01-30 | <details><summary>https...</summary><p>https://github.com/microsoft/llm-42</p></details> |
-| **[Optimal Software Pipelining using an SMT-Solver](https://arxiv.org/abs/2601.21842v2)** | 2026-01-30 |  |
-| **[SpecIBT: Formally Verified Protection Against Speculative Control-Flow Hijacking](https://arxiv.org/abs/2601.22978v1)** | 2026-01-30 | Submitted to CSF'26 |
-| **[ERA: Epoch-Resolved Arbitration for Duelling Admins in Group Management CRDTs](https://arxiv.org/abs/2601.22963v1)** | 2026-01-30 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, submitted to the 13th Workshop on Principles and Practice of Consistency for Distributed Data</p></details> |
-| **[Assessing the Real-World Impact of Post-Quantum Cryptography on WPA-Enterprise Networks](https://arxiv.org/abs/2601.22892v1)** | 2026-01-30 |  |
-| **[Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts](https://arxiv.org/abs/2512.02918v2)** | 2026-01-30 | <details><summary>Revis...</summary><p>Revised a lot with new details</p></details> |
-| **[Herb.jl: A Unifying Program Synthesis Library](https://arxiv.org/abs/2510.09726v2)** | 2026-01-30 |  |
-| **[AscendCraft: Automatic Ascend NPU Kernel Generation via DSL-Guided Transcompilation](https://arxiv.org/abs/2601.22760v1)** | 2026-01-30 |  |
-| **[SQUAD: Scalable Quorum Adaptive Decisions via ensemble of early exit neural networks](https://arxiv.org/abs/2601.22711v1)** | 2026-01-30 |  |
-| **[CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control](https://arxiv.org/abs/2601.22705v1)** | 2026-01-30 |  |
-| **[Spattack: Subgroup Poisoning Attacks on Federated Recommender Systems](https://arxiv.org/abs/2507.06258v2)** | 2026-01-30 | Accepted by WWW 2026 |
-| **[The Green Side of the Lua](https://arxiv.org/abs/2601.16670v2)** | 2026-01-30 |  |
-| **[Obfuscation as an Effective Signal for Prioritizing Cross-Chain Smart Contract Audits: Large-Scale Measurement and Risk Profiling](https://arxiv.org/abs/2601.17356v2)** | 2026-01-30 |  |
-| **[HetCCL: Accelerating LLM Training with Heterogeneous GPUs](https://arxiv.org/abs/2601.22585v1)** | 2026-01-30 |  |
+| **[sVIRGO: A Scalable Virtual Tree Hierarchical Framework for Distributed Systems](https://arxiv.org/abs/2602.02438v1)** | 2026-02-02 | 10 pages |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[Hierarchical Federated Learning with SignSGD: A Highly Communication-Efficient Approach](https://arxiv.org/abs/2602.02355v1)** | 2026-02-02 |  |
+| **[LCLs Beyond Bounded Degrees](https://arxiv.org/abs/2602.02340v1)** | 2026-02-02 |  |
+| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v1)** | 2026-02-02 | <details><summary>Pre-p...</summary><p>Pre-print (PaPoC 2026)</p></details> |
+| **[Enabling AI Deep Potentials for Ab Initio-quality Molecular Dynamics Simulations in GROMACS](https://arxiv.org/abs/2602.02234v1)** | 2026-02-02 |  |
+| **[Resolving Extreme Data Scarcity by Explicit Physics Integration: An Application to Groundwater Heat Transport](https://arxiv.org/abs/2507.06062v2)** | 2026-02-02 |  |
+| **[vLLM-Omni: Fully Disaggregated Serving for Any-to-Any Multimodal Models](https://arxiv.org/abs/2602.02204v1)** | 2026-02-02 | 12 pages, 8 figures |
+| **[ECHO-2: A Large Scale Distributed Rollout Framework for Cost-efficient Reinforcement Learning](https://arxiv.org/abs/2602.02192v1)** | 2026-02-02 | 23 pages, 7 figures |
+| **[TriCloudEdge: A multi-layer Cloud Continuum](https://arxiv.org/abs/2602.02121v1)** | 2026-02-02 | 16 pages, 6 figures |
+| **[A Latency-Constrained, Gated Recurrent Unit (GRU) Implementation in the Versal AI Engine](https://arxiv.org/abs/2511.15626v2)** | 2026-02-02 |  |
+| **[COLT: Lightweight Multi-LLM Collaboration through Shared MCTS Reasoning for Model Compilation](https://arxiv.org/abs/2602.01935v1)** | 2026-02-02 |  |
+| **[Distributed Hierarchical Machine Learning for Joint Resource Allocation and Slice Selection in In-Network Edge Systems](https://arxiv.org/abs/2511.13313v3)** | 2026-02-02 |  |
+| **[AVERY: Adaptive VLM Split Computing through Embodied Self-Awareness for Efficient Disaster Response Systems](https://arxiv.org/abs/2511.18151v2)** | 2026-02-02 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Paper is currently under review. Authors' version posted for personal use and not for redistribution</p></details> |
+| **[Grappa: Gradient-Only Communication for Scalable Graph Neural Network Training](https://arxiv.org/abs/2602.01872v1)** | 2026-02-02 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[LLM-42: Enabling Determinism in LLM Inference with Verified Speculation](https://arxiv.org/abs/2601.17768v2)** | 2026-01-30 | <details><summary>https...</summary><p>https://github.com/microsoft/llm-42</p></details> |
-| **[Optimal Software Pipelining using an SMT-Solver](https://arxiv.org/abs/2601.21842v2)** | 2026-01-30 |  |
-| **[SpecIBT: Formally Verified Protection Against Speculative Control-Flow Hijacking](https://arxiv.org/abs/2601.22978v1)** | 2026-01-30 | Submitted to CSF'26 |
-| **[ERA: Epoch-Resolved Arbitration for Duelling Admins in Group Management CRDTs](https://arxiv.org/abs/2601.22963v1)** | 2026-01-30 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, submitted to the 13th Workshop on Principles and Practice of Consistency for Distributed Data</p></details> |
-| **[Assessing the Real-World Impact of Post-Quantum Cryptography on WPA-Enterprise Networks](https://arxiv.org/abs/2601.22892v1)** | 2026-01-30 |  |
-| **[Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts](https://arxiv.org/abs/2512.02918v2)** | 2026-01-30 | <details><summary>Revis...</summary><p>Revised a lot with new details</p></details> |
-| **[Herb.jl: A Unifying Program Synthesis Library](https://arxiv.org/abs/2510.09726v2)** | 2026-01-30 |  |
-| **[AscendCraft: Automatic Ascend NPU Kernel Generation via DSL-Guided Transcompilation](https://arxiv.org/abs/2601.22760v1)** | 2026-01-30 |  |
-| **[SQUAD: Scalable Quorum Adaptive Decisions via ensemble of early exit neural networks](https://arxiv.org/abs/2601.22711v1)** | 2026-01-30 |  |
-| **[CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control](https://arxiv.org/abs/2601.22705v1)** | 2026-01-30 |  |
-| **[Spattack: Subgroup Poisoning Attacks on Federated Recommender Systems](https://arxiv.org/abs/2507.06258v2)** | 2026-01-30 | Accepted by WWW 2026 |
-| **[The Green Side of the Lua](https://arxiv.org/abs/2601.16670v2)** | 2026-01-30 |  |
-| **[Obfuscation as an Effective Signal for Prioritizing Cross-Chain Smart Contract Audits: Large-Scale Measurement and Risk Profiling](https://arxiv.org/abs/2601.17356v2)** | 2026-01-30 |  |
-| **[HetCCL: Accelerating LLM Training with Heterogeneous GPUs](https://arxiv.org/abs/2601.22585v1)** | 2026-01-30 |  |
+| **[sVIRGO: A Scalable Virtual Tree Hierarchical Framework for Distributed Systems](https://arxiv.org/abs/2602.02438v1)** | 2026-02-02 | 10 pages |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[Hierarchical Federated Learning with SignSGD: A Highly Communication-Efficient Approach](https://arxiv.org/abs/2602.02355v1)** | 2026-02-02 |  |
+| **[LCLs Beyond Bounded Degrees](https://arxiv.org/abs/2602.02340v1)** | 2026-02-02 |  |
+| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v1)** | 2026-02-02 | <details><summary>Pre-p...</summary><p>Pre-print (PaPoC 2026)</p></details> |
+| **[Enabling AI Deep Potentials for Ab Initio-quality Molecular Dynamics Simulations in GROMACS](https://arxiv.org/abs/2602.02234v1)** | 2026-02-02 |  |
+| **[Resolving Extreme Data Scarcity by Explicit Physics Integration: An Application to Groundwater Heat Transport](https://arxiv.org/abs/2507.06062v2)** | 2026-02-02 |  |
+| **[vLLM-Omni: Fully Disaggregated Serving for Any-to-Any Multimodal Models](https://arxiv.org/abs/2602.02204v1)** | 2026-02-02 | 12 pages, 8 figures |
+| **[ECHO-2: A Large Scale Distributed Rollout Framework for Cost-efficient Reinforcement Learning](https://arxiv.org/abs/2602.02192v1)** | 2026-02-02 | 23 pages, 7 figures |
+| **[TriCloudEdge: A multi-layer Cloud Continuum](https://arxiv.org/abs/2602.02121v1)** | 2026-02-02 | 16 pages, 6 figures |
+| **[A Latency-Constrained, Gated Recurrent Unit (GRU) Implementation in the Versal AI Engine](https://arxiv.org/abs/2511.15626v2)** | 2026-02-02 |  |
+| **[COLT: Lightweight Multi-LLM Collaboration through Shared MCTS Reasoning for Model Compilation](https://arxiv.org/abs/2602.01935v1)** | 2026-02-02 |  |
+| **[Distributed Hierarchical Machine Learning for Joint Resource Allocation and Slice Selection in In-Network Edge Systems](https://arxiv.org/abs/2511.13313v3)** | 2026-02-02 |  |
+| **[AVERY: Adaptive VLM Split Computing through Embodied Self-Awareness for Efficient Disaster Response Systems](https://arxiv.org/abs/2511.18151v2)** | 2026-02-02 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Paper is currently under review. Authors' version posted for personal use and not for redistribution</p></details> |
+| **[Grappa: Gradient-Only Communication for Scalable Graph Neural Network Training](https://arxiv.org/abs/2602.01872v1)** | 2026-02-02 |  |
 
