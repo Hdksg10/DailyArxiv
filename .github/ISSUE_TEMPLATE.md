@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 04, 2026
+title: Latest 15 Papers - February 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[sVIRGO: A Scalable Virtual Tree Hierarchical Framework for Distributed Systems](https://arxiv.org/abs/2602.02438v1)** | 2026-02-02 | 10 pages |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
-| **[Hierarchical Federated Learning with SignSGD: A Highly Communication-Efficient Approach](https://arxiv.org/abs/2602.02355v1)** | 2026-02-02 |  |
-| **[LCLs Beyond Bounded Degrees](https://arxiv.org/abs/2602.02340v1)** | 2026-02-02 |  |
-| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v1)** | 2026-02-02 | <details><summary>Pre-p...</summary><p>Pre-print (PaPoC 2026)</p></details> |
-| **[Enabling AI Deep Potentials for Ab Initio-quality Molecular Dynamics Simulations in GROMACS](https://arxiv.org/abs/2602.02234v1)** | 2026-02-02 |  |
-| **[Resolving Extreme Data Scarcity by Explicit Physics Integration: An Application to Groundwater Heat Transport](https://arxiv.org/abs/2507.06062v2)** | 2026-02-02 |  |
-| **[vLLM-Omni: Fully Disaggregated Serving for Any-to-Any Multimodal Models](https://arxiv.org/abs/2602.02204v1)** | 2026-02-02 | 12 pages, 8 figures |
-| **[ECHO-2: A Large Scale Distributed Rollout Framework for Cost-efficient Reinforcement Learning](https://arxiv.org/abs/2602.02192v1)** | 2026-02-02 | 23 pages, 7 figures |
-| **[TriCloudEdge: A multi-layer Cloud Continuum](https://arxiv.org/abs/2602.02121v1)** | 2026-02-02 | 16 pages, 6 figures |
-| **[A Latency-Constrained, Gated Recurrent Unit (GRU) Implementation in the Versal AI Engine](https://arxiv.org/abs/2511.15626v2)** | 2026-02-02 |  |
-| **[COLT: Lightweight Multi-LLM Collaboration through Shared MCTS Reasoning for Model Compilation](https://arxiv.org/abs/2602.01935v1)** | 2026-02-02 |  |
-| **[Distributed Hierarchical Machine Learning for Joint Resource Allocation and Slice Selection in In-Network Edge Systems](https://arxiv.org/abs/2511.13313v3)** | 2026-02-02 |  |
-| **[AVERY: Adaptive VLM Split Computing through Embodied Self-Awareness for Efficient Disaster Response Systems](https://arxiv.org/abs/2511.18151v2)** | 2026-02-02 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Paper is currently under review. Authors' version posted for personal use and not for redistribution</p></details> |
-| **[Grappa: Gradient-Only Communication for Scalable Graph Neural Network Training](https://arxiv.org/abs/2602.01872v1)** | 2026-02-02 |  |
+| **[Do We Need Asynchronous SGD? On the Near-Optimality of Synchronous Methods](https://arxiv.org/abs/2602.03802v1)** | 2026-02-03 |  |
+| **[From Separate Compilation to Sound Language Composition](https://arxiv.org/abs/2602.03777v1)** | 2026-02-03 | <details><summary>43 pa...</summary><p>43 pages, 1 figure, 5 Listing</p></details> |
+| **[Efficient Parallel Implementation of the Pilot Assignment Problem in Massive MIMO Systems](https://arxiv.org/abs/2511.20511v3)** | 2026-02-03 |  |
+| **[Beyond Tokens: Semantic-Aware Speculative Decoding for Efficient Inference by Probing Internal States](https://arxiv.org/abs/2602.03708v1)** | 2026-02-03 |  |
+| **[A Fast Relax-and-Round Approach to Unit Commitment for Data Center Own Generation](https://arxiv.org/abs/2511.16420v3)** | 2026-02-03 | <details><summary>Limit...</summary><p>Limited to 5 pages and this format for IEEE PESGM conference</p></details> |
+| **[Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](https://arxiv.org/abs/2602.03682v1)** | 2026-02-03 |  |
+| **[Efficient Algorithms for Partial Constraint Satisfaction Problems over Control-flow Graphs](https://arxiv.org/abs/2602.03588v1)** | 2026-02-03 | <details><summary>Alrea...</summary><p>Already accepted by SETTA'25. https://www.setta2025.uk/accepted-papers. arXiv admin note: substantial text overlap with arXiv:2507.16660</p></details> |
+| **[Cortex: Achieving Low-Latency, Cost-Efficient Remote Data Access For LLM via Semantic-Aware Knowledge Caching](https://arxiv.org/abs/2509.17360v2)** | 2026-02-03 |  |
+| **[Fast Reconfiguration for Programmable Matter](https://arxiv.org/abs/2202.11663v4)** | 2026-02-03 |  |
+| **[Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation](https://arxiv.org/abs/2602.03515v1)** | 2026-02-03 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[DALI: A Workload-Aware Offloading Framework for Efficient MoE Inference on Local PCs](https://arxiv.org/abs/2602.03495v1)** | 2026-02-03 |  |
+| **[Recursive Energy Efficient Agreement](https://arxiv.org/abs/2602.03474v1)** | 2026-02-03 |  |
+| **[Exploiting Multi-Core Parallelism in Blockchain Validation and Construction](https://arxiv.org/abs/2602.03444v1)** | 2026-02-03 |  |
+| **[Language-Integrated Recursive Queries](https://arxiv.org/abs/2504.02443v3)** | 2026-02-03 |  |
+| **[ECORE: Energy-Conscious Optimized Routing for Deep Learning Models at the Edge](https://arxiv.org/abs/2507.06011v4)** | 2026-02-03 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[sVIRGO: A Scalable Virtual Tree Hierarchical Framework for Distributed Systems](https://arxiv.org/abs/2602.02438v1)** | 2026-02-02 | 10 pages |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
-| **[Hierarchical Federated Learning with SignSGD: A Highly Communication-Efficient Approach](https://arxiv.org/abs/2602.02355v1)** | 2026-02-02 |  |
-| **[LCLs Beyond Bounded Degrees](https://arxiv.org/abs/2602.02340v1)** | 2026-02-02 |  |
-| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v1)** | 2026-02-02 | <details><summary>Pre-p...</summary><p>Pre-print (PaPoC 2026)</p></details> |
-| **[Enabling AI Deep Potentials for Ab Initio-quality Molecular Dynamics Simulations in GROMACS](https://arxiv.org/abs/2602.02234v1)** | 2026-02-02 |  |
-| **[Resolving Extreme Data Scarcity by Explicit Physics Integration: An Application to Groundwater Heat Transport](https://arxiv.org/abs/2507.06062v2)** | 2026-02-02 |  |
-| **[vLLM-Omni: Fully Disaggregated Serving for Any-to-Any Multimodal Models](https://arxiv.org/abs/2602.02204v1)** | 2026-02-02 | 12 pages, 8 figures |
-| **[ECHO-2: A Large Scale Distributed Rollout Framework for Cost-efficient Reinforcement Learning](https://arxiv.org/abs/2602.02192v1)** | 2026-02-02 | 23 pages, 7 figures |
-| **[TriCloudEdge: A multi-layer Cloud Continuum](https://arxiv.org/abs/2602.02121v1)** | 2026-02-02 | 16 pages, 6 figures |
-| **[A Latency-Constrained, Gated Recurrent Unit (GRU) Implementation in the Versal AI Engine](https://arxiv.org/abs/2511.15626v2)** | 2026-02-02 |  |
-| **[COLT: Lightweight Multi-LLM Collaboration through Shared MCTS Reasoning for Model Compilation](https://arxiv.org/abs/2602.01935v1)** | 2026-02-02 |  |
-| **[Distributed Hierarchical Machine Learning for Joint Resource Allocation and Slice Selection in In-Network Edge Systems](https://arxiv.org/abs/2511.13313v3)** | 2026-02-02 |  |
-| **[AVERY: Adaptive VLM Split Computing through Embodied Self-Awareness for Efficient Disaster Response Systems](https://arxiv.org/abs/2511.18151v2)** | 2026-02-02 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Paper is currently under review. Authors' version posted for personal use and not for redistribution</p></details> |
-| **[Grappa: Gradient-Only Communication for Scalable Graph Neural Network Training](https://arxiv.org/abs/2602.01872v1)** | 2026-02-02 |  |
+| **[Do We Need Asynchronous SGD? On the Near-Optimality of Synchronous Methods](https://arxiv.org/abs/2602.03802v1)** | 2026-02-03 |  |
+| **[From Separate Compilation to Sound Language Composition](https://arxiv.org/abs/2602.03777v1)** | 2026-02-03 | <details><summary>43 pa...</summary><p>43 pages, 1 figure, 5 Listing</p></details> |
+| **[Efficient Parallel Implementation of the Pilot Assignment Problem in Massive MIMO Systems](https://arxiv.org/abs/2511.20511v3)** | 2026-02-03 |  |
+| **[Beyond Tokens: Semantic-Aware Speculative Decoding for Efficient Inference by Probing Internal States](https://arxiv.org/abs/2602.03708v1)** | 2026-02-03 |  |
+| **[A Fast Relax-and-Round Approach to Unit Commitment for Data Center Own Generation](https://arxiv.org/abs/2511.16420v3)** | 2026-02-03 | <details><summary>Limit...</summary><p>Limited to 5 pages and this format for IEEE PESGM conference</p></details> |
+| **[Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](https://arxiv.org/abs/2602.03682v1)** | 2026-02-03 |  |
+| **[Efficient Algorithms for Partial Constraint Satisfaction Problems over Control-flow Graphs](https://arxiv.org/abs/2602.03588v1)** | 2026-02-03 | <details><summary>Alrea...</summary><p>Already accepted by SETTA'25. https://www.setta2025.uk/accepted-papers. arXiv admin note: substantial text overlap with arXiv:2507.16660</p></details> |
+| **[Cortex: Achieving Low-Latency, Cost-Efficient Remote Data Access For LLM via Semantic-Aware Knowledge Caching](https://arxiv.org/abs/2509.17360v2)** | 2026-02-03 |  |
+| **[Fast Reconfiguration for Programmable Matter](https://arxiv.org/abs/2202.11663v4)** | 2026-02-03 |  |
+| **[Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation](https://arxiv.org/abs/2602.03515v1)** | 2026-02-03 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[DALI: A Workload-Aware Offloading Framework for Efficient MoE Inference on Local PCs](https://arxiv.org/abs/2602.03495v1)** | 2026-02-03 |  |
+| **[Recursive Energy Efficient Agreement](https://arxiv.org/abs/2602.03474v1)** | 2026-02-03 |  |
+| **[Exploiting Multi-Core Parallelism in Blockchain Validation and Construction](https://arxiv.org/abs/2602.03444v1)** | 2026-02-03 |  |
+| **[Language-Integrated Recursive Queries](https://arxiv.org/abs/2504.02443v3)** | 2026-02-03 |  |
+| **[ECORE: Energy-Conscious Optimized Routing for Deep Learning Models at the Edge](https://arxiv.org/abs/2507.06011v4)** | 2026-02-03 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[sVIRGO: A Scalable Virtual Tree Hierarchical Framework for Distributed Systems](https://arxiv.org/abs/2602.02438v1)** | 2026-02-02 | 10 pages |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
-| **[Hierarchical Federated Learning with SignSGD: A Highly Communication-Efficient Approach](https://arxiv.org/abs/2602.02355v1)** | 2026-02-02 |  |
-| **[LCLs Beyond Bounded Degrees](https://arxiv.org/abs/2602.02340v1)** | 2026-02-02 |  |
-| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v1)** | 2026-02-02 | <details><summary>Pre-p...</summary><p>Pre-print (PaPoC 2026)</p></details> |
-| **[Enabling AI Deep Potentials for Ab Initio-quality Molecular Dynamics Simulations in GROMACS](https://arxiv.org/abs/2602.02234v1)** | 2026-02-02 |  |
-| **[Resolving Extreme Data Scarcity by Explicit Physics Integration: An Application to Groundwater Heat Transport](https://arxiv.org/abs/2507.06062v2)** | 2026-02-02 |  |
-| **[vLLM-Omni: Fully Disaggregated Serving for Any-to-Any Multimodal Models](https://arxiv.org/abs/2602.02204v1)** | 2026-02-02 | 12 pages, 8 figures |
-| **[ECHO-2: A Large Scale Distributed Rollout Framework for Cost-efficient Reinforcement Learning](https://arxiv.org/abs/2602.02192v1)** | 2026-02-02 | 23 pages, 7 figures |
-| **[TriCloudEdge: A multi-layer Cloud Continuum](https://arxiv.org/abs/2602.02121v1)** | 2026-02-02 | 16 pages, 6 figures |
-| **[A Latency-Constrained, Gated Recurrent Unit (GRU) Implementation in the Versal AI Engine](https://arxiv.org/abs/2511.15626v2)** | 2026-02-02 |  |
-| **[COLT: Lightweight Multi-LLM Collaboration through Shared MCTS Reasoning for Model Compilation](https://arxiv.org/abs/2602.01935v1)** | 2026-02-02 |  |
-| **[Distributed Hierarchical Machine Learning for Joint Resource Allocation and Slice Selection in In-Network Edge Systems](https://arxiv.org/abs/2511.13313v3)** | 2026-02-02 |  |
-| **[AVERY: Adaptive VLM Split Computing through Embodied Self-Awareness for Efficient Disaster Response Systems](https://arxiv.org/abs/2511.18151v2)** | 2026-02-02 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Paper is currently under review. Authors' version posted for personal use and not for redistribution</p></details> |
-| **[Grappa: Gradient-Only Communication for Scalable Graph Neural Network Training](https://arxiv.org/abs/2602.01872v1)** | 2026-02-02 |  |
+| **[Do We Need Asynchronous SGD? On the Near-Optimality of Synchronous Methods](https://arxiv.org/abs/2602.03802v1)** | 2026-02-03 |  |
+| **[From Separate Compilation to Sound Language Composition](https://arxiv.org/abs/2602.03777v1)** | 2026-02-03 | <details><summary>43 pa...</summary><p>43 pages, 1 figure, 5 Listing</p></details> |
+| **[Efficient Parallel Implementation of the Pilot Assignment Problem in Massive MIMO Systems](https://arxiv.org/abs/2511.20511v3)** | 2026-02-03 |  |
+| **[Beyond Tokens: Semantic-Aware Speculative Decoding for Efficient Inference by Probing Internal States](https://arxiv.org/abs/2602.03708v1)** | 2026-02-03 |  |
+| **[A Fast Relax-and-Round Approach to Unit Commitment for Data Center Own Generation](https://arxiv.org/abs/2511.16420v3)** | 2026-02-03 | <details><summary>Limit...</summary><p>Limited to 5 pages and this format for IEEE PESGM conference</p></details> |
+| **[Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](https://arxiv.org/abs/2602.03682v1)** | 2026-02-03 |  |
+| **[Efficient Algorithms for Partial Constraint Satisfaction Problems over Control-flow Graphs](https://arxiv.org/abs/2602.03588v1)** | 2026-02-03 | <details><summary>Alrea...</summary><p>Already accepted by SETTA'25. https://www.setta2025.uk/accepted-papers. arXiv admin note: substantial text overlap with arXiv:2507.16660</p></details> |
+| **[Cortex: Achieving Low-Latency, Cost-Efficient Remote Data Access For LLM via Semantic-Aware Knowledge Caching](https://arxiv.org/abs/2509.17360v2)** | 2026-02-03 |  |
+| **[Fast Reconfiguration for Programmable Matter](https://arxiv.org/abs/2202.11663v4)** | 2026-02-03 |  |
+| **[Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation](https://arxiv.org/abs/2602.03515v1)** | 2026-02-03 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[DALI: A Workload-Aware Offloading Framework for Efficient MoE Inference on Local PCs](https://arxiv.org/abs/2602.03495v1)** | 2026-02-03 |  |
+| **[Recursive Energy Efficient Agreement](https://arxiv.org/abs/2602.03474v1)** | 2026-02-03 |  |
+| **[Exploiting Multi-Core Parallelism in Blockchain Validation and Construction](https://arxiv.org/abs/2602.03444v1)** | 2026-02-03 |  |
+| **[Language-Integrated Recursive Queries](https://arxiv.org/abs/2504.02443v3)** | 2026-02-03 |  |
+| **[ECORE: Energy-Conscious Optimized Routing for Deep Learning Models at the Edge](https://arxiv.org/abs/2507.06011v4)** | 2026-02-03 |  |
 
