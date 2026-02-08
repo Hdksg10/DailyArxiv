@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 05, 2026
+title: Latest 15 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do We Need Asynchronous SGD? On the Near-Optimality of Synchronous Methods](https://arxiv.org/abs/2602.03802v1)** | 2026-02-03 |  |
-| **[From Separate Compilation to Sound Language Composition](https://arxiv.org/abs/2602.03777v1)** | 2026-02-03 | <details><summary>43 pa...</summary><p>43 pages, 1 figure, 5 Listing</p></details> |
-| **[Efficient Parallel Implementation of the Pilot Assignment Problem in Massive MIMO Systems](https://arxiv.org/abs/2511.20511v3)** | 2026-02-03 |  |
-| **[Beyond Tokens: Semantic-Aware Speculative Decoding for Efficient Inference by Probing Internal States](https://arxiv.org/abs/2602.03708v1)** | 2026-02-03 |  |
-| **[A Fast Relax-and-Round Approach to Unit Commitment for Data Center Own Generation](https://arxiv.org/abs/2511.16420v3)** | 2026-02-03 | <details><summary>Limit...</summary><p>Limited to 5 pages and this format for IEEE PESGM conference</p></details> |
-| **[Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](https://arxiv.org/abs/2602.03682v1)** | 2026-02-03 |  |
-| **[Efficient Algorithms for Partial Constraint Satisfaction Problems over Control-flow Graphs](https://arxiv.org/abs/2602.03588v1)** | 2026-02-03 | <details><summary>Alrea...</summary><p>Already accepted by SETTA'25. https://www.setta2025.uk/accepted-papers. arXiv admin note: substantial text overlap with arXiv:2507.16660</p></details> |
-| **[Cortex: Achieving Low-Latency, Cost-Efficient Remote Data Access For LLM via Semantic-Aware Knowledge Caching](https://arxiv.org/abs/2509.17360v2)** | 2026-02-03 |  |
-| **[Fast Reconfiguration for Programmable Matter](https://arxiv.org/abs/2202.11663v4)** | 2026-02-03 |  |
-| **[Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation](https://arxiv.org/abs/2602.03515v1)** | 2026-02-03 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[DALI: A Workload-Aware Offloading Framework for Efficient MoE Inference on Local PCs](https://arxiv.org/abs/2602.03495v1)** | 2026-02-03 |  |
-| **[Recursive Energy Efficient Agreement](https://arxiv.org/abs/2602.03474v1)** | 2026-02-03 |  |
-| **[Exploiting Multi-Core Parallelism in Blockchain Validation and Construction](https://arxiv.org/abs/2602.03444v1)** | 2026-02-03 |  |
-| **[Language-Integrated Recursive Queries](https://arxiv.org/abs/2504.02443v3)** | 2026-02-03 |  |
-| **[ECORE: Energy-Conscious Optimized Routing for Deep Learning Models at the Edge](https://arxiv.org/abs/2507.06011v4)** | 2026-02-03 |  |
+| **[Location-Aware Dispersion on Anonymous Graphs](https://arxiv.org/abs/2602.05948v1)** | 2026-02-05 | <details><summary>3 tab...</summary><p>3 tables, 2 figures, 6 pseudo-codes</p></details> |
+| **[Fancy Some Chips for Your TeaStore? Modeling the Control of an Adaptable Discrete System](https://arxiv.org/abs/2512.23496v2)** | 2026-02-05 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054. This work was supported by the ANR grant ANR-23-CE25-0004 (ADAPT). O. Kouchnarenko was supported by the EIPHI Graduate School (grant number ANR-17-EURE-0002)</p></details> |
+| **[An Equational Axiomatization of Dynamic Threads via Algebraic Effects: Presheaves on Finite Relations, Labelled Posets, and Parameterized Algebraic Theories](https://arxiv.org/abs/2602.05850v1)** | 2026-02-05 | <details><summary>Publi...</summary><p>Published at POPL 2026</p></details> |
+| **[Opportunistically Parallel Lambda Calculus](https://arxiv.org/abs/2405.11361v4)** | 2026-02-05 |  |
+| **[The Quantum Message Complexity of Distributed Wake-Up with Advice](https://arxiv.org/abs/2602.05801v1)** | 2026-02-05 |  |
+| **[TimelyFreeze: Adaptive Parameter Freezing Mechanism for Pipeline Parallelism](https://arxiv.org/abs/2602.05754v1)** | 2026-02-05 |  |
+| **[Device Association and Resource Allocation for Hierarchical Split Federated Learning in Space-Air-Ground Integrated Network](https://arxiv.org/abs/2601.13817v3)** | 2026-02-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Determining Energy Efficiency Sweet Spots in Production LLM Inference](https://arxiv.org/abs/2602.05695v1)** | 2026-02-05 | <details><summary>To ap...</summary><p>To appear at ICPE 2026 (International Conference on Performance Engineering)</p></details> |
+| **[FedRandom: Sampling Consistent and Accurate Contribution Values in Federated Learning](https://arxiv.org/abs/2602.05693v1)** | 2026-02-05 |  |
+| **[Smoothed aggregation algebraic multigrid for problems with heterogeneous and anisotropic materials](https://arxiv.org/abs/2602.05686v1)** | 2026-02-05 |  |
+| **[Strong Normalisation for Asynchronous Effects](https://arxiv.org/abs/2602.05528v1)** | 2026-02-05 | FSCD 2026 submission |
+| **[Wasure: A Modular Toolkit for Comprehensive WebAssembly Benchmarking](https://arxiv.org/abs/2602.05488v1)** | 2026-02-05 |  |
+| **[Sovereign-by-Design A Reference Architecture for AI and Blockchain Enabled Systems](https://arxiv.org/abs/2602.05486v1)** | 2026-02-05 |  |
+| **[Emergence-as-Code for Self-Governing Reliable Systems](https://arxiv.org/abs/2602.05458v1)** | 2026-02-05 |  |
+| **[Differential Privacy Analysis of Decentralized Gossip Averaging under Varying Threat Models](https://arxiv.org/abs/2505.19969v3)** | 2026-02-05 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do We Need Asynchronous SGD? On the Near-Optimality of Synchronous Methods](https://arxiv.org/abs/2602.03802v1)** | 2026-02-03 |  |
-| **[From Separate Compilation to Sound Language Composition](https://arxiv.org/abs/2602.03777v1)** | 2026-02-03 | <details><summary>43 pa...</summary><p>43 pages, 1 figure, 5 Listing</p></details> |
-| **[Efficient Parallel Implementation of the Pilot Assignment Problem in Massive MIMO Systems](https://arxiv.org/abs/2511.20511v3)** | 2026-02-03 |  |
-| **[Beyond Tokens: Semantic-Aware Speculative Decoding for Efficient Inference by Probing Internal States](https://arxiv.org/abs/2602.03708v1)** | 2026-02-03 |  |
-| **[A Fast Relax-and-Round Approach to Unit Commitment for Data Center Own Generation](https://arxiv.org/abs/2511.16420v3)** | 2026-02-03 | <details><summary>Limit...</summary><p>Limited to 5 pages and this format for IEEE PESGM conference</p></details> |
-| **[Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](https://arxiv.org/abs/2602.03682v1)** | 2026-02-03 |  |
-| **[Efficient Algorithms for Partial Constraint Satisfaction Problems over Control-flow Graphs](https://arxiv.org/abs/2602.03588v1)** | 2026-02-03 | <details><summary>Alrea...</summary><p>Already accepted by SETTA'25. https://www.setta2025.uk/accepted-papers. arXiv admin note: substantial text overlap with arXiv:2507.16660</p></details> |
-| **[Cortex: Achieving Low-Latency, Cost-Efficient Remote Data Access For LLM via Semantic-Aware Knowledge Caching](https://arxiv.org/abs/2509.17360v2)** | 2026-02-03 |  |
-| **[Fast Reconfiguration for Programmable Matter](https://arxiv.org/abs/2202.11663v4)** | 2026-02-03 |  |
-| **[Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation](https://arxiv.org/abs/2602.03515v1)** | 2026-02-03 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[DALI: A Workload-Aware Offloading Framework for Efficient MoE Inference on Local PCs](https://arxiv.org/abs/2602.03495v1)** | 2026-02-03 |  |
-| **[Recursive Energy Efficient Agreement](https://arxiv.org/abs/2602.03474v1)** | 2026-02-03 |  |
-| **[Exploiting Multi-Core Parallelism in Blockchain Validation and Construction](https://arxiv.org/abs/2602.03444v1)** | 2026-02-03 |  |
-| **[Language-Integrated Recursive Queries](https://arxiv.org/abs/2504.02443v3)** | 2026-02-03 |  |
-| **[ECORE: Energy-Conscious Optimized Routing for Deep Learning Models at the Edge](https://arxiv.org/abs/2507.06011v4)** | 2026-02-03 |  |
+| **[Location-Aware Dispersion on Anonymous Graphs](https://arxiv.org/abs/2602.05948v1)** | 2026-02-05 | <details><summary>3 tab...</summary><p>3 tables, 2 figures, 6 pseudo-codes</p></details> |
+| **[Fancy Some Chips for Your TeaStore? Modeling the Control of an Adaptable Discrete System](https://arxiv.org/abs/2512.23496v2)** | 2026-02-05 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054. This work was supported by the ANR grant ANR-23-CE25-0004 (ADAPT). O. Kouchnarenko was supported by the EIPHI Graduate School (grant number ANR-17-EURE-0002)</p></details> |
+| **[An Equational Axiomatization of Dynamic Threads via Algebraic Effects: Presheaves on Finite Relations, Labelled Posets, and Parameterized Algebraic Theories](https://arxiv.org/abs/2602.05850v1)** | 2026-02-05 | <details><summary>Publi...</summary><p>Published at POPL 2026</p></details> |
+| **[Opportunistically Parallel Lambda Calculus](https://arxiv.org/abs/2405.11361v4)** | 2026-02-05 |  |
+| **[The Quantum Message Complexity of Distributed Wake-Up with Advice](https://arxiv.org/abs/2602.05801v1)** | 2026-02-05 |  |
+| **[TimelyFreeze: Adaptive Parameter Freezing Mechanism for Pipeline Parallelism](https://arxiv.org/abs/2602.05754v1)** | 2026-02-05 |  |
+| **[Device Association and Resource Allocation for Hierarchical Split Federated Learning in Space-Air-Ground Integrated Network](https://arxiv.org/abs/2601.13817v3)** | 2026-02-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Determining Energy Efficiency Sweet Spots in Production LLM Inference](https://arxiv.org/abs/2602.05695v1)** | 2026-02-05 | <details><summary>To ap...</summary><p>To appear at ICPE 2026 (International Conference on Performance Engineering)</p></details> |
+| **[FedRandom: Sampling Consistent and Accurate Contribution Values in Federated Learning](https://arxiv.org/abs/2602.05693v1)** | 2026-02-05 |  |
+| **[Smoothed aggregation algebraic multigrid for problems with heterogeneous and anisotropic materials](https://arxiv.org/abs/2602.05686v1)** | 2026-02-05 |  |
+| **[Strong Normalisation for Asynchronous Effects](https://arxiv.org/abs/2602.05528v1)** | 2026-02-05 | FSCD 2026 submission |
+| **[Wasure: A Modular Toolkit for Comprehensive WebAssembly Benchmarking](https://arxiv.org/abs/2602.05488v1)** | 2026-02-05 |  |
+| **[Sovereign-by-Design A Reference Architecture for AI and Blockchain Enabled Systems](https://arxiv.org/abs/2602.05486v1)** | 2026-02-05 |  |
+| **[Emergence-as-Code for Self-Governing Reliable Systems](https://arxiv.org/abs/2602.05458v1)** | 2026-02-05 |  |
+| **[Differential Privacy Analysis of Decentralized Gossip Averaging under Varying Threat Models](https://arxiv.org/abs/2505.19969v3)** | 2026-02-05 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do We Need Asynchronous SGD? On the Near-Optimality of Synchronous Methods](https://arxiv.org/abs/2602.03802v1)** | 2026-02-03 |  |
-| **[From Separate Compilation to Sound Language Composition](https://arxiv.org/abs/2602.03777v1)** | 2026-02-03 | <details><summary>43 pa...</summary><p>43 pages, 1 figure, 5 Listing</p></details> |
-| **[Efficient Parallel Implementation of the Pilot Assignment Problem in Massive MIMO Systems](https://arxiv.org/abs/2511.20511v3)** | 2026-02-03 |  |
-| **[Beyond Tokens: Semantic-Aware Speculative Decoding for Efficient Inference by Probing Internal States](https://arxiv.org/abs/2602.03708v1)** | 2026-02-03 |  |
-| **[A Fast Relax-and-Round Approach to Unit Commitment for Data Center Own Generation](https://arxiv.org/abs/2511.16420v3)** | 2026-02-03 | <details><summary>Limit...</summary><p>Limited to 5 pages and this format for IEEE PESGM conference</p></details> |
-| **[Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](https://arxiv.org/abs/2602.03682v1)** | 2026-02-03 |  |
-| **[Efficient Algorithms for Partial Constraint Satisfaction Problems over Control-flow Graphs](https://arxiv.org/abs/2602.03588v1)** | 2026-02-03 | <details><summary>Alrea...</summary><p>Already accepted by SETTA'25. https://www.setta2025.uk/accepted-papers. arXiv admin note: substantial text overlap with arXiv:2507.16660</p></details> |
-| **[Cortex: Achieving Low-Latency, Cost-Efficient Remote Data Access For LLM via Semantic-Aware Knowledge Caching](https://arxiv.org/abs/2509.17360v2)** | 2026-02-03 |  |
-| **[Fast Reconfiguration for Programmable Matter](https://arxiv.org/abs/2202.11663v4)** | 2026-02-03 |  |
-| **[Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation](https://arxiv.org/abs/2602.03515v1)** | 2026-02-03 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[DALI: A Workload-Aware Offloading Framework for Efficient MoE Inference on Local PCs](https://arxiv.org/abs/2602.03495v1)** | 2026-02-03 |  |
-| **[Recursive Energy Efficient Agreement](https://arxiv.org/abs/2602.03474v1)** | 2026-02-03 |  |
-| **[Exploiting Multi-Core Parallelism in Blockchain Validation and Construction](https://arxiv.org/abs/2602.03444v1)** | 2026-02-03 |  |
-| **[Language-Integrated Recursive Queries](https://arxiv.org/abs/2504.02443v3)** | 2026-02-03 |  |
-| **[ECORE: Energy-Conscious Optimized Routing for Deep Learning Models at the Edge](https://arxiv.org/abs/2507.06011v4)** | 2026-02-03 |  |
+| **[Location-Aware Dispersion on Anonymous Graphs](https://arxiv.org/abs/2602.05948v1)** | 2026-02-05 | <details><summary>3 tab...</summary><p>3 tables, 2 figures, 6 pseudo-codes</p></details> |
+| **[Fancy Some Chips for Your TeaStore? Modeling the Control of an Adaptable Discrete System](https://arxiv.org/abs/2512.23496v2)** | 2026-02-05 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054. This work was supported by the ANR grant ANR-23-CE25-0004 (ADAPT). O. Kouchnarenko was supported by the EIPHI Graduate School (grant number ANR-17-EURE-0002)</p></details> |
+| **[An Equational Axiomatization of Dynamic Threads via Algebraic Effects: Presheaves on Finite Relations, Labelled Posets, and Parameterized Algebraic Theories](https://arxiv.org/abs/2602.05850v1)** | 2026-02-05 | <details><summary>Publi...</summary><p>Published at POPL 2026</p></details> |
+| **[Opportunistically Parallel Lambda Calculus](https://arxiv.org/abs/2405.11361v4)** | 2026-02-05 |  |
+| **[The Quantum Message Complexity of Distributed Wake-Up with Advice](https://arxiv.org/abs/2602.05801v1)** | 2026-02-05 |  |
+| **[TimelyFreeze: Adaptive Parameter Freezing Mechanism for Pipeline Parallelism](https://arxiv.org/abs/2602.05754v1)** | 2026-02-05 |  |
+| **[Device Association and Resource Allocation for Hierarchical Split Federated Learning in Space-Air-Ground Integrated Network](https://arxiv.org/abs/2601.13817v3)** | 2026-02-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Determining Energy Efficiency Sweet Spots in Production LLM Inference](https://arxiv.org/abs/2602.05695v1)** | 2026-02-05 | <details><summary>To ap...</summary><p>To appear at ICPE 2026 (International Conference on Performance Engineering)</p></details> |
+| **[FedRandom: Sampling Consistent and Accurate Contribution Values in Federated Learning](https://arxiv.org/abs/2602.05693v1)** | 2026-02-05 |  |
+| **[Smoothed aggregation algebraic multigrid for problems with heterogeneous and anisotropic materials](https://arxiv.org/abs/2602.05686v1)** | 2026-02-05 |  |
+| **[Strong Normalisation for Asynchronous Effects](https://arxiv.org/abs/2602.05528v1)** | 2026-02-05 | FSCD 2026 submission |
+| **[Wasure: A Modular Toolkit for Comprehensive WebAssembly Benchmarking](https://arxiv.org/abs/2602.05488v1)** | 2026-02-05 |  |
+| **[Sovereign-by-Design A Reference Architecture for AI and Blockchain Enabled Systems](https://arxiv.org/abs/2602.05486v1)** | 2026-02-05 |  |
+| **[Emergence-as-Code for Self-Governing Reliable Systems](https://arxiv.org/abs/2602.05458v1)** | 2026-02-05 |  |
+| **[Differential Privacy Analysis of Decentralized Gossip Averaging under Varying Threat Models](https://arxiv.org/abs/2505.19969v3)** | 2026-02-05 |  |
 
