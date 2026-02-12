@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 12, 2026
+title: Latest 15 Papers - February 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hazel: Secure and Efficient Disaggregated Storage](https://arxiv.org/abs/2510.18756v2)** | 2026-02-10 |  |
-| **[Metronome: Efficient Scheduling for Periodic Traffic Jobs with Network and Priority Awareness](https://arxiv.org/abs/2510.12274v2)** | 2026-02-10 | <details><summary>17 pa...</summary><p>17 pages, 16 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[ECHO-2: A Large-Scale Distributed Rollout Framework for Cost-Efficient Reinforcement Learning](https://arxiv.org/abs/2602.02192v3)** | 2026-02-10 | 23 pages, 7 figures |
-| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v2)** | 2026-02-10 | <details><summary>Pre-p...</summary><p>Pre-print for PaPoC 2026</p></details> |
-| **[Efficient Remote Prefix Fetching with GPU-native Media ASICs](https://arxiv.org/abs/2602.09725v1)** | 2026-02-10 |  |
-| **[Revealing the Challenges of Attention-FFN Disaggregation for Modern MoE Models and Hardware Systems](https://arxiv.org/abs/2602.09721v1)** | 2026-02-10 |  |
-| **[Complete Fusion for Stateful Streams: Equational Theory of Stateful Streams and Fusion as Normalization-by-Evaluation](https://arxiv.org/abs/2412.15768v2)** | 2026-02-10 | <details><summary>Revis...</summary><p>Revised based on many comments</p></details> |
-| **[High-performance Vector-length Agnostic Quantum Circuit Simulations on ARM Processors](https://arxiv.org/abs/2602.09604v1)** | 2026-02-10 | <details><summary>To be...</summary><p>To be published in IPDPS2026</p></details> |
-| **[Hummingbird: SLO-Oriented GPU Preemption at Microsecond-scale](https://arxiv.org/abs/2601.04071v2)** | 2026-02-10 |  |
-| **[Rashomon Sets and Model Multiplicity in Federated Learning](https://arxiv.org/abs/2602.09520v1)** | 2026-02-10 |  |
-| **[A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models](https://arxiv.org/abs/2508.08712v4)** | 2026-02-10 |  |
-| **[XLB: A High Performance Layer-7 Load Balancer for Microservices using eBPF-based In-kernel Interposition](https://arxiv.org/abs/2602.09473v1)** | 2026-02-10 |  |
-| **[It's not a lie if you don't get caught: simplifying reconfiguration in SMR through dirty logs](https://arxiv.org/abs/2602.09441v1)** | 2026-02-10 |  |
-| **[The Coordination Criterion](https://arxiv.org/abs/2602.09435v1)** | 2026-02-10 | <details><summary>10 bo...</summary><p>10 body pages; 24 pages with appendices and references</p></details> |
-| **[GraphMend: Code Transformations for Fixing Graph Breaks in PyTorch 2](https://arxiv.org/abs/2509.16248v2)** | 2026-02-10 |  |
+| **[Min-Sum Uniform Coverage Problem by Autonomous Mobile Robots](https://arxiv.org/abs/2602.11125v1)** | 2026-02-11 |  |
+| **[MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning](https://arxiv.org/abs/2602.11092v1)** | 2026-02-11 | <details><summary>This ...</summary><p>This work has been submitted to the 2026 IEEE World Congress on Computational Intelligence</p></details> |
+| **[Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization](https://arxiv.org/abs/2602.04900v3)** | 2026-02-11 | <details><summary>A acc...</summary><p>A accepted at the 17th International Conference on Performance Engineering</p></details> |
+| **[Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000v1)** | 2026-02-11 |  |
+| **[On the Operational Resilience of CBDC: Threats and Prospects of Formal Validation for Offline Payments](https://arxiv.org/abs/2508.08064v5)** | 2026-02-11 |  |
+| **[Optimizing Task Scheduling in Fog Computing with Deadline Awareness](https://arxiv.org/abs/2509.07378v4)** | 2026-02-11 |  |
+| **[Towards Industrial-scale Product Configuration](https://arxiv.org/abs/2504.00013v3)** | 2026-02-11 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[Resource-Efficient RGB-Only Action Recognition for Edge Deployment](https://arxiv.org/abs/2602.10818v1)** | 2026-02-11 | Under review |
+| **[Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI](https://arxiv.org/abs/2602.06934v2)** | 2026-02-11 |  |
+| **[Quantitative Verification with Neural Networks](https://arxiv.org/abs/2301.06136v6)** | 2026-02-11 | <details><summary>The c...</summary><p>The conference version of this manuscript appeared at CONCUR 2023</p></details> |
+| **[BOute: Cost-Efficient LLM Serving with Heterogeneous LLMs and GPUs via Multi-Objective Bayesian Optimization](https://arxiv.org/abs/2602.10729v1)** | 2026-02-11 | MLSys 2026 |
+| **[EmbBERT: Attention Under 2 MB Memory](https://arxiv.org/abs/2502.10001v2)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 14 tables</p></details> |
+| **[Supercharging Packet-level Network Simulation of Large Model Training via Memoization and Fast-Forwarding](https://arxiv.org/abs/2602.10615v1)** | 2026-02-11 | <details><summary>13 pa...</summary><p>13 pages body, 21 pages total</p></details> |
+| **[Mitigating GIL Bottlenecks in Edge AI Systems](https://arxiv.org/abs/2601.10582v3)** | 2026-02-11 |  |
+| **[Computing Least Fixed Points with Overwrite Semantics in Parallel and Distributed Systems](https://arxiv.org/abs/2602.10486v1)** | 2026-02-11 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hazel: Secure and Efficient Disaggregated Storage](https://arxiv.org/abs/2510.18756v2)** | 2026-02-10 |  |
-| **[Metronome: Efficient Scheduling for Periodic Traffic Jobs with Network and Priority Awareness](https://arxiv.org/abs/2510.12274v2)** | 2026-02-10 | <details><summary>17 pa...</summary><p>17 pages, 16 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[ECHO-2: A Large-Scale Distributed Rollout Framework for Cost-Efficient Reinforcement Learning](https://arxiv.org/abs/2602.02192v3)** | 2026-02-10 | 23 pages, 7 figures |
-| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v2)** | 2026-02-10 | <details><summary>Pre-p...</summary><p>Pre-print for PaPoC 2026</p></details> |
-| **[Efficient Remote Prefix Fetching with GPU-native Media ASICs](https://arxiv.org/abs/2602.09725v1)** | 2026-02-10 |  |
-| **[Revealing the Challenges of Attention-FFN Disaggregation for Modern MoE Models and Hardware Systems](https://arxiv.org/abs/2602.09721v1)** | 2026-02-10 |  |
-| **[Complete Fusion for Stateful Streams: Equational Theory of Stateful Streams and Fusion as Normalization-by-Evaluation](https://arxiv.org/abs/2412.15768v2)** | 2026-02-10 | <details><summary>Revis...</summary><p>Revised based on many comments</p></details> |
-| **[High-performance Vector-length Agnostic Quantum Circuit Simulations on ARM Processors](https://arxiv.org/abs/2602.09604v1)** | 2026-02-10 | <details><summary>To be...</summary><p>To be published in IPDPS2026</p></details> |
-| **[Hummingbird: SLO-Oriented GPU Preemption at Microsecond-scale](https://arxiv.org/abs/2601.04071v2)** | 2026-02-10 |  |
-| **[Rashomon Sets and Model Multiplicity in Federated Learning](https://arxiv.org/abs/2602.09520v1)** | 2026-02-10 |  |
-| **[A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models](https://arxiv.org/abs/2508.08712v4)** | 2026-02-10 |  |
-| **[XLB: A High Performance Layer-7 Load Balancer for Microservices using eBPF-based In-kernel Interposition](https://arxiv.org/abs/2602.09473v1)** | 2026-02-10 |  |
-| **[It's not a lie if you don't get caught: simplifying reconfiguration in SMR through dirty logs](https://arxiv.org/abs/2602.09441v1)** | 2026-02-10 |  |
-| **[The Coordination Criterion](https://arxiv.org/abs/2602.09435v1)** | 2026-02-10 | <details><summary>10 bo...</summary><p>10 body pages; 24 pages with appendices and references</p></details> |
-| **[GraphMend: Code Transformations for Fixing Graph Breaks in PyTorch 2](https://arxiv.org/abs/2509.16248v2)** | 2026-02-10 |  |
+| **[Min-Sum Uniform Coverage Problem by Autonomous Mobile Robots](https://arxiv.org/abs/2602.11125v1)** | 2026-02-11 |  |
+| **[MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning](https://arxiv.org/abs/2602.11092v1)** | 2026-02-11 | <details><summary>This ...</summary><p>This work has been submitted to the 2026 IEEE World Congress on Computational Intelligence</p></details> |
+| **[Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization](https://arxiv.org/abs/2602.04900v3)** | 2026-02-11 | <details><summary>A acc...</summary><p>A accepted at the 17th International Conference on Performance Engineering</p></details> |
+| **[Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000v1)** | 2026-02-11 |  |
+| **[On the Operational Resilience of CBDC: Threats and Prospects of Formal Validation for Offline Payments](https://arxiv.org/abs/2508.08064v5)** | 2026-02-11 |  |
+| **[Optimizing Task Scheduling in Fog Computing with Deadline Awareness](https://arxiv.org/abs/2509.07378v4)** | 2026-02-11 |  |
+| **[Towards Industrial-scale Product Configuration](https://arxiv.org/abs/2504.00013v3)** | 2026-02-11 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[Resource-Efficient RGB-Only Action Recognition for Edge Deployment](https://arxiv.org/abs/2602.10818v1)** | 2026-02-11 | Under review |
+| **[Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI](https://arxiv.org/abs/2602.06934v2)** | 2026-02-11 |  |
+| **[Quantitative Verification with Neural Networks](https://arxiv.org/abs/2301.06136v6)** | 2026-02-11 | <details><summary>The c...</summary><p>The conference version of this manuscript appeared at CONCUR 2023</p></details> |
+| **[BOute: Cost-Efficient LLM Serving with Heterogeneous LLMs and GPUs via Multi-Objective Bayesian Optimization](https://arxiv.org/abs/2602.10729v1)** | 2026-02-11 | MLSys 2026 |
+| **[EmbBERT: Attention Under 2 MB Memory](https://arxiv.org/abs/2502.10001v2)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 14 tables</p></details> |
+| **[Supercharging Packet-level Network Simulation of Large Model Training via Memoization and Fast-Forwarding](https://arxiv.org/abs/2602.10615v1)** | 2026-02-11 | <details><summary>13 pa...</summary><p>13 pages body, 21 pages total</p></details> |
+| **[Mitigating GIL Bottlenecks in Edge AI Systems](https://arxiv.org/abs/2601.10582v3)** | 2026-02-11 |  |
+| **[Computing Least Fixed Points with Overwrite Semantics in Parallel and Distributed Systems](https://arxiv.org/abs/2602.10486v1)** | 2026-02-11 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hazel: Secure and Efficient Disaggregated Storage](https://arxiv.org/abs/2510.18756v2)** | 2026-02-10 |  |
-| **[Metronome: Efficient Scheduling for Periodic Traffic Jobs with Network and Priority Awareness](https://arxiv.org/abs/2510.12274v2)** | 2026-02-10 | <details><summary>17 pa...</summary><p>17 pages, 16 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[ECHO-2: A Large-Scale Distributed Rollout Framework for Cost-Efficient Reinforcement Learning](https://arxiv.org/abs/2602.02192v3)** | 2026-02-10 | 23 pages, 7 figures |
-| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v2)** | 2026-02-10 | <details><summary>Pre-p...</summary><p>Pre-print for PaPoC 2026</p></details> |
-| **[Efficient Remote Prefix Fetching with GPU-native Media ASICs](https://arxiv.org/abs/2602.09725v1)** | 2026-02-10 |  |
-| **[Revealing the Challenges of Attention-FFN Disaggregation for Modern MoE Models and Hardware Systems](https://arxiv.org/abs/2602.09721v1)** | 2026-02-10 |  |
-| **[Complete Fusion for Stateful Streams: Equational Theory of Stateful Streams and Fusion as Normalization-by-Evaluation](https://arxiv.org/abs/2412.15768v2)** | 2026-02-10 | <details><summary>Revis...</summary><p>Revised based on many comments</p></details> |
-| **[High-performance Vector-length Agnostic Quantum Circuit Simulations on ARM Processors](https://arxiv.org/abs/2602.09604v1)** | 2026-02-10 | <details><summary>To be...</summary><p>To be published in IPDPS2026</p></details> |
-| **[Hummingbird: SLO-Oriented GPU Preemption at Microsecond-scale](https://arxiv.org/abs/2601.04071v2)** | 2026-02-10 |  |
-| **[Rashomon Sets and Model Multiplicity in Federated Learning](https://arxiv.org/abs/2602.09520v1)** | 2026-02-10 |  |
-| **[A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models](https://arxiv.org/abs/2508.08712v4)** | 2026-02-10 |  |
-| **[XLB: A High Performance Layer-7 Load Balancer for Microservices using eBPF-based In-kernel Interposition](https://arxiv.org/abs/2602.09473v1)** | 2026-02-10 |  |
-| **[It's not a lie if you don't get caught: simplifying reconfiguration in SMR through dirty logs](https://arxiv.org/abs/2602.09441v1)** | 2026-02-10 |  |
-| **[The Coordination Criterion](https://arxiv.org/abs/2602.09435v1)** | 2026-02-10 | <details><summary>10 bo...</summary><p>10 body pages; 24 pages with appendices and references</p></details> |
-| **[GraphMend: Code Transformations for Fixing Graph Breaks in PyTorch 2](https://arxiv.org/abs/2509.16248v2)** | 2026-02-10 |  |
+| **[Min-Sum Uniform Coverage Problem by Autonomous Mobile Robots](https://arxiv.org/abs/2602.11125v1)** | 2026-02-11 |  |
+| **[MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning](https://arxiv.org/abs/2602.11092v1)** | 2026-02-11 | <details><summary>This ...</summary><p>This work has been submitted to the 2026 IEEE World Congress on Computational Intelligence</p></details> |
+| **[Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization](https://arxiv.org/abs/2602.04900v3)** | 2026-02-11 | <details><summary>A acc...</summary><p>A accepted at the 17th International Conference on Performance Engineering</p></details> |
+| **[Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000v1)** | 2026-02-11 |  |
+| **[On the Operational Resilience of CBDC: Threats and Prospects of Formal Validation for Offline Payments](https://arxiv.org/abs/2508.08064v5)** | 2026-02-11 |  |
+| **[Optimizing Task Scheduling in Fog Computing with Deadline Awareness](https://arxiv.org/abs/2509.07378v4)** | 2026-02-11 |  |
+| **[Towards Industrial-scale Product Configuration](https://arxiv.org/abs/2504.00013v3)** | 2026-02-11 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[Resource-Efficient RGB-Only Action Recognition for Edge Deployment](https://arxiv.org/abs/2602.10818v1)** | 2026-02-11 | Under review |
+| **[Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI](https://arxiv.org/abs/2602.06934v2)** | 2026-02-11 |  |
+| **[Quantitative Verification with Neural Networks](https://arxiv.org/abs/2301.06136v6)** | 2026-02-11 | <details><summary>The c...</summary><p>The conference version of this manuscript appeared at CONCUR 2023</p></details> |
+| **[BOute: Cost-Efficient LLM Serving with Heterogeneous LLMs and GPUs via Multi-Objective Bayesian Optimization](https://arxiv.org/abs/2602.10729v1)** | 2026-02-11 | MLSys 2026 |
+| **[EmbBERT: Attention Under 2 MB Memory](https://arxiv.org/abs/2502.10001v2)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 14 tables</p></details> |
+| **[Supercharging Packet-level Network Simulation of Large Model Training via Memoization and Fast-Forwarding](https://arxiv.org/abs/2602.10615v1)** | 2026-02-11 | <details><summary>13 pa...</summary><p>13 pages body, 21 pages total</p></details> |
+| **[Mitigating GIL Bottlenecks in Edge AI Systems](https://arxiv.org/abs/2601.10582v3)** | 2026-02-11 |  |
+| **[Computing Least Fixed Points with Overwrite Semantics in Parallel and Distributed Systems](https://arxiv.org/abs/2602.10486v1)** | 2026-02-11 |  |
 
