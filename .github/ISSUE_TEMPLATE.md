@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 13, 2026
+title: Latest 15 Papers - February 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Min-Sum Uniform Coverage Problem by Autonomous Mobile Robots](https://arxiv.org/abs/2602.11125v1)** | 2026-02-11 |  |
-| **[MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning](https://arxiv.org/abs/2602.11092v1)** | 2026-02-11 | <details><summary>This ...</summary><p>This work has been submitted to the 2026 IEEE World Congress on Computational Intelligence</p></details> |
-| **[Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization](https://arxiv.org/abs/2602.04900v3)** | 2026-02-11 | <details><summary>A acc...</summary><p>A accepted at the 17th International Conference on Performance Engineering</p></details> |
-| **[Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000v1)** | 2026-02-11 |  |
-| **[On the Operational Resilience of CBDC: Threats and Prospects of Formal Validation for Offline Payments](https://arxiv.org/abs/2508.08064v5)** | 2026-02-11 |  |
-| **[Optimizing Task Scheduling in Fog Computing with Deadline Awareness](https://arxiv.org/abs/2509.07378v4)** | 2026-02-11 |  |
-| **[Towards Industrial-scale Product Configuration](https://arxiv.org/abs/2504.00013v3)** | 2026-02-11 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[Resource-Efficient RGB-Only Action Recognition for Edge Deployment](https://arxiv.org/abs/2602.10818v1)** | 2026-02-11 | Under review |
-| **[Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI](https://arxiv.org/abs/2602.06934v2)** | 2026-02-11 |  |
-| **[Quantitative Verification with Neural Networks](https://arxiv.org/abs/2301.06136v6)** | 2026-02-11 | <details><summary>The c...</summary><p>The conference version of this manuscript appeared at CONCUR 2023</p></details> |
-| **[BOute: Cost-Efficient LLM Serving with Heterogeneous LLMs and GPUs via Multi-Objective Bayesian Optimization](https://arxiv.org/abs/2602.10729v1)** | 2026-02-11 | MLSys 2026 |
-| **[EmbBERT: Attention Under 2 MB Memory](https://arxiv.org/abs/2502.10001v2)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 14 tables</p></details> |
-| **[Supercharging Packet-level Network Simulation of Large Model Training via Memoization and Fast-Forwarding](https://arxiv.org/abs/2602.10615v1)** | 2026-02-11 | <details><summary>13 pa...</summary><p>13 pages body, 21 pages total</p></details> |
-| **[Mitigating GIL Bottlenecks in Edge AI Systems](https://arxiv.org/abs/2601.10582v3)** | 2026-02-11 |  |
-| **[Computing Least Fixed Points with Overwrite Semantics in Parallel and Distributed Systems](https://arxiv.org/abs/2602.10486v1)** | 2026-02-11 |  |
+| **[Bloom Filter Look-Up Tables for Private and Secure Distributed Databases in Web3 (Revised Version)](https://arxiv.org/abs/2602.13167v1)** | 2026-02-13 |  |
+| **[Online Locality Meets Distributed Quantum Computing](https://arxiv.org/abs/2403.01903v4)** | 2026-02-13 | <details><summary>69 pa...</summary><p>69 pages. This version corrects mistakes in previous versions</p></details> |
+| **[Non-Convex Over-the-Air Heterogeneous Federated Learning: A Bias-Variance Trade-off](https://arxiv.org/abs/2510.26722v4)** | 2026-02-13 | <details><summary>To ap...</summary><p>To appear at the IEEE International Conference on Communications (ICC), 2026</p></details> |
+| **[Bridging Generalization Gap of Heterogeneous Federated Clients Using Generative Models](https://arxiv.org/abs/2508.01669v2)** | 2026-02-13 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026 (poster)</p></details> |
+| **[Classification of Local Optimization Problems in Directed Cycles](https://arxiv.org/abs/2602.13046v1)** | 2026-02-13 | 26 pages, 2 figures |
+| **[Meta-Monomorphizing Specializations](https://arxiv.org/abs/2602.12973v1)** | 2026-02-13 | 31 pages |
+| **[On the Power Saving in High-Speed Ethernet-based Networks for Supercomputers and Data Centers](https://arxiv.org/abs/2510.19783v3)** | 2026-02-13 | <details><summary>Submi...</summary><p>Submitted to The Journal of Systems Architecture. Currently under revision</p></details> |
+| **[Distance-based certification for leader election in meshed graphs and local recognition of their subclasses](https://arxiv.org/abs/2602.12894v1)** | 2026-02-13 |  |
+| **[Partial Orders for Precise and Efficient Dynamic Deadlock Prediction](https://arxiv.org/abs/2502.20070v2)** | 2026-02-13 | <details><summary>Versi...</summary><p>Version 2 fixes LaTeX build issues in the original submission and adds a corrigendum as a separate document; the paper content is unchanged</p></details> |
+| **[Characterize LSM-tree Compaction Performance via On-Device LLM Inference](https://arxiv.org/abs/2602.12669v1)** | 2026-02-13 |  |
+| **[PlanetServe: A Decentralized, Scalable, and Privacy-Preserving Overlay for Democratizing Large Language Model Serving](https://arxiv.org/abs/2504.20101v5)** | 2026-02-13 |  |
+| **[Impact of Data-Oriented and Object-Oriented Design on Performance and Cache Utilization with Artificial Intelligence Algorithms in Multi-Threaded CPUs](https://arxiv.org/abs/2512.07841v2)** | 2026-02-13 |  |
+| **[DRAMatic Speedup: Accelerating HE Operations on a Processing-in-Memory System](https://arxiv.org/abs/2602.12433v1)** | 2026-02-12 |  |
+| **[Legitimate Overrides in Decentralized Protocols](https://arxiv.org/abs/2602.12260v1)** | 2026-02-12 | 38 pages, 8 figures |
+| **[Optimal Parallel Algorithms for Convex Hulls in 2D and 3D under Noisy Primitive Operations](https://arxiv.org/abs/2506.17507v2)** | 2026-02-12 | <details><summary>17 pa...</summary><p>17 pages, 3 figures. Accepted at the 37th Canadian Conference on Computational Geometry, 2025. This version fixes a bug in the analysis of our 3D hull algorithm</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Min-Sum Uniform Coverage Problem by Autonomous Mobile Robots](https://arxiv.org/abs/2602.11125v1)** | 2026-02-11 |  |
-| **[MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning](https://arxiv.org/abs/2602.11092v1)** | 2026-02-11 | <details><summary>This ...</summary><p>This work has been submitted to the 2026 IEEE World Congress on Computational Intelligence</p></details> |
-| **[Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization](https://arxiv.org/abs/2602.04900v3)** | 2026-02-11 | <details><summary>A acc...</summary><p>A accepted at the 17th International Conference on Performance Engineering</p></details> |
-| **[Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000v1)** | 2026-02-11 |  |
-| **[On the Operational Resilience of CBDC: Threats and Prospects of Formal Validation for Offline Payments](https://arxiv.org/abs/2508.08064v5)** | 2026-02-11 |  |
-| **[Optimizing Task Scheduling in Fog Computing with Deadline Awareness](https://arxiv.org/abs/2509.07378v4)** | 2026-02-11 |  |
-| **[Towards Industrial-scale Product Configuration](https://arxiv.org/abs/2504.00013v3)** | 2026-02-11 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[Resource-Efficient RGB-Only Action Recognition for Edge Deployment](https://arxiv.org/abs/2602.10818v1)** | 2026-02-11 | Under review |
-| **[Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI](https://arxiv.org/abs/2602.06934v2)** | 2026-02-11 |  |
-| **[Quantitative Verification with Neural Networks](https://arxiv.org/abs/2301.06136v6)** | 2026-02-11 | <details><summary>The c...</summary><p>The conference version of this manuscript appeared at CONCUR 2023</p></details> |
-| **[BOute: Cost-Efficient LLM Serving with Heterogeneous LLMs and GPUs via Multi-Objective Bayesian Optimization](https://arxiv.org/abs/2602.10729v1)** | 2026-02-11 | MLSys 2026 |
-| **[EmbBERT: Attention Under 2 MB Memory](https://arxiv.org/abs/2502.10001v2)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 14 tables</p></details> |
-| **[Supercharging Packet-level Network Simulation of Large Model Training via Memoization and Fast-Forwarding](https://arxiv.org/abs/2602.10615v1)** | 2026-02-11 | <details><summary>13 pa...</summary><p>13 pages body, 21 pages total</p></details> |
-| **[Mitigating GIL Bottlenecks in Edge AI Systems](https://arxiv.org/abs/2601.10582v3)** | 2026-02-11 |  |
-| **[Computing Least Fixed Points with Overwrite Semantics in Parallel and Distributed Systems](https://arxiv.org/abs/2602.10486v1)** | 2026-02-11 |  |
+| **[Bloom Filter Look-Up Tables for Private and Secure Distributed Databases in Web3 (Revised Version)](https://arxiv.org/abs/2602.13167v1)** | 2026-02-13 |  |
+| **[Online Locality Meets Distributed Quantum Computing](https://arxiv.org/abs/2403.01903v4)** | 2026-02-13 | <details><summary>69 pa...</summary><p>69 pages. This version corrects mistakes in previous versions</p></details> |
+| **[Non-Convex Over-the-Air Heterogeneous Federated Learning: A Bias-Variance Trade-off](https://arxiv.org/abs/2510.26722v4)** | 2026-02-13 | <details><summary>To ap...</summary><p>To appear at the IEEE International Conference on Communications (ICC), 2026</p></details> |
+| **[Bridging Generalization Gap of Heterogeneous Federated Clients Using Generative Models](https://arxiv.org/abs/2508.01669v2)** | 2026-02-13 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026 (poster)</p></details> |
+| **[Classification of Local Optimization Problems in Directed Cycles](https://arxiv.org/abs/2602.13046v1)** | 2026-02-13 | 26 pages, 2 figures |
+| **[Meta-Monomorphizing Specializations](https://arxiv.org/abs/2602.12973v1)** | 2026-02-13 | 31 pages |
+| **[On the Power Saving in High-Speed Ethernet-based Networks for Supercomputers and Data Centers](https://arxiv.org/abs/2510.19783v3)** | 2026-02-13 | <details><summary>Submi...</summary><p>Submitted to The Journal of Systems Architecture. Currently under revision</p></details> |
+| **[Distance-based certification for leader election in meshed graphs and local recognition of their subclasses](https://arxiv.org/abs/2602.12894v1)** | 2026-02-13 |  |
+| **[Partial Orders for Precise and Efficient Dynamic Deadlock Prediction](https://arxiv.org/abs/2502.20070v2)** | 2026-02-13 | <details><summary>Versi...</summary><p>Version 2 fixes LaTeX build issues in the original submission and adds a corrigendum as a separate document; the paper content is unchanged</p></details> |
+| **[Characterize LSM-tree Compaction Performance via On-Device LLM Inference](https://arxiv.org/abs/2602.12669v1)** | 2026-02-13 |  |
+| **[PlanetServe: A Decentralized, Scalable, and Privacy-Preserving Overlay for Democratizing Large Language Model Serving](https://arxiv.org/abs/2504.20101v5)** | 2026-02-13 |  |
+| **[Impact of Data-Oriented and Object-Oriented Design on Performance and Cache Utilization with Artificial Intelligence Algorithms in Multi-Threaded CPUs](https://arxiv.org/abs/2512.07841v2)** | 2026-02-13 |  |
+| **[DRAMatic Speedup: Accelerating HE Operations on a Processing-in-Memory System](https://arxiv.org/abs/2602.12433v1)** | 2026-02-12 |  |
+| **[Legitimate Overrides in Decentralized Protocols](https://arxiv.org/abs/2602.12260v1)** | 2026-02-12 | 38 pages, 8 figures |
+| **[Optimal Parallel Algorithms for Convex Hulls in 2D and 3D under Noisy Primitive Operations](https://arxiv.org/abs/2506.17507v2)** | 2026-02-12 | <details><summary>17 pa...</summary><p>17 pages, 3 figures. Accepted at the 37th Canadian Conference on Computational Geometry, 2025. This version fixes a bug in the analysis of our 3D hull algorithm</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Min-Sum Uniform Coverage Problem by Autonomous Mobile Robots](https://arxiv.org/abs/2602.11125v1)** | 2026-02-11 |  |
-| **[MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning](https://arxiv.org/abs/2602.11092v1)** | 2026-02-11 | <details><summary>This ...</summary><p>This work has been submitted to the 2026 IEEE World Congress on Computational Intelligence</p></details> |
-| **[Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization](https://arxiv.org/abs/2602.04900v3)** | 2026-02-11 | <details><summary>A acc...</summary><p>A accepted at the 17th International Conference on Performance Engineering</p></details> |
-| **[Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000v1)** | 2026-02-11 |  |
-| **[On the Operational Resilience of CBDC: Threats and Prospects of Formal Validation for Offline Payments](https://arxiv.org/abs/2508.08064v5)** | 2026-02-11 |  |
-| **[Optimizing Task Scheduling in Fog Computing with Deadline Awareness](https://arxiv.org/abs/2509.07378v4)** | 2026-02-11 |  |
-| **[Towards Industrial-scale Product Configuration](https://arxiv.org/abs/2504.00013v3)** | 2026-02-11 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[Resource-Efficient RGB-Only Action Recognition for Edge Deployment](https://arxiv.org/abs/2602.10818v1)** | 2026-02-11 | Under review |
-| **[Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI](https://arxiv.org/abs/2602.06934v2)** | 2026-02-11 |  |
-| **[Quantitative Verification with Neural Networks](https://arxiv.org/abs/2301.06136v6)** | 2026-02-11 | <details><summary>The c...</summary><p>The conference version of this manuscript appeared at CONCUR 2023</p></details> |
-| **[BOute: Cost-Efficient LLM Serving with Heterogeneous LLMs and GPUs via Multi-Objective Bayesian Optimization](https://arxiv.org/abs/2602.10729v1)** | 2026-02-11 | MLSys 2026 |
-| **[EmbBERT: Attention Under 2 MB Memory](https://arxiv.org/abs/2502.10001v2)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 14 tables</p></details> |
-| **[Supercharging Packet-level Network Simulation of Large Model Training via Memoization and Fast-Forwarding](https://arxiv.org/abs/2602.10615v1)** | 2026-02-11 | <details><summary>13 pa...</summary><p>13 pages body, 21 pages total</p></details> |
-| **[Mitigating GIL Bottlenecks in Edge AI Systems](https://arxiv.org/abs/2601.10582v3)** | 2026-02-11 |  |
-| **[Computing Least Fixed Points with Overwrite Semantics in Parallel and Distributed Systems](https://arxiv.org/abs/2602.10486v1)** | 2026-02-11 |  |
+| **[Bloom Filter Look-Up Tables for Private and Secure Distributed Databases in Web3 (Revised Version)](https://arxiv.org/abs/2602.13167v1)** | 2026-02-13 |  |
+| **[Online Locality Meets Distributed Quantum Computing](https://arxiv.org/abs/2403.01903v4)** | 2026-02-13 | <details><summary>69 pa...</summary><p>69 pages. This version corrects mistakes in previous versions</p></details> |
+| **[Non-Convex Over-the-Air Heterogeneous Federated Learning: A Bias-Variance Trade-off](https://arxiv.org/abs/2510.26722v4)** | 2026-02-13 | <details><summary>To ap...</summary><p>To appear at the IEEE International Conference on Communications (ICC), 2026</p></details> |
+| **[Bridging Generalization Gap of Heterogeneous Federated Clients Using Generative Models](https://arxiv.org/abs/2508.01669v2)** | 2026-02-13 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026 (poster)</p></details> |
+| **[Classification of Local Optimization Problems in Directed Cycles](https://arxiv.org/abs/2602.13046v1)** | 2026-02-13 | 26 pages, 2 figures |
+| **[Meta-Monomorphizing Specializations](https://arxiv.org/abs/2602.12973v1)** | 2026-02-13 | 31 pages |
+| **[On the Power Saving in High-Speed Ethernet-based Networks for Supercomputers and Data Centers](https://arxiv.org/abs/2510.19783v3)** | 2026-02-13 | <details><summary>Submi...</summary><p>Submitted to The Journal of Systems Architecture. Currently under revision</p></details> |
+| **[Distance-based certification for leader election in meshed graphs and local recognition of their subclasses](https://arxiv.org/abs/2602.12894v1)** | 2026-02-13 |  |
+| **[Partial Orders for Precise and Efficient Dynamic Deadlock Prediction](https://arxiv.org/abs/2502.20070v2)** | 2026-02-13 | <details><summary>Versi...</summary><p>Version 2 fixes LaTeX build issues in the original submission and adds a corrigendum as a separate document; the paper content is unchanged</p></details> |
+| **[Characterize LSM-tree Compaction Performance via On-Device LLM Inference](https://arxiv.org/abs/2602.12669v1)** | 2026-02-13 |  |
+| **[PlanetServe: A Decentralized, Scalable, and Privacy-Preserving Overlay for Democratizing Large Language Model Serving](https://arxiv.org/abs/2504.20101v5)** | 2026-02-13 |  |
+| **[Impact of Data-Oriented and Object-Oriented Design on Performance and Cache Utilization with Artificial Intelligence Algorithms in Multi-Threaded CPUs](https://arxiv.org/abs/2512.07841v2)** | 2026-02-13 |  |
+| **[DRAMatic Speedup: Accelerating HE Operations on a Processing-in-Memory System](https://arxiv.org/abs/2602.12433v1)** | 2026-02-12 |  |
+| **[Legitimate Overrides in Decentralized Protocols](https://arxiv.org/abs/2602.12260v1)** | 2026-02-12 | 38 pages, 8 figures |
+| **[Optimal Parallel Algorithms for Convex Hulls in 2D and 3D under Noisy Primitive Operations](https://arxiv.org/abs/2506.17507v2)** | 2026-02-12 | <details><summary>17 pa...</summary><p>17 pages, 3 figures. Accepted at the 37th Canadian Conference on Computational Geometry, 2025. This version fixes a bug in the analysis of our 3D hull algorithm</p></details> |
 
