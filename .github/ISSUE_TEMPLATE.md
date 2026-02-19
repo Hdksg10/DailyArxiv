@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 19, 2026
+title: Latest 15 Papers - February 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Service Orchestration in the Computing Continuum: Structural Challenges and Vision](https://arxiv.org/abs/2602.15794v1)** | 2026-02-17 |  |
-| **[Online GPU Energy Optimization with Switching-Aware Bandits](https://arxiv.org/abs/2410.11855v2)** | 2026-02-17 | <details><summary>ACM W...</summary><p>ACM Web Conference 2026 (WWW'26)</p></details> |
-| **[Energy Concerns with HPC Systems and Applications](https://arxiv.org/abs/2309.08615v2)** | 2026-02-17 | 20 pages |
-| **[Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks](https://arxiv.org/abs/2512.06784v3)** | 2026-02-17 |  |
-| **[Constitutional Consensus for Democratic Governance](https://arxiv.org/abs/2505.19216v5)** | 2026-02-17 |  |
-| **[Embedding Retrofitting: Data Engineering for better RAG](https://arxiv.org/abs/2601.15298v2)** | 2026-02-17 | <details><summary>This ...</summary><p>This paper was built on an assumption which has been proven incorrect</p></details> |
-| **[From Few to Many Faults: Optimal Adaptive Byzantine Agreement](https://arxiv.org/abs/2505.19989v2)** | 2026-02-17 |  |
-| **[Tight Communication Bounds for Distributed Algorithms in the Quantum Routing Model](https://arxiv.org/abs/2602.15529v1)** | 2026-02-17 |  |
-| **[On the Geometric Coherence of Global Aggregation in Federated GNN](https://arxiv.org/abs/2602.15510v1)** | 2026-02-17 | <details><summary>This ...</summary><p>This is a developing preprint of an 18-page journal manuscript (6 figures), currently being prepared for formal peer-review submission</p></details> |
-| **[The Coordination Criterion](https://arxiv.org/abs/2602.09435v2)** | 2026-02-17 | <details><summary>10 bo...</summary><p>10 body pages; 23 pages with appendices and references</p></details> |
-| **[Hennessy-Milner Logic in CSLib, the Lean Computer Science Library](https://arxiv.org/abs/2602.15409v1)** | 2026-02-17 |  |
-| **[FlashMem: Supporting Modern DNN Workloads on Mobile with GPU Memory Hierarchy Optimizations](https://arxiv.org/abs/2602.15379v1)** | 2026-02-17 |  |
-| **[Co-Design and Evaluation of a CPU-Free MPI GPU Communication Abstraction and Implementation](https://arxiv.org/abs/2602.15356v1)** | 2026-02-17 |  |
-| **[Binary integer programming for optimizing ebit cost in distributed quantum circuits with fixed module allocation](https://arxiv.org/abs/2501.11816v3)** | 2026-02-17 | 38 pages, 22 figures |
-| **[SCENE OTA-FD: Self-Centering Noncoherent Estimator for Over-the-Air Federated Distillation](https://arxiv.org/abs/2602.15326v1)** | 2026-02-17 | <details><summary>Work ...</summary><p>Work in progress. Codes will be available on: https://github.com/zavareh1</p></details> |
+| **[E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707v1)** | 2026-02-18 |  |
+| **[FlowPrefill: Decoupling Preemption from Prefill Scheduling Granularity to Mitigate Head-of-Line Blocking in LLM Serving](https://arxiv.org/abs/2602.16603v1)** | 2026-02-18 | 13 pages |
+| **[Adaptive Rank Allocation for Federated Parameter-Efficient Fine-Tuning of Language Models](https://arxiv.org/abs/2501.14406v4)** | 2026-02-18 |  |
+| **[High-performance Vector-length Agnostic Quantum Circuit Simulations on ARM Processors](https://arxiv.org/abs/2602.09604v2)** | 2026-02-18 | <details><summary>To be...</summary><p>To be published in IPDPS2026</p></details> |
+| **[SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated Learning with Heterogeneous Data](https://arxiv.org/abs/2602.16480v1)** | 2026-02-18 | <details><summary>Feder...</summary><p>Federated learning, functional encryption, privacy-preserving machine learning, neural networks</p></details> |
+| **[How Reliable is Your Service at the Extreme Edge? Analytical Modeling of Computational Reliability](https://arxiv.org/abs/2602.16362v1)** | 2026-02-18 |  |
+| **[Load Balanced Parallel Node Generation for Meshless Numerical Methods](https://arxiv.org/abs/2602.16347v1)** | 2026-02-18 |  |
+| **[push0: Scalable and Fault-Tolerant Orchestration for Zero-Knowledge Proof Generation](https://arxiv.org/abs/2602.16338v1)** | 2026-02-18 |  |
+| **[DiT-HC: Enabling Efficient Training of Visual Generation Model DiT on HPC-oriented CPU Cluster](https://arxiv.org/abs/2601.01500v2)** | 2026-02-18 |  |
+| **[A Calculus of Overlays](https://arxiv.org/abs/2602.16291v1)** | 2026-02-18 |  |
+| **[DistributedEstimator: Distributed Training of Quantum Neural Networks via Circuit Cutting](https://arxiv.org/abs/2602.16233v1)** | 2026-02-18 |  |
+| **[Near-optimal population protocols on bounded-degree trees](https://arxiv.org/abs/2602.16222v1)** | 2026-02-18 | 37 pages, 7 figures |
+| **[LLM-Driven Intent-Based Privacy-Aware Orchestration Across the Cloud-Edge Continuum](https://arxiv.org/abs/2602.16100v1)** | 2026-02-18 |  |
+| **[Towards Cumulative Abstract Semantics via Handlers](https://arxiv.org/abs/2512.10861v2)** | 2026-02-17 |  |
+| **[VerifiableFL: Verifiable Claims for Federated Learning using Exclaves](https://arxiv.org/abs/2412.10537v4)** | 2026-02-17 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Service Orchestration in the Computing Continuum: Structural Challenges and Vision](https://arxiv.org/abs/2602.15794v1)** | 2026-02-17 |  |
-| **[Online GPU Energy Optimization with Switching-Aware Bandits](https://arxiv.org/abs/2410.11855v2)** | 2026-02-17 | <details><summary>ACM W...</summary><p>ACM Web Conference 2026 (WWW'26)</p></details> |
-| **[Energy Concerns with HPC Systems and Applications](https://arxiv.org/abs/2309.08615v2)** | 2026-02-17 | 20 pages |
-| **[Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks](https://arxiv.org/abs/2512.06784v3)** | 2026-02-17 |  |
-| **[Constitutional Consensus for Democratic Governance](https://arxiv.org/abs/2505.19216v5)** | 2026-02-17 |  |
-| **[Embedding Retrofitting: Data Engineering for better RAG](https://arxiv.org/abs/2601.15298v2)** | 2026-02-17 | <details><summary>This ...</summary><p>This paper was built on an assumption which has been proven incorrect</p></details> |
-| **[From Few to Many Faults: Optimal Adaptive Byzantine Agreement](https://arxiv.org/abs/2505.19989v2)** | 2026-02-17 |  |
-| **[Tight Communication Bounds for Distributed Algorithms in the Quantum Routing Model](https://arxiv.org/abs/2602.15529v1)** | 2026-02-17 |  |
-| **[On the Geometric Coherence of Global Aggregation in Federated GNN](https://arxiv.org/abs/2602.15510v1)** | 2026-02-17 | <details><summary>This ...</summary><p>This is a developing preprint of an 18-page journal manuscript (6 figures), currently being prepared for formal peer-review submission</p></details> |
-| **[The Coordination Criterion](https://arxiv.org/abs/2602.09435v2)** | 2026-02-17 | <details><summary>10 bo...</summary><p>10 body pages; 23 pages with appendices and references</p></details> |
-| **[Hennessy-Milner Logic in CSLib, the Lean Computer Science Library](https://arxiv.org/abs/2602.15409v1)** | 2026-02-17 |  |
-| **[FlashMem: Supporting Modern DNN Workloads on Mobile with GPU Memory Hierarchy Optimizations](https://arxiv.org/abs/2602.15379v1)** | 2026-02-17 |  |
-| **[Co-Design and Evaluation of a CPU-Free MPI GPU Communication Abstraction and Implementation](https://arxiv.org/abs/2602.15356v1)** | 2026-02-17 |  |
-| **[Binary integer programming for optimizing ebit cost in distributed quantum circuits with fixed module allocation](https://arxiv.org/abs/2501.11816v3)** | 2026-02-17 | 38 pages, 22 figures |
-| **[SCENE OTA-FD: Self-Centering Noncoherent Estimator for Over-the-Air Federated Distillation](https://arxiv.org/abs/2602.15326v1)** | 2026-02-17 | <details><summary>Work ...</summary><p>Work in progress. Codes will be available on: https://github.com/zavareh1</p></details> |
+| **[E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707v1)** | 2026-02-18 |  |
+| **[FlowPrefill: Decoupling Preemption from Prefill Scheduling Granularity to Mitigate Head-of-Line Blocking in LLM Serving](https://arxiv.org/abs/2602.16603v1)** | 2026-02-18 | 13 pages |
+| **[Adaptive Rank Allocation for Federated Parameter-Efficient Fine-Tuning of Language Models](https://arxiv.org/abs/2501.14406v4)** | 2026-02-18 |  |
+| **[High-performance Vector-length Agnostic Quantum Circuit Simulations on ARM Processors](https://arxiv.org/abs/2602.09604v2)** | 2026-02-18 | <details><summary>To be...</summary><p>To be published in IPDPS2026</p></details> |
+| **[SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated Learning with Heterogeneous Data](https://arxiv.org/abs/2602.16480v1)** | 2026-02-18 | <details><summary>Feder...</summary><p>Federated learning, functional encryption, privacy-preserving machine learning, neural networks</p></details> |
+| **[How Reliable is Your Service at the Extreme Edge? Analytical Modeling of Computational Reliability](https://arxiv.org/abs/2602.16362v1)** | 2026-02-18 |  |
+| **[Load Balanced Parallel Node Generation for Meshless Numerical Methods](https://arxiv.org/abs/2602.16347v1)** | 2026-02-18 |  |
+| **[push0: Scalable and Fault-Tolerant Orchestration for Zero-Knowledge Proof Generation](https://arxiv.org/abs/2602.16338v1)** | 2026-02-18 |  |
+| **[DiT-HC: Enabling Efficient Training of Visual Generation Model DiT on HPC-oriented CPU Cluster](https://arxiv.org/abs/2601.01500v2)** | 2026-02-18 |  |
+| **[A Calculus of Overlays](https://arxiv.org/abs/2602.16291v1)** | 2026-02-18 |  |
+| **[DistributedEstimator: Distributed Training of Quantum Neural Networks via Circuit Cutting](https://arxiv.org/abs/2602.16233v1)** | 2026-02-18 |  |
+| **[Near-optimal population protocols on bounded-degree trees](https://arxiv.org/abs/2602.16222v1)** | 2026-02-18 | 37 pages, 7 figures |
+| **[LLM-Driven Intent-Based Privacy-Aware Orchestration Across the Cloud-Edge Continuum](https://arxiv.org/abs/2602.16100v1)** | 2026-02-18 |  |
+| **[Towards Cumulative Abstract Semantics via Handlers](https://arxiv.org/abs/2512.10861v2)** | 2026-02-17 |  |
+| **[VerifiableFL: Verifiable Claims for Federated Learning using Exclaves](https://arxiv.org/abs/2412.10537v4)** | 2026-02-17 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Service Orchestration in the Computing Continuum: Structural Challenges and Vision](https://arxiv.org/abs/2602.15794v1)** | 2026-02-17 |  |
-| **[Online GPU Energy Optimization with Switching-Aware Bandits](https://arxiv.org/abs/2410.11855v2)** | 2026-02-17 | <details><summary>ACM W...</summary><p>ACM Web Conference 2026 (WWW'26)</p></details> |
-| **[Energy Concerns with HPC Systems and Applications](https://arxiv.org/abs/2309.08615v2)** | 2026-02-17 | 20 pages |
-| **[Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks](https://arxiv.org/abs/2512.06784v3)** | 2026-02-17 |  |
-| **[Constitutional Consensus for Democratic Governance](https://arxiv.org/abs/2505.19216v5)** | 2026-02-17 |  |
-| **[Embedding Retrofitting: Data Engineering for better RAG](https://arxiv.org/abs/2601.15298v2)** | 2026-02-17 | <details><summary>This ...</summary><p>This paper was built on an assumption which has been proven incorrect</p></details> |
-| **[From Few to Many Faults: Optimal Adaptive Byzantine Agreement](https://arxiv.org/abs/2505.19989v2)** | 2026-02-17 |  |
-| **[Tight Communication Bounds for Distributed Algorithms in the Quantum Routing Model](https://arxiv.org/abs/2602.15529v1)** | 2026-02-17 |  |
-| **[On the Geometric Coherence of Global Aggregation in Federated GNN](https://arxiv.org/abs/2602.15510v1)** | 2026-02-17 | <details><summary>This ...</summary><p>This is a developing preprint of an 18-page journal manuscript (6 figures), currently being prepared for formal peer-review submission</p></details> |
-| **[The Coordination Criterion](https://arxiv.org/abs/2602.09435v2)** | 2026-02-17 | <details><summary>10 bo...</summary><p>10 body pages; 23 pages with appendices and references</p></details> |
-| **[Hennessy-Milner Logic in CSLib, the Lean Computer Science Library](https://arxiv.org/abs/2602.15409v1)** | 2026-02-17 |  |
-| **[FlashMem: Supporting Modern DNN Workloads on Mobile with GPU Memory Hierarchy Optimizations](https://arxiv.org/abs/2602.15379v1)** | 2026-02-17 |  |
-| **[Co-Design and Evaluation of a CPU-Free MPI GPU Communication Abstraction and Implementation](https://arxiv.org/abs/2602.15356v1)** | 2026-02-17 |  |
-| **[Binary integer programming for optimizing ebit cost in distributed quantum circuits with fixed module allocation](https://arxiv.org/abs/2501.11816v3)** | 2026-02-17 | 38 pages, 22 figures |
-| **[SCENE OTA-FD: Self-Centering Noncoherent Estimator for Over-the-Air Federated Distillation](https://arxiv.org/abs/2602.15326v1)** | 2026-02-17 | <details><summary>Work ...</summary><p>Work in progress. Codes will be available on: https://github.com/zavareh1</p></details> |
+| **[E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707v1)** | 2026-02-18 |  |
+| **[FlowPrefill: Decoupling Preemption from Prefill Scheduling Granularity to Mitigate Head-of-Line Blocking in LLM Serving](https://arxiv.org/abs/2602.16603v1)** | 2026-02-18 | 13 pages |
+| **[Adaptive Rank Allocation for Federated Parameter-Efficient Fine-Tuning of Language Models](https://arxiv.org/abs/2501.14406v4)** | 2026-02-18 |  |
+| **[High-performance Vector-length Agnostic Quantum Circuit Simulations on ARM Processors](https://arxiv.org/abs/2602.09604v2)** | 2026-02-18 | <details><summary>To be...</summary><p>To be published in IPDPS2026</p></details> |
+| **[SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated Learning with Heterogeneous Data](https://arxiv.org/abs/2602.16480v1)** | 2026-02-18 | <details><summary>Feder...</summary><p>Federated learning, functional encryption, privacy-preserving machine learning, neural networks</p></details> |
+| **[How Reliable is Your Service at the Extreme Edge? Analytical Modeling of Computational Reliability](https://arxiv.org/abs/2602.16362v1)** | 2026-02-18 |  |
+| **[Load Balanced Parallel Node Generation for Meshless Numerical Methods](https://arxiv.org/abs/2602.16347v1)** | 2026-02-18 |  |
+| **[push0: Scalable and Fault-Tolerant Orchestration for Zero-Knowledge Proof Generation](https://arxiv.org/abs/2602.16338v1)** | 2026-02-18 |  |
+| **[DiT-HC: Enabling Efficient Training of Visual Generation Model DiT on HPC-oriented CPU Cluster](https://arxiv.org/abs/2601.01500v2)** | 2026-02-18 |  |
+| **[A Calculus of Overlays](https://arxiv.org/abs/2602.16291v1)** | 2026-02-18 |  |
+| **[DistributedEstimator: Distributed Training of Quantum Neural Networks via Circuit Cutting](https://arxiv.org/abs/2602.16233v1)** | 2026-02-18 |  |
+| **[Near-optimal population protocols on bounded-degree trees](https://arxiv.org/abs/2602.16222v1)** | 2026-02-18 | 37 pages, 7 figures |
+| **[LLM-Driven Intent-Based Privacy-Aware Orchestration Across the Cloud-Edge Continuum](https://arxiv.org/abs/2602.16100v1)** | 2026-02-18 |  |
+| **[Towards Cumulative Abstract Semantics via Handlers](https://arxiv.org/abs/2512.10861v2)** | 2026-02-17 |  |
+| **[VerifiableFL: Verifiable Claims for Federated Learning using Exclaves](https://arxiv.org/abs/2412.10537v4)** | 2026-02-17 |  |
 
