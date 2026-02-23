@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 23, 2026
+title: Latest 15 Papers - February 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning](https://arxiv.org/abs/2602.17625v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted for publication in the IEEE International Conference on Big Data (IEEE BigData) 2025</p></details> |
-| **[Guarding the Middle: Protecting Intermediate Representations in Federated Split Learning](https://arxiv.org/abs/2602.17614v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted for Publication in IEEE International Conference on Big Data (IEEE BigData) 2025</p></details> |
-| **[Exploring Novel Data Storage Approaches for Large-Scale Numerical Weather Prediction](https://arxiv.org/abs/2602.17610v1)** | 2026-02-19 | <details><summary>PhD. ...</summary><p>PhD. thesis successfully defended at The University of Edinburgh on the 16th October 2025</p></details> |
-| **[TopoSZp: Lightweight Topology-Aware Error-controlled Compression for Scientific Data](https://arxiv.org/abs/2602.17552v1)** | 2026-02-19 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 2 tables</p></details> |
-| **[Informative Trains: A Memory-Efficient Journey to a Self-Stabilizing Leader Election Algorithm in Anonymous Graphs](https://arxiv.org/abs/2602.17541v1)** | 2026-02-19 |  |
-| **[Finding a Fair Scoring Function for Top-$k$ Selection: From Hardness to Practice](https://arxiv.org/abs/2503.11575v4)** | 2026-02-19 | <details><summary>Abstr...</summary><p>Abstract shortened to meet arXiv requirements; an extended abstract to appear at SoCG 2026</p></details> |
-| **[Obfuscated Consensus](https://arxiv.org/abs/2504.04046v2)** | 2026-02-19 | 19 pages |
-| **[PyRadiomics-cuda: 3D features extraction from medical images for HPC using GPU acceleration](https://arxiv.org/abs/2510.02894v2)** | 2026-02-19 |  |
-| **[Distributed Algorithms for Potential Problems](https://arxiv.org/abs/2507.12038v4)** | 2026-02-19 | <details><summary>New r...</summary><p>New results and new author w.r.t. the previous version</p></details> |
-| **[Do GPUs Really Need New Tabular File Formats?](https://arxiv.org/abs/2602.17335v1)** | 2026-02-19 |  |
-| **[Evaluating Malleable Job Scheduling in HPC Clusters using Real-World Workloads](https://arxiv.org/abs/2602.17318v1)** | 2026-02-19 |  |
-| **[Visual Insights into Agentic Optimization of Pervasive Stream Processing Services](https://arxiv.org/abs/2602.17282v1)** | 2026-02-19 |  |
-| **[Trivance: Latency-Optimal AllReduce by Shortcutting Multiport Networks](https://arxiv.org/abs/2602.17254v1)** | 2026-02-19 |  |
-| **[Ringleader ASGD: The First Asynchronous SGD with Optimal Time Complexity under Data Heterogeneity](https://arxiv.org/abs/2509.22860v3)** | 2026-02-19 |  |
-| **[Wink: Recovering from Misbehaviors in Coding Agents](https://arxiv.org/abs/2602.17037v1)** | 2026-02-19 |  |
+| **[Wink: Recovering from Misbehaviors in Coding Agents](https://arxiv.org/abs/2602.17037v2)** | 2026-02-20 |  |
+| **[Walrus: An Efficient Decentralized Storage Network](https://arxiv.org/abs/2505.05370v3)** | 2026-02-20 |  |
+| **[VeriSoftBench: Repository-Scale Formal Verification Benchmarks for Lean](https://arxiv.org/abs/2602.18307v1)** | 2026-02-20 |  |
+| **[Towards a Higher-Order Bialgebraic Denotational Semantics](https://arxiv.org/abs/2602.18295v1)** | 2026-02-20 |  |
+| **[Green by Design: Constraint-Based Adaptive Deployment in the Cloud Continuum](https://arxiv.org/abs/2602.18287v1)** | 2026-02-20 |  |
+| **[A Systematic Evaluation of the Potential of Carbon-Aware Execution for Scientific Workflows](https://arxiv.org/abs/2508.14625v3)** | 2026-02-20 | <details><summary>This ...</summary><p>This is a pre-print of our paper currently under review</p></details> |
+| **[It does not matter how you define locally checkable labelings](https://arxiv.org/abs/2602.18188v1)** | 2026-02-20 | 40 pages |
+| **[Grammar Repair with Examples and Tree Automata: Extended Version](https://arxiv.org/abs/2602.18166v1)** | 2026-02-20 |  |
+| **[A reliability- and latency-driven task allocation framework for workflow applications in the edge-hub-cloud continuum](https://arxiv.org/abs/2602.18158v1)** | 2026-02-20 | <details><summary>This ...</summary><p>This version of the manuscript has been accepted for publication in Future Generation Computer Systems after peer review (Author Accepted Manuscript). It is not the final published version (Version of Record) and does not reflect any post-acceptance improvements. The Version of Record is available online at https://doi.org/10.1016/j.future.2026.108414</p></details> |
+| **[Cluster Workload Allocation: Semantic Soft Affinity Using Natural Language Processing](https://arxiv.org/abs/2601.09282v2)** | 2026-02-20 | <details><summary>This ...</summary><p>This is the accepted version of the paper published in IEEE Access (2026). The final version is available at: https://doi.org/10.1109/ACCESS.2026.3665989</p></details> |
+| **[The Invisible Hand of AI Libraries Shaping Open Source Projects and Communities](https://arxiv.org/abs/2601.01944v2)** | 2026-02-20 | <details><summary>ACCEP...</summary><p>ACCEPTED REGISTERED REPORT AT SANER (CORE A*) 2026</p></details> |
+| **[TempoNet: Slack-Quantized Transformer-Guided Reinforcement Scheduler for Adaptive Deadline-Centric Real-Time Dispatchs](https://arxiv.org/abs/2602.18109v1)** | 2026-02-20 | 43 pages, 12 figures |
+| **[Programming Backpropagation with Reverse Handlers for Arrows](https://arxiv.org/abs/2602.18090v1)** | 2026-02-20 |  |
+| **[Distributed Security: From Isolated Properties to Synergistic Trust](https://arxiv.org/abs/2602.18063v1)** | 2026-02-20 | 26 pages, 1 figure |
+| **[Joint Training on AMD and NVIDIA GPUs](https://arxiv.org/abs/2602.18007v1)** | 2026-02-20 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning](https://arxiv.org/abs/2602.17625v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted for publication in the IEEE International Conference on Big Data (IEEE BigData) 2025</p></details> |
-| **[Guarding the Middle: Protecting Intermediate Representations in Federated Split Learning](https://arxiv.org/abs/2602.17614v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted for Publication in IEEE International Conference on Big Data (IEEE BigData) 2025</p></details> |
-| **[Exploring Novel Data Storage Approaches for Large-Scale Numerical Weather Prediction](https://arxiv.org/abs/2602.17610v1)** | 2026-02-19 | <details><summary>PhD. ...</summary><p>PhD. thesis successfully defended at The University of Edinburgh on the 16th October 2025</p></details> |
-| **[TopoSZp: Lightweight Topology-Aware Error-controlled Compression for Scientific Data](https://arxiv.org/abs/2602.17552v1)** | 2026-02-19 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 2 tables</p></details> |
-| **[Informative Trains: A Memory-Efficient Journey to a Self-Stabilizing Leader Election Algorithm in Anonymous Graphs](https://arxiv.org/abs/2602.17541v1)** | 2026-02-19 |  |
-| **[Finding a Fair Scoring Function for Top-$k$ Selection: From Hardness to Practice](https://arxiv.org/abs/2503.11575v4)** | 2026-02-19 | <details><summary>Abstr...</summary><p>Abstract shortened to meet arXiv requirements; an extended abstract to appear at SoCG 2026</p></details> |
-| **[Obfuscated Consensus](https://arxiv.org/abs/2504.04046v2)** | 2026-02-19 | 19 pages |
-| **[PyRadiomics-cuda: 3D features extraction from medical images for HPC using GPU acceleration](https://arxiv.org/abs/2510.02894v2)** | 2026-02-19 |  |
-| **[Distributed Algorithms for Potential Problems](https://arxiv.org/abs/2507.12038v4)** | 2026-02-19 | <details><summary>New r...</summary><p>New results and new author w.r.t. the previous version</p></details> |
-| **[Do GPUs Really Need New Tabular File Formats?](https://arxiv.org/abs/2602.17335v1)** | 2026-02-19 |  |
-| **[Evaluating Malleable Job Scheduling in HPC Clusters using Real-World Workloads](https://arxiv.org/abs/2602.17318v1)** | 2026-02-19 |  |
-| **[Visual Insights into Agentic Optimization of Pervasive Stream Processing Services](https://arxiv.org/abs/2602.17282v1)** | 2026-02-19 |  |
-| **[Trivance: Latency-Optimal AllReduce by Shortcutting Multiport Networks](https://arxiv.org/abs/2602.17254v1)** | 2026-02-19 |  |
-| **[Ringleader ASGD: The First Asynchronous SGD with Optimal Time Complexity under Data Heterogeneity](https://arxiv.org/abs/2509.22860v3)** | 2026-02-19 |  |
-| **[Wink: Recovering from Misbehaviors in Coding Agents](https://arxiv.org/abs/2602.17037v1)** | 2026-02-19 |  |
+| **[Wink: Recovering from Misbehaviors in Coding Agents](https://arxiv.org/abs/2602.17037v2)** | 2026-02-20 |  |
+| **[Walrus: An Efficient Decentralized Storage Network](https://arxiv.org/abs/2505.05370v3)** | 2026-02-20 |  |
+| **[VeriSoftBench: Repository-Scale Formal Verification Benchmarks for Lean](https://arxiv.org/abs/2602.18307v1)** | 2026-02-20 |  |
+| **[Towards a Higher-Order Bialgebraic Denotational Semantics](https://arxiv.org/abs/2602.18295v1)** | 2026-02-20 |  |
+| **[Green by Design: Constraint-Based Adaptive Deployment in the Cloud Continuum](https://arxiv.org/abs/2602.18287v1)** | 2026-02-20 |  |
+| **[A Systematic Evaluation of the Potential of Carbon-Aware Execution for Scientific Workflows](https://arxiv.org/abs/2508.14625v3)** | 2026-02-20 | <details><summary>This ...</summary><p>This is a pre-print of our paper currently under review</p></details> |
+| **[It does not matter how you define locally checkable labelings](https://arxiv.org/abs/2602.18188v1)** | 2026-02-20 | 40 pages |
+| **[Grammar Repair with Examples and Tree Automata: Extended Version](https://arxiv.org/abs/2602.18166v1)** | 2026-02-20 |  |
+| **[A reliability- and latency-driven task allocation framework for workflow applications in the edge-hub-cloud continuum](https://arxiv.org/abs/2602.18158v1)** | 2026-02-20 | <details><summary>This ...</summary><p>This version of the manuscript has been accepted for publication in Future Generation Computer Systems after peer review (Author Accepted Manuscript). It is not the final published version (Version of Record) and does not reflect any post-acceptance improvements. The Version of Record is available online at https://doi.org/10.1016/j.future.2026.108414</p></details> |
+| **[Cluster Workload Allocation: Semantic Soft Affinity Using Natural Language Processing](https://arxiv.org/abs/2601.09282v2)** | 2026-02-20 | <details><summary>This ...</summary><p>This is the accepted version of the paper published in IEEE Access (2026). The final version is available at: https://doi.org/10.1109/ACCESS.2026.3665989</p></details> |
+| **[The Invisible Hand of AI Libraries Shaping Open Source Projects and Communities](https://arxiv.org/abs/2601.01944v2)** | 2026-02-20 | <details><summary>ACCEP...</summary><p>ACCEPTED REGISTERED REPORT AT SANER (CORE A*) 2026</p></details> |
+| **[Programming Backpropagation with Reverse Handlers for Arrows](https://arxiv.org/abs/2602.18090v1)** | 2026-02-20 |  |
+| **[Distributed Security: From Isolated Properties to Synergistic Trust](https://arxiv.org/abs/2602.18063v1)** | 2026-02-20 | 26 pages, 1 figure |
+| **[Joint Training on AMD and NVIDIA GPUs](https://arxiv.org/abs/2602.18007v1)** | 2026-02-20 |  |
+| **[Analyzing LLM Instruction Optimization for Tabular Fact Verification](https://arxiv.org/abs/2602.17937v1)** | 2026-02-20 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning](https://arxiv.org/abs/2602.17625v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted for publication in the IEEE International Conference on Big Data (IEEE BigData) 2025</p></details> |
-| **[Guarding the Middle: Protecting Intermediate Representations in Federated Split Learning](https://arxiv.org/abs/2602.17614v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted for Publication in IEEE International Conference on Big Data (IEEE BigData) 2025</p></details> |
-| **[Exploring Novel Data Storage Approaches for Large-Scale Numerical Weather Prediction](https://arxiv.org/abs/2602.17610v1)** | 2026-02-19 | <details><summary>PhD. ...</summary><p>PhD. thesis successfully defended at The University of Edinburgh on the 16th October 2025</p></details> |
-| **[TopoSZp: Lightweight Topology-Aware Error-controlled Compression for Scientific Data](https://arxiv.org/abs/2602.17552v1)** | 2026-02-19 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 2 tables</p></details> |
-| **[Informative Trains: A Memory-Efficient Journey to a Self-Stabilizing Leader Election Algorithm in Anonymous Graphs](https://arxiv.org/abs/2602.17541v1)** | 2026-02-19 |  |
-| **[Finding a Fair Scoring Function for Top-$k$ Selection: From Hardness to Practice](https://arxiv.org/abs/2503.11575v4)** | 2026-02-19 | <details><summary>Abstr...</summary><p>Abstract shortened to meet arXiv requirements; an extended abstract to appear at SoCG 2026</p></details> |
-| **[Obfuscated Consensus](https://arxiv.org/abs/2504.04046v2)** | 2026-02-19 | 19 pages |
-| **[PyRadiomics-cuda: 3D features extraction from medical images for HPC using GPU acceleration](https://arxiv.org/abs/2510.02894v2)** | 2026-02-19 |  |
-| **[Distributed Algorithms for Potential Problems](https://arxiv.org/abs/2507.12038v4)** | 2026-02-19 | <details><summary>New r...</summary><p>New results and new author w.r.t. the previous version</p></details> |
-| **[Do GPUs Really Need New Tabular File Formats?](https://arxiv.org/abs/2602.17335v1)** | 2026-02-19 |  |
-| **[Evaluating Malleable Job Scheduling in HPC Clusters using Real-World Workloads](https://arxiv.org/abs/2602.17318v1)** | 2026-02-19 |  |
-| **[Visual Insights into Agentic Optimization of Pervasive Stream Processing Services](https://arxiv.org/abs/2602.17282v1)** | 2026-02-19 |  |
-| **[Trivance: Latency-Optimal AllReduce by Shortcutting Multiport Networks](https://arxiv.org/abs/2602.17254v1)** | 2026-02-19 |  |
-| **[Ringleader ASGD: The First Asynchronous SGD with Optimal Time Complexity under Data Heterogeneity](https://arxiv.org/abs/2509.22860v3)** | 2026-02-19 |  |
-| **[Wink: Recovering from Misbehaviors in Coding Agents](https://arxiv.org/abs/2602.17037v1)** | 2026-02-19 |  |
+| **[Wink: Recovering from Misbehaviors in Coding Agents](https://arxiv.org/abs/2602.17037v2)** | 2026-02-20 |  |
+| **[Walrus: An Efficient Decentralized Storage Network](https://arxiv.org/abs/2505.05370v3)** | 2026-02-20 |  |
+| **[VeriSoftBench: Repository-Scale Formal Verification Benchmarks for Lean](https://arxiv.org/abs/2602.18307v1)** | 2026-02-20 |  |
+| **[Towards a Higher-Order Bialgebraic Denotational Semantics](https://arxiv.org/abs/2602.18295v1)** | 2026-02-20 |  |
+| **[Green by Design: Constraint-Based Adaptive Deployment in the Cloud Continuum](https://arxiv.org/abs/2602.18287v1)** | 2026-02-20 |  |
+| **[A Systematic Evaluation of the Potential of Carbon-Aware Execution for Scientific Workflows](https://arxiv.org/abs/2508.14625v3)** | 2026-02-20 | <details><summary>This ...</summary><p>This is a pre-print of our paper currently under review</p></details> |
+| **[It does not matter how you define locally checkable labelings](https://arxiv.org/abs/2602.18188v1)** | 2026-02-20 | 40 pages |
+| **[Grammar Repair with Examples and Tree Automata: Extended Version](https://arxiv.org/abs/2602.18166v1)** | 2026-02-20 |  |
+| **[A reliability- and latency-driven task allocation framework for workflow applications in the edge-hub-cloud continuum](https://arxiv.org/abs/2602.18158v1)** | 2026-02-20 | <details><summary>This ...</summary><p>This version of the manuscript has been accepted for publication in Future Generation Computer Systems after peer review (Author Accepted Manuscript). It is not the final published version (Version of Record) and does not reflect any post-acceptance improvements. The Version of Record is available online at https://doi.org/10.1016/j.future.2026.108414</p></details> |
+| **[Cluster Workload Allocation: Semantic Soft Affinity Using Natural Language Processing](https://arxiv.org/abs/2601.09282v2)** | 2026-02-20 | <details><summary>This ...</summary><p>This is the accepted version of the paper published in IEEE Access (2026). The final version is available at: https://doi.org/10.1109/ACCESS.2026.3665989</p></details> |
+| **[The Invisible Hand of AI Libraries Shaping Open Source Projects and Communities](https://arxiv.org/abs/2601.01944v2)** | 2026-02-20 | <details><summary>ACCEP...</summary><p>ACCEPTED REGISTERED REPORT AT SANER (CORE A*) 2026</p></details> |
+| **[Programming Backpropagation with Reverse Handlers for Arrows](https://arxiv.org/abs/2602.18090v1)** | 2026-02-20 |  |
+| **[Distributed Security: From Isolated Properties to Synergistic Trust](https://arxiv.org/abs/2602.18063v1)** | 2026-02-20 | 26 pages, 1 figure |
+| **[Joint Training on AMD and NVIDIA GPUs](https://arxiv.org/abs/2602.18007v1)** | 2026-02-20 |  |
+| **[Analyzing LLM Instruction Optimization for Tabular Fact Verification](https://arxiv.org/abs/2602.17937v1)** | 2026-02-20 |  |
 
