@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 25, 2026
+title: Latest 15 Papers - February 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mitigating Artifacts in Pre-quantization Based Scientific Data Compressors with Quantization-aware Interpolation](https://arxiv.org/abs/2602.20097v1)** | 2026-02-23 |  |
-| **[Machine-Generated, Machine-Checked Proofs for a Verified Compiler (Experience Report)](https://arxiv.org/abs/2602.20082v1)** | 2026-02-23 |  |
-| **[The LLMbda Calculus: AI Agents, Conversations, and Information Flow](https://arxiv.org/abs/2602.20064v1)** | 2026-02-23 |  |
-| **[CoBRA: A Universal Strategyproof Confirmation Protocol for Quorum-based Proof-of-Stake Blockchains](https://arxiv.org/abs/2503.16783v3)** | 2026-02-23 |  |
-| **[A Context-Aware Knowledge Graph Platform for Stream Processing in Industrial IoT](https://arxiv.org/abs/2602.19990v1)** | 2026-02-23 |  |
-| **[Misquoted No More: Securely Extracting F* Programs with IO](https://arxiv.org/abs/2602.19973v1)** | 2026-02-23 | Submitted to ICFP'26 |
-| **[Taming Scope Extrusion in Gradual Imperative Metaprogramming](https://arxiv.org/abs/2602.19951v1)** | 2026-02-23 | 34 pages, 19 figures |
-| **[CPU-less parallel execution of lambda calculus in digital logic](https://arxiv.org/abs/2601.13040v2)** | 2026-02-23 |  |
-| **[Combining Small-Step and Big-Step Semantics to Verify Loop Optimizations](https://arxiv.org/abs/2602.19868v1)** | 2026-02-23 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Submitted to ITP 2026</p></details> |
-| **[Linear Reservoir: A Diagonalization-Based Optimization](https://arxiv.org/abs/2602.19802v1)** | 2026-02-23 |  |
-| **[Hexagon-MLIR: An AI Compilation Stack For Qualcomm's Neural Processing Units (NPUs)](https://arxiv.org/abs/2602.19762v1)** | 2026-02-23 |  |
-| **[Deadlock-free Context-free Session Types](https://arxiv.org/abs/2506.20356v3)** | 2026-02-23 |  |
-| **[A Risk-Aware UAV-Edge Service Framework for Wildfire Monitoring and Emergency Response](https://arxiv.org/abs/2602.19742v1)** | 2026-02-23 |  |
-| **[CARMA: Collocation-Aware Resource Manager](https://arxiv.org/abs/2508.19073v3)** | 2026-02-23 |  |
-| **[A Flow Extension to Coroutine Types for Deadlock Detection in Go](https://arxiv.org/abs/2602.19686v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted in ICSESS 2025, Macao</p></details> |
+| **[Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking](https://arxiv.org/abs/2602.21196v1)** | 2026-02-24 | 14 pages, 6 figures |
+| **[Circumventing the CAP Theorem with Open Atomic Ethernet](https://arxiv.org/abs/2602.21182v1)** | 2026-02-24 | 23 pages, 14 figures |
+| **[Scaling State-Space Models on Multiple GPUs with Tensor Parallelism](https://arxiv.org/abs/2602.21144v1)** | 2026-02-24 | <details><summary>Submi...</summary><p>Submitted to 46th IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</p></details> |
+| **[ReviveMoE: Fast Recovery for Hardware Failures in Large-Scale MoE LLM Inference Deployments](https://arxiv.org/abs/2602.21140v1)** | 2026-02-24 | 21 pages, 6 figures |
+| **[GPU Memory and Utilization Estimation for Training-Aware Resource Management: Opportunities and Limitations](https://arxiv.org/abs/2602.17817v2)** | 2026-02-24 |  |
+| **[Mapping Gemma3 onto an Edge Dataflow Architecture](https://arxiv.org/abs/2602.06063v2)** | 2026-02-24 | <details><summary>Origi...</summary><p>Original Version, data shall be updated</p></details> |
+| **[Is a LOCAL algorithm computable?](https://arxiv.org/abs/2602.21022v1)** | 2026-02-24 | 33 pages, 1 figure |
+| **[Toward an Agentic Infused Software Ecosystem](https://arxiv.org/abs/2602.20979v1)** | 2026-02-24 |  |
+| **[Scalable hybrid quantum Monte Carlo simulation of U(1) gauge field coupled to fermions on GPU](https://arxiv.org/abs/2508.16298v5)** | 2026-02-24 | <details><summary>13+5 ...</summary><p>13+5 pages, 6+6 figures</p></details> |
+| **[A Morton-Type Space-Filling Curve for Pyramid Subdivision and Hybrid Adaptive Mesh Refinement](https://arxiv.org/abs/2602.20887v1)** | 2026-02-24 |  |
+| **[DeCo: A Core Calculus for Incremental Functional Programming with Generic Data Types](https://arxiv.org/abs/2602.20866v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted at OOPSLA'26</p></details> |
+| **[Oracular Programming: A Modular Foundation for Building LLM-Enabled Software](https://arxiv.org/abs/2502.05310v4)** | 2026-02-24 |  |
+| **[Semantic Parallelism: Redefining Efficient MoE Inference via Model-Data Co-Scheduling](https://arxiv.org/abs/2503.04398v4)** | 2026-02-24 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[MUSE: Multi-Tenant Model Serving With Seamless Model Updates](https://arxiv.org/abs/2602.11776v2)** | 2026-02-24 | <details><summary>Curre...</summary><p>Currently under review for KDD 2026 (Applied Data Science)</p></details> |
+| **[Multiparty equality in the local broadcast model](https://arxiv.org/abs/2510.09143v2)** | 2026-02-24 | <details><summary>19 pa...</summary><p>19 pages, 3 figures. v2: revised according to the reviewers comments</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mitigating Artifacts in Pre-quantization Based Scientific Data Compressors with Quantization-aware Interpolation](https://arxiv.org/abs/2602.20097v1)** | 2026-02-23 |  |
-| **[Machine-Generated, Machine-Checked Proofs for a Verified Compiler (Experience Report)](https://arxiv.org/abs/2602.20082v1)** | 2026-02-23 |  |
-| **[The LLMbda Calculus: AI Agents, Conversations, and Information Flow](https://arxiv.org/abs/2602.20064v1)** | 2026-02-23 |  |
-| **[CoBRA: A Universal Strategyproof Confirmation Protocol for Quorum-based Proof-of-Stake Blockchains](https://arxiv.org/abs/2503.16783v3)** | 2026-02-23 |  |
-| **[A Context-Aware Knowledge Graph Platform for Stream Processing in Industrial IoT](https://arxiv.org/abs/2602.19990v1)** | 2026-02-23 |  |
-| **[Misquoted No More: Securely Extracting F* Programs with IO](https://arxiv.org/abs/2602.19973v1)** | 2026-02-23 | Submitted to ICFP'26 |
-| **[Taming Scope Extrusion in Gradual Imperative Metaprogramming](https://arxiv.org/abs/2602.19951v1)** | 2026-02-23 | 34 pages, 19 figures |
-| **[CPU-less parallel execution of lambda calculus in digital logic](https://arxiv.org/abs/2601.13040v2)** | 2026-02-23 |  |
-| **[Combining Small-Step and Big-Step Semantics to Verify Loop Optimizations](https://arxiv.org/abs/2602.19868v1)** | 2026-02-23 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Submitted to ITP 2026</p></details> |
-| **[Linear Reservoir: A Diagonalization-Based Optimization](https://arxiv.org/abs/2602.19802v1)** | 2026-02-23 |  |
-| **[Hexagon-MLIR: An AI Compilation Stack For Qualcomm's Neural Processing Units (NPUs)](https://arxiv.org/abs/2602.19762v1)** | 2026-02-23 |  |
-| **[Deadlock-free Context-free Session Types](https://arxiv.org/abs/2506.20356v3)** | 2026-02-23 |  |
-| **[A Risk-Aware UAV-Edge Service Framework for Wildfire Monitoring and Emergency Response](https://arxiv.org/abs/2602.19742v1)** | 2026-02-23 |  |
-| **[CARMA: Collocation-Aware Resource Manager](https://arxiv.org/abs/2508.19073v3)** | 2026-02-23 |  |
-| **[A Flow Extension to Coroutine Types for Deadlock Detection in Go](https://arxiv.org/abs/2602.19686v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted in ICSESS 2025, Macao</p></details> |
+| **[Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking](https://arxiv.org/abs/2602.21196v1)** | 2026-02-24 | 14 pages, 6 figures |
+| **[Circumventing the CAP Theorem with Open Atomic Ethernet](https://arxiv.org/abs/2602.21182v1)** | 2026-02-24 | 23 pages, 14 figures |
+| **[Scaling State-Space Models on Multiple GPUs with Tensor Parallelism](https://arxiv.org/abs/2602.21144v1)** | 2026-02-24 | <details><summary>Submi...</summary><p>Submitted to 46th IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</p></details> |
+| **[ReviveMoE: Fast Recovery for Hardware Failures in Large-Scale MoE LLM Inference Deployments](https://arxiv.org/abs/2602.21140v1)** | 2026-02-24 | 21 pages, 6 figures |
+| **[GPU Memory and Utilization Estimation for Training-Aware Resource Management: Opportunities and Limitations](https://arxiv.org/abs/2602.17817v2)** | 2026-02-24 |  |
+| **[Mapping Gemma3 onto an Edge Dataflow Architecture](https://arxiv.org/abs/2602.06063v2)** | 2026-02-24 | <details><summary>Origi...</summary><p>Original Version, data shall be updated</p></details> |
+| **[Is a LOCAL algorithm computable?](https://arxiv.org/abs/2602.21022v1)** | 2026-02-24 | 33 pages, 1 figure |
+| **[Toward an Agentic Infused Software Ecosystem](https://arxiv.org/abs/2602.20979v1)** | 2026-02-24 |  |
+| **[Scalable hybrid quantum Monte Carlo simulation of U(1) gauge field coupled to fermions on GPU](https://arxiv.org/abs/2508.16298v5)** | 2026-02-24 | <details><summary>13+5 ...</summary><p>13+5 pages, 6+6 figures</p></details> |
+| **[A Morton-Type Space-Filling Curve for Pyramid Subdivision and Hybrid Adaptive Mesh Refinement](https://arxiv.org/abs/2602.20887v1)** | 2026-02-24 |  |
+| **[DeCo: A Core Calculus for Incremental Functional Programming with Generic Data Types](https://arxiv.org/abs/2602.20866v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted at OOPSLA'26</p></details> |
+| **[Oracular Programming: A Modular Foundation for Building LLM-Enabled Software](https://arxiv.org/abs/2502.05310v4)** | 2026-02-24 |  |
+| **[Semantic Parallelism: Redefining Efficient MoE Inference via Model-Data Co-Scheduling](https://arxiv.org/abs/2503.04398v4)** | 2026-02-24 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[MUSE: Multi-Tenant Model Serving With Seamless Model Updates](https://arxiv.org/abs/2602.11776v2)** | 2026-02-24 | <details><summary>Curre...</summary><p>Currently under review for KDD 2026 (Applied Data Science)</p></details> |
+| **[Multiparty equality in the local broadcast model](https://arxiv.org/abs/2510.09143v2)** | 2026-02-24 | <details><summary>19 pa...</summary><p>19 pages, 3 figures. v2: revised according to the reviewers comments</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mitigating Artifacts in Pre-quantization Based Scientific Data Compressors with Quantization-aware Interpolation](https://arxiv.org/abs/2602.20097v1)** | 2026-02-23 |  |
-| **[Machine-Generated, Machine-Checked Proofs for a Verified Compiler (Experience Report)](https://arxiv.org/abs/2602.20082v1)** | 2026-02-23 |  |
-| **[The LLMbda Calculus: AI Agents, Conversations, and Information Flow](https://arxiv.org/abs/2602.20064v1)** | 2026-02-23 |  |
-| **[CoBRA: A Universal Strategyproof Confirmation Protocol for Quorum-based Proof-of-Stake Blockchains](https://arxiv.org/abs/2503.16783v3)** | 2026-02-23 |  |
-| **[A Context-Aware Knowledge Graph Platform for Stream Processing in Industrial IoT](https://arxiv.org/abs/2602.19990v1)** | 2026-02-23 |  |
-| **[Misquoted No More: Securely Extracting F* Programs with IO](https://arxiv.org/abs/2602.19973v1)** | 2026-02-23 | Submitted to ICFP'26 |
-| **[Taming Scope Extrusion in Gradual Imperative Metaprogramming](https://arxiv.org/abs/2602.19951v1)** | 2026-02-23 | 34 pages, 19 figures |
-| **[CPU-less parallel execution of lambda calculus in digital logic](https://arxiv.org/abs/2601.13040v2)** | 2026-02-23 |  |
-| **[Combining Small-Step and Big-Step Semantics to Verify Loop Optimizations](https://arxiv.org/abs/2602.19868v1)** | 2026-02-23 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Submitted to ITP 2026</p></details> |
-| **[Linear Reservoir: A Diagonalization-Based Optimization](https://arxiv.org/abs/2602.19802v1)** | 2026-02-23 |  |
-| **[Hexagon-MLIR: An AI Compilation Stack For Qualcomm's Neural Processing Units (NPUs)](https://arxiv.org/abs/2602.19762v1)** | 2026-02-23 |  |
-| **[Deadlock-free Context-free Session Types](https://arxiv.org/abs/2506.20356v3)** | 2026-02-23 |  |
-| **[A Risk-Aware UAV-Edge Service Framework for Wildfire Monitoring and Emergency Response](https://arxiv.org/abs/2602.19742v1)** | 2026-02-23 |  |
-| **[CARMA: Collocation-Aware Resource Manager](https://arxiv.org/abs/2508.19073v3)** | 2026-02-23 |  |
-| **[A Flow Extension to Coroutine Types for Deadlock Detection in Go](https://arxiv.org/abs/2602.19686v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted in ICSESS 2025, Macao</p></details> |
+| **[Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking](https://arxiv.org/abs/2602.21196v1)** | 2026-02-24 | 14 pages, 6 figures |
+| **[Circumventing the CAP Theorem with Open Atomic Ethernet](https://arxiv.org/abs/2602.21182v1)** | 2026-02-24 | 23 pages, 14 figures |
+| **[Scaling State-Space Models on Multiple GPUs with Tensor Parallelism](https://arxiv.org/abs/2602.21144v1)** | 2026-02-24 | <details><summary>Submi...</summary><p>Submitted to 46th IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</p></details> |
+| **[ReviveMoE: Fast Recovery for Hardware Failures in Large-Scale MoE LLM Inference Deployments](https://arxiv.org/abs/2602.21140v1)** | 2026-02-24 | 21 pages, 6 figures |
+| **[GPU Memory and Utilization Estimation for Training-Aware Resource Management: Opportunities and Limitations](https://arxiv.org/abs/2602.17817v2)** | 2026-02-24 |  |
+| **[Mapping Gemma3 onto an Edge Dataflow Architecture](https://arxiv.org/abs/2602.06063v2)** | 2026-02-24 | <details><summary>Origi...</summary><p>Original Version, data shall be updated</p></details> |
+| **[Is a LOCAL algorithm computable?](https://arxiv.org/abs/2602.21022v1)** | 2026-02-24 | 33 pages, 1 figure |
+| **[Toward an Agentic Infused Software Ecosystem](https://arxiv.org/abs/2602.20979v1)** | 2026-02-24 |  |
+| **[Scalable hybrid quantum Monte Carlo simulation of U(1) gauge field coupled to fermions on GPU](https://arxiv.org/abs/2508.16298v5)** | 2026-02-24 | <details><summary>13+5 ...</summary><p>13+5 pages, 6+6 figures</p></details> |
+| **[A Morton-Type Space-Filling Curve for Pyramid Subdivision and Hybrid Adaptive Mesh Refinement](https://arxiv.org/abs/2602.20887v1)** | 2026-02-24 |  |
+| **[DeCo: A Core Calculus for Incremental Functional Programming with Generic Data Types](https://arxiv.org/abs/2602.20866v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted at OOPSLA'26</p></details> |
+| **[Oracular Programming: A Modular Foundation for Building LLM-Enabled Software](https://arxiv.org/abs/2502.05310v4)** | 2026-02-24 |  |
+| **[Semantic Parallelism: Redefining Efficient MoE Inference via Model-Data Co-Scheduling](https://arxiv.org/abs/2503.04398v4)** | 2026-02-24 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[MUSE: Multi-Tenant Model Serving With Seamless Model Updates](https://arxiv.org/abs/2602.11776v2)** | 2026-02-24 | <details><summary>Curre...</summary><p>Currently under review for KDD 2026 (Applied Data Science)</p></details> |
+| **[Multiparty equality in the local broadcast model](https://arxiv.org/abs/2510.09143v2)** | 2026-02-24 | <details><summary>19 pa...</summary><p>19 pages, 3 figures. v2: revised according to the reviewers comments</p></details> |
 
