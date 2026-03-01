@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 27, 2026
+title: Latest 15 Papers - March 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hybrid Consensus with Quantum Sybil Resistance](https://arxiv.org/abs/2602.22195v1)** | 2026-02-25 |  |
-| **[LLMTailor: A Layer-wise Tailoring Tool for Efficient Checkpointing of Large Language Models](https://arxiv.org/abs/2602.22158v1)** | 2026-02-25 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, accepted at PDSW'25</p></details> |
-| **[PASTA: A Modular Program Analysis Tool Framework for Accelerators](https://arxiv.org/abs/2602.22103v1)** | 2026-02-25 |  |
-| **[BRIDGE: Building Representations In Domain Guided Program Synthesis](https://arxiv.org/abs/2511.21104v2)** | 2026-02-25 | <details><summary>Appro...</summary><p>Approx. 23 pages including appendices, 10 figures, 3 tables. Empirical study of LLM-based verified program synthesis in Lean4 (code, specs, and proofs)</p></details> |
-| **[Parallelizing the Approximate Minimum Degree Ordering Algorithm: Strategies and Evaluation](https://arxiv.org/abs/2504.17097v2)** | 2026-02-25 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 8 tables</p></details> |
-| **[Scylla: Translating an Applicative Subset of C to Safe Rust](https://arxiv.org/abs/2412.15042v2)** | 2026-02-25 | <details><summary>OOPSL...</summary><p>OOPSLA 2026 camera-ready version</p></details> |
-| **[RustyDL: A Program Logic for Rust](https://arxiv.org/abs/2602.22075v1)** | 2026-02-25 | <details><summary>Long ...</summary><p>Long version of paper published at 27th International Symposium on Formal Methods (FM 2026)</p></details> |
-| **[IOAgent: Democratizing Trustworthy HPC I/O Performance Diagnosis Capability via LLMs](https://arxiv.org/abs/2602.22017v1)** | 2026-02-25 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)</p></details> |
-| **[Energy Efficient Federated Learning with Hyperdimensional Computing over Wireless Communication Networks](https://arxiv.org/abs/2602.21949v1)** | 2026-02-25 | 13 pages, 9 figures |
-| **[A task-based data-flow methodology for programming heterogeneous systems with multiple accelerator APIs](https://arxiv.org/abs/2602.21897v1)** | 2026-02-25 | 13 pages, 8 figures |
-| **[JSAM: Privacy Straggler-Resilient Joint Client Selection and Incentive Mechanism Design in Differentially Private Federated Learning](https://arxiv.org/abs/2602.21844v1)** | 2026-02-25 |  |
-| **[DHP: Efficient Scaling of MLLM Training with Dynamic Hybrid Parallelism](https://arxiv.org/abs/2602.21788v1)** | 2026-02-25 |  |
-| **[Parallel Split Learning with Global Sampling](https://arxiv.org/abs/2407.15738v5)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE 3rd International Conference on Foundation and Large Language Models (FLLM). This version corresponds to the accepted manuscript</p></details> |
-| **[Is a LOCAL algorithm computable?](https://arxiv.org/abs/2602.21022v2)** | 2026-02-25 | 33 pages, 1 figure |
-| **[Strong and Hiding Distributed Certification of Bipartiteness](https://arxiv.org/abs/2502.13854v3)** | 2026-02-25 | <details><summary>52 pa...</summary><p>52 pages, 12 figures. Abstract shortened to meet arXiv's requirements</p></details> |
+| **[Causal Graph Dynamics and Kan Extensions](https://arxiv.org/abs/2403.13393v6)** | 2026-02-26 |  |
+| **[Exploiting network topology in brain-scale simulations of spiking neural networks](https://arxiv.org/abs/2602.23274v1)** | 2026-02-26 |  |
+| **[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885v3)** | 2026-02-26 |  |
+| **[STELLAR: Storage Tuning Engine Leveraging LLM Autonomous Reasoning for High Performance Parallel File Systems](https://arxiv.org/abs/2602.23220v1)** | 2026-02-26 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC25)</p></details> |
+| **[Array-Carrying Symbolic Execution for Function Contract Generation](https://arxiv.org/abs/2602.23216v1)** | 2026-02-26 | <details><summary>30 pa...</summary><p>30 pages, 2 figures. To appear in the 27th International Symposium on Formal Methods (FM 2026)</p></details> |
+| **[LASLiN: A Learning-Augmented Peer-to-Peer Network](https://arxiv.org/abs/2509.11904v2)** | 2026-02-26 |  |
+| **[A High-Throughput AES-GCM Implementation on GPUs for Secure, Policy-Based Access to Massive Astronomical Catalogs](https://arxiv.org/abs/2602.23067v1)** | 2026-02-26 | <details><summary>Submi...</summary><p>Submitted to Astronomy and Computing. 15 pages, 5 figures</p></details> |
+| **[The Ghosts of Empires: Extracting Modularity from Interleaving-Based Proofs (Extended Version)](https://arxiv.org/abs/2511.20369v4)** | 2026-02-26 | <details><summary>39 pa...</summary><p>39 pages, 10 figures, 1 table. Extended version with proofs of the paper published at POPL'2026 (https://doi.org/10.1145/3776684) [corrections in Fig. 6]</p></details> |
+| **[LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure](https://arxiv.org/abs/2602.23036v1)** | 2026-02-26 | 12 pages, 10 figures |
+| **[A Simple Distributed Deterministic Planar Separator](https://arxiv.org/abs/2602.22916v1)** | 2026-02-26 | <details><summary>19 pa...</summary><p>19 pages, to appear in SIROCCO 2026</p></details> |
+| **[Workload Buoyancy: Keeping Apps Afloat by Identifying Shared Resource Bottlenecks](https://arxiv.org/abs/2602.22852v1)** | 2026-02-26 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 4 tables</p></details> |
+| **[Accelerating Local LLMs on Resource-Constrained Edge Devices via Distributed Prompt Caching](https://arxiv.org/abs/2602.22812v1)** | 2026-02-26 |  |
+| **[A Reversible Semantics for Janus](https://arxiv.org/abs/2602.16913v2)** | 2026-02-26 | <details><summary>Submi...</summary><p>Submitted for publication</p></details> |
+| **[An Artificial Intelligence Framework for Joint Structural-Temporal Load Forecasting in Cloud Native Platforms](https://arxiv.org/abs/2602.22780v1)** | 2026-02-26 |  |
+| **[Distributed LLM Pretraining During Renewable Curtailment Windows: A Feasibility Study](https://arxiv.org/abs/2602.22760v1)** | 2026-02-26 | Technical report |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hybrid Consensus with Quantum Sybil Resistance](https://arxiv.org/abs/2602.22195v1)** | 2026-02-25 |  |
-| **[LLMTailor: A Layer-wise Tailoring Tool for Efficient Checkpointing of Large Language Models](https://arxiv.org/abs/2602.22158v1)** | 2026-02-25 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, accepted at PDSW'25</p></details> |
-| **[PASTA: A Modular Program Analysis Tool Framework for Accelerators](https://arxiv.org/abs/2602.22103v1)** | 2026-02-25 |  |
-| **[BRIDGE: Building Representations In Domain Guided Program Synthesis](https://arxiv.org/abs/2511.21104v2)** | 2026-02-25 | <details><summary>Appro...</summary><p>Approx. 23 pages including appendices, 10 figures, 3 tables. Empirical study of LLM-based verified program synthesis in Lean4 (code, specs, and proofs)</p></details> |
-| **[Parallelizing the Approximate Minimum Degree Ordering Algorithm: Strategies and Evaluation](https://arxiv.org/abs/2504.17097v2)** | 2026-02-25 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 8 tables</p></details> |
-| **[Scylla: Translating an Applicative Subset of C to Safe Rust](https://arxiv.org/abs/2412.15042v2)** | 2026-02-25 | <details><summary>OOPSL...</summary><p>OOPSLA 2026 camera-ready version</p></details> |
-| **[RustyDL: A Program Logic for Rust](https://arxiv.org/abs/2602.22075v1)** | 2026-02-25 | <details><summary>Long ...</summary><p>Long version of paper published at 27th International Symposium on Formal Methods (FM 2026)</p></details> |
-| **[IOAgent: Democratizing Trustworthy HPC I/O Performance Diagnosis Capability via LLMs](https://arxiv.org/abs/2602.22017v1)** | 2026-02-25 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)</p></details> |
-| **[Energy Efficient Federated Learning with Hyperdimensional Computing over Wireless Communication Networks](https://arxiv.org/abs/2602.21949v1)** | 2026-02-25 | 13 pages, 9 figures |
-| **[A task-based data-flow methodology for programming heterogeneous systems with multiple accelerator APIs](https://arxiv.org/abs/2602.21897v1)** | 2026-02-25 | 13 pages, 8 figures |
-| **[JSAM: Privacy Straggler-Resilient Joint Client Selection and Incentive Mechanism Design in Differentially Private Federated Learning](https://arxiv.org/abs/2602.21844v1)** | 2026-02-25 |  |
-| **[DHP: Efficient Scaling of MLLM Training with Dynamic Hybrid Parallelism](https://arxiv.org/abs/2602.21788v1)** | 2026-02-25 |  |
-| **[Parallel Split Learning with Global Sampling](https://arxiv.org/abs/2407.15738v5)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE 3rd International Conference on Foundation and Large Language Models (FLLM). This version corresponds to the accepted manuscript</p></details> |
-| **[Is a LOCAL algorithm computable?](https://arxiv.org/abs/2602.21022v2)** | 2026-02-25 | 33 pages, 1 figure |
-| **[Strong and Hiding Distributed Certification of Bipartiteness](https://arxiv.org/abs/2502.13854v3)** | 2026-02-25 | <details><summary>52 pa...</summary><p>52 pages, 12 figures. Abstract shortened to meet arXiv's requirements</p></details> |
+| **[Causal Graph Dynamics and Kan Extensions](https://arxiv.org/abs/2403.13393v6)** | 2026-02-26 |  |
+| **[Exploiting network topology in brain-scale simulations of spiking neural networks](https://arxiv.org/abs/2602.23274v1)** | 2026-02-26 |  |
+| **[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885v3)** | 2026-02-26 |  |
+| **[STELLAR: Storage Tuning Engine Leveraging LLM Autonomous Reasoning for High Performance Parallel File Systems](https://arxiv.org/abs/2602.23220v1)** | 2026-02-26 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC25)</p></details> |
+| **[Array-Carrying Symbolic Execution for Function Contract Generation](https://arxiv.org/abs/2602.23216v1)** | 2026-02-26 | <details><summary>30 pa...</summary><p>30 pages, 2 figures. To appear in the 27th International Symposium on Formal Methods (FM 2026)</p></details> |
+| **[LASLiN: A Learning-Augmented Peer-to-Peer Network](https://arxiv.org/abs/2509.11904v2)** | 2026-02-26 |  |
+| **[A High-Throughput AES-GCM Implementation on GPUs for Secure, Policy-Based Access to Massive Astronomical Catalogs](https://arxiv.org/abs/2602.23067v1)** | 2026-02-26 | <details><summary>Submi...</summary><p>Submitted to Astronomy and Computing. 15 pages, 5 figures</p></details> |
+| **[The Ghosts of Empires: Extracting Modularity from Interleaving-Based Proofs (Extended Version)](https://arxiv.org/abs/2511.20369v4)** | 2026-02-26 | <details><summary>39 pa...</summary><p>39 pages, 10 figures, 1 table. Extended version with proofs of the paper published at POPL'2026 (https://doi.org/10.1145/3776684) [corrections in Fig. 6]</p></details> |
+| **[LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure](https://arxiv.org/abs/2602.23036v1)** | 2026-02-26 | 12 pages, 10 figures |
+| **[A Simple Distributed Deterministic Planar Separator](https://arxiv.org/abs/2602.22916v1)** | 2026-02-26 | <details><summary>19 pa...</summary><p>19 pages, to appear in SIROCCO 2026</p></details> |
+| **[Workload Buoyancy: Keeping Apps Afloat by Identifying Shared Resource Bottlenecks](https://arxiv.org/abs/2602.22852v1)** | 2026-02-26 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 4 tables</p></details> |
+| **[Accelerating Local LLMs on Resource-Constrained Edge Devices via Distributed Prompt Caching](https://arxiv.org/abs/2602.22812v1)** | 2026-02-26 |  |
+| **[A Reversible Semantics for Janus](https://arxiv.org/abs/2602.16913v2)** | 2026-02-26 | <details><summary>Submi...</summary><p>Submitted for publication</p></details> |
+| **[An Artificial Intelligence Framework for Joint Structural-Temporal Load Forecasting in Cloud Native Platforms](https://arxiv.org/abs/2602.22780v1)** | 2026-02-26 |  |
+| **[Distributed LLM Pretraining During Renewable Curtailment Windows: A Feasibility Study](https://arxiv.org/abs/2602.22760v1)** | 2026-02-26 | Technical report |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hybrid Consensus with Quantum Sybil Resistance](https://arxiv.org/abs/2602.22195v1)** | 2026-02-25 |  |
-| **[LLMTailor: A Layer-wise Tailoring Tool for Efficient Checkpointing of Large Language Models](https://arxiv.org/abs/2602.22158v1)** | 2026-02-25 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, accepted at PDSW'25</p></details> |
-| **[PASTA: A Modular Program Analysis Tool Framework for Accelerators](https://arxiv.org/abs/2602.22103v1)** | 2026-02-25 |  |
-| **[BRIDGE: Building Representations In Domain Guided Program Synthesis](https://arxiv.org/abs/2511.21104v2)** | 2026-02-25 | <details><summary>Appro...</summary><p>Approx. 23 pages including appendices, 10 figures, 3 tables. Empirical study of LLM-based verified program synthesis in Lean4 (code, specs, and proofs)</p></details> |
-| **[Parallelizing the Approximate Minimum Degree Ordering Algorithm: Strategies and Evaluation](https://arxiv.org/abs/2504.17097v2)** | 2026-02-25 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 8 tables</p></details> |
-| **[Scylla: Translating an Applicative Subset of C to Safe Rust](https://arxiv.org/abs/2412.15042v2)** | 2026-02-25 | <details><summary>OOPSL...</summary><p>OOPSLA 2026 camera-ready version</p></details> |
-| **[RustyDL: A Program Logic for Rust](https://arxiv.org/abs/2602.22075v1)** | 2026-02-25 | <details><summary>Long ...</summary><p>Long version of paper published at 27th International Symposium on Formal Methods (FM 2026)</p></details> |
-| **[IOAgent: Democratizing Trustworthy HPC I/O Performance Diagnosis Capability via LLMs](https://arxiv.org/abs/2602.22017v1)** | 2026-02-25 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)</p></details> |
-| **[Energy Efficient Federated Learning with Hyperdimensional Computing over Wireless Communication Networks](https://arxiv.org/abs/2602.21949v1)** | 2026-02-25 | 13 pages, 9 figures |
-| **[A task-based data-flow methodology for programming heterogeneous systems with multiple accelerator APIs](https://arxiv.org/abs/2602.21897v1)** | 2026-02-25 | 13 pages, 8 figures |
-| **[JSAM: Privacy Straggler-Resilient Joint Client Selection and Incentive Mechanism Design in Differentially Private Federated Learning](https://arxiv.org/abs/2602.21844v1)** | 2026-02-25 |  |
-| **[DHP: Efficient Scaling of MLLM Training with Dynamic Hybrid Parallelism](https://arxiv.org/abs/2602.21788v1)** | 2026-02-25 |  |
-| **[Parallel Split Learning with Global Sampling](https://arxiv.org/abs/2407.15738v5)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE 3rd International Conference on Foundation and Large Language Models (FLLM). This version corresponds to the accepted manuscript</p></details> |
-| **[Is a LOCAL algorithm computable?](https://arxiv.org/abs/2602.21022v2)** | 2026-02-25 | 33 pages, 1 figure |
-| **[Strong and Hiding Distributed Certification of Bipartiteness](https://arxiv.org/abs/2502.13854v3)** | 2026-02-25 | <details><summary>52 pa...</summary><p>52 pages, 12 figures. Abstract shortened to meet arXiv's requirements</p></details> |
+| **[Causal Graph Dynamics and Kan Extensions](https://arxiv.org/abs/2403.13393v6)** | 2026-02-26 |  |
+| **[Exploiting network topology in brain-scale simulations of spiking neural networks](https://arxiv.org/abs/2602.23274v1)** | 2026-02-26 |  |
+| **[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885v3)** | 2026-02-26 |  |
+| **[STELLAR: Storage Tuning Engine Leveraging LLM Autonomous Reasoning for High Performance Parallel File Systems](https://arxiv.org/abs/2602.23220v1)** | 2026-02-26 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC25)</p></details> |
+| **[Array-Carrying Symbolic Execution for Function Contract Generation](https://arxiv.org/abs/2602.23216v1)** | 2026-02-26 | <details><summary>30 pa...</summary><p>30 pages, 2 figures. To appear in the 27th International Symposium on Formal Methods (FM 2026)</p></details> |
+| **[LASLiN: A Learning-Augmented Peer-to-Peer Network](https://arxiv.org/abs/2509.11904v2)** | 2026-02-26 |  |
+| **[A High-Throughput AES-GCM Implementation on GPUs for Secure, Policy-Based Access to Massive Astronomical Catalogs](https://arxiv.org/abs/2602.23067v1)** | 2026-02-26 | <details><summary>Submi...</summary><p>Submitted to Astronomy and Computing. 15 pages, 5 figures</p></details> |
+| **[The Ghosts of Empires: Extracting Modularity from Interleaving-Based Proofs (Extended Version)](https://arxiv.org/abs/2511.20369v4)** | 2026-02-26 | <details><summary>39 pa...</summary><p>39 pages, 10 figures, 1 table. Extended version with proofs of the paper published at POPL'2026 (https://doi.org/10.1145/3776684) [corrections in Fig. 6]</p></details> |
+| **[LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure](https://arxiv.org/abs/2602.23036v1)** | 2026-02-26 | 12 pages, 10 figures |
+| **[A Simple Distributed Deterministic Planar Separator](https://arxiv.org/abs/2602.22916v1)** | 2026-02-26 | <details><summary>19 pa...</summary><p>19 pages, to appear in SIROCCO 2026</p></details> |
+| **[Workload Buoyancy: Keeping Apps Afloat by Identifying Shared Resource Bottlenecks](https://arxiv.org/abs/2602.22852v1)** | 2026-02-26 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 4 tables</p></details> |
+| **[Accelerating Local LLMs on Resource-Constrained Edge Devices via Distributed Prompt Caching](https://arxiv.org/abs/2602.22812v1)** | 2026-02-26 |  |
+| **[A Reversible Semantics for Janus](https://arxiv.org/abs/2602.16913v2)** | 2026-02-26 | <details><summary>Submi...</summary><p>Submitted for publication</p></details> |
+| **[An Artificial Intelligence Framework for Joint Structural-Temporal Load Forecasting in Cloud Native Platforms](https://arxiv.org/abs/2602.22780v1)** | 2026-02-26 |  |
+| **[Distributed LLM Pretraining During Renewable Curtailment Windows: A Feasibility Study](https://arxiv.org/abs/2602.22760v1)** | 2026-02-26 | Technical report |
 
