@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 02, 2026
+title: Latest 15 Papers - March 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Causal Graph Dynamics and Kan Extensions](https://arxiv.org/abs/2403.13393v6)** | 2026-02-26 |  |
-| **[Exploiting network topology in brain-scale simulations of spiking neural networks](https://arxiv.org/abs/2602.23274v1)** | 2026-02-26 |  |
-| **[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885v3)** | 2026-02-26 |  |
-| **[STELLAR: Storage Tuning Engine Leveraging LLM Autonomous Reasoning for High Performance Parallel File Systems](https://arxiv.org/abs/2602.23220v1)** | 2026-02-26 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC25)</p></details> |
-| **[Array-Carrying Symbolic Execution for Function Contract Generation](https://arxiv.org/abs/2602.23216v1)** | 2026-02-26 | <details><summary>30 pa...</summary><p>30 pages, 2 figures. To appear in the 27th International Symposium on Formal Methods (FM 2026)</p></details> |
-| **[LASLiN: A Learning-Augmented Peer-to-Peer Network](https://arxiv.org/abs/2509.11904v2)** | 2026-02-26 |  |
-| **[A High-Throughput AES-GCM Implementation on GPUs for Secure, Policy-Based Access to Massive Astronomical Catalogs](https://arxiv.org/abs/2602.23067v1)** | 2026-02-26 | <details><summary>Submi...</summary><p>Submitted to Astronomy and Computing. 15 pages, 5 figures</p></details> |
-| **[The Ghosts of Empires: Extracting Modularity from Interleaving-Based Proofs (Extended Version)](https://arxiv.org/abs/2511.20369v4)** | 2026-02-26 | <details><summary>39 pa...</summary><p>39 pages, 10 figures, 1 table. Extended version with proofs of the paper published at POPL'2026 (https://doi.org/10.1145/3776684) [corrections in Fig. 6]</p></details> |
-| **[LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure](https://arxiv.org/abs/2602.23036v1)** | 2026-02-26 | 12 pages, 10 figures |
-| **[A Simple Distributed Deterministic Planar Separator](https://arxiv.org/abs/2602.22916v1)** | 2026-02-26 | <details><summary>19 pa...</summary><p>19 pages, to appear in SIROCCO 2026</p></details> |
-| **[Workload Buoyancy: Keeping Apps Afloat by Identifying Shared Resource Bottlenecks](https://arxiv.org/abs/2602.22852v1)** | 2026-02-26 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 4 tables</p></details> |
-| **[Accelerating Local LLMs on Resource-Constrained Edge Devices via Distributed Prompt Caching](https://arxiv.org/abs/2602.22812v1)** | 2026-02-26 |  |
-| **[A Reversible Semantics for Janus](https://arxiv.org/abs/2602.16913v2)** | 2026-02-26 | <details><summary>Submi...</summary><p>Submitted for publication</p></details> |
-| **[An Artificial Intelligence Framework for Joint Structural-Temporal Load Forecasting in Cloud Native Platforms](https://arxiv.org/abs/2602.22780v1)** | 2026-02-26 |  |
-| **[Distributed LLM Pretraining During Renewable Curtailment Windows: A Feasibility Study](https://arxiv.org/abs/2602.22760v1)** | 2026-02-26 | Technical report |
+| **[nvidia-pcm: A D-Bus-Driven Platform Configuration Manager for OpenBMC Environments](https://arxiv.org/abs/2602.24237v1)** | 2026-02-27 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 10 references</p></details> |
+| **[Advanced Scheduling Strategies for Distributed Quantum Computing Jobs](https://arxiv.org/abs/2602.24152v1)** | 2026-02-27 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 9 tables</p></details> |
+| **[Linear Layouts: Robust Code Generation of Efficient Tensor Computation Using $\mathbb{F}_2$](https://arxiv.org/abs/2505.23819v4)** | 2026-02-27 |  |
+| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[Speak Now: Safe Actor Programming with Multiparty Session Types](https://arxiv.org/abs/2602.24054v1)** | 2026-02-27 | <details><summary>Exten...</summary><p>Extended version of paper accepted at OOPSLA'26</p></details> |
+| **[Data Driven Optimization of GPU efficiency for Distributed LLM Adapter Serving](https://arxiv.org/abs/2602.24044v1)** | 2026-02-27 | <details><summary>journ...</summary><p>journal extension of the workshop paper titled as "A data-driven ml approach for maximizing performance in llm-adapter serving"</p></details> |
+| **[Semantic Parallelism: Redefining Efficient MoE Inference via Model-Data Co-Scheduling](https://arxiv.org/abs/2503.04398v5)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[GreenServ: Energy-Efficient Context-Aware Dynamic Routing for Multi-Model LLM Inference](https://arxiv.org/abs/2601.17551v2)** | 2026-02-27 | <details><summary>Paper...</summary><p>Paper under submisison</p></details> |
+| **[Green or Fast? Learning to Balance Cold Starts and Idle Carbon in Serverless Computing](https://arxiv.org/abs/2602.23935v1)** | 2026-02-27 |  |
+| **[Mixed Choice in Asynchronous Multiparty Session Types](https://arxiv.org/abs/2602.23927v1)** | 2026-02-27 |  |
+| **[A task-based data-flow methodology for programming heterogeneous systems with multiple accelerator APIs](https://arxiv.org/abs/2602.21897v2)** | 2026-02-27 | 18 pages, 8 figures |
+| **[MPU: Towards Secure and Privacy-Preserving Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2602.23798v1)** | 2026-02-27 |  |
+| **[(Dis)Proving Spectre Security with Speculation-Passing Style](https://arxiv.org/abs/2510.11573v2)** | 2026-02-27 |  |
+| **[Array-Carrying Symbolic Execution for Function Contract Generation](https://arxiv.org/abs/2602.23216v2)** | 2026-02-27 | <details><summary>30 pa...</summary><p>30 pages, 2 figures. To appear in the 27th International Symposium on Formal Methods (FM 2026)</p></details> |
+| **[Hestia: Hyperthread-Level Scheduling for Cloud Microservices with Interference-Aware Attention](https://arxiv.org/abs/2602.23758v1)** | 2026-02-27 | <details><summary>This ...</summary><p>This paper has been accepted for publication in Design Automation Conference(DAC 2026)</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Causal Graph Dynamics and Kan Extensions](https://arxiv.org/abs/2403.13393v6)** | 2026-02-26 |  |
-| **[Exploiting network topology in brain-scale simulations of spiking neural networks](https://arxiv.org/abs/2602.23274v1)** | 2026-02-26 |  |
-| **[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885v3)** | 2026-02-26 |  |
-| **[STELLAR: Storage Tuning Engine Leveraging LLM Autonomous Reasoning for High Performance Parallel File Systems](https://arxiv.org/abs/2602.23220v1)** | 2026-02-26 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC25)</p></details> |
-| **[Array-Carrying Symbolic Execution for Function Contract Generation](https://arxiv.org/abs/2602.23216v1)** | 2026-02-26 | <details><summary>30 pa...</summary><p>30 pages, 2 figures. To appear in the 27th International Symposium on Formal Methods (FM 2026)</p></details> |
-| **[LASLiN: A Learning-Augmented Peer-to-Peer Network](https://arxiv.org/abs/2509.11904v2)** | 2026-02-26 |  |
-| **[A High-Throughput AES-GCM Implementation on GPUs for Secure, Policy-Based Access to Massive Astronomical Catalogs](https://arxiv.org/abs/2602.23067v1)** | 2026-02-26 | <details><summary>Submi...</summary><p>Submitted to Astronomy and Computing. 15 pages, 5 figures</p></details> |
-| **[The Ghosts of Empires: Extracting Modularity from Interleaving-Based Proofs (Extended Version)](https://arxiv.org/abs/2511.20369v4)** | 2026-02-26 | <details><summary>39 pa...</summary><p>39 pages, 10 figures, 1 table. Extended version with proofs of the paper published at POPL'2026 (https://doi.org/10.1145/3776684) [corrections in Fig. 6]</p></details> |
-| **[LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure](https://arxiv.org/abs/2602.23036v1)** | 2026-02-26 | 12 pages, 10 figures |
-| **[A Simple Distributed Deterministic Planar Separator](https://arxiv.org/abs/2602.22916v1)** | 2026-02-26 | <details><summary>19 pa...</summary><p>19 pages, to appear in SIROCCO 2026</p></details> |
-| **[Workload Buoyancy: Keeping Apps Afloat by Identifying Shared Resource Bottlenecks](https://arxiv.org/abs/2602.22852v1)** | 2026-02-26 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 4 tables</p></details> |
-| **[Accelerating Local LLMs on Resource-Constrained Edge Devices via Distributed Prompt Caching](https://arxiv.org/abs/2602.22812v1)** | 2026-02-26 |  |
-| **[A Reversible Semantics for Janus](https://arxiv.org/abs/2602.16913v2)** | 2026-02-26 | <details><summary>Submi...</summary><p>Submitted for publication</p></details> |
-| **[An Artificial Intelligence Framework for Joint Structural-Temporal Load Forecasting in Cloud Native Platforms](https://arxiv.org/abs/2602.22780v1)** | 2026-02-26 |  |
-| **[Distributed LLM Pretraining During Renewable Curtailment Windows: A Feasibility Study](https://arxiv.org/abs/2602.22760v1)** | 2026-02-26 | Technical report |
+| **[nvidia-pcm: A D-Bus-Driven Platform Configuration Manager for OpenBMC Environments](https://arxiv.org/abs/2602.24237v1)** | 2026-02-27 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 10 references</p></details> |
+| **[Advanced Scheduling Strategies for Distributed Quantum Computing Jobs](https://arxiv.org/abs/2602.24152v1)** | 2026-02-27 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 9 tables</p></details> |
+| **[Linear Layouts: Robust Code Generation of Efficient Tensor Computation Using $\mathbb{F}_2$](https://arxiv.org/abs/2505.23819v4)** | 2026-02-27 |  |
+| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[Speak Now: Safe Actor Programming with Multiparty Session Types](https://arxiv.org/abs/2602.24054v1)** | 2026-02-27 | <details><summary>Exten...</summary><p>Extended version of paper accepted at OOPSLA'26</p></details> |
+| **[Data Driven Optimization of GPU efficiency for Distributed LLM Adapter Serving](https://arxiv.org/abs/2602.24044v1)** | 2026-02-27 | <details><summary>journ...</summary><p>journal extension of the workshop paper titled as "A data-driven ml approach for maximizing performance in llm-adapter serving"</p></details> |
+| **[Semantic Parallelism: Redefining Efficient MoE Inference via Model-Data Co-Scheduling](https://arxiv.org/abs/2503.04398v5)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[GreenServ: Energy-Efficient Context-Aware Dynamic Routing for Multi-Model LLM Inference](https://arxiv.org/abs/2601.17551v2)** | 2026-02-27 | <details><summary>Paper...</summary><p>Paper under submisison</p></details> |
+| **[Green or Fast? Learning to Balance Cold Starts and Idle Carbon in Serverless Computing](https://arxiv.org/abs/2602.23935v1)** | 2026-02-27 |  |
+| **[Mixed Choice in Asynchronous Multiparty Session Types](https://arxiv.org/abs/2602.23927v1)** | 2026-02-27 |  |
+| **[A task-based data-flow methodology for programming heterogeneous systems with multiple accelerator APIs](https://arxiv.org/abs/2602.21897v2)** | 2026-02-27 | 18 pages, 8 figures |
+| **[MPU: Towards Secure and Privacy-Preserving Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2602.23798v1)** | 2026-02-27 |  |
+| **[(Dis)Proving Spectre Security with Speculation-Passing Style](https://arxiv.org/abs/2510.11573v2)** | 2026-02-27 |  |
+| **[Array-Carrying Symbolic Execution for Function Contract Generation](https://arxiv.org/abs/2602.23216v2)** | 2026-02-27 | <details><summary>30 pa...</summary><p>30 pages, 2 figures. To appear in the 27th International Symposium on Formal Methods (FM 2026)</p></details> |
+| **[Hestia: Hyperthread-Level Scheduling for Cloud Microservices with Interference-Aware Attention](https://arxiv.org/abs/2602.23758v1)** | 2026-02-27 | <details><summary>This ...</summary><p>This paper has been accepted for publication in Design Automation Conference(DAC 2026)</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Causal Graph Dynamics and Kan Extensions](https://arxiv.org/abs/2403.13393v6)** | 2026-02-26 |  |
-| **[Exploiting network topology in brain-scale simulations of spiking neural networks](https://arxiv.org/abs/2602.23274v1)** | 2026-02-26 |  |
-| **[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885v3)** | 2026-02-26 |  |
-| **[STELLAR: Storage Tuning Engine Leveraging LLM Autonomous Reasoning for High Performance Parallel File Systems](https://arxiv.org/abs/2602.23220v1)** | 2026-02-26 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC25)</p></details> |
-| **[Array-Carrying Symbolic Execution for Function Contract Generation](https://arxiv.org/abs/2602.23216v1)** | 2026-02-26 | <details><summary>30 pa...</summary><p>30 pages, 2 figures. To appear in the 27th International Symposium on Formal Methods (FM 2026)</p></details> |
-| **[LASLiN: A Learning-Augmented Peer-to-Peer Network](https://arxiv.org/abs/2509.11904v2)** | 2026-02-26 |  |
-| **[A High-Throughput AES-GCM Implementation on GPUs for Secure, Policy-Based Access to Massive Astronomical Catalogs](https://arxiv.org/abs/2602.23067v1)** | 2026-02-26 | <details><summary>Submi...</summary><p>Submitted to Astronomy and Computing. 15 pages, 5 figures</p></details> |
-| **[The Ghosts of Empires: Extracting Modularity from Interleaving-Based Proofs (Extended Version)](https://arxiv.org/abs/2511.20369v4)** | 2026-02-26 | <details><summary>39 pa...</summary><p>39 pages, 10 figures, 1 table. Extended version with proofs of the paper published at POPL'2026 (https://doi.org/10.1145/3776684) [corrections in Fig. 6]</p></details> |
-| **[LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure](https://arxiv.org/abs/2602.23036v1)** | 2026-02-26 | 12 pages, 10 figures |
-| **[A Simple Distributed Deterministic Planar Separator](https://arxiv.org/abs/2602.22916v1)** | 2026-02-26 | <details><summary>19 pa...</summary><p>19 pages, to appear in SIROCCO 2026</p></details> |
-| **[Workload Buoyancy: Keeping Apps Afloat by Identifying Shared Resource Bottlenecks](https://arxiv.org/abs/2602.22852v1)** | 2026-02-26 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 4 tables</p></details> |
-| **[Accelerating Local LLMs on Resource-Constrained Edge Devices via Distributed Prompt Caching](https://arxiv.org/abs/2602.22812v1)** | 2026-02-26 |  |
-| **[A Reversible Semantics for Janus](https://arxiv.org/abs/2602.16913v2)** | 2026-02-26 | <details><summary>Submi...</summary><p>Submitted for publication</p></details> |
-| **[An Artificial Intelligence Framework for Joint Structural-Temporal Load Forecasting in Cloud Native Platforms](https://arxiv.org/abs/2602.22780v1)** | 2026-02-26 |  |
-| **[Distributed LLM Pretraining During Renewable Curtailment Windows: A Feasibility Study](https://arxiv.org/abs/2602.22760v1)** | 2026-02-26 | Technical report |
+| **[nvidia-pcm: A D-Bus-Driven Platform Configuration Manager for OpenBMC Environments](https://arxiv.org/abs/2602.24237v1)** | 2026-02-27 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 10 references</p></details> |
+| **[Advanced Scheduling Strategies for Distributed Quantum Computing Jobs](https://arxiv.org/abs/2602.24152v1)** | 2026-02-27 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 9 tables</p></details> |
+| **[Linear Layouts: Robust Code Generation of Efficient Tensor Computation Using $\mathbb{F}_2$](https://arxiv.org/abs/2505.23819v4)** | 2026-02-27 |  |
+| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[Speak Now: Safe Actor Programming with Multiparty Session Types](https://arxiv.org/abs/2602.24054v1)** | 2026-02-27 | <details><summary>Exten...</summary><p>Extended version of paper accepted at OOPSLA'26</p></details> |
+| **[Data Driven Optimization of GPU efficiency for Distributed LLM Adapter Serving](https://arxiv.org/abs/2602.24044v1)** | 2026-02-27 | <details><summary>journ...</summary><p>journal extension of the workshop paper titled as "A data-driven ml approach for maximizing performance in llm-adapter serving"</p></details> |
+| **[Semantic Parallelism: Redefining Efficient MoE Inference via Model-Data Co-Scheduling](https://arxiv.org/abs/2503.04398v5)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[GreenServ: Energy-Efficient Context-Aware Dynamic Routing for Multi-Model LLM Inference](https://arxiv.org/abs/2601.17551v2)** | 2026-02-27 | <details><summary>Paper...</summary><p>Paper under submisison</p></details> |
+| **[Green or Fast? Learning to Balance Cold Starts and Idle Carbon in Serverless Computing](https://arxiv.org/abs/2602.23935v1)** | 2026-02-27 |  |
+| **[Mixed Choice in Asynchronous Multiparty Session Types](https://arxiv.org/abs/2602.23927v1)** | 2026-02-27 |  |
+| **[A task-based data-flow methodology for programming heterogeneous systems with multiple accelerator APIs](https://arxiv.org/abs/2602.21897v2)** | 2026-02-27 | 18 pages, 8 figures |
+| **[MPU: Towards Secure and Privacy-Preserving Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2602.23798v1)** | 2026-02-27 |  |
+| **[(Dis)Proving Spectre Security with Speculation-Passing Style](https://arxiv.org/abs/2510.11573v2)** | 2026-02-27 |  |
+| **[Array-Carrying Symbolic Execution for Function Contract Generation](https://arxiv.org/abs/2602.23216v2)** | 2026-02-27 | <details><summary>30 pa...</summary><p>30 pages, 2 figures. To appear in the 27th International Symposium on Formal Methods (FM 2026)</p></details> |
+| **[Hestia: Hyperthread-Level Scheduling for Cloud Microservices with Interference-Aware Attention](https://arxiv.org/abs/2602.23758v1)** | 2026-02-27 | <details><summary>This ...</summary><p>This paper has been accepted for publication in Design Automation Conference(DAC 2026)</p></details> |
 
