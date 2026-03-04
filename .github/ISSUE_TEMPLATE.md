@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 04, 2026
+title: Latest 15 Papers - March 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving](https://arxiv.org/abs/2602.22593v2)** | 2026-03-02 | <details><summary>This ...</summary><p>This paper is accepted by the 40th ACM International Conference on Supercomputing (ICS 2026)</p></details> |
-| **[FedHB: Hierarchical Bayesian Federated Learning](https://arxiv.org/abs/2305.04979v2)** | 2026-03-02 |  |
-| **[Trident: Adaptive Scheduling for Heterogeneous Multimodal Data Pipelines](https://arxiv.org/abs/2603.02075v1)** | 2026-03-02 | 22 pages, 3 figures |
-| **[Subcubic Coin Tossing in Asynchrony without Setup](https://arxiv.org/abs/2603.02071v1)** | 2026-03-02 | 17 pages, preprint |
-| **[Beyond Microservices: Testing Web-Scale RCA Methods on GPU-Driven LLM Workloads](https://arxiv.org/abs/2603.02057v1)** | 2026-03-02 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 1 table</p></details> |
-| **[MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core](https://arxiv.org/abs/2504.14960v3)** | 2026-03-02 |  |
-| **[Fast Entropy Decoding for Sparse MVM on GPUs](https://arxiv.org/abs/2603.01915v1)** | 2026-03-02 | <details><summary>To ap...</summary><p>To appear in 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2026. Reproducibility Appendix available at https://doi.org/10.5281/zenodo.18694064</p></details> |
-| **[Agentic Code Reasoning](https://arxiv.org/abs/2603.01896v1)** | 2026-03-02 |  |
-| **[Bentō: Optimizing Persistent Memory Programs](https://arxiv.org/abs/2603.01889v1)** | 2026-03-02 |  |
-| **[Aggressive or Imperceptible, or Both: Network Pruning Assisted Hybrid Byzantines in Federated Learning](https://arxiv.org/abs/2404.06230v2)** | 2026-03-02 |  |
-| **[Tight Communication Bounds for Distributed Algorithms in the Quantum Routing Model](https://arxiv.org/abs/2602.15529v2)** | 2026-03-02 | <details><summary>Minor...</summary><p>Minor modifications compared to v1, intended to provide additional detail for the lower bounds. To prove the Query Complexity to Message Complexity Reduction Lemma (Lemma 7.3), we emphasize that we consider a slight variation of the adjacency array model with stronger queries</p></details> |
-| **[CA-AFP: Cluster-Aware Adaptive Federated Pruning](https://arxiv.org/abs/2603.01739v1)** | 2026-03-02 |  |
-| **[Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms](https://arxiv.org/abs/2507.04786v3)** | 2026-03-02 |  |
-| **[HeRo: Adaptive Orchestration of Agentic RAG on Heterogeneous Mobile SoC](https://arxiv.org/abs/2603.01661v1)** | 2026-03-02 | <details><summary>Will ...</summary><p>Will appear in DAC'2026</p></details> |
-| **[TeraPool: A Physical Design Aware, 1024 RISC-V Cores Shared-L1-Memory Scaled-up Cluster Design with High Bandwidth Main Memory Link](https://arxiv.org/abs/2603.01629v1)** | 2026-03-02 | <details><summary>14 Pa...</summary><p>14 Pages, 14 Figures, 6 Tables. Published in: IEEE Transactions on Computers ( Volume: 74, Issue: 11, November 2025)</p></details> |
+| **[Efficient Dynamic Algorithms to Predict Short Races](https://arxiv.org/abs/2603.03141v1)** | 2026-03-03 | <details><summary>Manus...</summary><p>Manuscript under review</p></details> |
+| **[Serverless Abstractions for Short-Running, Lightweight Streams](https://arxiv.org/abs/2603.03089v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
+| **[Bidirectional Interpolation for the Lambda-Calculus -- Revisiting and Formalising Craig-Čubrić Interpolation](https://arxiv.org/abs/2603.03083v1)** | 2026-03-03 |  |
+| **[Dynamic Contract Analysis for Parallel Programming Models](https://arxiv.org/abs/2603.03023v1)** | 2026-03-03 | <details><summary>A pee...</summary><p>A peer-reviewed version is to be published by IEEE as part of the IPDPS HIPS workshop proceedings. This is the originally submitted article</p></details> |
+| **[Spatio-Temporal Shifting to Reduce Carbon, Water, and Land-Use Footprints of Cloud Workloads](https://arxiv.org/abs/2512.08725v2)** | 2026-03-03 | <details><summary>This ...</summary><p>This is a pre-print of our paper currently under review</p></details> |
+| **[Breaking the Prototype Bias Loop: Confidence-Aware Federated Contrastive Learning for Highly Imbalanced Clients](https://arxiv.org/abs/2603.03007v1)** | 2026-03-03 |  |
+| **[Scalable Mesh Coupling for Atmospheric Wave Simulation](https://arxiv.org/abs/2603.02971v1)** | 2026-03-03 | <details><summary>5 pag...</summary><p>5 pages, 6 figures, presented at SIAM International Meshing Roundtable 2026</p></details> |
+| **[SpecLoop: An Agentic RTL-to-Specification Framework with Formal Verification Feedback Loop](https://arxiv.org/abs/2603.02895v1)** | 2026-03-03 |  |
+| **[MuxTune: Efficient Multi-Task LLM Fine-Tuning in Multi-Tenant Datacenters via Spatial-Temporal Backbone Multiplexing](https://arxiv.org/abs/2603.02885v1)** | 2026-03-03 |  |
+| **[Fast and memory-efficient classical simulation of quantum machine learning via forward and backward gate fusion](https://arxiv.org/abs/2603.02804v1)** | 2026-03-03 |  |
+| **[Speak Now: Safe Actor Programming with Multiparty Session Types (Extended Version)](https://arxiv.org/abs/2602.24054v2)** | 2026-03-03 | <details><summary>Exten...</summary><p>Extended version of paper accepted at OOPSLA'26</p></details> |
+| **[Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving](https://arxiv.org/abs/2512.22420v4)** | 2026-03-03 |  |
+| **[xLLM Technical Report](https://arxiv.org/abs/2510.14686v2)** | 2026-03-03 | 39 pages |
+| **[Blockchain Communication Vulnerabilities](https://arxiv.org/abs/2603.02661v1)** | 2026-03-03 | 17 pages, 11 figures |
+| **[Engineered Simultaneity: The Physical Impossibility of Consolidated Price Discovery Across Spacelike-Separated Exchanges](https://arxiv.org/abs/2602.22350v2)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2 tables</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving](https://arxiv.org/abs/2602.22593v2)** | 2026-03-02 | <details><summary>This ...</summary><p>This paper is accepted by the 40th ACM International Conference on Supercomputing (ICS 2026)</p></details> |
-| **[FedHB: Hierarchical Bayesian Federated Learning](https://arxiv.org/abs/2305.04979v2)** | 2026-03-02 |  |
-| **[Trident: Adaptive Scheduling for Heterogeneous Multimodal Data Pipelines](https://arxiv.org/abs/2603.02075v1)** | 2026-03-02 | 22 pages, 3 figures |
-| **[Subcubic Coin Tossing in Asynchrony without Setup](https://arxiv.org/abs/2603.02071v1)** | 2026-03-02 | 17 pages, preprint |
-| **[Beyond Microservices: Testing Web-Scale RCA Methods on GPU-Driven LLM Workloads](https://arxiv.org/abs/2603.02057v1)** | 2026-03-02 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 1 table</p></details> |
-| **[MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core](https://arxiv.org/abs/2504.14960v3)** | 2026-03-02 |  |
-| **[Fast Entropy Decoding for Sparse MVM on GPUs](https://arxiv.org/abs/2603.01915v1)** | 2026-03-02 | <details><summary>To ap...</summary><p>To appear in 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2026. Reproducibility Appendix available at https://doi.org/10.5281/zenodo.18694064</p></details> |
-| **[Agentic Code Reasoning](https://arxiv.org/abs/2603.01896v1)** | 2026-03-02 |  |
-| **[Bentō: Optimizing Persistent Memory Programs](https://arxiv.org/abs/2603.01889v1)** | 2026-03-02 |  |
-| **[Aggressive or Imperceptible, or Both: Network Pruning Assisted Hybrid Byzantines in Federated Learning](https://arxiv.org/abs/2404.06230v2)** | 2026-03-02 |  |
-| **[Tight Communication Bounds for Distributed Algorithms in the Quantum Routing Model](https://arxiv.org/abs/2602.15529v2)** | 2026-03-02 | <details><summary>Minor...</summary><p>Minor modifications compared to v1, intended to provide additional detail for the lower bounds. To prove the Query Complexity to Message Complexity Reduction Lemma (Lemma 7.3), we emphasize that we consider a slight variation of the adjacency array model with stronger queries</p></details> |
-| **[CA-AFP: Cluster-Aware Adaptive Federated Pruning](https://arxiv.org/abs/2603.01739v1)** | 2026-03-02 |  |
-| **[Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms](https://arxiv.org/abs/2507.04786v3)** | 2026-03-02 |  |
-| **[HeRo: Adaptive Orchestration of Agentic RAG on Heterogeneous Mobile SoC](https://arxiv.org/abs/2603.01661v1)** | 2026-03-02 | <details><summary>Will ...</summary><p>Will appear in DAC'2026</p></details> |
-| **[TeraPool: A Physical Design Aware, 1024 RISC-V Cores Shared-L1-Memory Scaled-up Cluster Design with High Bandwidth Main Memory Link](https://arxiv.org/abs/2603.01629v1)** | 2026-03-02 | <details><summary>14 Pa...</summary><p>14 Pages, 14 Figures, 6 Tables. Published in: IEEE Transactions on Computers ( Volume: 74, Issue: 11, November 2025)</p></details> |
+| **[Efficient Dynamic Algorithms to Predict Short Races](https://arxiv.org/abs/2603.03141v1)** | 2026-03-03 | <details><summary>Manus...</summary><p>Manuscript under review</p></details> |
+| **[Serverless Abstractions for Short-Running, Lightweight Streams](https://arxiv.org/abs/2603.03089v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
+| **[Bidirectional Interpolation for the Lambda-Calculus -- Revisiting and Formalising Craig-Čubrić Interpolation](https://arxiv.org/abs/2603.03083v1)** | 2026-03-03 |  |
+| **[Dynamic Contract Analysis for Parallel Programming Models](https://arxiv.org/abs/2603.03023v1)** | 2026-03-03 | <details><summary>A pee...</summary><p>A peer-reviewed version is to be published by IEEE as part of the IPDPS HIPS workshop proceedings. This is the originally submitted article</p></details> |
+| **[Spatio-Temporal Shifting to Reduce Carbon, Water, and Land-Use Footprints of Cloud Workloads](https://arxiv.org/abs/2512.08725v2)** | 2026-03-03 | <details><summary>This ...</summary><p>This is a pre-print of our paper currently under review</p></details> |
+| **[Breaking the Prototype Bias Loop: Confidence-Aware Federated Contrastive Learning for Highly Imbalanced Clients](https://arxiv.org/abs/2603.03007v1)** | 2026-03-03 |  |
+| **[Scalable Mesh Coupling for Atmospheric Wave Simulation](https://arxiv.org/abs/2603.02971v1)** | 2026-03-03 | <details><summary>5 pag...</summary><p>5 pages, 6 figures, presented at SIAM International Meshing Roundtable 2026</p></details> |
+| **[SpecLoop: An Agentic RTL-to-Specification Framework with Formal Verification Feedback Loop](https://arxiv.org/abs/2603.02895v1)** | 2026-03-03 |  |
+| **[MuxTune: Efficient Multi-Task LLM Fine-Tuning in Multi-Tenant Datacenters via Spatial-Temporal Backbone Multiplexing](https://arxiv.org/abs/2603.02885v1)** | 2026-03-03 |  |
+| **[Fast and memory-efficient classical simulation of quantum machine learning via forward and backward gate fusion](https://arxiv.org/abs/2603.02804v1)** | 2026-03-03 |  |
+| **[Speak Now: Safe Actor Programming with Multiparty Session Types (Extended Version)](https://arxiv.org/abs/2602.24054v2)** | 2026-03-03 | <details><summary>Exten...</summary><p>Extended version of paper accepted at OOPSLA'26</p></details> |
+| **[Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving](https://arxiv.org/abs/2512.22420v4)** | 2026-03-03 |  |
+| **[xLLM Technical Report](https://arxiv.org/abs/2510.14686v2)** | 2026-03-03 | 39 pages |
+| **[Blockchain Communication Vulnerabilities](https://arxiv.org/abs/2603.02661v1)** | 2026-03-03 | 17 pages, 11 figures |
+| **[Engineered Simultaneity: The Physical Impossibility of Consolidated Price Discovery Across Spacelike-Separated Exchanges](https://arxiv.org/abs/2602.22350v2)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2 tables</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving](https://arxiv.org/abs/2602.22593v2)** | 2026-03-02 | <details><summary>This ...</summary><p>This paper is accepted by the 40th ACM International Conference on Supercomputing (ICS 2026)</p></details> |
-| **[FedHB: Hierarchical Bayesian Federated Learning](https://arxiv.org/abs/2305.04979v2)** | 2026-03-02 |  |
-| **[Trident: Adaptive Scheduling for Heterogeneous Multimodal Data Pipelines](https://arxiv.org/abs/2603.02075v1)** | 2026-03-02 | 22 pages, 3 figures |
-| **[Subcubic Coin Tossing in Asynchrony without Setup](https://arxiv.org/abs/2603.02071v1)** | 2026-03-02 | 17 pages, preprint |
-| **[Beyond Microservices: Testing Web-Scale RCA Methods on GPU-Driven LLM Workloads](https://arxiv.org/abs/2603.02057v1)** | 2026-03-02 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 1 table</p></details> |
-| **[MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core](https://arxiv.org/abs/2504.14960v3)** | 2026-03-02 |  |
-| **[Fast Entropy Decoding for Sparse MVM on GPUs](https://arxiv.org/abs/2603.01915v1)** | 2026-03-02 | <details><summary>To ap...</summary><p>To appear in 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2026. Reproducibility Appendix available at https://doi.org/10.5281/zenodo.18694064</p></details> |
-| **[Agentic Code Reasoning](https://arxiv.org/abs/2603.01896v1)** | 2026-03-02 |  |
-| **[Bentō: Optimizing Persistent Memory Programs](https://arxiv.org/abs/2603.01889v1)** | 2026-03-02 |  |
-| **[Aggressive or Imperceptible, or Both: Network Pruning Assisted Hybrid Byzantines in Federated Learning](https://arxiv.org/abs/2404.06230v2)** | 2026-03-02 |  |
-| **[Tight Communication Bounds for Distributed Algorithms in the Quantum Routing Model](https://arxiv.org/abs/2602.15529v2)** | 2026-03-02 | <details><summary>Minor...</summary><p>Minor modifications compared to v1, intended to provide additional detail for the lower bounds. To prove the Query Complexity to Message Complexity Reduction Lemma (Lemma 7.3), we emphasize that we consider a slight variation of the adjacency array model with stronger queries</p></details> |
-| **[CA-AFP: Cluster-Aware Adaptive Federated Pruning](https://arxiv.org/abs/2603.01739v1)** | 2026-03-02 |  |
-| **[Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms](https://arxiv.org/abs/2507.04786v3)** | 2026-03-02 |  |
-| **[HeRo: Adaptive Orchestration of Agentic RAG on Heterogeneous Mobile SoC](https://arxiv.org/abs/2603.01661v1)** | 2026-03-02 | <details><summary>Will ...</summary><p>Will appear in DAC'2026</p></details> |
-| **[TeraPool: A Physical Design Aware, 1024 RISC-V Cores Shared-L1-Memory Scaled-up Cluster Design with High Bandwidth Main Memory Link](https://arxiv.org/abs/2603.01629v1)** | 2026-03-02 | <details><summary>14 Pa...</summary><p>14 Pages, 14 Figures, 6 Tables. Published in: IEEE Transactions on Computers ( Volume: 74, Issue: 11, November 2025)</p></details> |
+| **[Efficient Dynamic Algorithms to Predict Short Races](https://arxiv.org/abs/2603.03141v1)** | 2026-03-03 | <details><summary>Manus...</summary><p>Manuscript under review</p></details> |
+| **[Serverless Abstractions for Short-Running, Lightweight Streams](https://arxiv.org/abs/2603.03089v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
+| **[Bidirectional Interpolation for the Lambda-Calculus -- Revisiting and Formalising Craig-Čubrić Interpolation](https://arxiv.org/abs/2603.03083v1)** | 2026-03-03 |  |
+| **[Dynamic Contract Analysis for Parallel Programming Models](https://arxiv.org/abs/2603.03023v1)** | 2026-03-03 | <details><summary>A pee...</summary><p>A peer-reviewed version is to be published by IEEE as part of the IPDPS HIPS workshop proceedings. This is the originally submitted article</p></details> |
+| **[Spatio-Temporal Shifting to Reduce Carbon, Water, and Land-Use Footprints of Cloud Workloads](https://arxiv.org/abs/2512.08725v2)** | 2026-03-03 | <details><summary>This ...</summary><p>This is a pre-print of our paper currently under review</p></details> |
+| **[Breaking the Prototype Bias Loop: Confidence-Aware Federated Contrastive Learning for Highly Imbalanced Clients](https://arxiv.org/abs/2603.03007v1)** | 2026-03-03 |  |
+| **[Scalable Mesh Coupling for Atmospheric Wave Simulation](https://arxiv.org/abs/2603.02971v1)** | 2026-03-03 | <details><summary>5 pag...</summary><p>5 pages, 6 figures, presented at SIAM International Meshing Roundtable 2026</p></details> |
+| **[SpecLoop: An Agentic RTL-to-Specification Framework with Formal Verification Feedback Loop](https://arxiv.org/abs/2603.02895v1)** | 2026-03-03 |  |
+| **[MuxTune: Efficient Multi-Task LLM Fine-Tuning in Multi-Tenant Datacenters via Spatial-Temporal Backbone Multiplexing](https://arxiv.org/abs/2603.02885v1)** | 2026-03-03 |  |
+| **[Fast and memory-efficient classical simulation of quantum machine learning via forward and backward gate fusion](https://arxiv.org/abs/2603.02804v1)** | 2026-03-03 |  |
+| **[Speak Now: Safe Actor Programming with Multiparty Session Types (Extended Version)](https://arxiv.org/abs/2602.24054v2)** | 2026-03-03 | <details><summary>Exten...</summary><p>Extended version of paper accepted at OOPSLA'26</p></details> |
+| **[Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving](https://arxiv.org/abs/2512.22420v4)** | 2026-03-03 |  |
+| **[xLLM Technical Report](https://arxiv.org/abs/2510.14686v2)** | 2026-03-03 | 39 pages |
+| **[Blockchain Communication Vulnerabilities](https://arxiv.org/abs/2603.02661v1)** | 2026-03-03 | 17 pages, 11 figures |
+| **[Engineered Simultaneity: The Physical Impossibility of Consolidated Price Discovery Across Spacelike-Separated Exchanges](https://arxiv.org/abs/2602.22350v2)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2 tables</p></details> |
 
