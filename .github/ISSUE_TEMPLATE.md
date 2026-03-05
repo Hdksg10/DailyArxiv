@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 05, 2026
+title: Latest 15 Papers - March 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Dynamic Algorithms to Predict Short Races](https://arxiv.org/abs/2603.03141v1)** | 2026-03-03 | <details><summary>Manus...</summary><p>Manuscript under review</p></details> |
-| **[Serverless Abstractions for Short-Running, Lightweight Streams](https://arxiv.org/abs/2603.03089v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
-| **[Bidirectional Interpolation for the Lambda-Calculus -- Revisiting and Formalising Craig-Čubrić Interpolation](https://arxiv.org/abs/2603.03083v1)** | 2026-03-03 |  |
-| **[Dynamic Contract Analysis for Parallel Programming Models](https://arxiv.org/abs/2603.03023v1)** | 2026-03-03 | <details><summary>A pee...</summary><p>A peer-reviewed version is to be published by IEEE as part of the IPDPS HIPS workshop proceedings. This is the originally submitted article</p></details> |
-| **[Spatio-Temporal Shifting to Reduce Carbon, Water, and Land-Use Footprints of Cloud Workloads](https://arxiv.org/abs/2512.08725v2)** | 2026-03-03 | <details><summary>This ...</summary><p>This is a pre-print of our paper currently under review</p></details> |
-| **[Breaking the Prototype Bias Loop: Confidence-Aware Federated Contrastive Learning for Highly Imbalanced Clients](https://arxiv.org/abs/2603.03007v1)** | 2026-03-03 |  |
-| **[Scalable Mesh Coupling for Atmospheric Wave Simulation](https://arxiv.org/abs/2603.02971v1)** | 2026-03-03 | <details><summary>5 pag...</summary><p>5 pages, 6 figures, presented at SIAM International Meshing Roundtable 2026</p></details> |
-| **[SpecLoop: An Agentic RTL-to-Specification Framework with Formal Verification Feedback Loop](https://arxiv.org/abs/2603.02895v1)** | 2026-03-03 |  |
-| **[MuxTune: Efficient Multi-Task LLM Fine-Tuning in Multi-Tenant Datacenters via Spatial-Temporal Backbone Multiplexing](https://arxiv.org/abs/2603.02885v1)** | 2026-03-03 |  |
-| **[Fast and memory-efficient classical simulation of quantum machine learning via forward and backward gate fusion](https://arxiv.org/abs/2603.02804v1)** | 2026-03-03 |  |
-| **[Speak Now: Safe Actor Programming with Multiparty Session Types (Extended Version)](https://arxiv.org/abs/2602.24054v2)** | 2026-03-03 | <details><summary>Exten...</summary><p>Extended version of paper accepted at OOPSLA'26</p></details> |
-| **[Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving](https://arxiv.org/abs/2512.22420v4)** | 2026-03-03 |  |
-| **[xLLM Technical Report](https://arxiv.org/abs/2510.14686v2)** | 2026-03-03 | 39 pages |
-| **[Blockchain Communication Vulnerabilities](https://arxiv.org/abs/2603.02661v1)** | 2026-03-03 | 17 pages, 11 figures |
-| **[Engineered Simultaneity: The Physical Impossibility of Consolidated Price Discovery Across Spacelike-Separated Exchanges](https://arxiv.org/abs/2602.22350v2)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2 tables</p></details> |
+| **[SpotIt+: Verification-based Text-to-SQL Evaluation with Database Constraints](https://arxiv.org/abs/2603.04334v1)** | 2026-03-04 |  |
+| **[PTOPOFL: Privacy-Preserving Personalised Federated Learning via Persistent Homology](https://arxiv.org/abs/2603.04323v1)** | 2026-03-04 | 22 pages, 6 Figures |
+| **[Ohana trees, linear approximation and multi-types for the $λ$I-calculus: No variable gets left behind or forgotten!](https://arxiv.org/abs/2505.06193v3)** | 2026-03-04 | <details><summary>This ...</summary><p>This is the (submitted) long version of the (published) conference version v2, see https://doi.org/10.4230/LIPIcs.FSCD.2025.12</p></details> |
+| **[2-Coloring Cycles in One Round](https://arxiv.org/abs/2603.04235v1)** | 2026-03-04 | 9 pages, 3 figures |
+| **[Efficient Time-Aware Partitioning of Quantum Circuits for Distributed Quantum Computing](https://arxiv.org/abs/2603.04126v1)** | 2026-03-04 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, conference: accepted at QCNC 2026</p></details> |
+| **[Carbon-Aware Quality Adaptation for Energy-Intensive Services](https://arxiv.org/abs/2411.19058v4)** | 2026-03-04 | <details><summary>Exten...</summary><p>Extended version of our paper published at e-Energy'25. Compared to the published version, we (i) add a time-based vs. utilization-based power attribution perspective together with a proof that both yield equivalent provisioning decisions under mild assumptions and (ii) extend the online approach with an automatic quality adaptation to meet a fixed annual carbon budget</p></details> |
+| **[Characterizing Machine Learning Force Fields as Emerging Molecular Dynamics Workloads on Graphics Processing Units](https://arxiv.org/abs/2603.04092v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to IEEE ISPASS - 2026</p></details> |
+| **[Performance Optimization in Stream Processing Systems: Experiment-Driven Configuration Tuning for Kafka Streams](https://arxiv.org/abs/2603.04027v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for the 9th Workshop on Hot Topics in Cloud Computing Performance (HotCloudPerf 2026) at ACM/SPEC ICPE 2026</p></details> |
+| **[Reversible Computation with Stacks and "Reversible Management of Failures"](https://arxiv.org/abs/2501.05259v2)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
+| **[A Core Calculus for Type-safe Product Lines of C Programs](https://arxiv.org/abs/2603.04013v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
+| **[Lambdas at the Far Edge: a Tale of Flying Lambdas and Lambdas on Wheels](https://arxiv.org/abs/2603.04008v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
+| **[Proving and Computing: The Infinite Pigeonhole Principle and Countable Choice](https://arxiv.org/abs/2603.04006v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
+| **[Nominal techniques as an Agda library](https://arxiv.org/abs/2603.03968v1)** | 2026-03-04 |  |
+| **[Selecting Offline Reinforcement Learning Algorithms for Stochastic Network Control](https://arxiv.org/abs/2603.03932v1)** | 2026-03-04 | <details><summary>Long ...</summary><p>Long version 12 pages, double column including Appendix. Short version accepted at NOMS2026-IPSN, Rome, Italy</p></details> |
+| **[Why Do AI Agents Systematically Fail at Cloud Root Cause Analysis?](https://arxiv.org/abs/2602.09937v2)** | 2026-03-04 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Dynamic Algorithms to Predict Short Races](https://arxiv.org/abs/2603.03141v1)** | 2026-03-03 | <details><summary>Manus...</summary><p>Manuscript under review</p></details> |
-| **[Serverless Abstractions for Short-Running, Lightweight Streams](https://arxiv.org/abs/2603.03089v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
-| **[Bidirectional Interpolation for the Lambda-Calculus -- Revisiting and Formalising Craig-Čubrić Interpolation](https://arxiv.org/abs/2603.03083v1)** | 2026-03-03 |  |
-| **[Dynamic Contract Analysis for Parallel Programming Models](https://arxiv.org/abs/2603.03023v1)** | 2026-03-03 | <details><summary>A pee...</summary><p>A peer-reviewed version is to be published by IEEE as part of the IPDPS HIPS workshop proceedings. This is the originally submitted article</p></details> |
-| **[Spatio-Temporal Shifting to Reduce Carbon, Water, and Land-Use Footprints of Cloud Workloads](https://arxiv.org/abs/2512.08725v2)** | 2026-03-03 | <details><summary>This ...</summary><p>This is a pre-print of our paper currently under review</p></details> |
-| **[Breaking the Prototype Bias Loop: Confidence-Aware Federated Contrastive Learning for Highly Imbalanced Clients](https://arxiv.org/abs/2603.03007v1)** | 2026-03-03 |  |
-| **[Scalable Mesh Coupling for Atmospheric Wave Simulation](https://arxiv.org/abs/2603.02971v1)** | 2026-03-03 | <details><summary>5 pag...</summary><p>5 pages, 6 figures, presented at SIAM International Meshing Roundtable 2026</p></details> |
-| **[SpecLoop: An Agentic RTL-to-Specification Framework with Formal Verification Feedback Loop](https://arxiv.org/abs/2603.02895v1)** | 2026-03-03 |  |
-| **[MuxTune: Efficient Multi-Task LLM Fine-Tuning in Multi-Tenant Datacenters via Spatial-Temporal Backbone Multiplexing](https://arxiv.org/abs/2603.02885v1)** | 2026-03-03 |  |
-| **[Fast and memory-efficient classical simulation of quantum machine learning via forward and backward gate fusion](https://arxiv.org/abs/2603.02804v1)** | 2026-03-03 |  |
-| **[Speak Now: Safe Actor Programming with Multiparty Session Types (Extended Version)](https://arxiv.org/abs/2602.24054v2)** | 2026-03-03 | <details><summary>Exten...</summary><p>Extended version of paper accepted at OOPSLA'26</p></details> |
-| **[Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving](https://arxiv.org/abs/2512.22420v4)** | 2026-03-03 |  |
-| **[xLLM Technical Report](https://arxiv.org/abs/2510.14686v2)** | 2026-03-03 | 39 pages |
-| **[Blockchain Communication Vulnerabilities](https://arxiv.org/abs/2603.02661v1)** | 2026-03-03 | 17 pages, 11 figures |
-| **[Engineered Simultaneity: The Physical Impossibility of Consolidated Price Discovery Across Spacelike-Separated Exchanges](https://arxiv.org/abs/2602.22350v2)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2 tables</p></details> |
+| **[SpotIt+: Verification-based Text-to-SQL Evaluation with Database Constraints](https://arxiv.org/abs/2603.04334v1)** | 2026-03-04 |  |
+| **[PTOPOFL: Privacy-Preserving Personalised Federated Learning via Persistent Homology](https://arxiv.org/abs/2603.04323v1)** | 2026-03-04 | 22 pages, 6 Figures |
+| **[Ohana trees, linear approximation and multi-types for the $λ$I-calculus: No variable gets left behind or forgotten!](https://arxiv.org/abs/2505.06193v3)** | 2026-03-04 | <details><summary>This ...</summary><p>This is the (submitted) long version of the (published) conference version v2, see https://doi.org/10.4230/LIPIcs.FSCD.2025.12</p></details> |
+| **[2-Coloring Cycles in One Round](https://arxiv.org/abs/2603.04235v1)** | 2026-03-04 | 9 pages, 3 figures |
+| **[Efficient Time-Aware Partitioning of Quantum Circuits for Distributed Quantum Computing](https://arxiv.org/abs/2603.04126v1)** | 2026-03-04 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, conference: accepted at QCNC 2026</p></details> |
+| **[Carbon-Aware Quality Adaptation for Energy-Intensive Services](https://arxiv.org/abs/2411.19058v4)** | 2026-03-04 | <details><summary>Exten...</summary><p>Extended version of our paper published at e-Energy'25. Compared to the published version, we (i) add a time-based vs. utilization-based power attribution perspective together with a proof that both yield equivalent provisioning decisions under mild assumptions and (ii) extend the online approach with an automatic quality adaptation to meet a fixed annual carbon budget</p></details> |
+| **[Characterizing Machine Learning Force Fields as Emerging Molecular Dynamics Workloads on Graphics Processing Units](https://arxiv.org/abs/2603.04092v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to IEEE ISPASS - 2026</p></details> |
+| **[Performance Optimization in Stream Processing Systems: Experiment-Driven Configuration Tuning for Kafka Streams](https://arxiv.org/abs/2603.04027v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for the 9th Workshop on Hot Topics in Cloud Computing Performance (HotCloudPerf 2026) at ACM/SPEC ICPE 2026</p></details> |
+| **[Reversible Computation with Stacks and "Reversible Management of Failures"](https://arxiv.org/abs/2501.05259v2)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
+| **[A Core Calculus for Type-safe Product Lines of C Programs](https://arxiv.org/abs/2603.04013v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
+| **[Lambdas at the Far Edge: a Tale of Flying Lambdas and Lambdas on Wheels](https://arxiv.org/abs/2603.04008v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
+| **[Proving and Computing: The Infinite Pigeonhole Principle and Countable Choice](https://arxiv.org/abs/2603.04006v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
+| **[Nominal techniques as an Agda library](https://arxiv.org/abs/2603.03968v1)** | 2026-03-04 |  |
+| **[Selecting Offline Reinforcement Learning Algorithms for Stochastic Network Control](https://arxiv.org/abs/2603.03932v1)** | 2026-03-04 | <details><summary>Long ...</summary><p>Long version 12 pages, double column including Appendix. Short version accepted at NOMS2026-IPSN, Rome, Italy</p></details> |
+| **[Why Do AI Agents Systematically Fail at Cloud Root Cause Analysis?](https://arxiv.org/abs/2602.09937v2)** | 2026-03-04 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Dynamic Algorithms to Predict Short Races](https://arxiv.org/abs/2603.03141v1)** | 2026-03-03 | <details><summary>Manus...</summary><p>Manuscript under review</p></details> |
-| **[Serverless Abstractions for Short-Running, Lightweight Streams](https://arxiv.org/abs/2603.03089v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
-| **[Bidirectional Interpolation for the Lambda-Calculus -- Revisiting and Formalising Craig-Čubrić Interpolation](https://arxiv.org/abs/2603.03083v1)** | 2026-03-03 |  |
-| **[Dynamic Contract Analysis for Parallel Programming Models](https://arxiv.org/abs/2603.03023v1)** | 2026-03-03 | <details><summary>A pee...</summary><p>A peer-reviewed version is to be published by IEEE as part of the IPDPS HIPS workshop proceedings. This is the originally submitted article</p></details> |
-| **[Spatio-Temporal Shifting to Reduce Carbon, Water, and Land-Use Footprints of Cloud Workloads](https://arxiv.org/abs/2512.08725v2)** | 2026-03-03 | <details><summary>This ...</summary><p>This is a pre-print of our paper currently under review</p></details> |
-| **[Breaking the Prototype Bias Loop: Confidence-Aware Federated Contrastive Learning for Highly Imbalanced Clients](https://arxiv.org/abs/2603.03007v1)** | 2026-03-03 |  |
-| **[Scalable Mesh Coupling for Atmospheric Wave Simulation](https://arxiv.org/abs/2603.02971v1)** | 2026-03-03 | <details><summary>5 pag...</summary><p>5 pages, 6 figures, presented at SIAM International Meshing Roundtable 2026</p></details> |
-| **[SpecLoop: An Agentic RTL-to-Specification Framework with Formal Verification Feedback Loop](https://arxiv.org/abs/2603.02895v1)** | 2026-03-03 |  |
-| **[MuxTune: Efficient Multi-Task LLM Fine-Tuning in Multi-Tenant Datacenters via Spatial-Temporal Backbone Multiplexing](https://arxiv.org/abs/2603.02885v1)** | 2026-03-03 |  |
-| **[Fast and memory-efficient classical simulation of quantum machine learning via forward and backward gate fusion](https://arxiv.org/abs/2603.02804v1)** | 2026-03-03 |  |
-| **[Speak Now: Safe Actor Programming with Multiparty Session Types (Extended Version)](https://arxiv.org/abs/2602.24054v2)** | 2026-03-03 | <details><summary>Exten...</summary><p>Extended version of paper accepted at OOPSLA'26</p></details> |
-| **[Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving](https://arxiv.org/abs/2512.22420v4)** | 2026-03-03 |  |
-| **[xLLM Technical Report](https://arxiv.org/abs/2510.14686v2)** | 2026-03-03 | 39 pages |
-| **[Blockchain Communication Vulnerabilities](https://arxiv.org/abs/2603.02661v1)** | 2026-03-03 | 17 pages, 11 figures |
-| **[Engineered Simultaneity: The Physical Impossibility of Consolidated Price Discovery Across Spacelike-Separated Exchanges](https://arxiv.org/abs/2602.22350v2)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2 tables</p></details> |
+| **[SpotIt+: Verification-based Text-to-SQL Evaluation with Database Constraints](https://arxiv.org/abs/2603.04334v1)** | 2026-03-04 |  |
+| **[PTOPOFL: Privacy-Preserving Personalised Federated Learning via Persistent Homology](https://arxiv.org/abs/2603.04323v1)** | 2026-03-04 | 22 pages, 6 Figures |
+| **[Ohana trees, linear approximation and multi-types for the $λ$I-calculus: No variable gets left behind or forgotten!](https://arxiv.org/abs/2505.06193v3)** | 2026-03-04 | <details><summary>This ...</summary><p>This is the (submitted) long version of the (published) conference version v2, see https://doi.org/10.4230/LIPIcs.FSCD.2025.12</p></details> |
+| **[2-Coloring Cycles in One Round](https://arxiv.org/abs/2603.04235v1)** | 2026-03-04 | 9 pages, 3 figures |
+| **[Efficient Time-Aware Partitioning of Quantum Circuits for Distributed Quantum Computing](https://arxiv.org/abs/2603.04126v1)** | 2026-03-04 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, conference: accepted at QCNC 2026</p></details> |
+| **[Carbon-Aware Quality Adaptation for Energy-Intensive Services](https://arxiv.org/abs/2411.19058v4)** | 2026-03-04 | <details><summary>Exten...</summary><p>Extended version of our paper published at e-Energy'25. Compared to the published version, we (i) add a time-based vs. utilization-based power attribution perspective together with a proof that both yield equivalent provisioning decisions under mild assumptions and (ii) extend the online approach with an automatic quality adaptation to meet a fixed annual carbon budget</p></details> |
+| **[Characterizing Machine Learning Force Fields as Emerging Molecular Dynamics Workloads on Graphics Processing Units](https://arxiv.org/abs/2603.04092v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to IEEE ISPASS - 2026</p></details> |
+| **[Performance Optimization in Stream Processing Systems: Experiment-Driven Configuration Tuning for Kafka Streams](https://arxiv.org/abs/2603.04027v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for the 9th Workshop on Hot Topics in Cloud Computing Performance (HotCloudPerf 2026) at ACM/SPEC ICPE 2026</p></details> |
+| **[Reversible Computation with Stacks and "Reversible Management of Failures"](https://arxiv.org/abs/2501.05259v2)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
+| **[A Core Calculus for Type-safe Product Lines of C Programs](https://arxiv.org/abs/2603.04013v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
+| **[Lambdas at the Far Edge: a Tale of Flying Lambdas and Lambdas on Wheels](https://arxiv.org/abs/2603.04008v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
+| **[Proving and Computing: The Infinite Pigeonhole Principle and Countable Choice](https://arxiv.org/abs/2603.04006v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
+| **[Nominal techniques as an Agda library](https://arxiv.org/abs/2603.03968v1)** | 2026-03-04 |  |
+| **[Selecting Offline Reinforcement Learning Algorithms for Stochastic Network Control](https://arxiv.org/abs/2603.03932v1)** | 2026-03-04 | <details><summary>Long ...</summary><p>Long version 12 pages, double column including Appendix. Short version accepted at NOMS2026-IPSN, Rome, Italy</p></details> |
+| **[Why Do AI Agents Systematically Fail at Cloud Root Cause Analysis?](https://arxiv.org/abs/2602.09937v2)** | 2026-03-04 |  |
 
