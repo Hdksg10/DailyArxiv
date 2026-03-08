@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 06, 2026
+title: Latest 15 Papers - March 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SpotIt+: Verification-based Text-to-SQL Evaluation with Database Constraints](https://arxiv.org/abs/2603.04334v1)** | 2026-03-04 |  |
-| **[PTOPOFL: Privacy-Preserving Personalised Federated Learning via Persistent Homology](https://arxiv.org/abs/2603.04323v1)** | 2026-03-04 | 22 pages, 6 Figures |
-| **[Ohana trees, linear approximation and multi-types for the $λ$I-calculus: No variable gets left behind or forgotten!](https://arxiv.org/abs/2505.06193v3)** | 2026-03-04 | <details><summary>This ...</summary><p>This is the (submitted) long version of the (published) conference version v2, see https://doi.org/10.4230/LIPIcs.FSCD.2025.12</p></details> |
-| **[2-Coloring Cycles in One Round](https://arxiv.org/abs/2603.04235v1)** | 2026-03-04 | 9 pages, 3 figures |
-| **[Efficient Time-Aware Partitioning of Quantum Circuits for Distributed Quantum Computing](https://arxiv.org/abs/2603.04126v1)** | 2026-03-04 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, conference: accepted at QCNC 2026</p></details> |
-| **[Carbon-Aware Quality Adaptation for Energy-Intensive Services](https://arxiv.org/abs/2411.19058v4)** | 2026-03-04 | <details><summary>Exten...</summary><p>Extended version of our paper published at e-Energy'25. Compared to the published version, we (i) add a time-based vs. utilization-based power attribution perspective together with a proof that both yield equivalent provisioning decisions under mild assumptions and (ii) extend the online approach with an automatic quality adaptation to meet a fixed annual carbon budget</p></details> |
-| **[Characterizing Machine Learning Force Fields as Emerging Molecular Dynamics Workloads on Graphics Processing Units](https://arxiv.org/abs/2603.04092v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to IEEE ISPASS - 2026</p></details> |
-| **[Performance Optimization in Stream Processing Systems: Experiment-Driven Configuration Tuning for Kafka Streams](https://arxiv.org/abs/2603.04027v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for the 9th Workshop on Hot Topics in Cloud Computing Performance (HotCloudPerf 2026) at ACM/SPEC ICPE 2026</p></details> |
-| **[Reversible Computation with Stacks and "Reversible Management of Failures"](https://arxiv.org/abs/2501.05259v2)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
-| **[A Core Calculus for Type-safe Product Lines of C Programs](https://arxiv.org/abs/2603.04013v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
-| **[Lambdas at the Far Edge: a Tale of Flying Lambdas and Lambdas on Wheels](https://arxiv.org/abs/2603.04008v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
-| **[Proving and Computing: The Infinite Pigeonhole Principle and Countable Choice](https://arxiv.org/abs/2603.04006v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
-| **[Nominal techniques as an Agda library](https://arxiv.org/abs/2603.03968v1)** | 2026-03-04 |  |
-| **[Selecting Offline Reinforcement Learning Algorithms for Stochastic Network Control](https://arxiv.org/abs/2603.03932v1)** | 2026-03-04 | <details><summary>Long ...</summary><p>Long version 12 pages, double column including Appendix. Short version accepted at NOMS2026-IPSN, Rome, Italy</p></details> |
-| **[Why Do AI Agents Systematically Fail at Cloud Root Cause Analysis?](https://arxiv.org/abs/2602.09937v2)** | 2026-03-04 |  |
+| **[Concurrent Deterministic Skiplist and Other Data Structures](https://arxiv.org/abs/2309.09359v2)** | 2026-03-05 |  |
+| **[Universal Pattern Formation by Oblivious Robots Under Sequential Schedulers](https://arxiv.org/abs/2412.10733v2)** | 2026-03-05 |  |
+| **[Radiation Hydrodynamics at Scale: Comparing MPI and Asynchronous Many-Task Runtimes with FleCSI](https://arxiv.org/abs/2603.05366v1)** | 2026-03-05 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 1 table, 28th Workshop on Advances in Parallel and Distributed Computational Models</p></details> |
+| **[Co-Design and Evaluation of a CPU-Free MPI GPU Communication Abstraction and Implementation](https://arxiv.org/abs/2602.15356v2)** | 2026-03-05 |  |
+| **[A monitoring system for collecting and aggregating metrics from distributed clouds](https://arxiv.org/abs/2603.05241v1)** | 2026-03-05 |  |
+| **[Parallel Split Learning with Global Sampling](https://arxiv.org/abs/2407.15738v6)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE 3rd International Conference on Foundation and Large Language Models (FLLM). This version corresponds to the accepted manuscript</p></details> |
+| **[Scaling Real-Time Traffic Analytics on Edge-Cloud Fabrics for City-Scale Camera Networks](https://arxiv.org/abs/2603.05217v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted at TCSC SCALE Challenge 2026. To appear in the Proceedings of IEEE/ACM CCGRID Workshops, Sydney, 2026</p></details> |
+| **[Leveraging Structural Knowledge for Solving Election in Anonymous Networks with Shared Randomness](https://arxiv.org/abs/2603.05118v1)** | 2026-03-05 | <details><summary>Full ...</summary><p>Full version of Sirocco'2026</p></details> |
+| **[PromptTuner: SLO-Aware Elastic System for LLM Prompt Tuning](https://arxiv.org/abs/2603.05087v1)** | 2026-03-05 |  |
+| **[Classification of Local Optimization Problems in Directed Cycles](https://arxiv.org/abs/2602.13046v2)** | 2026-03-05 | 26 pages, 2 figures |
+| **[2-Coloring Cycles in One Round](https://arxiv.org/abs/2603.04235v2)** | 2026-03-05 | 9 pages, 3 figures |
+| **[FluxSieve: Unifying Streaming and Analytical Data Planes for Scalable Cloud Observability](https://arxiv.org/abs/2603.04937v1)** | 2026-03-05 |  |
+| **[Rethinking Temporal Models for TinyML: LSTM versus 1D-CNN in Resource-Constrained Devices](https://arxiv.org/abs/2603.04860v1)** | 2026-03-05 |  |
+| **[The Semantic Arrow of Time, Part V: The Leibniz Bridge -- Toward a Unified Theory of Semantic Time](https://arxiv.org/abs/2603.04826v1)** | 2026-03-05 | <details><summary>6 fig...</summary><p>6 figures. Part V of V in "The Semantic Arrow of Time" series</p></details> |
+| **[The Semantic Arrow of Time, Part IV: Why Transactions Fail](https://arxiv.org/abs/2603.04810v1)** | 2026-03-05 | <details><summary>13 pa...</summary><p>13 pages, 0 figures. Part IV of V in The Semantic Arrow of Time series</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SpotIt+: Verification-based Text-to-SQL Evaluation with Database Constraints](https://arxiv.org/abs/2603.04334v1)** | 2026-03-04 |  |
-| **[PTOPOFL: Privacy-Preserving Personalised Federated Learning via Persistent Homology](https://arxiv.org/abs/2603.04323v1)** | 2026-03-04 | 22 pages, 6 Figures |
-| **[Ohana trees, linear approximation and multi-types for the $λ$I-calculus: No variable gets left behind or forgotten!](https://arxiv.org/abs/2505.06193v3)** | 2026-03-04 | <details><summary>This ...</summary><p>This is the (submitted) long version of the (published) conference version v2, see https://doi.org/10.4230/LIPIcs.FSCD.2025.12</p></details> |
-| **[2-Coloring Cycles in One Round](https://arxiv.org/abs/2603.04235v1)** | 2026-03-04 | 9 pages, 3 figures |
-| **[Efficient Time-Aware Partitioning of Quantum Circuits for Distributed Quantum Computing](https://arxiv.org/abs/2603.04126v1)** | 2026-03-04 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, conference: accepted at QCNC 2026</p></details> |
-| **[Carbon-Aware Quality Adaptation for Energy-Intensive Services](https://arxiv.org/abs/2411.19058v4)** | 2026-03-04 | <details><summary>Exten...</summary><p>Extended version of our paper published at e-Energy'25. Compared to the published version, we (i) add a time-based vs. utilization-based power attribution perspective together with a proof that both yield equivalent provisioning decisions under mild assumptions and (ii) extend the online approach with an automatic quality adaptation to meet a fixed annual carbon budget</p></details> |
-| **[Characterizing Machine Learning Force Fields as Emerging Molecular Dynamics Workloads on Graphics Processing Units](https://arxiv.org/abs/2603.04092v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to IEEE ISPASS - 2026</p></details> |
-| **[Performance Optimization in Stream Processing Systems: Experiment-Driven Configuration Tuning for Kafka Streams](https://arxiv.org/abs/2603.04027v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for the 9th Workshop on Hot Topics in Cloud Computing Performance (HotCloudPerf 2026) at ACM/SPEC ICPE 2026</p></details> |
-| **[Reversible Computation with Stacks and "Reversible Management of Failures"](https://arxiv.org/abs/2501.05259v2)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
-| **[A Core Calculus for Type-safe Product Lines of C Programs](https://arxiv.org/abs/2603.04013v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
-| **[Lambdas at the Far Edge: a Tale of Flying Lambdas and Lambdas on Wheels](https://arxiv.org/abs/2603.04008v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
-| **[Proving and Computing: The Infinite Pigeonhole Principle and Countable Choice](https://arxiv.org/abs/2603.04006v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
-| **[Nominal techniques as an Agda library](https://arxiv.org/abs/2603.03968v1)** | 2026-03-04 |  |
-| **[Selecting Offline Reinforcement Learning Algorithms for Stochastic Network Control](https://arxiv.org/abs/2603.03932v1)** | 2026-03-04 | <details><summary>Long ...</summary><p>Long version 12 pages, double column including Appendix. Short version accepted at NOMS2026-IPSN, Rome, Italy</p></details> |
-| **[Why Do AI Agents Systematically Fail at Cloud Root Cause Analysis?](https://arxiv.org/abs/2602.09937v2)** | 2026-03-04 |  |
+| **[Concurrent Deterministic Skiplist and Other Data Structures](https://arxiv.org/abs/2309.09359v2)** | 2026-03-05 |  |
+| **[Universal Pattern Formation by Oblivious Robots Under Sequential Schedulers](https://arxiv.org/abs/2412.10733v2)** | 2026-03-05 |  |
+| **[Radiation Hydrodynamics at Scale: Comparing MPI and Asynchronous Many-Task Runtimes with FleCSI](https://arxiv.org/abs/2603.05366v1)** | 2026-03-05 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 1 table, 28th Workshop on Advances in Parallel and Distributed Computational Models</p></details> |
+| **[Co-Design and Evaluation of a CPU-Free MPI GPU Communication Abstraction and Implementation](https://arxiv.org/abs/2602.15356v2)** | 2026-03-05 |  |
+| **[A monitoring system for collecting and aggregating metrics from distributed clouds](https://arxiv.org/abs/2603.05241v1)** | 2026-03-05 |  |
+| **[Parallel Split Learning with Global Sampling](https://arxiv.org/abs/2407.15738v6)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE 3rd International Conference on Foundation and Large Language Models (FLLM). This version corresponds to the accepted manuscript</p></details> |
+| **[Scaling Real-Time Traffic Analytics on Edge-Cloud Fabrics for City-Scale Camera Networks](https://arxiv.org/abs/2603.05217v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted at TCSC SCALE Challenge 2026. To appear in the Proceedings of IEEE/ACM CCGRID Workshops, Sydney, 2026</p></details> |
+| **[Leveraging Structural Knowledge for Solving Election in Anonymous Networks with Shared Randomness](https://arxiv.org/abs/2603.05118v1)** | 2026-03-05 | <details><summary>Full ...</summary><p>Full version of Sirocco'2026</p></details> |
+| **[PromptTuner: SLO-Aware Elastic System for LLM Prompt Tuning](https://arxiv.org/abs/2603.05087v1)** | 2026-03-05 |  |
+| **[Classification of Local Optimization Problems in Directed Cycles](https://arxiv.org/abs/2602.13046v2)** | 2026-03-05 | 26 pages, 2 figures |
+| **[2-Coloring Cycles in One Round](https://arxiv.org/abs/2603.04235v2)** | 2026-03-05 | 9 pages, 3 figures |
+| **[FluxSieve: Unifying Streaming and Analytical Data Planes for Scalable Cloud Observability](https://arxiv.org/abs/2603.04937v1)** | 2026-03-05 |  |
+| **[Rethinking Temporal Models for TinyML: LSTM versus 1D-CNN in Resource-Constrained Devices](https://arxiv.org/abs/2603.04860v1)** | 2026-03-05 |  |
+| **[The Semantic Arrow of Time, Part V: The Leibniz Bridge -- Toward a Unified Theory of Semantic Time](https://arxiv.org/abs/2603.04826v1)** | 2026-03-05 | <details><summary>6 fig...</summary><p>6 figures. Part V of V in "The Semantic Arrow of Time" series</p></details> |
+| **[The Semantic Arrow of Time, Part IV: Why Transactions Fail](https://arxiv.org/abs/2603.04810v1)** | 2026-03-05 | <details><summary>13 pa...</summary><p>13 pages, 0 figures. Part IV of V in The Semantic Arrow of Time series</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SpotIt+: Verification-based Text-to-SQL Evaluation with Database Constraints](https://arxiv.org/abs/2603.04334v1)** | 2026-03-04 |  |
-| **[PTOPOFL: Privacy-Preserving Personalised Federated Learning via Persistent Homology](https://arxiv.org/abs/2603.04323v1)** | 2026-03-04 | 22 pages, 6 Figures |
-| **[Ohana trees, linear approximation and multi-types for the $λ$I-calculus: No variable gets left behind or forgotten!](https://arxiv.org/abs/2505.06193v3)** | 2026-03-04 | <details><summary>This ...</summary><p>This is the (submitted) long version of the (published) conference version v2, see https://doi.org/10.4230/LIPIcs.FSCD.2025.12</p></details> |
-| **[2-Coloring Cycles in One Round](https://arxiv.org/abs/2603.04235v1)** | 2026-03-04 | 9 pages, 3 figures |
-| **[Efficient Time-Aware Partitioning of Quantum Circuits for Distributed Quantum Computing](https://arxiv.org/abs/2603.04126v1)** | 2026-03-04 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, conference: accepted at QCNC 2026</p></details> |
-| **[Carbon-Aware Quality Adaptation for Energy-Intensive Services](https://arxiv.org/abs/2411.19058v4)** | 2026-03-04 | <details><summary>Exten...</summary><p>Extended version of our paper published at e-Energy'25. Compared to the published version, we (i) add a time-based vs. utilization-based power attribution perspective together with a proof that both yield equivalent provisioning decisions under mild assumptions and (ii) extend the online approach with an automatic quality adaptation to meet a fixed annual carbon budget</p></details> |
-| **[Characterizing Machine Learning Force Fields as Emerging Molecular Dynamics Workloads on Graphics Processing Units](https://arxiv.org/abs/2603.04092v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to IEEE ISPASS - 2026</p></details> |
-| **[Performance Optimization in Stream Processing Systems: Experiment-Driven Configuration Tuning for Kafka Streams](https://arxiv.org/abs/2603.04027v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for the 9th Workshop on Hot Topics in Cloud Computing Performance (HotCloudPerf 2026) at ACM/SPEC ICPE 2026</p></details> |
-| **[Reversible Computation with Stacks and "Reversible Management of Failures"](https://arxiv.org/abs/2501.05259v2)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
-| **[A Core Calculus for Type-safe Product Lines of C Programs](https://arxiv.org/abs/2603.04013v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
-| **[Lambdas at the Far Edge: a Tale of Flying Lambdas and Lambdas on Wheels](https://arxiv.org/abs/2603.04008v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
-| **[Proving and Computing: The Infinite Pigeonhole Principle and Countable Choice](https://arxiv.org/abs/2603.04006v1)** | 2026-03-04 | <details><summary>In Pr...</summary><p>In Proceedings LTT 2026, arXiv:2603.02912</p></details> |
-| **[Nominal techniques as an Agda library](https://arxiv.org/abs/2603.03968v1)** | 2026-03-04 |  |
-| **[Selecting Offline Reinforcement Learning Algorithms for Stochastic Network Control](https://arxiv.org/abs/2603.03932v1)** | 2026-03-04 | <details><summary>Long ...</summary><p>Long version 12 pages, double column including Appendix. Short version accepted at NOMS2026-IPSN, Rome, Italy</p></details> |
-| **[Why Do AI Agents Systematically Fail at Cloud Root Cause Analysis?](https://arxiv.org/abs/2602.09937v2)** | 2026-03-04 |  |
+| **[Concurrent Deterministic Skiplist and Other Data Structures](https://arxiv.org/abs/2309.09359v2)** | 2026-03-05 |  |
+| **[Universal Pattern Formation by Oblivious Robots Under Sequential Schedulers](https://arxiv.org/abs/2412.10733v2)** | 2026-03-05 |  |
+| **[Radiation Hydrodynamics at Scale: Comparing MPI and Asynchronous Many-Task Runtimes with FleCSI](https://arxiv.org/abs/2603.05366v1)** | 2026-03-05 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 1 table, 28th Workshop on Advances in Parallel and Distributed Computational Models</p></details> |
+| **[Co-Design and Evaluation of a CPU-Free MPI GPU Communication Abstraction and Implementation](https://arxiv.org/abs/2602.15356v2)** | 2026-03-05 |  |
+| **[A monitoring system for collecting and aggregating metrics from distributed clouds](https://arxiv.org/abs/2603.05241v1)** | 2026-03-05 |  |
+| **[Parallel Split Learning with Global Sampling](https://arxiv.org/abs/2407.15738v6)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE 3rd International Conference on Foundation and Large Language Models (FLLM). This version corresponds to the accepted manuscript</p></details> |
+| **[Scaling Real-Time Traffic Analytics on Edge-Cloud Fabrics for City-Scale Camera Networks](https://arxiv.org/abs/2603.05217v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted at TCSC SCALE Challenge 2026. To appear in the Proceedings of IEEE/ACM CCGRID Workshops, Sydney, 2026</p></details> |
+| **[Leveraging Structural Knowledge for Solving Election in Anonymous Networks with Shared Randomness](https://arxiv.org/abs/2603.05118v1)** | 2026-03-05 | <details><summary>Full ...</summary><p>Full version of Sirocco'2026</p></details> |
+| **[PromptTuner: SLO-Aware Elastic System for LLM Prompt Tuning](https://arxiv.org/abs/2603.05087v1)** | 2026-03-05 |  |
+| **[Classification of Local Optimization Problems in Directed Cycles](https://arxiv.org/abs/2602.13046v2)** | 2026-03-05 | 26 pages, 2 figures |
+| **[2-Coloring Cycles in One Round](https://arxiv.org/abs/2603.04235v2)** | 2026-03-05 | 9 pages, 3 figures |
+| **[FluxSieve: Unifying Streaming and Analytical Data Planes for Scalable Cloud Observability](https://arxiv.org/abs/2603.04937v1)** | 2026-03-05 |  |
+| **[Rethinking Temporal Models for TinyML: LSTM versus 1D-CNN in Resource-Constrained Devices](https://arxiv.org/abs/2603.04860v1)** | 2026-03-05 |  |
+| **[The Semantic Arrow of Time, Part V: The Leibniz Bridge -- Toward a Unified Theory of Semantic Time](https://arxiv.org/abs/2603.04826v1)** | 2026-03-05 | <details><summary>6 fig...</summary><p>6 figures. Part V of V in "The Semantic Arrow of Time" series</p></details> |
+| **[The Semantic Arrow of Time, Part IV: Why Transactions Fail](https://arxiv.org/abs/2603.04810v1)** | 2026-03-05 | <details><summary>13 pa...</summary><p>13 pages, 0 figures. Part IV of V in The Semantic Arrow of Time series</p></details> |
 
