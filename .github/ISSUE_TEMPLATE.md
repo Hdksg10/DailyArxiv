@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 11, 2026
+title: Latest 15 Papers - March 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fixing Non-blocking Data Structures for Better Compatibility with Memory Reclamation Schemes](https://arxiv.org/abs/2504.06254v3)** | 2026-03-09 |  |
-| **[Silent Self-Stabilising Leader Election in Programmable Matter Systems with Holes](https://arxiv.org/abs/2507.20201v2)** | 2026-03-09 | <details><summary>20 pa...</summary><p>20 pages, accepted at SIROCCO 2026</p></details> |
-| **[Co-LoRA: Collaborative Model Personalization on Heterogeneous Multi-Modal Clients](https://arxiv.org/abs/2506.11024v4)** | 2026-03-09 | ICLR 2026 |
-| **[A Blockchain-based Traceability System for AI-Driven Engine Blade Inspection](https://arxiv.org/abs/2603.08288v1)** | 2026-03-09 |  |
-| **[TA-RNN-Medical-Hybrid: A Time-Aware and Interpretable Framework for Mortality Risk Prediction](https://arxiv.org/abs/2603.08278v1)** | 2026-03-09 |  |
-| **[A Hodge-Based Framework for Service Operational Analysis in Serverless Platforms](https://arxiv.org/abs/2603.08192v1)** | 2026-03-09 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
-| **[Covenant-72B: Pre-Training a 72B LLM with Trustless Peers Over-the-Internet](https://arxiv.org/abs/2603.08163v1)** | 2026-03-09 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 4 tables</p></details> |
-| **[EAGLE-Pangu: Accelerator-Safe Tree Speculative Decoding on Ascend NPUs](https://arxiv.org/abs/2603.08088v1)** | 2026-03-09 | 14 pages. 7 figures |
-| **[DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention](https://arxiv.org/abs/2603.08026v1)** | 2026-03-09 | 18 pages, 10 figures |
-| **[SafarDB: FPGA-Accelerated Distributed Transactions via Replicated Data Types](https://arxiv.org/abs/2603.08003v1)** | 2026-03-09 |  |
-| **[SI-ChainFL: Shapley-Incentivized Secure Federated Learning for High-Speed Rail Data Sharing](https://arxiv.org/abs/2603.07992v1)** | 2026-03-09 | 17 pages, 19 figures |
-| **[ACE-GF-based Attestation Relay for PQC - Lightweight Mempool Propagation Without On-Path Proofs](https://arxiv.org/abs/2603.07982v1)** | 2026-03-09 | 12 pages |
-| **[ZK-ACE: Identity-Centric Zero-Knowledge Authorization for Post-Quantum Blockchain Systems](https://arxiv.org/abs/2603.07974v1)** | 2026-03-09 | 24 pages |
-| **[EROICA: Online Performance Troubleshooting for Large-scale Model Training](https://arxiv.org/abs/2506.08528v4)** | 2026-03-09 |  |
-| **[DOPD: A Dynamic PD-Disaggregation Architecture for Maximizing Goodput in LLM Inference Serving](https://arxiv.org/abs/2511.20982v3)** | 2026-03-09 | 14 pages |
+| **[PolyBlocks: A Compiler Infrastructure for AI Chips and Programming Frameworks](https://arxiv.org/abs/2603.06731v2)** | 2026-03-10 | <details><summary>Fixed...</summary><p>Fixed the "Acknowledgments" section that was missing phrases</p></details> |
+| **[The Bureaucracy of Speed: Structural Equivalence Between Memory Consistency Models and Multi-Agent Authorization Revocation](https://arxiv.org/abs/2603.09875v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 3 figures. Simulation code at https://github.com/hipvlady/prizm</p></details> |
+| **[Rate-Distortion Bounds for Heterogeneous Random Fields on Finite Lattices](https://arxiv.org/abs/2603.09833v1)** | 2026-03-10 |  |
+| **[Ensuring Data Freshness in Multi-Rate Task Chains Scheduling](https://arxiv.org/abs/2603.09738v1)** | 2026-03-10 |  |
+| **[Idempotent Slices with Applications to Code-Size Reduction](https://arxiv.org/abs/2603.09726v1)** | 2026-03-10 | <details><summary>23 pa...</summary><p>23 pages, 4 tables, 12 figures</p></details> |
+| **[Scalable and Performant Data Loading](https://arxiv.org/abs/2504.20067v2)** | 2026-03-10 | <details><summary>For t...</summary><p>For the latest version of the software please visit https://facebookresearch.github.io/spdl/main/</p></details> |
+| **[Multi-DNN Inference of Sparse Models on Edge SoCs](https://arxiv.org/abs/2603.09642v1)** | 2026-03-10 |  |
+| **[Randomized Distributed Function Computation (RDFC): Ultra-Efficient Semantic Communication Applications to Privacy](https://arxiv.org/abs/2603.09577v1)** | 2026-03-10 |  |
+| **[Case Study: Performance Analysis of a Virtualized XRootD Frontend in Large-Scale WAN Transfers](https://arxiv.org/abs/2603.09568v1)** | 2026-03-10 |  |
+| **[Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference](https://arxiv.org/abs/2603.09555v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Code available at: https://github.com/CosmoNaught/mamba2-jax</p></details> |
+| **[A Survey on Decentralized Federated Learning](https://arxiv.org/abs/2308.04604v2)** | 2026-03-10 |  |
+| **[Provuse: Platform-Side Function Fusion for Performance and Efficiency in FaaS Environments](https://arxiv.org/abs/2603.06170v2)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
+| **[Actegories, Copowers, and Higher-Order Message Passing Semantics](https://arxiv.org/abs/2503.19305v2)** | 2026-03-10 | <details><summary>In Pr...</summary><p>In Proceedings ACT 2025, arXiv:2603.07595</p></details> |
+| **[Covenant-72B: Pre-Training a 72B LLM with Trustless Peers Over-the-Internet](https://arxiv.org/abs/2603.08163v2)** | 2026-03-10 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 4 tables; minor update, no content changes</p></details> |
+| **[A Calculus of Inheritance](https://arxiv.org/abs/2602.16291v6)** | 2026-03-10 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fixing Non-blocking Data Structures for Better Compatibility with Memory Reclamation Schemes](https://arxiv.org/abs/2504.06254v3)** | 2026-03-09 |  |
-| **[Silent Self-Stabilising Leader Election in Programmable Matter Systems with Holes](https://arxiv.org/abs/2507.20201v2)** | 2026-03-09 | <details><summary>20 pa...</summary><p>20 pages, accepted at SIROCCO 2026</p></details> |
-| **[Co-LoRA: Collaborative Model Personalization on Heterogeneous Multi-Modal Clients](https://arxiv.org/abs/2506.11024v4)** | 2026-03-09 | ICLR 2026 |
-| **[A Blockchain-based Traceability System for AI-Driven Engine Blade Inspection](https://arxiv.org/abs/2603.08288v1)** | 2026-03-09 |  |
-| **[TA-RNN-Medical-Hybrid: A Time-Aware and Interpretable Framework for Mortality Risk Prediction](https://arxiv.org/abs/2603.08278v1)** | 2026-03-09 |  |
-| **[A Hodge-Based Framework for Service Operational Analysis in Serverless Platforms](https://arxiv.org/abs/2603.08192v1)** | 2026-03-09 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
-| **[Covenant-72B: Pre-Training a 72B LLM with Trustless Peers Over-the-Internet](https://arxiv.org/abs/2603.08163v1)** | 2026-03-09 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 4 tables</p></details> |
-| **[EAGLE-Pangu: Accelerator-Safe Tree Speculative Decoding on Ascend NPUs](https://arxiv.org/abs/2603.08088v1)** | 2026-03-09 | 14 pages. 7 figures |
-| **[DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention](https://arxiv.org/abs/2603.08026v1)** | 2026-03-09 | 18 pages, 10 figures |
-| **[SafarDB: FPGA-Accelerated Distributed Transactions via Replicated Data Types](https://arxiv.org/abs/2603.08003v1)** | 2026-03-09 |  |
-| **[SI-ChainFL: Shapley-Incentivized Secure Federated Learning for High-Speed Rail Data Sharing](https://arxiv.org/abs/2603.07992v1)** | 2026-03-09 | 17 pages, 19 figures |
-| **[ACE-GF-based Attestation Relay for PQC - Lightweight Mempool Propagation Without On-Path Proofs](https://arxiv.org/abs/2603.07982v1)** | 2026-03-09 | 12 pages |
-| **[ZK-ACE: Identity-Centric Zero-Knowledge Authorization for Post-Quantum Blockchain Systems](https://arxiv.org/abs/2603.07974v1)** | 2026-03-09 | 24 pages |
-| **[EROICA: Online Performance Troubleshooting for Large-scale Model Training](https://arxiv.org/abs/2506.08528v4)** | 2026-03-09 |  |
-| **[DOPD: A Dynamic PD-Disaggregation Architecture for Maximizing Goodput in LLM Inference Serving](https://arxiv.org/abs/2511.20982v3)** | 2026-03-09 | 14 pages |
+| **[PolyBlocks: A Compiler Infrastructure for AI Chips and Programming Frameworks](https://arxiv.org/abs/2603.06731v2)** | 2026-03-10 | <details><summary>Fixed...</summary><p>Fixed the "Acknowledgments" section that was missing phrases</p></details> |
+| **[The Bureaucracy of Speed: Structural Equivalence Between Memory Consistency Models and Multi-Agent Authorization Revocation](https://arxiv.org/abs/2603.09875v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 3 figures. Simulation code at https://github.com/hipvlady/prizm</p></details> |
+| **[Rate-Distortion Bounds for Heterogeneous Random Fields on Finite Lattices](https://arxiv.org/abs/2603.09833v1)** | 2026-03-10 |  |
+| **[Ensuring Data Freshness in Multi-Rate Task Chains Scheduling](https://arxiv.org/abs/2603.09738v1)** | 2026-03-10 |  |
+| **[Idempotent Slices with Applications to Code-Size Reduction](https://arxiv.org/abs/2603.09726v1)** | 2026-03-10 | <details><summary>23 pa...</summary><p>23 pages, 4 tables, 12 figures</p></details> |
+| **[Scalable and Performant Data Loading](https://arxiv.org/abs/2504.20067v2)** | 2026-03-10 | <details><summary>For t...</summary><p>For the latest version of the software please visit https://facebookresearch.github.io/spdl/main/</p></details> |
+| **[Multi-DNN Inference of Sparse Models on Edge SoCs](https://arxiv.org/abs/2603.09642v1)** | 2026-03-10 |  |
+| **[Randomized Distributed Function Computation (RDFC): Ultra-Efficient Semantic Communication Applications to Privacy](https://arxiv.org/abs/2603.09577v1)** | 2026-03-10 |  |
+| **[Case Study: Performance Analysis of a Virtualized XRootD Frontend in Large-Scale WAN Transfers](https://arxiv.org/abs/2603.09568v1)** | 2026-03-10 |  |
+| **[Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference](https://arxiv.org/abs/2603.09555v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Code available at: https://github.com/CosmoNaught/mamba2-jax</p></details> |
+| **[A Survey on Decentralized Federated Learning](https://arxiv.org/abs/2308.04604v2)** | 2026-03-10 |  |
+| **[Provuse: Platform-Side Function Fusion for Performance and Efficiency in FaaS Environments](https://arxiv.org/abs/2603.06170v2)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
+| **[Actegories, Copowers, and Higher-Order Message Passing Semantics](https://arxiv.org/abs/2503.19305v2)** | 2026-03-10 | <details><summary>In Pr...</summary><p>In Proceedings ACT 2025, arXiv:2603.07595</p></details> |
+| **[Covenant-72B: Pre-Training a 72B LLM with Trustless Peers Over-the-Internet](https://arxiv.org/abs/2603.08163v2)** | 2026-03-10 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 4 tables; minor update, no content changes</p></details> |
+| **[A Calculus of Inheritance](https://arxiv.org/abs/2602.16291v6)** | 2026-03-10 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fixing Non-blocking Data Structures for Better Compatibility with Memory Reclamation Schemes](https://arxiv.org/abs/2504.06254v3)** | 2026-03-09 |  |
-| **[Silent Self-Stabilising Leader Election in Programmable Matter Systems with Holes](https://arxiv.org/abs/2507.20201v2)** | 2026-03-09 | <details><summary>20 pa...</summary><p>20 pages, accepted at SIROCCO 2026</p></details> |
-| **[Co-LoRA: Collaborative Model Personalization on Heterogeneous Multi-Modal Clients](https://arxiv.org/abs/2506.11024v4)** | 2026-03-09 | ICLR 2026 |
-| **[A Blockchain-based Traceability System for AI-Driven Engine Blade Inspection](https://arxiv.org/abs/2603.08288v1)** | 2026-03-09 |  |
-| **[TA-RNN-Medical-Hybrid: A Time-Aware and Interpretable Framework for Mortality Risk Prediction](https://arxiv.org/abs/2603.08278v1)** | 2026-03-09 |  |
-| **[A Hodge-Based Framework for Service Operational Analysis in Serverless Platforms](https://arxiv.org/abs/2603.08192v1)** | 2026-03-09 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
-| **[Covenant-72B: Pre-Training a 72B LLM with Trustless Peers Over-the-Internet](https://arxiv.org/abs/2603.08163v1)** | 2026-03-09 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 4 tables</p></details> |
-| **[EAGLE-Pangu: Accelerator-Safe Tree Speculative Decoding on Ascend NPUs](https://arxiv.org/abs/2603.08088v1)** | 2026-03-09 | 14 pages. 7 figures |
-| **[DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention](https://arxiv.org/abs/2603.08026v1)** | 2026-03-09 | 18 pages, 10 figures |
-| **[SafarDB: FPGA-Accelerated Distributed Transactions via Replicated Data Types](https://arxiv.org/abs/2603.08003v1)** | 2026-03-09 |  |
-| **[SI-ChainFL: Shapley-Incentivized Secure Federated Learning for High-Speed Rail Data Sharing](https://arxiv.org/abs/2603.07992v1)** | 2026-03-09 | 17 pages, 19 figures |
-| **[ACE-GF-based Attestation Relay for PQC - Lightweight Mempool Propagation Without On-Path Proofs](https://arxiv.org/abs/2603.07982v1)** | 2026-03-09 | 12 pages |
-| **[ZK-ACE: Identity-Centric Zero-Knowledge Authorization for Post-Quantum Blockchain Systems](https://arxiv.org/abs/2603.07974v1)** | 2026-03-09 | 24 pages |
-| **[EROICA: Online Performance Troubleshooting for Large-scale Model Training](https://arxiv.org/abs/2506.08528v4)** | 2026-03-09 |  |
-| **[DOPD: A Dynamic PD-Disaggregation Architecture for Maximizing Goodput in LLM Inference Serving](https://arxiv.org/abs/2511.20982v3)** | 2026-03-09 | 14 pages |
+| **[PolyBlocks: A Compiler Infrastructure for AI Chips and Programming Frameworks](https://arxiv.org/abs/2603.06731v2)** | 2026-03-10 | <details><summary>Fixed...</summary><p>Fixed the "Acknowledgments" section that was missing phrases</p></details> |
+| **[The Bureaucracy of Speed: Structural Equivalence Between Memory Consistency Models and Multi-Agent Authorization Revocation](https://arxiv.org/abs/2603.09875v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 3 figures. Simulation code at https://github.com/hipvlady/prizm</p></details> |
+| **[Rate-Distortion Bounds for Heterogeneous Random Fields on Finite Lattices](https://arxiv.org/abs/2603.09833v1)** | 2026-03-10 |  |
+| **[Ensuring Data Freshness in Multi-Rate Task Chains Scheduling](https://arxiv.org/abs/2603.09738v1)** | 2026-03-10 |  |
+| **[Idempotent Slices with Applications to Code-Size Reduction](https://arxiv.org/abs/2603.09726v1)** | 2026-03-10 | <details><summary>23 pa...</summary><p>23 pages, 4 tables, 12 figures</p></details> |
+| **[Scalable and Performant Data Loading](https://arxiv.org/abs/2504.20067v2)** | 2026-03-10 | <details><summary>For t...</summary><p>For the latest version of the software please visit https://facebookresearch.github.io/spdl/main/</p></details> |
+| **[Multi-DNN Inference of Sparse Models on Edge SoCs](https://arxiv.org/abs/2603.09642v1)** | 2026-03-10 |  |
+| **[Randomized Distributed Function Computation (RDFC): Ultra-Efficient Semantic Communication Applications to Privacy](https://arxiv.org/abs/2603.09577v1)** | 2026-03-10 |  |
+| **[Case Study: Performance Analysis of a Virtualized XRootD Frontend in Large-Scale WAN Transfers](https://arxiv.org/abs/2603.09568v1)** | 2026-03-10 |  |
+| **[Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference](https://arxiv.org/abs/2603.09555v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Code available at: https://github.com/CosmoNaught/mamba2-jax</p></details> |
+| **[A Survey on Decentralized Federated Learning](https://arxiv.org/abs/2308.04604v2)** | 2026-03-10 |  |
+| **[Provuse: Platform-Side Function Fusion for Performance and Efficiency in FaaS Environments](https://arxiv.org/abs/2603.06170v2)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
+| **[Actegories, Copowers, and Higher-Order Message Passing Semantics](https://arxiv.org/abs/2503.19305v2)** | 2026-03-10 | <details><summary>In Pr...</summary><p>In Proceedings ACT 2025, arXiv:2603.07595</p></details> |
+| **[Covenant-72B: Pre-Training a 72B LLM with Trustless Peers Over-the-Internet](https://arxiv.org/abs/2603.08163v2)** | 2026-03-10 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 4 tables; minor update, no content changes</p></details> |
+| **[A Calculus of Inheritance](https://arxiv.org/abs/2602.16291v6)** | 2026-03-10 |  |
 
