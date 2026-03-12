@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2026
+title: Latest 15 Papers - March 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PolyBlocks: A Compiler Infrastructure for AI Chips and Programming Frameworks](https://arxiv.org/abs/2603.06731v2)** | 2026-03-10 | <details><summary>Fixed...</summary><p>Fixed the "Acknowledgments" section that was missing phrases</p></details> |
-| **[The Bureaucracy of Speed: Structural Equivalence Between Memory Consistency Models and Multi-Agent Authorization Revocation](https://arxiv.org/abs/2603.09875v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 3 figures. Simulation code at https://github.com/hipvlady/prizm</p></details> |
-| **[Rate-Distortion Bounds for Heterogeneous Random Fields on Finite Lattices](https://arxiv.org/abs/2603.09833v1)** | 2026-03-10 |  |
-| **[Ensuring Data Freshness in Multi-Rate Task Chains Scheduling](https://arxiv.org/abs/2603.09738v1)** | 2026-03-10 |  |
-| **[Idempotent Slices with Applications to Code-Size Reduction](https://arxiv.org/abs/2603.09726v1)** | 2026-03-10 | <details><summary>23 pa...</summary><p>23 pages, 4 tables, 12 figures</p></details> |
-| **[Scalable and Performant Data Loading](https://arxiv.org/abs/2504.20067v2)** | 2026-03-10 | <details><summary>For t...</summary><p>For the latest version of the software please visit https://facebookresearch.github.io/spdl/main/</p></details> |
-| **[Multi-DNN Inference of Sparse Models on Edge SoCs](https://arxiv.org/abs/2603.09642v1)** | 2026-03-10 |  |
-| **[Randomized Distributed Function Computation (RDFC): Ultra-Efficient Semantic Communication Applications to Privacy](https://arxiv.org/abs/2603.09577v1)** | 2026-03-10 |  |
-| **[Case Study: Performance Analysis of a Virtualized XRootD Frontend in Large-Scale WAN Transfers](https://arxiv.org/abs/2603.09568v1)** | 2026-03-10 |  |
-| **[Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference](https://arxiv.org/abs/2603.09555v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Code available at: https://github.com/CosmoNaught/mamba2-jax</p></details> |
-| **[A Survey on Decentralized Federated Learning](https://arxiv.org/abs/2308.04604v2)** | 2026-03-10 |  |
-| **[Provuse: Platform-Side Function Fusion for Performance and Efficiency in FaaS Environments](https://arxiv.org/abs/2603.06170v2)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
-| **[Actegories, Copowers, and Higher-Order Message Passing Semantics](https://arxiv.org/abs/2503.19305v2)** | 2026-03-10 | <details><summary>In Pr...</summary><p>In Proceedings ACT 2025, arXiv:2603.07595</p></details> |
-| **[Covenant-72B: Pre-Training a 72B LLM with Trustless Peers Over-the-Internet](https://arxiv.org/abs/2603.08163v2)** | 2026-03-10 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 4 tables; minor update, no content changes</p></details> |
-| **[A Calculus of Inheritance](https://arxiv.org/abs/2602.16291v6)** | 2026-03-10 |  |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v1)** | 2026-03-11 | 19 pages, 5 figures |
+| **[Data Augmentation and Convolutional Network Architecture Influence on Distributed Learning](https://arxiv.org/abs/2603.10902v1)** | 2026-03-11 |  |
+| **[Topological Analysis for Identifying Anomalies in Serverless Platforms](https://arxiv.org/abs/2603.10850v1)** | 2026-03-11 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
+| **[Aceso: Carbon-Aware and Cost-Effective Microservice Placement for Small and Medium-sized Enterprises](https://arxiv.org/abs/2603.10768v1)** | 2026-03-11 |  |
+| **[RAGPerf: An End-to-End Benchmarking Framework for Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2603.10765v1)** | 2026-03-11 | <details><summary>The c...</summary><p>The codebase of RAGPerf is available at https://github.com/platformxlab/RAGPerf</p></details> |
+| **[Multi-GPU Quantum Circuit Simulation and the Impact of Network Performance](https://arxiv.org/abs/2511.14664v2)** | 2026-03-11 | <details><summary>15 Pa...</summary><p>15 Pages, 5 Figures, In press at Computer Physics Communications</p></details> |
+| **[CacheSolidarity: Preventing Prefix Caching Side Channels in Multi-tenant LLM Serving Systems](https://arxiv.org/abs/2603.10726v1)** | 2026-03-11 |  |
+| **[Optimal Transport Aggregation for Distributed Mixture-of-Experts](https://arxiv.org/abs/2312.09877v2)** | 2026-03-11 |  |
+| **[Double-Precision Matrix Multiplication Emulation via Ozaki-II Scheme with FP8 Quantization](https://arxiv.org/abs/2603.10634v1)** | 2026-03-11 | 11 pages, 8 figures |
+| **[On the Solvability of Byzantine-tolerant Reliable Communication in Dynamic Networks](https://arxiv.org/abs/2503.22452v3)** | 2026-03-11 |  |
+| **[CD-Raft: Reducing the Latency of Distributed Consensus in Cross-Domain Sites](https://arxiv.org/abs/2603.10555v1)** | 2026-03-11 |  |
+| **[Estimating the condition number of Chebyshev filtered vectors with application to the ChASE library](https://arxiv.org/abs/2603.10514v1)** | 2026-03-11 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Journal paper to be submitted to SIAM SIMAX</p></details> |
+| **[COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints](https://arxiv.org/abs/2603.10436v1)** | 2026-03-11 | <details><summary>Recen...</summary><p>Recently accepted at 27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks ( IEEE WoWMoM 2026)</p></details> |
+| **[Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection](https://arxiv.org/abs/2401.16685v2)** | 2026-03-11 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.07048</p></details> |
+| **[S-HPLB: Efficient LLM Attention Serving via Sparsity-Aware Head Parallelism Load Balance](https://arxiv.org/abs/2603.10353v1)** | 2026-03-11 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PolyBlocks: A Compiler Infrastructure for AI Chips and Programming Frameworks](https://arxiv.org/abs/2603.06731v2)** | 2026-03-10 | <details><summary>Fixed...</summary><p>Fixed the "Acknowledgments" section that was missing phrases</p></details> |
-| **[The Bureaucracy of Speed: Structural Equivalence Between Memory Consistency Models and Multi-Agent Authorization Revocation](https://arxiv.org/abs/2603.09875v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 3 figures. Simulation code at https://github.com/hipvlady/prizm</p></details> |
-| **[Rate-Distortion Bounds for Heterogeneous Random Fields on Finite Lattices](https://arxiv.org/abs/2603.09833v1)** | 2026-03-10 |  |
-| **[Ensuring Data Freshness in Multi-Rate Task Chains Scheduling](https://arxiv.org/abs/2603.09738v1)** | 2026-03-10 |  |
-| **[Idempotent Slices with Applications to Code-Size Reduction](https://arxiv.org/abs/2603.09726v1)** | 2026-03-10 | <details><summary>23 pa...</summary><p>23 pages, 4 tables, 12 figures</p></details> |
-| **[Scalable and Performant Data Loading](https://arxiv.org/abs/2504.20067v2)** | 2026-03-10 | <details><summary>For t...</summary><p>For the latest version of the software please visit https://facebookresearch.github.io/spdl/main/</p></details> |
-| **[Multi-DNN Inference of Sparse Models on Edge SoCs](https://arxiv.org/abs/2603.09642v1)** | 2026-03-10 |  |
-| **[Randomized Distributed Function Computation (RDFC): Ultra-Efficient Semantic Communication Applications to Privacy](https://arxiv.org/abs/2603.09577v1)** | 2026-03-10 |  |
-| **[Case Study: Performance Analysis of a Virtualized XRootD Frontend in Large-Scale WAN Transfers](https://arxiv.org/abs/2603.09568v1)** | 2026-03-10 |  |
-| **[Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference](https://arxiv.org/abs/2603.09555v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Code available at: https://github.com/CosmoNaught/mamba2-jax</p></details> |
-| **[A Survey on Decentralized Federated Learning](https://arxiv.org/abs/2308.04604v2)** | 2026-03-10 |  |
-| **[Provuse: Platform-Side Function Fusion for Performance and Efficiency in FaaS Environments](https://arxiv.org/abs/2603.06170v2)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
-| **[Actegories, Copowers, and Higher-Order Message Passing Semantics](https://arxiv.org/abs/2503.19305v2)** | 2026-03-10 | <details><summary>In Pr...</summary><p>In Proceedings ACT 2025, arXiv:2603.07595</p></details> |
-| **[Covenant-72B: Pre-Training a 72B LLM with Trustless Peers Over-the-Internet](https://arxiv.org/abs/2603.08163v2)** | 2026-03-10 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 4 tables; minor update, no content changes</p></details> |
-| **[A Calculus of Inheritance](https://arxiv.org/abs/2602.16291v6)** | 2026-03-10 |  |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v1)** | 2026-03-11 | 19 pages, 5 figures |
+| **[Data Augmentation and Convolutional Network Architecture Influence on Distributed Learning](https://arxiv.org/abs/2603.10902v1)** | 2026-03-11 |  |
+| **[Topological Analysis for Identifying Anomalies in Serverless Platforms](https://arxiv.org/abs/2603.10850v1)** | 2026-03-11 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
+| **[Aceso: Carbon-Aware and Cost-Effective Microservice Placement for Small and Medium-sized Enterprises](https://arxiv.org/abs/2603.10768v1)** | 2026-03-11 |  |
+| **[RAGPerf: An End-to-End Benchmarking Framework for Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2603.10765v1)** | 2026-03-11 | <details><summary>The c...</summary><p>The codebase of RAGPerf is available at https://github.com/platformxlab/RAGPerf</p></details> |
+| **[Multi-GPU Quantum Circuit Simulation and the Impact of Network Performance](https://arxiv.org/abs/2511.14664v2)** | 2026-03-11 | <details><summary>15 Pa...</summary><p>15 Pages, 5 Figures, In press at Computer Physics Communications</p></details> |
+| **[CacheSolidarity: Preventing Prefix Caching Side Channels in Multi-tenant LLM Serving Systems](https://arxiv.org/abs/2603.10726v1)** | 2026-03-11 |  |
+| **[Optimal Transport Aggregation for Distributed Mixture-of-Experts](https://arxiv.org/abs/2312.09877v2)** | 2026-03-11 |  |
+| **[Double-Precision Matrix Multiplication Emulation via Ozaki-II Scheme with FP8 Quantization](https://arxiv.org/abs/2603.10634v1)** | 2026-03-11 | 11 pages, 8 figures |
+| **[On the Solvability of Byzantine-tolerant Reliable Communication in Dynamic Networks](https://arxiv.org/abs/2503.22452v3)** | 2026-03-11 |  |
+| **[CD-Raft: Reducing the Latency of Distributed Consensus in Cross-Domain Sites](https://arxiv.org/abs/2603.10555v1)** | 2026-03-11 |  |
+| **[Estimating the condition number of Chebyshev filtered vectors with application to the ChASE library](https://arxiv.org/abs/2603.10514v1)** | 2026-03-11 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Journal paper to be submitted to SIAM SIMAX</p></details> |
+| **[COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints](https://arxiv.org/abs/2603.10436v1)** | 2026-03-11 | <details><summary>Recen...</summary><p>Recently accepted at 27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks ( IEEE WoWMoM 2026)</p></details> |
+| **[Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection](https://arxiv.org/abs/2401.16685v2)** | 2026-03-11 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.07048</p></details> |
+| **[S-HPLB: Efficient LLM Attention Serving via Sparsity-Aware Head Parallelism Load Balance](https://arxiv.org/abs/2603.10353v1)** | 2026-03-11 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PolyBlocks: A Compiler Infrastructure for AI Chips and Programming Frameworks](https://arxiv.org/abs/2603.06731v2)** | 2026-03-10 | <details><summary>Fixed...</summary><p>Fixed the "Acknowledgments" section that was missing phrases</p></details> |
-| **[The Bureaucracy of Speed: Structural Equivalence Between Memory Consistency Models and Multi-Agent Authorization Revocation](https://arxiv.org/abs/2603.09875v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 3 figures. Simulation code at https://github.com/hipvlady/prizm</p></details> |
-| **[Rate-Distortion Bounds for Heterogeneous Random Fields on Finite Lattices](https://arxiv.org/abs/2603.09833v1)** | 2026-03-10 |  |
-| **[Ensuring Data Freshness in Multi-Rate Task Chains Scheduling](https://arxiv.org/abs/2603.09738v1)** | 2026-03-10 |  |
-| **[Idempotent Slices with Applications to Code-Size Reduction](https://arxiv.org/abs/2603.09726v1)** | 2026-03-10 | <details><summary>23 pa...</summary><p>23 pages, 4 tables, 12 figures</p></details> |
-| **[Scalable and Performant Data Loading](https://arxiv.org/abs/2504.20067v2)** | 2026-03-10 | <details><summary>For t...</summary><p>For the latest version of the software please visit https://facebookresearch.github.io/spdl/main/</p></details> |
-| **[Multi-DNN Inference of Sparse Models on Edge SoCs](https://arxiv.org/abs/2603.09642v1)** | 2026-03-10 |  |
-| **[Randomized Distributed Function Computation (RDFC): Ultra-Efficient Semantic Communication Applications to Privacy](https://arxiv.org/abs/2603.09577v1)** | 2026-03-10 |  |
-| **[Case Study: Performance Analysis of a Virtualized XRootD Frontend in Large-Scale WAN Transfers](https://arxiv.org/abs/2603.09568v1)** | 2026-03-10 |  |
-| **[Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference](https://arxiv.org/abs/2603.09555v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Code available at: https://github.com/CosmoNaught/mamba2-jax</p></details> |
-| **[A Survey on Decentralized Federated Learning](https://arxiv.org/abs/2308.04604v2)** | 2026-03-10 |  |
-| **[Provuse: Platform-Side Function Fusion for Performance and Efficiency in FaaS Environments](https://arxiv.org/abs/2603.06170v2)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
-| **[Actegories, Copowers, and Higher-Order Message Passing Semantics](https://arxiv.org/abs/2503.19305v2)** | 2026-03-10 | <details><summary>In Pr...</summary><p>In Proceedings ACT 2025, arXiv:2603.07595</p></details> |
-| **[Covenant-72B: Pre-Training a 72B LLM with Trustless Peers Over-the-Internet](https://arxiv.org/abs/2603.08163v2)** | 2026-03-10 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 4 tables; minor update, no content changes</p></details> |
-| **[A Calculus of Inheritance](https://arxiv.org/abs/2602.16291v6)** | 2026-03-10 |  |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v1)** | 2026-03-11 | 19 pages, 5 figures |
+| **[Data Augmentation and Convolutional Network Architecture Influence on Distributed Learning](https://arxiv.org/abs/2603.10902v1)** | 2026-03-11 |  |
+| **[Topological Analysis for Identifying Anomalies in Serverless Platforms](https://arxiv.org/abs/2603.10850v1)** | 2026-03-11 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
+| **[Aceso: Carbon-Aware and Cost-Effective Microservice Placement for Small and Medium-sized Enterprises](https://arxiv.org/abs/2603.10768v1)** | 2026-03-11 |  |
+| **[RAGPerf: An End-to-End Benchmarking Framework for Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2603.10765v1)** | 2026-03-11 | <details><summary>The c...</summary><p>The codebase of RAGPerf is available at https://github.com/platformxlab/RAGPerf</p></details> |
+| **[Multi-GPU Quantum Circuit Simulation and the Impact of Network Performance](https://arxiv.org/abs/2511.14664v2)** | 2026-03-11 | <details><summary>15 Pa...</summary><p>15 Pages, 5 Figures, In press at Computer Physics Communications</p></details> |
+| **[CacheSolidarity: Preventing Prefix Caching Side Channels in Multi-tenant LLM Serving Systems](https://arxiv.org/abs/2603.10726v1)** | 2026-03-11 |  |
+| **[Optimal Transport Aggregation for Distributed Mixture-of-Experts](https://arxiv.org/abs/2312.09877v2)** | 2026-03-11 |  |
+| **[Double-Precision Matrix Multiplication Emulation via Ozaki-II Scheme with FP8 Quantization](https://arxiv.org/abs/2603.10634v1)** | 2026-03-11 | 11 pages, 8 figures |
+| **[On the Solvability of Byzantine-tolerant Reliable Communication in Dynamic Networks](https://arxiv.org/abs/2503.22452v3)** | 2026-03-11 |  |
+| **[CD-Raft: Reducing the Latency of Distributed Consensus in Cross-Domain Sites](https://arxiv.org/abs/2603.10555v1)** | 2026-03-11 |  |
+| **[Estimating the condition number of Chebyshev filtered vectors with application to the ChASE library](https://arxiv.org/abs/2603.10514v1)** | 2026-03-11 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Journal paper to be submitted to SIAM SIMAX</p></details> |
+| **[COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints](https://arxiv.org/abs/2603.10436v1)** | 2026-03-11 | <details><summary>Recen...</summary><p>Recently accepted at 27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks ( IEEE WoWMoM 2026)</p></details> |
+| **[Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection](https://arxiv.org/abs/2401.16685v2)** | 2026-03-11 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.07048</p></details> |
+| **[S-HPLB: Efficient LLM Attention Serving via Sparsity-Aware Head Parallelism Load Balance](https://arxiv.org/abs/2603.10353v1)** | 2026-03-11 |  |
 
