@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 13, 2026
+title: Latest 15 Papers - March 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v1)** | 2026-03-11 | 19 pages, 5 figures |
-| **[Data Augmentation and Convolutional Network Architecture Influence on Distributed Learning](https://arxiv.org/abs/2603.10902v1)** | 2026-03-11 |  |
-| **[Topological Analysis for Identifying Anomalies in Serverless Platforms](https://arxiv.org/abs/2603.10850v1)** | 2026-03-11 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
-| **[Aceso: Carbon-Aware and Cost-Effective Microservice Placement for Small and Medium-sized Enterprises](https://arxiv.org/abs/2603.10768v1)** | 2026-03-11 |  |
-| **[RAGPerf: An End-to-End Benchmarking Framework for Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2603.10765v1)** | 2026-03-11 | <details><summary>The c...</summary><p>The codebase of RAGPerf is available at https://github.com/platformxlab/RAGPerf</p></details> |
-| **[Multi-GPU Quantum Circuit Simulation and the Impact of Network Performance](https://arxiv.org/abs/2511.14664v2)** | 2026-03-11 | <details><summary>15 Pa...</summary><p>15 Pages, 5 Figures, In press at Computer Physics Communications</p></details> |
-| **[CacheSolidarity: Preventing Prefix Caching Side Channels in Multi-tenant LLM Serving Systems](https://arxiv.org/abs/2603.10726v1)** | 2026-03-11 |  |
-| **[Optimal Transport Aggregation for Distributed Mixture-of-Experts](https://arxiv.org/abs/2312.09877v2)** | 2026-03-11 |  |
-| **[Double-Precision Matrix Multiplication Emulation via Ozaki-II Scheme with FP8 Quantization](https://arxiv.org/abs/2603.10634v1)** | 2026-03-11 | 11 pages, 8 figures |
-| **[On the Solvability of Byzantine-tolerant Reliable Communication in Dynamic Networks](https://arxiv.org/abs/2503.22452v3)** | 2026-03-11 |  |
-| **[CD-Raft: Reducing the Latency of Distributed Consensus in Cross-Domain Sites](https://arxiv.org/abs/2603.10555v1)** | 2026-03-11 |  |
-| **[Estimating the condition number of Chebyshev filtered vectors with application to the ChASE library](https://arxiv.org/abs/2603.10514v1)** | 2026-03-11 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Journal paper to be submitted to SIAM SIMAX</p></details> |
-| **[COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints](https://arxiv.org/abs/2603.10436v1)** | 2026-03-11 | <details><summary>Recen...</summary><p>Recently accepted at 27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks ( IEEE WoWMoM 2026)</p></details> |
-| **[Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection](https://arxiv.org/abs/2401.16685v2)** | 2026-03-11 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.07048</p></details> |
-| **[S-HPLB: Efficient LLM Attention Serving via Sparsity-Aware Head Parallelism Load Balance](https://arxiv.org/abs/2603.10353v1)** | 2026-03-11 |  |
+| **[Deterministic Distributed DFS and Other Problems via Cycle Separators in Planar Graphs](https://arxiv.org/abs/2504.21620v2)** | 2026-03-12 | PODC 2025 |
+| **[WORKSWORLD: A Domain for Integrated Numeric Planning and Scheduling of Distributed Pipelined Workflows](https://arxiv.org/abs/2603.12214v1)** | 2026-03-12 | <details><summary>To be...</summary><p>To be published in Proceedings of the International Conference on Automated Planning and Scheduling Volume 36 (2026)</p></details> |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
+| **[Cornserve: A Distributed Serving System for Any-to-Any Multimodal Models](https://arxiv.org/abs/2603.12118v1)** | 2026-03-12 | <details><summary>Open ...</summary><p>Open source https://github.com/cornserve-ai/cornserve / Demo video https://www.youtube.com/watch?v=nb8R-vztLRg</p></details> |
+| **[On Reduction and Synthesis of Petri's Cycloids](https://arxiv.org/abs/2405.21025v4)** | 2026-03-12 |  |
+| **[A Probabilistic Choreography Language for PRISM](https://arxiv.org/abs/2503.08530v2)** | 2026-03-12 |  |
+| **[HPC Containers for EBRAINS: Towards Portable Cross-Domain Software Environment](https://arxiv.org/abs/2603.12044v1)** | 2026-03-12 |  |
+| **[AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v1)** | 2026-03-12 |  |
+| **[Decentralized Orchestration Architecture for Fluid Computing: A Secure Distributed AI Use Case](https://arxiv.org/abs/2603.12001v1)** | 2026-03-12 | <details><summary>19 pa...</summary><p>19 pages, 9 figures and 1 table. Under peer review</p></details> |
+| **[The Carnot Bound: Limits and Possibilities for Bandwidth-Efficient Consensus](https://arxiv.org/abs/2603.11797v1)** | 2026-03-12 |  |
+| **[OrchestrRL: Dynamic Compute and Network Orchestration for Disaggregated RL](https://arxiv.org/abs/2601.01209v2)** | 2026-03-12 |  |
+| **[Beyond BFS: A Comparative Study of Rooted Spanning Tree Algorithms on GPUs](https://arxiv.org/abs/2603.11645v1)** | 2026-03-12 |  |
+| **[OrchMLLM: Orchestrate Multimodal Data with Batch Post-Balancing to Accelerate Multimodal Large Language Model Training](https://arxiv.org/abs/2503.23830v3)** | 2026-03-12 |  |
+| **[Subtime: Reversible Information Exchange and the Emergence of Classical Time](https://arxiv.org/abs/2603.11571v1)** | 2026-03-12 | <details><summary>15 pa...</summary><p>15 pages, 33 references</p></details> |
+| **[Once4All: Skeleton-Guided SMT Solver Fuzzing with LLM-Synthesized Generators](https://arxiv.org/abs/2508.20340v3)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted at ASPLOS 2026</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v1)** | 2026-03-11 | 19 pages, 5 figures |
-| **[Data Augmentation and Convolutional Network Architecture Influence on Distributed Learning](https://arxiv.org/abs/2603.10902v1)** | 2026-03-11 |  |
-| **[Topological Analysis for Identifying Anomalies in Serverless Platforms](https://arxiv.org/abs/2603.10850v1)** | 2026-03-11 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
-| **[Aceso: Carbon-Aware and Cost-Effective Microservice Placement for Small and Medium-sized Enterprises](https://arxiv.org/abs/2603.10768v1)** | 2026-03-11 |  |
-| **[RAGPerf: An End-to-End Benchmarking Framework for Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2603.10765v1)** | 2026-03-11 | <details><summary>The c...</summary><p>The codebase of RAGPerf is available at https://github.com/platformxlab/RAGPerf</p></details> |
-| **[Multi-GPU Quantum Circuit Simulation and the Impact of Network Performance](https://arxiv.org/abs/2511.14664v2)** | 2026-03-11 | <details><summary>15 Pa...</summary><p>15 Pages, 5 Figures, In press at Computer Physics Communications</p></details> |
-| **[CacheSolidarity: Preventing Prefix Caching Side Channels in Multi-tenant LLM Serving Systems](https://arxiv.org/abs/2603.10726v1)** | 2026-03-11 |  |
-| **[Optimal Transport Aggregation for Distributed Mixture-of-Experts](https://arxiv.org/abs/2312.09877v2)** | 2026-03-11 |  |
-| **[Double-Precision Matrix Multiplication Emulation via Ozaki-II Scheme with FP8 Quantization](https://arxiv.org/abs/2603.10634v1)** | 2026-03-11 | 11 pages, 8 figures |
-| **[On the Solvability of Byzantine-tolerant Reliable Communication in Dynamic Networks](https://arxiv.org/abs/2503.22452v3)** | 2026-03-11 |  |
-| **[CD-Raft: Reducing the Latency of Distributed Consensus in Cross-Domain Sites](https://arxiv.org/abs/2603.10555v1)** | 2026-03-11 |  |
-| **[Estimating the condition number of Chebyshev filtered vectors with application to the ChASE library](https://arxiv.org/abs/2603.10514v1)** | 2026-03-11 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Journal paper to be submitted to SIAM SIMAX</p></details> |
-| **[COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints](https://arxiv.org/abs/2603.10436v1)** | 2026-03-11 | <details><summary>Recen...</summary><p>Recently accepted at 27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks ( IEEE WoWMoM 2026)</p></details> |
-| **[Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection](https://arxiv.org/abs/2401.16685v2)** | 2026-03-11 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.07048</p></details> |
-| **[S-HPLB: Efficient LLM Attention Serving via Sparsity-Aware Head Parallelism Load Balance](https://arxiv.org/abs/2603.10353v1)** | 2026-03-11 |  |
+| **[Deterministic Distributed DFS and Other Problems via Cycle Separators in Planar Graphs](https://arxiv.org/abs/2504.21620v2)** | 2026-03-12 | PODC 2025 |
+| **[WORKSWORLD: A Domain for Integrated Numeric Planning and Scheduling of Distributed Pipelined Workflows](https://arxiv.org/abs/2603.12214v1)** | 2026-03-12 | <details><summary>To be...</summary><p>To be published in Proceedings of the International Conference on Automated Planning and Scheduling Volume 36 (2026)</p></details> |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
+| **[Cornserve: A Distributed Serving System for Any-to-Any Multimodal Models](https://arxiv.org/abs/2603.12118v1)** | 2026-03-12 | <details><summary>Open ...</summary><p>Open source https://github.com/cornserve-ai/cornserve / Demo video https://www.youtube.com/watch?v=nb8R-vztLRg</p></details> |
+| **[On Reduction and Synthesis of Petri's Cycloids](https://arxiv.org/abs/2405.21025v4)** | 2026-03-12 |  |
+| **[A Probabilistic Choreography Language for PRISM](https://arxiv.org/abs/2503.08530v2)** | 2026-03-12 |  |
+| **[HPC Containers for EBRAINS: Towards Portable Cross-Domain Software Environment](https://arxiv.org/abs/2603.12044v1)** | 2026-03-12 |  |
+| **[AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v1)** | 2026-03-12 |  |
+| **[Decentralized Orchestration Architecture for Fluid Computing: A Secure Distributed AI Use Case](https://arxiv.org/abs/2603.12001v1)** | 2026-03-12 | <details><summary>19 pa...</summary><p>19 pages, 9 figures and 1 table. Under peer review</p></details> |
+| **[The Carnot Bound: Limits and Possibilities for Bandwidth-Efficient Consensus](https://arxiv.org/abs/2603.11797v1)** | 2026-03-12 |  |
+| **[OrchestrRL: Dynamic Compute and Network Orchestration for Disaggregated RL](https://arxiv.org/abs/2601.01209v2)** | 2026-03-12 |  |
+| **[Beyond BFS: A Comparative Study of Rooted Spanning Tree Algorithms on GPUs](https://arxiv.org/abs/2603.11645v1)** | 2026-03-12 |  |
+| **[OrchMLLM: Orchestrate Multimodal Data with Batch Post-Balancing to Accelerate Multimodal Large Language Model Training](https://arxiv.org/abs/2503.23830v3)** | 2026-03-12 |  |
+| **[Subtime: Reversible Information Exchange and the Emergence of Classical Time](https://arxiv.org/abs/2603.11571v1)** | 2026-03-12 | <details><summary>15 pa...</summary><p>15 pages, 33 references</p></details> |
+| **[Once4All: Skeleton-Guided SMT Solver Fuzzing with LLM-Synthesized Generators](https://arxiv.org/abs/2508.20340v3)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted at ASPLOS 2026</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v1)** | 2026-03-11 | 19 pages, 5 figures |
-| **[Data Augmentation and Convolutional Network Architecture Influence on Distributed Learning](https://arxiv.org/abs/2603.10902v1)** | 2026-03-11 |  |
-| **[Topological Analysis for Identifying Anomalies in Serverless Platforms](https://arxiv.org/abs/2603.10850v1)** | 2026-03-11 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
-| **[Aceso: Carbon-Aware and Cost-Effective Microservice Placement for Small and Medium-sized Enterprises](https://arxiv.org/abs/2603.10768v1)** | 2026-03-11 |  |
-| **[RAGPerf: An End-to-End Benchmarking Framework for Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2603.10765v1)** | 2026-03-11 | <details><summary>The c...</summary><p>The codebase of RAGPerf is available at https://github.com/platformxlab/RAGPerf</p></details> |
-| **[Multi-GPU Quantum Circuit Simulation and the Impact of Network Performance](https://arxiv.org/abs/2511.14664v2)** | 2026-03-11 | <details><summary>15 Pa...</summary><p>15 Pages, 5 Figures, In press at Computer Physics Communications</p></details> |
-| **[CacheSolidarity: Preventing Prefix Caching Side Channels in Multi-tenant LLM Serving Systems](https://arxiv.org/abs/2603.10726v1)** | 2026-03-11 |  |
-| **[Optimal Transport Aggregation for Distributed Mixture-of-Experts](https://arxiv.org/abs/2312.09877v2)** | 2026-03-11 |  |
-| **[Double-Precision Matrix Multiplication Emulation via Ozaki-II Scheme with FP8 Quantization](https://arxiv.org/abs/2603.10634v1)** | 2026-03-11 | 11 pages, 8 figures |
-| **[On the Solvability of Byzantine-tolerant Reliable Communication in Dynamic Networks](https://arxiv.org/abs/2503.22452v3)** | 2026-03-11 |  |
-| **[CD-Raft: Reducing the Latency of Distributed Consensus in Cross-Domain Sites](https://arxiv.org/abs/2603.10555v1)** | 2026-03-11 |  |
-| **[Estimating the condition number of Chebyshev filtered vectors with application to the ChASE library](https://arxiv.org/abs/2603.10514v1)** | 2026-03-11 | <details><summary>20 pa...</summary><p>20 pages, 3 figures. Journal paper to be submitted to SIAM SIMAX</p></details> |
-| **[COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints](https://arxiv.org/abs/2603.10436v1)** | 2026-03-11 | <details><summary>Recen...</summary><p>Recently accepted at 27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks ( IEEE WoWMoM 2026)</p></details> |
-| **[Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection](https://arxiv.org/abs/2401.16685v2)** | 2026-03-11 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.07048</p></details> |
-| **[S-HPLB: Efficient LLM Attention Serving via Sparsity-Aware Head Parallelism Load Balance](https://arxiv.org/abs/2603.10353v1)** | 2026-03-11 |  |
+| **[Deterministic Distributed DFS and Other Problems via Cycle Separators in Planar Graphs](https://arxiv.org/abs/2504.21620v2)** | 2026-03-12 | PODC 2025 |
+| **[WORKSWORLD: A Domain for Integrated Numeric Planning and Scheduling of Distributed Pipelined Workflows](https://arxiv.org/abs/2603.12214v1)** | 2026-03-12 | <details><summary>To be...</summary><p>To be published in Proceedings of the International Conference on Automated Planning and Scheduling Volume 36 (2026)</p></details> |
+| **[Reference Architecture of a Quantum-Centric Supercomputer](https://arxiv.org/abs/2603.10970v2)** | 2026-03-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, minor fixes</p></details> |
+| **[Cornserve: A Distributed Serving System for Any-to-Any Multimodal Models](https://arxiv.org/abs/2603.12118v1)** | 2026-03-12 | <details><summary>Open ...</summary><p>Open source https://github.com/cornserve-ai/cornserve / Demo video https://www.youtube.com/watch?v=nb8R-vztLRg</p></details> |
+| **[On Reduction and Synthesis of Petri's Cycloids](https://arxiv.org/abs/2405.21025v4)** | 2026-03-12 |  |
+| **[A Probabilistic Choreography Language for PRISM](https://arxiv.org/abs/2503.08530v2)** | 2026-03-12 |  |
+| **[HPC Containers for EBRAINS: Towards Portable Cross-Domain Software Environment](https://arxiv.org/abs/2603.12044v1)** | 2026-03-12 |  |
+| **[AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v1)** | 2026-03-12 |  |
+| **[Decentralized Orchestration Architecture for Fluid Computing: A Secure Distributed AI Use Case](https://arxiv.org/abs/2603.12001v1)** | 2026-03-12 | <details><summary>19 pa...</summary><p>19 pages, 9 figures and 1 table. Under peer review</p></details> |
+| **[The Carnot Bound: Limits and Possibilities for Bandwidth-Efficient Consensus](https://arxiv.org/abs/2603.11797v1)** | 2026-03-12 |  |
+| **[OrchestrRL: Dynamic Compute and Network Orchestration for Disaggregated RL](https://arxiv.org/abs/2601.01209v2)** | 2026-03-12 |  |
+| **[Beyond BFS: A Comparative Study of Rooted Spanning Tree Algorithms on GPUs](https://arxiv.org/abs/2603.11645v1)** | 2026-03-12 |  |
+| **[OrchMLLM: Orchestrate Multimodal Data with Batch Post-Balancing to Accelerate Multimodal Large Language Model Training](https://arxiv.org/abs/2503.23830v3)** | 2026-03-12 |  |
+| **[Subtime: Reversible Information Exchange and the Emergence of Classical Time](https://arxiv.org/abs/2603.11571v1)** | 2026-03-12 | <details><summary>15 pa...</summary><p>15 pages, 33 references</p></details> |
+| **[Once4All: Skeleton-Guided SMT Solver Fuzzing with LLM-Synthesized Generators](https://arxiv.org/abs/2508.20340v3)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted at ASPLOS 2026</p></details> |
 
