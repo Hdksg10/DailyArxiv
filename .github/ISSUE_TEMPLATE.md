@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 18, 2026
+title: Latest 15 Papers - March 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DUET: Disaggregated Hybrid Mamba-Transformer LLMs with Prefill and Decode-Specific Packages](https://arxiv.org/abs/2603.15530v1)** | 2026-03-16 | <details><summary>Paper...</summary><p>Paper accepted for publication at the Design Automation Conference (DAC) 2026 conference</p></details> |
-| **[Cuckoo-GPU: Accelerating Cuckoo Filters on Modern GPUs](https://arxiv.org/abs/2603.15486v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
-| **[Beyond Either-Or Reasoning: Transduction and Induction as Cooperative Problem-Solving Paradigms](https://arxiv.org/abs/2505.14744v2)** | 2026-03-16 |  |
-| **[Don't exhaust, don't waste](https://arxiv.org/abs/2507.13792v3)** | 2026-03-16 | <details><summary>Prepr...</summary><p>Preprint submitted to JFP (Journal of Functional Programming)</p></details> |
-| **[LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling](https://arxiv.org/abs/2603.15202v1)** | 2026-03-16 |  |
-| **[Token Coherence: Adapting MESI Cache Protocols to Minimize Synchronization Overhead in Multi-Agent LLM Systems](https://arxiv.org/abs/2603.15183v1)** | 2026-03-16 | <details><summary>25 pa...</summary><p>25 pages. Code and reproduction scripts at https://github.com/hipvlady/agent-coherence</p></details> |
-| **[Generation of Programming Exam Question and Answer Using ChatGPT Based on Prompt Engineering](https://arxiv.org/abs/2603.15096v1)** | 2026-03-16 |  |
-| **[PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel](https://arxiv.org/abs/2511.22333v3)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by ASPLOS'26, code available at https://github.com/flashserve/PAT</p></details> |
-| **[Guaranteeing Semantic and Performance Determinism in Flexible GPU Sharing](https://arxiv.org/abs/2603.15042v1)** | 2026-03-16 |  |
-| **[A Calculus of Inheritance](https://arxiv.org/abs/2602.16291v7)** | 2026-03-16 |  |
-| **[Real-Time Driver Safety Scoring Through Inverse Crash Probability Modeling](https://arxiv.org/abs/2603.14841v1)** | 2026-03-16 | <details><summary>10 pa...</summary><p>10 pages, 13 figures, and 14 tables. Submitted in EIT 2026 Conference hosted by The University of Wisconsin-La Crosse and sponsored by IEEE Region 4 (R4)</p></details> |
-| **[Protecting Distributed Blockchain with Twin-Field Quantum Key Distribution: A Quantum Resistant Approach](https://arxiv.org/abs/2603.14826v1)** | 2026-03-16 |  |
-| **[Fold-CP: A Context Parallelism Framework for Biomolecular Modeling](https://arxiv.org/abs/2603.14806v1)** | 2026-03-16 | 23 pages, 10 figures |
-| **[Comprehensive Deadlock Prevention for GPU Collective Communication](https://arxiv.org/abs/2303.06324v2)** | 2026-03-16 |  |
+| **[Unifying Optimization and Dynamics to Parallelize Sequential Computation: A Guide to Parallel Newton Methods for Breaking Sequential Bottlenecks](https://arxiv.org/abs/2603.16850v1)** | 2026-03-17 | <details><summary>PhD D...</summary><p>PhD Dissertation; Stanford University</p></details> |
+| **[MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus](https://arxiv.org/abs/2502.20692v3)** | 2026-03-17 |  |
+| **[Leveraging LLMs for Structured Information Extraction and Analysis from Cloud Incident Reports (Work In Progress Paper)](https://arxiv.org/abs/2603.16818v1)** | 2026-03-17 |  |
+| **[ODIN-Based CPU-GPU Architecture with Replay-Driven Simulation and Emulation](https://arxiv.org/abs/2603.16812v1)** | 2026-03-17 |  |
+| **[Elastic Sketch under Random Stationary Streams: Limiting Behavior and Near-Optimal Configuration](https://arxiv.org/abs/2603.16786v1)** | 2026-03-17 |  |
+| **[Looking for (Genomic) Needles in a Haystack: Sparsity-Driven Search for Identifying Correlated Genetic Mutations in Cancer](https://arxiv.org/abs/2603.16721v1)** | 2026-03-17 |  |
+| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v3)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submission pre-print, data conference</p></details> |
+| **[Dataflow-Oriented Classification and Performance Analysis of GPU-Accelerated Homomorphic Encryption](https://arxiv.org/abs/2603.16692v1)** | 2026-03-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[FAlCon: A unified framework for algorithmic control of quantum dot devices](https://arxiv.org/abs/2603.16650v1)** | 2026-03-17 | 19 pages, 3 figures |
+| **[Accelerating the Particle-In-Cell code ECsim with OpenACC](https://arxiv.org/abs/2603.16624v1)** | 2026-03-17 |  |
+| **[FleetOpt: Analytical Fleet Provisioning for LLM Inference with Compress-and-Route as Implementation Mechanism](https://arxiv.org/abs/2603.16514v1)** | 2026-03-17 | Work in progress |
+| **[ETM2: Empowering Traditional Memory Bandwidth Regulation using ETM](https://arxiv.org/abs/2603.16490v1)** | 2026-03-17 | <details><summary>Exten...</summary><p>Extended version or the paper accepted to appear at IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2026</p></details> |
+| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v1)** | 2026-03-17 | <details><summary>29 pa...</summary><p>29 pages, 1 table, 3 appendices with extended examples</p></details> |
+| **[An Efficient Heterogeneous Co-Design for Fine-Tuning on a Single GPU](https://arxiv.org/abs/2603.16428v1)** | 2026-03-17 | 7 pages |
+| **[Types, equations, dimensions and the Pi theorem](https://arxiv.org/abs/2308.09481v5)** | 2026-03-17 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DUET: Disaggregated Hybrid Mamba-Transformer LLMs with Prefill and Decode-Specific Packages](https://arxiv.org/abs/2603.15530v1)** | 2026-03-16 | <details><summary>Paper...</summary><p>Paper accepted for publication at the Design Automation Conference (DAC) 2026 conference</p></details> |
-| **[Cuckoo-GPU: Accelerating Cuckoo Filters on Modern GPUs](https://arxiv.org/abs/2603.15486v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
-| **[Beyond Either-Or Reasoning: Transduction and Induction as Cooperative Problem-Solving Paradigms](https://arxiv.org/abs/2505.14744v2)** | 2026-03-16 |  |
-| **[Don't exhaust, don't waste](https://arxiv.org/abs/2507.13792v3)** | 2026-03-16 | <details><summary>Prepr...</summary><p>Preprint submitted to JFP (Journal of Functional Programming)</p></details> |
-| **[LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling](https://arxiv.org/abs/2603.15202v1)** | 2026-03-16 |  |
-| **[Token Coherence: Adapting MESI Cache Protocols to Minimize Synchronization Overhead in Multi-Agent LLM Systems](https://arxiv.org/abs/2603.15183v1)** | 2026-03-16 | <details><summary>25 pa...</summary><p>25 pages. Code and reproduction scripts at https://github.com/hipvlady/agent-coherence</p></details> |
-| **[Generation of Programming Exam Question and Answer Using ChatGPT Based on Prompt Engineering](https://arxiv.org/abs/2603.15096v1)** | 2026-03-16 |  |
-| **[PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel](https://arxiv.org/abs/2511.22333v3)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by ASPLOS'26, code available at https://github.com/flashserve/PAT</p></details> |
-| **[Guaranteeing Semantic and Performance Determinism in Flexible GPU Sharing](https://arxiv.org/abs/2603.15042v1)** | 2026-03-16 |  |
-| **[A Calculus of Inheritance](https://arxiv.org/abs/2602.16291v7)** | 2026-03-16 |  |
-| **[Real-Time Driver Safety Scoring Through Inverse Crash Probability Modeling](https://arxiv.org/abs/2603.14841v1)** | 2026-03-16 | <details><summary>10 pa...</summary><p>10 pages, 13 figures, and 14 tables. Submitted in EIT 2026 Conference hosted by The University of Wisconsin-La Crosse and sponsored by IEEE Region 4 (R4)</p></details> |
-| **[Protecting Distributed Blockchain with Twin-Field Quantum Key Distribution: A Quantum Resistant Approach](https://arxiv.org/abs/2603.14826v1)** | 2026-03-16 |  |
-| **[Fold-CP: A Context Parallelism Framework for Biomolecular Modeling](https://arxiv.org/abs/2603.14806v1)** | 2026-03-16 | 23 pages, 10 figures |
-| **[Comprehensive Deadlock Prevention for GPU Collective Communication](https://arxiv.org/abs/2303.06324v2)** | 2026-03-16 |  |
+| **[Unifying Optimization and Dynamics to Parallelize Sequential Computation: A Guide to Parallel Newton Methods for Breaking Sequential Bottlenecks](https://arxiv.org/abs/2603.16850v1)** | 2026-03-17 | <details><summary>PhD D...</summary><p>PhD Dissertation; Stanford University</p></details> |
+| **[MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus](https://arxiv.org/abs/2502.20692v3)** | 2026-03-17 |  |
+| **[Leveraging LLMs for Structured Information Extraction and Analysis from Cloud Incident Reports (Work In Progress Paper)](https://arxiv.org/abs/2603.16818v1)** | 2026-03-17 |  |
+| **[ODIN-Based CPU-GPU Architecture with Replay-Driven Simulation and Emulation](https://arxiv.org/abs/2603.16812v1)** | 2026-03-17 |  |
+| **[Elastic Sketch under Random Stationary Streams: Limiting Behavior and Near-Optimal Configuration](https://arxiv.org/abs/2603.16786v1)** | 2026-03-17 |  |
+| **[Looking for (Genomic) Needles in a Haystack: Sparsity-Driven Search for Identifying Correlated Genetic Mutations in Cancer](https://arxiv.org/abs/2603.16721v1)** | 2026-03-17 |  |
+| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v3)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submission pre-print, data conference</p></details> |
+| **[Dataflow-Oriented Classification and Performance Analysis of GPU-Accelerated Homomorphic Encryption](https://arxiv.org/abs/2603.16692v1)** | 2026-03-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[FAlCon: A unified framework for algorithmic control of quantum dot devices](https://arxiv.org/abs/2603.16650v1)** | 2026-03-17 | 19 pages, 3 figures |
+| **[Accelerating the Particle-In-Cell code ECsim with OpenACC](https://arxiv.org/abs/2603.16624v1)** | 2026-03-17 |  |
+| **[FleetOpt: Analytical Fleet Provisioning for LLM Inference with Compress-and-Route as Implementation Mechanism](https://arxiv.org/abs/2603.16514v1)** | 2026-03-17 | Work in progress |
+| **[ETM2: Empowering Traditional Memory Bandwidth Regulation using ETM](https://arxiv.org/abs/2603.16490v1)** | 2026-03-17 | <details><summary>Exten...</summary><p>Extended version or the paper accepted to appear at IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2026</p></details> |
+| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v1)** | 2026-03-17 | <details><summary>29 pa...</summary><p>29 pages, 1 table, 3 appendices with extended examples</p></details> |
+| **[An Efficient Heterogeneous Co-Design for Fine-Tuning on a Single GPU](https://arxiv.org/abs/2603.16428v1)** | 2026-03-17 | 7 pages |
+| **[Types, equations, dimensions and the Pi theorem](https://arxiv.org/abs/2308.09481v5)** | 2026-03-17 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DUET: Disaggregated Hybrid Mamba-Transformer LLMs with Prefill and Decode-Specific Packages](https://arxiv.org/abs/2603.15530v1)** | 2026-03-16 | <details><summary>Paper...</summary><p>Paper accepted for publication at the Design Automation Conference (DAC) 2026 conference</p></details> |
-| **[Cuckoo-GPU: Accelerating Cuckoo Filters on Modern GPUs](https://arxiv.org/abs/2603.15486v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
-| **[Beyond Either-Or Reasoning: Transduction and Induction as Cooperative Problem-Solving Paradigms](https://arxiv.org/abs/2505.14744v2)** | 2026-03-16 |  |
-| **[Don't exhaust, don't waste](https://arxiv.org/abs/2507.13792v3)** | 2026-03-16 | <details><summary>Prepr...</summary><p>Preprint submitted to JFP (Journal of Functional Programming)</p></details> |
-| **[LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling](https://arxiv.org/abs/2603.15202v1)** | 2026-03-16 |  |
-| **[Token Coherence: Adapting MESI Cache Protocols to Minimize Synchronization Overhead in Multi-Agent LLM Systems](https://arxiv.org/abs/2603.15183v1)** | 2026-03-16 | <details><summary>25 pa...</summary><p>25 pages. Code and reproduction scripts at https://github.com/hipvlady/agent-coherence</p></details> |
-| **[Generation of Programming Exam Question and Answer Using ChatGPT Based on Prompt Engineering](https://arxiv.org/abs/2603.15096v1)** | 2026-03-16 |  |
-| **[PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel](https://arxiv.org/abs/2511.22333v3)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by ASPLOS'26, code available at https://github.com/flashserve/PAT</p></details> |
-| **[Guaranteeing Semantic and Performance Determinism in Flexible GPU Sharing](https://arxiv.org/abs/2603.15042v1)** | 2026-03-16 |  |
-| **[A Calculus of Inheritance](https://arxiv.org/abs/2602.16291v7)** | 2026-03-16 |  |
-| **[Real-Time Driver Safety Scoring Through Inverse Crash Probability Modeling](https://arxiv.org/abs/2603.14841v1)** | 2026-03-16 | <details><summary>10 pa...</summary><p>10 pages, 13 figures, and 14 tables. Submitted in EIT 2026 Conference hosted by The University of Wisconsin-La Crosse and sponsored by IEEE Region 4 (R4)</p></details> |
-| **[Protecting Distributed Blockchain with Twin-Field Quantum Key Distribution: A Quantum Resistant Approach](https://arxiv.org/abs/2603.14826v1)** | 2026-03-16 |  |
-| **[Fold-CP: A Context Parallelism Framework for Biomolecular Modeling](https://arxiv.org/abs/2603.14806v1)** | 2026-03-16 | 23 pages, 10 figures |
-| **[Comprehensive Deadlock Prevention for GPU Collective Communication](https://arxiv.org/abs/2303.06324v2)** | 2026-03-16 |  |
+| **[Unifying Optimization and Dynamics to Parallelize Sequential Computation: A Guide to Parallel Newton Methods for Breaking Sequential Bottlenecks](https://arxiv.org/abs/2603.16850v1)** | 2026-03-17 | <details><summary>PhD D...</summary><p>PhD Dissertation; Stanford University</p></details> |
+| **[MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus](https://arxiv.org/abs/2502.20692v3)** | 2026-03-17 |  |
+| **[Leveraging LLMs for Structured Information Extraction and Analysis from Cloud Incident Reports (Work In Progress Paper)](https://arxiv.org/abs/2603.16818v1)** | 2026-03-17 |  |
+| **[ODIN-Based CPU-GPU Architecture with Replay-Driven Simulation and Emulation](https://arxiv.org/abs/2603.16812v1)** | 2026-03-17 |  |
+| **[Elastic Sketch under Random Stationary Streams: Limiting Behavior and Near-Optimal Configuration](https://arxiv.org/abs/2603.16786v1)** | 2026-03-17 |  |
+| **[Looking for (Genomic) Needles in a Haystack: Sparsity-Driven Search for Identifying Correlated Genetic Mutations in Cancer](https://arxiv.org/abs/2603.16721v1)** | 2026-03-17 |  |
+| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v3)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submission pre-print, data conference</p></details> |
+| **[Dataflow-Oriented Classification and Performance Analysis of GPU-Accelerated Homomorphic Encryption](https://arxiv.org/abs/2603.16692v1)** | 2026-03-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[FAlCon: A unified framework for algorithmic control of quantum dot devices](https://arxiv.org/abs/2603.16650v1)** | 2026-03-17 | 19 pages, 3 figures |
+| **[Accelerating the Particle-In-Cell code ECsim with OpenACC](https://arxiv.org/abs/2603.16624v1)** | 2026-03-17 |  |
+| **[FleetOpt: Analytical Fleet Provisioning for LLM Inference with Compress-and-Route as Implementation Mechanism](https://arxiv.org/abs/2603.16514v1)** | 2026-03-17 | Work in progress |
+| **[ETM2: Empowering Traditional Memory Bandwidth Regulation using ETM](https://arxiv.org/abs/2603.16490v1)** | 2026-03-17 | <details><summary>Exten...</summary><p>Extended version or the paper accepted to appear at IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2026</p></details> |
+| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v1)** | 2026-03-17 | <details><summary>29 pa...</summary><p>29 pages, 1 table, 3 appendices with extended examples</p></details> |
+| **[An Efficient Heterogeneous Co-Design for Fine-Tuning on a Single GPU](https://arxiv.org/abs/2603.16428v1)** | 2026-03-17 | 7 pages |
+| **[Types, equations, dimensions and the Pi theorem](https://arxiv.org/abs/2308.09481v5)** | 2026-03-17 |  |
 
