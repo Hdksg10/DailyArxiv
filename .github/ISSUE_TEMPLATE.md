@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 19, 2026
+title: Latest 15 Papers - March 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unifying Optimization and Dynamics to Parallelize Sequential Computation: A Guide to Parallel Newton Methods for Breaking Sequential Bottlenecks](https://arxiv.org/abs/2603.16850v1)** | 2026-03-17 | <details><summary>PhD D...</summary><p>PhD Dissertation; Stanford University</p></details> |
-| **[MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus](https://arxiv.org/abs/2502.20692v3)** | 2026-03-17 |  |
-| **[Leveraging LLMs for Structured Information Extraction and Analysis from Cloud Incident Reports (Work In Progress Paper)](https://arxiv.org/abs/2603.16818v1)** | 2026-03-17 |  |
-| **[ODIN-Based CPU-GPU Architecture with Replay-Driven Simulation and Emulation](https://arxiv.org/abs/2603.16812v1)** | 2026-03-17 |  |
-| **[Elastic Sketch under Random Stationary Streams: Limiting Behavior and Near-Optimal Configuration](https://arxiv.org/abs/2603.16786v1)** | 2026-03-17 |  |
-| **[Looking for (Genomic) Needles in a Haystack: Sparsity-Driven Search for Identifying Correlated Genetic Mutations in Cancer](https://arxiv.org/abs/2603.16721v1)** | 2026-03-17 |  |
-| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v3)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submission pre-print, data conference</p></details> |
-| **[Dataflow-Oriented Classification and Performance Analysis of GPU-Accelerated Homomorphic Encryption](https://arxiv.org/abs/2603.16692v1)** | 2026-03-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[FAlCon: A unified framework for algorithmic control of quantum dot devices](https://arxiv.org/abs/2603.16650v1)** | 2026-03-17 | 19 pages, 3 figures |
-| **[Accelerating the Particle-In-Cell code ECsim with OpenACC](https://arxiv.org/abs/2603.16624v1)** | 2026-03-17 |  |
-| **[FleetOpt: Analytical Fleet Provisioning for LLM Inference with Compress-and-Route as Implementation Mechanism](https://arxiv.org/abs/2603.16514v1)** | 2026-03-17 | Work in progress |
-| **[ETM2: Empowering Traditional Memory Bandwidth Regulation using ETM](https://arxiv.org/abs/2603.16490v1)** | 2026-03-17 | <details><summary>Exten...</summary><p>Extended version or the paper accepted to appear at IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2026</p></details> |
-| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v1)** | 2026-03-17 | <details><summary>29 pa...</summary><p>29 pages, 1 table, 3 appendices with extended examples</p></details> |
-| **[An Efficient Heterogeneous Co-Design for Fine-Tuning on a Single GPU](https://arxiv.org/abs/2603.16428v1)** | 2026-03-17 | 7 pages |
-| **[Types, equations, dimensions and the Pi theorem](https://arxiv.org/abs/2308.09481v5)** | 2026-03-17 |  |
+| **[Swarm: Co-Activation Aware KVCache Offloading Across Multiple SSDs](https://arxiv.org/abs/2603.17803v1)** | 2026-03-18 |  |
+| **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](https://arxiv.org/abs/2505.01821v5)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted by IEEE ComST. 45 pages, 13 figures, 10 tables</p></details> |
+| **[Aergia: Leveraging Heterogeneity in Federated Learning Systems](https://arxiv.org/abs/2210.06154v2)** | 2026-03-18 | <details><summary>This ...</summary><p>This paper is accepted at the 23rd ACM/IFIP International Middleware Conference (Middleware '22). Updated version has minor textual improvements</p></details> |
+| **[Oracular Programming: A Modular Foundation for Building LLM-Enabled Software](https://arxiv.org/abs/2502.05310v5)** | 2026-03-18 |  |
+| **[The Program Hypergraph: Multi-Way Relational Structure for Geometric Algebra, Spatial Compute, and Physics-Aware Compilation](https://arxiv.org/abs/2603.17627v1)** | 2026-03-18 | <details><summary>29 pa...</summary><p>29 pages, 1 figure, 2 tables</p></details> |
+| **[A mechanism design overview of Sedna](https://arxiv.org/abs/2603.17614v1)** | 2026-03-18 |  |
+| **[VeriAgent: A Tool-Integrated Multi-Agent System with Evolving Memory for PPA-Aware RTL Code Generation](https://arxiv.org/abs/2603.17613v1)** | 2026-03-18 |  |
+| **[ETM2: Empowering Traditional Memory Bandwidth Regulation using ETM](https://arxiv.org/abs/2603.16490v2)** | 2026-03-18 | <details><summary>Exten...</summary><p>Extended version of the paper to appear at IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2026</p></details> |
+| **[Multi-stage Flow Scheduling for LLM Serving](https://arxiv.org/abs/2603.17456v1)** | 2026-03-18 | 18 pages, 14 figures |
+| **[ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression](https://arxiv.org/abs/2603.17435v1)** | 2026-03-18 | <details><summary>ASPLO...</summary><p>ASPLOS'26 Accepted Paper</p></details> |
+| **[The 1/W Law: An Analytical Study of Context-Length Routing Topology and GPU Generation Gains for LLM Inference Energy Efficiency](https://arxiv.org/abs/2603.17280v1)** | 2026-03-18 | Work in progress |
+| **[SYMDIREC: A Neuro-Symbolic Divide-Retrieve-Conquer Framework for Enhanced RTL Synthesis and Summarization](https://arxiv.org/abs/2603.17208v1)** | 2026-03-17 |  |
+| **[CurvFed: Curvature-Aligned Federated Learning for Fairness without Demographics](https://arxiv.org/abs/2404.19725v8)** | 2026-03-17 | *equal contribution |
+| **[CODMAS: A Dialectic Multi-Agent Collaborative Framework for Structured RTL Optimization](https://arxiv.org/abs/2603.17204v1)** | 2026-03-17 |  |
+| **[PAuth - Precise Task-Scoped Authorization For Agents](https://arxiv.org/abs/2603.17170v1)** | 2026-03-17 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unifying Optimization and Dynamics to Parallelize Sequential Computation: A Guide to Parallel Newton Methods for Breaking Sequential Bottlenecks](https://arxiv.org/abs/2603.16850v1)** | 2026-03-17 | <details><summary>PhD D...</summary><p>PhD Dissertation; Stanford University</p></details> |
-| **[MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus](https://arxiv.org/abs/2502.20692v3)** | 2026-03-17 |  |
-| **[Leveraging LLMs for Structured Information Extraction and Analysis from Cloud Incident Reports (Work In Progress Paper)](https://arxiv.org/abs/2603.16818v1)** | 2026-03-17 |  |
-| **[ODIN-Based CPU-GPU Architecture with Replay-Driven Simulation and Emulation](https://arxiv.org/abs/2603.16812v1)** | 2026-03-17 |  |
-| **[Elastic Sketch under Random Stationary Streams: Limiting Behavior and Near-Optimal Configuration](https://arxiv.org/abs/2603.16786v1)** | 2026-03-17 |  |
-| **[Looking for (Genomic) Needles in a Haystack: Sparsity-Driven Search for Identifying Correlated Genetic Mutations in Cancer](https://arxiv.org/abs/2603.16721v1)** | 2026-03-17 |  |
-| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v3)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submission pre-print, data conference</p></details> |
-| **[Dataflow-Oriented Classification and Performance Analysis of GPU-Accelerated Homomorphic Encryption](https://arxiv.org/abs/2603.16692v1)** | 2026-03-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[FAlCon: A unified framework for algorithmic control of quantum dot devices](https://arxiv.org/abs/2603.16650v1)** | 2026-03-17 | 19 pages, 3 figures |
-| **[Accelerating the Particle-In-Cell code ECsim with OpenACC](https://arxiv.org/abs/2603.16624v1)** | 2026-03-17 |  |
-| **[FleetOpt: Analytical Fleet Provisioning for LLM Inference with Compress-and-Route as Implementation Mechanism](https://arxiv.org/abs/2603.16514v1)** | 2026-03-17 | Work in progress |
-| **[ETM2: Empowering Traditional Memory Bandwidth Regulation using ETM](https://arxiv.org/abs/2603.16490v1)** | 2026-03-17 | <details><summary>Exten...</summary><p>Extended version or the paper accepted to appear at IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2026</p></details> |
-| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v1)** | 2026-03-17 | <details><summary>29 pa...</summary><p>29 pages, 1 table, 3 appendices with extended examples</p></details> |
-| **[An Efficient Heterogeneous Co-Design for Fine-Tuning on a Single GPU](https://arxiv.org/abs/2603.16428v1)** | 2026-03-17 | 7 pages |
-| **[Types, equations, dimensions and the Pi theorem](https://arxiv.org/abs/2308.09481v5)** | 2026-03-17 |  |
+| **[Swarm: Co-Activation Aware KVCache Offloading Across Multiple SSDs](https://arxiv.org/abs/2603.17803v1)** | 2026-03-18 |  |
+| **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](https://arxiv.org/abs/2505.01821v5)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted by IEEE ComST. 45 pages, 13 figures, 10 tables</p></details> |
+| **[Aergia: Leveraging Heterogeneity in Federated Learning Systems](https://arxiv.org/abs/2210.06154v2)** | 2026-03-18 | <details><summary>This ...</summary><p>This paper is accepted at the 23rd ACM/IFIP International Middleware Conference (Middleware '22). Updated version has minor textual improvements</p></details> |
+| **[Oracular Programming: A Modular Foundation for Building LLM-Enabled Software](https://arxiv.org/abs/2502.05310v5)** | 2026-03-18 |  |
+| **[The Program Hypergraph: Multi-Way Relational Structure for Geometric Algebra, Spatial Compute, and Physics-Aware Compilation](https://arxiv.org/abs/2603.17627v1)** | 2026-03-18 | <details><summary>29 pa...</summary><p>29 pages, 1 figure, 2 tables</p></details> |
+| **[A mechanism design overview of Sedna](https://arxiv.org/abs/2603.17614v1)** | 2026-03-18 |  |
+| **[VeriAgent: A Tool-Integrated Multi-Agent System with Evolving Memory for PPA-Aware RTL Code Generation](https://arxiv.org/abs/2603.17613v1)** | 2026-03-18 |  |
+| **[ETM2: Empowering Traditional Memory Bandwidth Regulation using ETM](https://arxiv.org/abs/2603.16490v2)** | 2026-03-18 | <details><summary>Exten...</summary><p>Extended version of the paper to appear at IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2026</p></details> |
+| **[Multi-stage Flow Scheduling for LLM Serving](https://arxiv.org/abs/2603.17456v1)** | 2026-03-18 | 18 pages, 14 figures |
+| **[ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression](https://arxiv.org/abs/2603.17435v1)** | 2026-03-18 | <details><summary>ASPLO...</summary><p>ASPLOS'26 Accepted Paper</p></details> |
+| **[The 1/W Law: An Analytical Study of Context-Length Routing Topology and GPU Generation Gains for LLM Inference Energy Efficiency](https://arxiv.org/abs/2603.17280v1)** | 2026-03-18 | Work in progress |
+| **[SYMDIREC: A Neuro-Symbolic Divide-Retrieve-Conquer Framework for Enhanced RTL Synthesis and Summarization](https://arxiv.org/abs/2603.17208v1)** | 2026-03-17 |  |
+| **[CurvFed: Curvature-Aligned Federated Learning for Fairness without Demographics](https://arxiv.org/abs/2404.19725v8)** | 2026-03-17 | *equal contribution |
+| **[CODMAS: A Dialectic Multi-Agent Collaborative Framework for Structured RTL Optimization](https://arxiv.org/abs/2603.17204v1)** | 2026-03-17 |  |
+| **[PAuth - Precise Task-Scoped Authorization For Agents](https://arxiv.org/abs/2603.17170v1)** | 2026-03-17 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unifying Optimization and Dynamics to Parallelize Sequential Computation: A Guide to Parallel Newton Methods for Breaking Sequential Bottlenecks](https://arxiv.org/abs/2603.16850v1)** | 2026-03-17 | <details><summary>PhD D...</summary><p>PhD Dissertation; Stanford University</p></details> |
-| **[MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus](https://arxiv.org/abs/2502.20692v3)** | 2026-03-17 |  |
-| **[Leveraging LLMs for Structured Information Extraction and Analysis from Cloud Incident Reports (Work In Progress Paper)](https://arxiv.org/abs/2603.16818v1)** | 2026-03-17 |  |
-| **[ODIN-Based CPU-GPU Architecture with Replay-Driven Simulation and Emulation](https://arxiv.org/abs/2603.16812v1)** | 2026-03-17 |  |
-| **[Elastic Sketch under Random Stationary Streams: Limiting Behavior and Near-Optimal Configuration](https://arxiv.org/abs/2603.16786v1)** | 2026-03-17 |  |
-| **[Looking for (Genomic) Needles in a Haystack: Sparsity-Driven Search for Identifying Correlated Genetic Mutations in Cancer](https://arxiv.org/abs/2603.16721v1)** | 2026-03-17 |  |
-| **[Building a Correct-by-Design Lakehouse. Data Contracts, Versioning, and Transactional Pipelines for Humans and Agents](https://arxiv.org/abs/2602.02335v3)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submission pre-print, data conference</p></details> |
-| **[Dataflow-Oriented Classification and Performance Analysis of GPU-Accelerated Homomorphic Encryption](https://arxiv.org/abs/2603.16692v1)** | 2026-03-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[FAlCon: A unified framework for algorithmic control of quantum dot devices](https://arxiv.org/abs/2603.16650v1)** | 2026-03-17 | 19 pages, 3 figures |
-| **[Accelerating the Particle-In-Cell code ECsim with OpenACC](https://arxiv.org/abs/2603.16624v1)** | 2026-03-17 |  |
-| **[FleetOpt: Analytical Fleet Provisioning for LLM Inference with Compress-and-Route as Implementation Mechanism](https://arxiv.org/abs/2603.16514v1)** | 2026-03-17 | Work in progress |
-| **[ETM2: Empowering Traditional Memory Bandwidth Regulation using ETM](https://arxiv.org/abs/2603.16490v1)** | 2026-03-17 | <details><summary>Exten...</summary><p>Extended version or the paper accepted to appear at IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2026</p></details> |
-| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v1)** | 2026-03-17 | <details><summary>29 pa...</summary><p>29 pages, 1 table, 3 appendices with extended examples</p></details> |
-| **[An Efficient Heterogeneous Co-Design for Fine-Tuning on a Single GPU](https://arxiv.org/abs/2603.16428v1)** | 2026-03-17 | 7 pages |
-| **[Types, equations, dimensions and the Pi theorem](https://arxiv.org/abs/2308.09481v5)** | 2026-03-17 |  |
+| **[Swarm: Co-Activation Aware KVCache Offloading Across Multiple SSDs](https://arxiv.org/abs/2603.17803v1)** | 2026-03-18 |  |
+| **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](https://arxiv.org/abs/2505.01821v5)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted by IEEE ComST. 45 pages, 13 figures, 10 tables</p></details> |
+| **[Aergia: Leveraging Heterogeneity in Federated Learning Systems](https://arxiv.org/abs/2210.06154v2)** | 2026-03-18 | <details><summary>This ...</summary><p>This paper is accepted at the 23rd ACM/IFIP International Middleware Conference (Middleware '22). Updated version has minor textual improvements</p></details> |
+| **[Oracular Programming: A Modular Foundation for Building LLM-Enabled Software](https://arxiv.org/abs/2502.05310v5)** | 2026-03-18 |  |
+| **[The Program Hypergraph: Multi-Way Relational Structure for Geometric Algebra, Spatial Compute, and Physics-Aware Compilation](https://arxiv.org/abs/2603.17627v1)** | 2026-03-18 | <details><summary>29 pa...</summary><p>29 pages, 1 figure, 2 tables</p></details> |
+| **[A mechanism design overview of Sedna](https://arxiv.org/abs/2603.17614v1)** | 2026-03-18 |  |
+| **[VeriAgent: A Tool-Integrated Multi-Agent System with Evolving Memory for PPA-Aware RTL Code Generation](https://arxiv.org/abs/2603.17613v1)** | 2026-03-18 |  |
+| **[ETM2: Empowering Traditional Memory Bandwidth Regulation using ETM](https://arxiv.org/abs/2603.16490v2)** | 2026-03-18 | <details><summary>Exten...</summary><p>Extended version of the paper to appear at IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2026</p></details> |
+| **[Multi-stage Flow Scheduling for LLM Serving](https://arxiv.org/abs/2603.17456v1)** | 2026-03-18 | 18 pages, 14 figures |
+| **[ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression](https://arxiv.org/abs/2603.17435v1)** | 2026-03-18 | <details><summary>ASPLO...</summary><p>ASPLOS'26 Accepted Paper</p></details> |
+| **[The 1/W Law: An Analytical Study of Context-Length Routing Topology and GPU Generation Gains for LLM Inference Energy Efficiency](https://arxiv.org/abs/2603.17280v1)** | 2026-03-18 | Work in progress |
+| **[SYMDIREC: A Neuro-Symbolic Divide-Retrieve-Conquer Framework for Enhanced RTL Synthesis and Summarization](https://arxiv.org/abs/2603.17208v1)** | 2026-03-17 |  |
+| **[CurvFed: Curvature-Aligned Federated Learning for Fairness without Demographics](https://arxiv.org/abs/2404.19725v8)** | 2026-03-17 | *equal contribution |
+| **[CODMAS: A Dialectic Multi-Agent Collaborative Framework for Structured RTL Optimization](https://arxiv.org/abs/2603.17204v1)** | 2026-03-17 |  |
+| **[PAuth - Precise Task-Scoped Authorization For Agents](https://arxiv.org/abs/2603.17170v1)** | 2026-03-17 |  |
 
