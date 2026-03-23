@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2026
+title: Latest 15 Papers - March 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[cuGenOpt: A GPU-Accelerated General-Purpose Metaheuristic Framework for Combinatorial Optimization](https://arxiv.org/abs/2603.19163v1)** | 2026-03-19 | <details><summary>28 pa...</summary><p>28 pages, 9 figures. Code available at https://github.com/L-yang-yang/cugenopt</p></details> |
-| **[A Pipelined Collaborative Speculative Decoding Framework for Efficient Edge-Cloud LLM Inference](https://arxiv.org/abs/2603.19133v1)** | 2026-03-19 | 8 pages, 6 figures |
-| **[FedTrident: Resilient Road Condition Classification Against Poisoning Attacks in Federated Learning](https://arxiv.org/abs/2603.19101v1)** | 2026-03-19 |  |
-| **[Why Synchronized Time is a Fiction: Daylight Saving Time, Leap Seconds, and the Guillotine Sharpened for Nothing](https://arxiv.org/abs/2603.19099v1)** | 2026-03-19 | <details><summary>18 pa...</summary><p>18 pages, 24 references</p></details> |
-| **[Literature Study on Operational Data Analytics Frameworks in Large-scale Computing Infrastructures](https://arxiv.org/abs/2603.19016v1)** | 2026-03-19 |  |
-| **[Enhancing a Hierarchical Graph Rewriting Language based on MELL Cut Elimination](https://arxiv.org/abs/2411.14802v3)** | 2026-03-19 | <details><summary>Exten...</summary><p>Extended version of the PADL 2025 paper (LNCS, Springer, 2025). This version incorporates into the main text details omitted from the conference version and includes some additional material</p></details> |
-| **[Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution](https://arxiv.org/abs/2603.18897v1)** | 2026-03-19 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v3)** | 2026-03-19 |  |
-| **[On the Surprising Effectiveness of a Single Global Merging in Decentralized Learning](https://arxiv.org/abs/2507.06542v3)** | 2026-03-19 | <details><summary>We di...</summary><p>We discover and theoretically explain why and when a single global parameter merging in decentralized learning can recover the performance of federated learning, even in highly heterogeneous and communication-constrained environments</p></details> |
-| **[VeriEquivBench: An Equivalence Score for Ground-Truth-Free Evaluation of Formally Verifiable Code](https://arxiv.org/abs/2510.06296v2)** | 2026-03-19 |  |
-| **[High-Performance Portable GPU Primitives for Arbitrary Types and Operators in Julia](https://arxiv.org/abs/2603.18695v1)** | 2026-03-19 |  |
-| **[TurboMem: High-Performance Lock-Free Memory Pool with Transparent Huge Page Auto-Merging for DPDK](https://arxiv.org/abs/2603.18690v1)** | 2026-03-19 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 4 tables; v2: Added explicit disclaimer in abstract clarifying that all performance numbers are based on mock benchmarks (real VTune results forthcoming). Minor formatting corrections</p></details> |
-| **[STRATUS: A Multi-agent System for Autonomous Reliability Engineering of Modern Clouds](https://arxiv.org/abs/2506.02009v2)** | 2026-03-19 | <details><summary>10 pa...</summary><p>10 pages for main text</p></details> |
-| **[Fork, Explore, Commit: OS Primitives for Agentic Exploration](https://arxiv.org/abs/2602.08199v2)** | 2026-03-19 |  |
-| **[A Model Consistency-Based Countermeasure to GAN-Based Data Poisoning Attack in Federated Learning](https://arxiv.org/abs/2405.11440v3)** | 2026-03-19 | 18 pages, 16 figures |
+| **[Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v3)** | 2026-03-20 |  |
+| **[Critical Sections Are Not Per-Thread: A Trace Semantics for Lock-Based Concurrency](https://arxiv.org/abs/2603.13142v2)** | 2026-03-20 | <details><summary>defin...</summary><p>defined entry/exit point, protected by lock to state results more clearly</p></details> |
+| **[Understanding and Optimizing Multi-Stage AI Inference Pipelines](https://arxiv.org/abs/2504.09775v5)** | 2026-03-20 | <details><summary>Infer...</summary><p>Inference System Design for Multi-Stage AI Inference Pipelines. 13 Pages, 15 Figues, 3 Tables</p></details> |
+| **[Analyzing Decoders for Quantum Error Correction](https://arxiv.org/abs/2603.20127v1)** | 2026-03-20 |  |
+| **[OpenDC-STEAM: Realistic Modeling and Systematic Exploration of Composable Techniques for Sustainable Datacenters](https://arxiv.org/abs/2603.12381v2)** | 2026-03-20 | <details><summary>This ...</summary><p>This is an extended version of a paper published at CCGRID 2026</p></details> |
+| **[Sound State Encodings in Translational Separation Logic Verifiers (Extended Version)](https://arxiv.org/abs/2603.20001v1)** | 2026-03-20 |  |
+| **[Tensor Network Structure Search with Program Synthesis](https://arxiv.org/abs/2502.02711v4)** | 2026-03-20 |  |
+| **[Stone-in-Waiting: A Cloud-Based Accelerator for the Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/2603.19980v1)** | 2026-03-20 |  |
+| **[2DIO: A Cache-Accurate Storage Microbenchmark](https://arxiv.org/abs/2603.19971v1)** | 2026-03-20 | <details><summary>To ap...</summary><p>To appear in EuroSys'26</p></details> |
+| **[Is It a Good Idea to Build an HLS Tool on Top of MLIR? Experience from Building the Dynamatic HLS Compiler](https://arxiv.org/abs/2603.19856v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Languages, Tools, and Techniques for Accelerator Design (LATTE '26)</p></details> |
+| **[Advanced Scheduling Strategies for Distributed Quantum Computing Jobs](https://arxiv.org/abs/2602.24152v2)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 9 tables</p></details> |
+| **[Kumo: A Security-Focused Serverless Cloud Simulator](https://arxiv.org/abs/2603.19787v1)** | 2026-03-20 | <details><summary>In th...</summary><p>In the proceedings of IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGRID) 2026</p></details> |
+| **[Accelerating Triangle Counting with Real Processing-in-Memory Systems](https://arxiv.org/abs/2505.04269v2)** | 2026-03-20 |  |
+| **[When Should Selfish Miners Double-Spend?](https://arxiv.org/abs/2501.03227v5)** | 2026-03-20 |  |
+| **[Incremental Live Programming via Shortcut Memoization](https://arxiv.org/abs/2603.19560v1)** | 2026-03-20 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[cuGenOpt: A GPU-Accelerated General-Purpose Metaheuristic Framework for Combinatorial Optimization](https://arxiv.org/abs/2603.19163v1)** | 2026-03-19 | <details><summary>28 pa...</summary><p>28 pages, 9 figures. Code available at https://github.com/L-yang-yang/cugenopt</p></details> |
-| **[A Pipelined Collaborative Speculative Decoding Framework for Efficient Edge-Cloud LLM Inference](https://arxiv.org/abs/2603.19133v1)** | 2026-03-19 | 8 pages, 6 figures |
-| **[FedTrident: Resilient Road Condition Classification Against Poisoning Attacks in Federated Learning](https://arxiv.org/abs/2603.19101v1)** | 2026-03-19 |  |
-| **[Why Synchronized Time is a Fiction: Daylight Saving Time, Leap Seconds, and the Guillotine Sharpened for Nothing](https://arxiv.org/abs/2603.19099v1)** | 2026-03-19 | <details><summary>18 pa...</summary><p>18 pages, 24 references</p></details> |
-| **[Literature Study on Operational Data Analytics Frameworks in Large-scale Computing Infrastructures](https://arxiv.org/abs/2603.19016v1)** | 2026-03-19 |  |
-| **[Enhancing a Hierarchical Graph Rewriting Language based on MELL Cut Elimination](https://arxiv.org/abs/2411.14802v3)** | 2026-03-19 | <details><summary>Exten...</summary><p>Extended version of the PADL 2025 paper (LNCS, Springer, 2025). This version incorporates into the main text details omitted from the conference version and includes some additional material</p></details> |
-| **[Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution](https://arxiv.org/abs/2603.18897v1)** | 2026-03-19 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v3)** | 2026-03-19 |  |
-| **[On the Surprising Effectiveness of a Single Global Merging in Decentralized Learning](https://arxiv.org/abs/2507.06542v3)** | 2026-03-19 | <details><summary>We di...</summary><p>We discover and theoretically explain why and when a single global parameter merging in decentralized learning can recover the performance of federated learning, even in highly heterogeneous and communication-constrained environments</p></details> |
-| **[VeriEquivBench: An Equivalence Score for Ground-Truth-Free Evaluation of Formally Verifiable Code](https://arxiv.org/abs/2510.06296v2)** | 2026-03-19 |  |
-| **[High-Performance Portable GPU Primitives for Arbitrary Types and Operators in Julia](https://arxiv.org/abs/2603.18695v1)** | 2026-03-19 |  |
-| **[TurboMem: High-Performance Lock-Free Memory Pool with Transparent Huge Page Auto-Merging for DPDK](https://arxiv.org/abs/2603.18690v1)** | 2026-03-19 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 4 tables; v2: Added explicit disclaimer in abstract clarifying that all performance numbers are based on mock benchmarks (real VTune results forthcoming). Minor formatting corrections</p></details> |
-| **[STRATUS: A Multi-agent System for Autonomous Reliability Engineering of Modern Clouds](https://arxiv.org/abs/2506.02009v2)** | 2026-03-19 | <details><summary>10 pa...</summary><p>10 pages for main text</p></details> |
-| **[Fork, Explore, Commit: OS Primitives for Agentic Exploration](https://arxiv.org/abs/2602.08199v2)** | 2026-03-19 |  |
-| **[A Model Consistency-Based Countermeasure to GAN-Based Data Poisoning Attack in Federated Learning](https://arxiv.org/abs/2405.11440v3)** | 2026-03-19 | 18 pages, 16 figures |
+| **[Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v3)** | 2026-03-20 |  |
+| **[Critical Sections Are Not Per-Thread: A Trace Semantics for Lock-Based Concurrency](https://arxiv.org/abs/2603.13142v2)** | 2026-03-20 | <details><summary>defin...</summary><p>defined entry/exit point, protected by lock to state results more clearly</p></details> |
+| **[Understanding and Optimizing Multi-Stage AI Inference Pipelines](https://arxiv.org/abs/2504.09775v5)** | 2026-03-20 | <details><summary>Infer...</summary><p>Inference System Design for Multi-Stage AI Inference Pipelines. 13 Pages, 15 Figues, 3 Tables</p></details> |
+| **[Analyzing Decoders for Quantum Error Correction](https://arxiv.org/abs/2603.20127v1)** | 2026-03-20 |  |
+| **[OpenDC-STEAM: Realistic Modeling and Systematic Exploration of Composable Techniques for Sustainable Datacenters](https://arxiv.org/abs/2603.12381v2)** | 2026-03-20 | <details><summary>This ...</summary><p>This is an extended version of a paper published at CCGRID 2026</p></details> |
+| **[Sound State Encodings in Translational Separation Logic Verifiers (Extended Version)](https://arxiv.org/abs/2603.20001v1)** | 2026-03-20 |  |
+| **[Tensor Network Structure Search with Program Synthesis](https://arxiv.org/abs/2502.02711v4)** | 2026-03-20 |  |
+| **[Stone-in-Waiting: A Cloud-Based Accelerator for the Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/2603.19980v1)** | 2026-03-20 |  |
+| **[2DIO: A Cache-Accurate Storage Microbenchmark](https://arxiv.org/abs/2603.19971v1)** | 2026-03-20 | <details><summary>To ap...</summary><p>To appear in EuroSys'26</p></details> |
+| **[Is It a Good Idea to Build an HLS Tool on Top of MLIR? Experience from Building the Dynamatic HLS Compiler](https://arxiv.org/abs/2603.19856v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Languages, Tools, and Techniques for Accelerator Design (LATTE '26)</p></details> |
+| **[Advanced Scheduling Strategies for Distributed Quantum Computing Jobs](https://arxiv.org/abs/2602.24152v2)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 9 tables</p></details> |
+| **[Kumo: A Security-Focused Serverless Cloud Simulator](https://arxiv.org/abs/2603.19787v1)** | 2026-03-20 | <details><summary>In th...</summary><p>In the proceedings of IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGRID) 2026</p></details> |
+| **[Accelerating Triangle Counting with Real Processing-in-Memory Systems](https://arxiv.org/abs/2505.04269v2)** | 2026-03-20 |  |
+| **[When Should Selfish Miners Double-Spend?](https://arxiv.org/abs/2501.03227v5)** | 2026-03-20 |  |
+| **[Incremental Live Programming via Shortcut Memoization](https://arxiv.org/abs/2603.19560v1)** | 2026-03-20 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[cuGenOpt: A GPU-Accelerated General-Purpose Metaheuristic Framework for Combinatorial Optimization](https://arxiv.org/abs/2603.19163v1)** | 2026-03-19 | <details><summary>28 pa...</summary><p>28 pages, 9 figures. Code available at https://github.com/L-yang-yang/cugenopt</p></details> |
-| **[A Pipelined Collaborative Speculative Decoding Framework for Efficient Edge-Cloud LLM Inference](https://arxiv.org/abs/2603.19133v1)** | 2026-03-19 | 8 pages, 6 figures |
-| **[FedTrident: Resilient Road Condition Classification Against Poisoning Attacks in Federated Learning](https://arxiv.org/abs/2603.19101v1)** | 2026-03-19 |  |
-| **[Why Synchronized Time is a Fiction: Daylight Saving Time, Leap Seconds, and the Guillotine Sharpened for Nothing](https://arxiv.org/abs/2603.19099v1)** | 2026-03-19 | <details><summary>18 pa...</summary><p>18 pages, 24 references</p></details> |
-| **[Literature Study on Operational Data Analytics Frameworks in Large-scale Computing Infrastructures](https://arxiv.org/abs/2603.19016v1)** | 2026-03-19 |  |
-| **[Enhancing a Hierarchical Graph Rewriting Language based on MELL Cut Elimination](https://arxiv.org/abs/2411.14802v3)** | 2026-03-19 | <details><summary>Exten...</summary><p>Extended version of the PADL 2025 paper (LNCS, Springer, 2025). This version incorporates into the main text details omitted from the conference version and includes some additional material</p></details> |
-| **[Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution](https://arxiv.org/abs/2603.18897v1)** | 2026-03-19 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v3)** | 2026-03-19 |  |
-| **[On the Surprising Effectiveness of a Single Global Merging in Decentralized Learning](https://arxiv.org/abs/2507.06542v3)** | 2026-03-19 | <details><summary>We di...</summary><p>We discover and theoretically explain why and when a single global parameter merging in decentralized learning can recover the performance of federated learning, even in highly heterogeneous and communication-constrained environments</p></details> |
-| **[VeriEquivBench: An Equivalence Score for Ground-Truth-Free Evaluation of Formally Verifiable Code](https://arxiv.org/abs/2510.06296v2)** | 2026-03-19 |  |
-| **[High-Performance Portable GPU Primitives for Arbitrary Types and Operators in Julia](https://arxiv.org/abs/2603.18695v1)** | 2026-03-19 |  |
-| **[TurboMem: High-Performance Lock-Free Memory Pool with Transparent Huge Page Auto-Merging for DPDK](https://arxiv.org/abs/2603.18690v1)** | 2026-03-19 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 4 tables; v2: Added explicit disclaimer in abstract clarifying that all performance numbers are based on mock benchmarks (real VTune results forthcoming). Minor formatting corrections</p></details> |
-| **[STRATUS: A Multi-agent System for Autonomous Reliability Engineering of Modern Clouds](https://arxiv.org/abs/2506.02009v2)** | 2026-03-19 | <details><summary>10 pa...</summary><p>10 pages for main text</p></details> |
-| **[Fork, Explore, Commit: OS Primitives for Agentic Exploration](https://arxiv.org/abs/2602.08199v2)** | 2026-03-19 |  |
-| **[A Model Consistency-Based Countermeasure to GAN-Based Data Poisoning Attack in Federated Learning](https://arxiv.org/abs/2405.11440v3)** | 2026-03-19 | 18 pages, 16 figures |
+| **[Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v3)** | 2026-03-20 |  |
+| **[Critical Sections Are Not Per-Thread: A Trace Semantics for Lock-Based Concurrency](https://arxiv.org/abs/2603.13142v2)** | 2026-03-20 | <details><summary>defin...</summary><p>defined entry/exit point, protected by lock to state results more clearly</p></details> |
+| **[Understanding and Optimizing Multi-Stage AI Inference Pipelines](https://arxiv.org/abs/2504.09775v5)** | 2026-03-20 | <details><summary>Infer...</summary><p>Inference System Design for Multi-Stage AI Inference Pipelines. 13 Pages, 15 Figues, 3 Tables</p></details> |
+| **[Analyzing Decoders for Quantum Error Correction](https://arxiv.org/abs/2603.20127v1)** | 2026-03-20 |  |
+| **[OpenDC-STEAM: Realistic Modeling and Systematic Exploration of Composable Techniques for Sustainable Datacenters](https://arxiv.org/abs/2603.12381v2)** | 2026-03-20 | <details><summary>This ...</summary><p>This is an extended version of a paper published at CCGRID 2026</p></details> |
+| **[Sound State Encodings in Translational Separation Logic Verifiers (Extended Version)](https://arxiv.org/abs/2603.20001v1)** | 2026-03-20 |  |
+| **[Tensor Network Structure Search with Program Synthesis](https://arxiv.org/abs/2502.02711v4)** | 2026-03-20 |  |
+| **[Stone-in-Waiting: A Cloud-Based Accelerator for the Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/2603.19980v1)** | 2026-03-20 |  |
+| **[2DIO: A Cache-Accurate Storage Microbenchmark](https://arxiv.org/abs/2603.19971v1)** | 2026-03-20 | <details><summary>To ap...</summary><p>To appear in EuroSys'26</p></details> |
+| **[Is It a Good Idea to Build an HLS Tool on Top of MLIR? Experience from Building the Dynamatic HLS Compiler](https://arxiv.org/abs/2603.19856v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Languages, Tools, and Techniques for Accelerator Design (LATTE '26)</p></details> |
+| **[Advanced Scheduling Strategies for Distributed Quantum Computing Jobs](https://arxiv.org/abs/2602.24152v2)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 9 tables</p></details> |
+| **[Kumo: A Security-Focused Serverless Cloud Simulator](https://arxiv.org/abs/2603.19787v1)** | 2026-03-20 | <details><summary>In th...</summary><p>In the proceedings of IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGRID) 2026</p></details> |
+| **[Accelerating Triangle Counting with Real Processing-in-Memory Systems](https://arxiv.org/abs/2505.04269v2)** | 2026-03-20 |  |
+| **[When Should Selfish Miners Double-Spend?](https://arxiv.org/abs/2501.03227v5)** | 2026-03-20 |  |
+| **[Incremental Live Programming via Shortcut Memoization](https://arxiv.org/abs/2603.19560v1)** | 2026-03-20 |  |
 
