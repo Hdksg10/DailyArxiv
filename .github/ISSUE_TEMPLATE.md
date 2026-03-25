@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2026
+title: Latest 15 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[exaCB: Reproducible Continuous Benchmark Collections at Scale Leveraging an Incremental Approach](https://arxiv.org/abs/2603.22251v1)** | 2026-03-23 |  |
-| **[Agnostics: Learning to Code in Any Programming Language via Reinforcement with a Universal Learning Environment](https://arxiv.org/abs/2508.04865v3)** | 2026-03-23 | <details><summary>30 pa...</summary><p>30 pages, 19 figures. Accepted at ICLR 2026. For data, code, artifacts, see https://agnostics.abgru.me</p></details> |
-| **[Set-Theoretic Types for Erlang: Theory, Implementation, and Evaluation](https://arxiv.org/abs/2603.22032v1)** | 2026-03-23 | <details><summary>85 pa...</summary><p>85 pages, under review for JFP</p></details> |
-| **[Case Study: Performance Analysis of a Virtualized XRootD Frontend in Large-Scale WAN Transfers](https://arxiv.org/abs/2603.09568v2)** | 2026-03-23 |  |
-| **[A Simple and Efficient Implementation of Strong Call by Need by an Abstract Machine](https://arxiv.org/abs/2603.21949v1)** | 2026-03-23 | 39 pages, 4 figures |
-| **[Instruction Set and Language for Symbolic Regression](https://arxiv.org/abs/2603.21836v1)** | 2026-03-23 |  |
-| **[Towards a Higher-Order Mathematical Operational Semantics](https://arxiv.org/abs/2210.13387v4)** | 2026-03-23 | <details><summary>Last ...</summary><p>Last version (v3) was uploaded by mistake; it belongs to another submission: arXiv:2405.16708</p></details> |
-| **[On the Geometric Coherence of Global Aggregation in Federated Graph Neural Networks](https://arxiv.org/abs/2602.15510v3)** | 2026-03-23 | <details><summary>This ...</summary><p>This is a developing preprint of an 18-page journal manuscript (6 figures), currently being prepared for formal peer-review submission</p></details> |
-| **[Reasoning Provenance for Autonomous AI Agents: Structured Behavioral Analytics Beyond State Checkpoints and Execution Traces](https://arxiv.org/abs/2603.21692v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 2 tables, preprint</p></details> |
-| **[Engineered Simultaneity: The Physical Impossibility of Consolidated Price Discovery Across Spacelike-Separated Exchanges](https://arxiv.org/abs/2602.22350v3)** | 2026-03-23 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 2 tables</p></details> |
-| **[DIP: Efficient Large Multimodal Model Training with Dynamic Interleaved Pipeline](https://arxiv.org/abs/2504.14145v2)** | 2026-03-23 | <details><summary>To be...</summary><p>To be published in ASPLOS'26</p></details> |
-| **[Benchmarking Message Brokers for IoT Edge Computing: A Comprehensive Performance Study](https://arxiv.org/abs/2603.21600v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted at IEEE/ACM CCGrid 2026</p></details> |
-| **[LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure](https://arxiv.org/abs/2602.23036v2)** | 2026-03-23 | 14 pages, 11 figures |
-| **[Communication-Avoiding SpGEMM via Trident Partitioning on Hierarchical GPU Interconnects](https://arxiv.org/abs/2603.21444v1)** | 2026-03-22 |  |
-| **[Decidability of Livelock Detection for Parameterized Self-Disabling Unidirectional Rings](https://arxiv.org/abs/2603.21443v1)** | 2026-03-22 | <details><summary>8 pag...</summary><p>8 pages, 0 figures, 1 table</p></details> |
+| **[SNARE: A TRAP for Rational Players to Solve Byzantine Consensus in the 5f+1 Model](https://arxiv.org/abs/2603.23458v1)** | 2026-03-24 | WIP |
+| **[Let Functions Speak: Lightweight Parametric Polymorphism via Domain and Range Types](https://arxiv.org/abs/2603.23360v1)** | 2026-03-24 |  |
+| **[Communication-Avoiding SpGEMM via Trident Partitioning on Hierarchical GPU Interconnects](https://arxiv.org/abs/2603.21444v2)** | 2026-03-24 |  |
+| **[Numerical Kernels on a Spatial Accelerator: A Study of Tenstorrent Wormhole](https://arxiv.org/abs/2603.23343v1)** | 2026-03-24 | 12 pages, 13 figures |
+| **[LOGSAFE: Logic-Guided Verification for Trustworthy Federated Time-Series Learning](https://arxiv.org/abs/2411.03231v3)** | 2026-03-24 | <details><summary>17th ...</summary><p>17th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)</p></details> |
+| **[Communication-Aware Diffusion Load Balancing for Persistently Interacting Objects](https://arxiv.org/abs/2603.23329v1)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. To appear in the Proceedings of PDSEC 2026 (workshop of the IEEE IPDPS 2026)</p></details> |
+| **[EmbBERT: Attention Under 2 MB Memory](https://arxiv.org/abs/2502.10001v3)** | 2026-03-24 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 14 tables</p></details> |
+| **[astroCAMP: A Community Benchmark and Co-Design Framework for Sustainable SKA-Scale Radio Imaging](https://arxiv.org/abs/2512.13591v2)** | 2026-03-24 | 13 pages, 16 figures |
+| **[Arena: Efficiently Training Large Models via Dynamic Scheduling and Adaptive Parallelism Co-Design](https://arxiv.org/abs/2403.16125v2)** | 2026-03-24 |  |
+| **[Efficient Distributed Decomposition and Routing Algorithms in Minor-Free Networks and Their Applications](https://arxiv.org/abs/2304.04699v2)** | 2026-03-24 |  |
+| **[Towards Industrial-scale Product Configuration](https://arxiv.org/abs/2504.00013v4)** | 2026-03-24 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[PCR: A Prefetch-Enhanced Cache Reuse System for Low-Latency RAG Serving](https://arxiv.org/abs/2603.23049v1)** | 2026-03-24 |  |
+| **[DP-FedSOFIM: Differentially Private Federated Stochastic Optimization using Regularized Fisher Information Matrix](https://arxiv.org/abs/2601.09166v2)** | 2026-03-24 | <details><summary>40 pa...</summary><p>40 pages, 4 figures, 3 tables. Submitted to TMLR</p></details> |
+| **[Characterizing CPU-Induced Slowdowns in Multi-GPU LLM Inference](https://arxiv.org/abs/2603.22774v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 13 figures, 1 table</p></details> |
+| **[WWW.Serve: Interconnecting Global LLM Services through Decentralization](https://arxiv.org/abs/2603.20661v2)** | 2026-03-24 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[exaCB: Reproducible Continuous Benchmark Collections at Scale Leveraging an Incremental Approach](https://arxiv.org/abs/2603.22251v1)** | 2026-03-23 |  |
-| **[Agnostics: Learning to Code in Any Programming Language via Reinforcement with a Universal Learning Environment](https://arxiv.org/abs/2508.04865v3)** | 2026-03-23 | <details><summary>30 pa...</summary><p>30 pages, 19 figures. Accepted at ICLR 2026. For data, code, artifacts, see https://agnostics.abgru.me</p></details> |
-| **[Set-Theoretic Types for Erlang: Theory, Implementation, and Evaluation](https://arxiv.org/abs/2603.22032v1)** | 2026-03-23 | <details><summary>85 pa...</summary><p>85 pages, under review for JFP</p></details> |
-| **[Case Study: Performance Analysis of a Virtualized XRootD Frontend in Large-Scale WAN Transfers](https://arxiv.org/abs/2603.09568v2)** | 2026-03-23 |  |
-| **[A Simple and Efficient Implementation of Strong Call by Need by an Abstract Machine](https://arxiv.org/abs/2603.21949v1)** | 2026-03-23 | 39 pages, 4 figures |
-| **[Instruction Set and Language for Symbolic Regression](https://arxiv.org/abs/2603.21836v1)** | 2026-03-23 |  |
-| **[Towards a Higher-Order Mathematical Operational Semantics](https://arxiv.org/abs/2210.13387v4)** | 2026-03-23 | <details><summary>Last ...</summary><p>Last version (v3) was uploaded by mistake; it belongs to another submission: arXiv:2405.16708</p></details> |
-| **[On the Geometric Coherence of Global Aggregation in Federated Graph Neural Networks](https://arxiv.org/abs/2602.15510v3)** | 2026-03-23 | <details><summary>This ...</summary><p>This is a developing preprint of an 18-page journal manuscript (6 figures), currently being prepared for formal peer-review submission</p></details> |
-| **[Reasoning Provenance for Autonomous AI Agents: Structured Behavioral Analytics Beyond State Checkpoints and Execution Traces](https://arxiv.org/abs/2603.21692v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 2 tables, preprint</p></details> |
-| **[Engineered Simultaneity: The Physical Impossibility of Consolidated Price Discovery Across Spacelike-Separated Exchanges](https://arxiv.org/abs/2602.22350v3)** | 2026-03-23 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 2 tables</p></details> |
-| **[DIP: Efficient Large Multimodal Model Training with Dynamic Interleaved Pipeline](https://arxiv.org/abs/2504.14145v2)** | 2026-03-23 | <details><summary>To be...</summary><p>To be published in ASPLOS'26</p></details> |
-| **[Benchmarking Message Brokers for IoT Edge Computing: A Comprehensive Performance Study](https://arxiv.org/abs/2603.21600v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted at IEEE/ACM CCGrid 2026</p></details> |
-| **[LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure](https://arxiv.org/abs/2602.23036v2)** | 2026-03-23 | 14 pages, 11 figures |
-| **[Communication-Avoiding SpGEMM via Trident Partitioning on Hierarchical GPU Interconnects](https://arxiv.org/abs/2603.21444v1)** | 2026-03-22 |  |
-| **[Decidability of Livelock Detection for Parameterized Self-Disabling Unidirectional Rings](https://arxiv.org/abs/2603.21443v1)** | 2026-03-22 | <details><summary>8 pag...</summary><p>8 pages, 0 figures, 1 table</p></details> |
+| **[SNARE: A TRAP for Rational Players to Solve Byzantine Consensus in the 5f+1 Model](https://arxiv.org/abs/2603.23458v1)** | 2026-03-24 | WIP |
+| **[Let Functions Speak: Lightweight Parametric Polymorphism via Domain and Range Types](https://arxiv.org/abs/2603.23360v1)** | 2026-03-24 |  |
+| **[Communication-Avoiding SpGEMM via Trident Partitioning on Hierarchical GPU Interconnects](https://arxiv.org/abs/2603.21444v2)** | 2026-03-24 |  |
+| **[Numerical Kernels on a Spatial Accelerator: A Study of Tenstorrent Wormhole](https://arxiv.org/abs/2603.23343v1)** | 2026-03-24 | 12 pages, 13 figures |
+| **[LOGSAFE: Logic-Guided Verification for Trustworthy Federated Time-Series Learning](https://arxiv.org/abs/2411.03231v3)** | 2026-03-24 | <details><summary>17th ...</summary><p>17th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)</p></details> |
+| **[Communication-Aware Diffusion Load Balancing for Persistently Interacting Objects](https://arxiv.org/abs/2603.23329v1)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. To appear in the Proceedings of PDSEC 2026 (workshop of the IEEE IPDPS 2026)</p></details> |
+| **[EmbBERT: Attention Under 2 MB Memory](https://arxiv.org/abs/2502.10001v3)** | 2026-03-24 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 14 tables</p></details> |
+| **[astroCAMP: A Community Benchmark and Co-Design Framework for Sustainable SKA-Scale Radio Imaging](https://arxiv.org/abs/2512.13591v2)** | 2026-03-24 | 13 pages, 16 figures |
+| **[Arena: Efficiently Training Large Models via Dynamic Scheduling and Adaptive Parallelism Co-Design](https://arxiv.org/abs/2403.16125v2)** | 2026-03-24 |  |
+| **[Efficient Distributed Decomposition and Routing Algorithms in Minor-Free Networks and Their Applications](https://arxiv.org/abs/2304.04699v2)** | 2026-03-24 |  |
+| **[Towards Industrial-scale Product Configuration](https://arxiv.org/abs/2504.00013v4)** | 2026-03-24 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[PCR: A Prefetch-Enhanced Cache Reuse System for Low-Latency RAG Serving](https://arxiv.org/abs/2603.23049v1)** | 2026-03-24 |  |
+| **[DP-FedSOFIM: Differentially Private Federated Stochastic Optimization using Regularized Fisher Information Matrix](https://arxiv.org/abs/2601.09166v2)** | 2026-03-24 | <details><summary>40 pa...</summary><p>40 pages, 4 figures, 3 tables. Submitted to TMLR</p></details> |
+| **[Characterizing CPU-Induced Slowdowns in Multi-GPU LLM Inference](https://arxiv.org/abs/2603.22774v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 13 figures, 1 table</p></details> |
+| **[WWW.Serve: Interconnecting Global LLM Services through Decentralization](https://arxiv.org/abs/2603.20661v2)** | 2026-03-24 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[exaCB: Reproducible Continuous Benchmark Collections at Scale Leveraging an Incremental Approach](https://arxiv.org/abs/2603.22251v1)** | 2026-03-23 |  |
-| **[Agnostics: Learning to Code in Any Programming Language via Reinforcement with a Universal Learning Environment](https://arxiv.org/abs/2508.04865v3)** | 2026-03-23 | <details><summary>30 pa...</summary><p>30 pages, 19 figures. Accepted at ICLR 2026. For data, code, artifacts, see https://agnostics.abgru.me</p></details> |
-| **[Set-Theoretic Types for Erlang: Theory, Implementation, and Evaluation](https://arxiv.org/abs/2603.22032v1)** | 2026-03-23 | <details><summary>85 pa...</summary><p>85 pages, under review for JFP</p></details> |
-| **[Case Study: Performance Analysis of a Virtualized XRootD Frontend in Large-Scale WAN Transfers](https://arxiv.org/abs/2603.09568v2)** | 2026-03-23 |  |
-| **[A Simple and Efficient Implementation of Strong Call by Need by an Abstract Machine](https://arxiv.org/abs/2603.21949v1)** | 2026-03-23 | 39 pages, 4 figures |
-| **[Instruction Set and Language for Symbolic Regression](https://arxiv.org/abs/2603.21836v1)** | 2026-03-23 |  |
-| **[Towards a Higher-Order Mathematical Operational Semantics](https://arxiv.org/abs/2210.13387v4)** | 2026-03-23 | <details><summary>Last ...</summary><p>Last version (v3) was uploaded by mistake; it belongs to another submission: arXiv:2405.16708</p></details> |
-| **[On the Geometric Coherence of Global Aggregation in Federated Graph Neural Networks](https://arxiv.org/abs/2602.15510v3)** | 2026-03-23 | <details><summary>This ...</summary><p>This is a developing preprint of an 18-page journal manuscript (6 figures), currently being prepared for formal peer-review submission</p></details> |
-| **[Reasoning Provenance for Autonomous AI Agents: Structured Behavioral Analytics Beyond State Checkpoints and Execution Traces](https://arxiv.org/abs/2603.21692v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 2 tables, preprint</p></details> |
-| **[Engineered Simultaneity: The Physical Impossibility of Consolidated Price Discovery Across Spacelike-Separated Exchanges](https://arxiv.org/abs/2602.22350v3)** | 2026-03-23 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 2 tables</p></details> |
-| **[DIP: Efficient Large Multimodal Model Training with Dynamic Interleaved Pipeline](https://arxiv.org/abs/2504.14145v2)** | 2026-03-23 | <details><summary>To be...</summary><p>To be published in ASPLOS'26</p></details> |
-| **[Benchmarking Message Brokers for IoT Edge Computing: A Comprehensive Performance Study](https://arxiv.org/abs/2603.21600v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted at IEEE/ACM CCGrid 2026</p></details> |
-| **[LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure](https://arxiv.org/abs/2602.23036v2)** | 2026-03-23 | 14 pages, 11 figures |
-| **[Communication-Avoiding SpGEMM via Trident Partitioning on Hierarchical GPU Interconnects](https://arxiv.org/abs/2603.21444v1)** | 2026-03-22 |  |
-| **[Decidability of Livelock Detection for Parameterized Self-Disabling Unidirectional Rings](https://arxiv.org/abs/2603.21443v1)** | 2026-03-22 | <details><summary>8 pag...</summary><p>8 pages, 0 figures, 1 table</p></details> |
+| **[SNARE: A TRAP for Rational Players to Solve Byzantine Consensus in the 5f+1 Model](https://arxiv.org/abs/2603.23458v1)** | 2026-03-24 | WIP |
+| **[Let Functions Speak: Lightweight Parametric Polymorphism via Domain and Range Types](https://arxiv.org/abs/2603.23360v1)** | 2026-03-24 |  |
+| **[Communication-Avoiding SpGEMM via Trident Partitioning on Hierarchical GPU Interconnects](https://arxiv.org/abs/2603.21444v2)** | 2026-03-24 |  |
+| **[Numerical Kernels on a Spatial Accelerator: A Study of Tenstorrent Wormhole](https://arxiv.org/abs/2603.23343v1)** | 2026-03-24 | 12 pages, 13 figures |
+| **[LOGSAFE: Logic-Guided Verification for Trustworthy Federated Time-Series Learning](https://arxiv.org/abs/2411.03231v3)** | 2026-03-24 | <details><summary>17th ...</summary><p>17th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)</p></details> |
+| **[Communication-Aware Diffusion Load Balancing for Persistently Interacting Objects](https://arxiv.org/abs/2603.23329v1)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. To appear in the Proceedings of PDSEC 2026 (workshop of the IEEE IPDPS 2026)</p></details> |
+| **[EmbBERT: Attention Under 2 MB Memory](https://arxiv.org/abs/2502.10001v3)** | 2026-03-24 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 14 tables</p></details> |
+| **[astroCAMP: A Community Benchmark and Co-Design Framework for Sustainable SKA-Scale Radio Imaging](https://arxiv.org/abs/2512.13591v2)** | 2026-03-24 | 13 pages, 16 figures |
+| **[Arena: Efficiently Training Large Models via Dynamic Scheduling and Adaptive Parallelism Co-Design](https://arxiv.org/abs/2403.16125v2)** | 2026-03-24 |  |
+| **[Efficient Distributed Decomposition and Routing Algorithms in Minor-Free Networks and Their Applications](https://arxiv.org/abs/2304.04699v2)** | 2026-03-24 |  |
+| **[Towards Industrial-scale Product Configuration](https://arxiv.org/abs/2504.00013v4)** | 2026-03-24 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[PCR: A Prefetch-Enhanced Cache Reuse System for Low-Latency RAG Serving](https://arxiv.org/abs/2603.23049v1)** | 2026-03-24 |  |
+| **[DP-FedSOFIM: Differentially Private Federated Stochastic Optimization using Regularized Fisher Information Matrix](https://arxiv.org/abs/2601.09166v2)** | 2026-03-24 | <details><summary>40 pa...</summary><p>40 pages, 4 figures, 3 tables. Submitted to TMLR</p></details> |
+| **[Characterizing CPU-Induced Slowdowns in Multi-GPU LLM Inference](https://arxiv.org/abs/2603.22774v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 13 figures, 1 table</p></details> |
+| **[WWW.Serve: Interconnecting Global LLM Services through Decentralization](https://arxiv.org/abs/2603.20661v2)** | 2026-03-24 |  |
 
