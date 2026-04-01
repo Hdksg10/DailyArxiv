@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 01, 2026
+title: Latest 15 Papers - April 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BitSov: A Composable Bitcoin-Native Architecture for Sovereign Internet Infrastructure](https://arxiv.org/abs/2603.28727v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted at BlockArch 2026, co-located with IEEE ICSA 2026. 4 pages</p></details> |
-| **[GPU-Accelerated Optimization of Transformer-Based Neural Networks for Real-Time Inference](https://arxiv.org/abs/2603.28708v1)** | 2026-03-30 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 15 tables</p></details> |
-| **[What Is the Optimal Ranking Score Between Precision and Recall? We Can Always Find It and It Is Rarely $F_1$](https://arxiv.org/abs/2511.22442v2)** | 2026-03-30 | CVPR 2026 |
-| **[FL-PBM: Pre-Training Backdoor Mitigation for Federated Learning](https://arxiv.org/abs/2603.28673v1)** | 2026-03-30 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 1 table, 2 algorithms, Regular Journal Paper</p></details> |
-| **[Mitigating Backdoor Attacks in Federated Learning Using PPA and MiniMax Game Theory](https://arxiv.org/abs/2603.28652v1)** | 2026-03-30 | <details><summary>12 pa...</summary><p>12 pages, 4 images, 2 tables, 2 algorithms, Regular Journal Paper</p></details> |
-| **[Sublogarithmic Distributed Vertex Coloring with Optimal Number of Colors](https://arxiv.org/abs/2603.28637v1)** | 2026-03-30 | <details><summary>To ap...</summary><p>To appear in STOC 2026</p></details> |
-| **[Trust-Aware Routing for Distributed Generative AI Inference at the Edge](https://arxiv.org/abs/2603.28622v1)** | 2026-03-30 | <details><summary>11 pa...</summary><p>11 pages, 10 figures. Preprint accepted at the 22nd Annual International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2026)</p></details> |
-| **[Finding a Fair Scoring Function for Top-$k$ Selection: From Hardness to Practice](https://arxiv.org/abs/2503.11575v5)** | 2026-03-30 | <details><summary>Abstr...</summary><p>Abstract shortened to meet arXiv requirements; an extended abstract to appear at SoCG 2026</p></details> |
-| **[2-Functoriality of Initial Semantics, and Applications](https://arxiv.org/abs/2503.10863v2)** | 2026-03-30 | <details><summary>Versi...</summary><p>Version identical to the one published in ICFP 2025</p></details> |
-| **[CirrusBench: Evaluating LLM-based Agents Beyond Correctness in Real-World Cloud Service Environments](https://arxiv.org/abs/2603.28569v1)** | 2026-03-30 | <details><summary>Submi...</summary><p>Submitted for SIGKDD 2026</p></details> |
-| **[Types for Grassroots Logic Programs](https://arxiv.org/abs/2601.17957v3)** | 2026-03-30 |  |
-| **[FeDMRA: Federated Incremental Learning with Dynamic Memory Replay Allocation](https://arxiv.org/abs/2603.28455v1)** | 2026-03-30 |  |
-| **[Warp-STAR: High-performance, Differentiable GPU-Accelerated Static Timing Analysis through Warp-oriented Parallel Orchestration](https://arxiv.org/abs/2603.28381v1)** | 2026-03-30 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, The Chips to System Conference (DAC'26) 2026</p></details> |
-| **[Key-Embedded Privacy for Decentralized AI in Biomedical Omics](https://arxiv.org/abs/2603.28334v1)** | 2026-03-30 |  |
-| **[Towards verifying unsafe Rust programs against Rust's pointer-aliasing restrictions](https://arxiv.org/abs/2603.28326v1)** | 2026-03-30 | 8 pages, 9 figures |
+| **[When Does Global Attention Help? A Unified Empirical Study on Atomistic Graph Learning](https://arxiv.org/abs/2510.05583v2)** | 2026-03-31 | <details><summary>44 pa...</summary><p>44 pages, 8 figures, 19 tables</p></details> |
+| **[A Lightweight Hybrid Publish/Subscribe Event Fabric for IPC and Modular Distributed Systems](https://arxiv.org/abs/2603.30030v1)** | 2026-03-31 |  |
+| **[Scalable AI-assisted Workflow Management for Detector Design Optimization Using Distributed Computing](https://arxiv.org/abs/2603.30014v1)** | 2026-03-31 |  |
+| **[Phyelds: A Pythonic Framework for Aggregate Computing](https://arxiv.org/abs/2603.29999v1)** | 2026-03-31 |  |
+| **[A Precision Emulation Approach to the GPU Acceleration of Ab Initio Electronic Structure Calculations](https://arxiv.org/abs/2603.29975v1)** | 2026-03-31 |  |
+| **[Semantic Identity Compression: Zero-Error Laws, Rate-Distortion, and Neurosymbolic Necessity](https://arxiv.org/abs/2601.14252v5)** | 2026-03-31 | <details><summary>13 pa...</summary><p>13 pages, 2 tables. Lean 4 artifact and supplementary material available at https://doi.org/10.5281/zenodo.18123531</p></details> |
+| **[Exact Recovery Under Deterministic Partial Views: Confusability Graphs, Strong Powers, and Capacity](https://arxiv.org/abs/2602.23520v4)** | 2026-03-31 | <details><summary>17 pa...</summary><p>17 pages, 1 figure, 2 tables. Lean 4 artifact and supplementary available at https://doi.org/10.5281/zenodo.18141365</p></details> |
+| **[Multi-paradigm Logic Programming in the ${\cal E}$rgoAI System](https://arxiv.org/abs/2603.29819v1)** | 2026-03-31 | <details><summary>43 pa...</summary><p>43 pages, 9 figures. Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[M3SA: Exploring Datacenter Performance and Climate-Impact with Multi- and Meta-Model Simulation and Analysis](https://arxiv.org/abs/2603.29778v1)** | 2026-03-31 |  |
+| **[A Graded Modal Dependent Type Theory with Erasure, Formalized](https://arxiv.org/abs/2603.29716v1)** | 2026-03-31 |  |
+| **[Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS Systems](https://arxiv.org/abs/2505.21899v2)** | 2026-03-31 |  |
+| **[Storing Less, Finding More: How Novelty Filtering Improves Cross-Modal Retrieval on Edge Cameras](https://arxiv.org/abs/2603.29631v1)** | 2026-03-31 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 5 tables; supplementary video included as ancillary file</p></details> |
+| **[Efficient Parallel Compilation and Profiling of Quantum Circuits at Large Scales](https://arxiv.org/abs/2603.29598v1)** | 2026-03-31 |  |
+| **[Polynomial Time Local Decision Revisited](https://arxiv.org/abs/2603.29477v1)** | 2026-03-31 |  |
+| **[Exploration of Energy and Throughput Tradeoffs for Dataflow Networks](https://arxiv.org/abs/2603.29367v1)** | 2026-03-31 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BitSov: A Composable Bitcoin-Native Architecture for Sovereign Internet Infrastructure](https://arxiv.org/abs/2603.28727v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted at BlockArch 2026, co-located with IEEE ICSA 2026. 4 pages</p></details> |
-| **[GPU-Accelerated Optimization of Transformer-Based Neural Networks for Real-Time Inference](https://arxiv.org/abs/2603.28708v1)** | 2026-03-30 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 15 tables</p></details> |
-| **[What Is the Optimal Ranking Score Between Precision and Recall? We Can Always Find It and It Is Rarely $F_1$](https://arxiv.org/abs/2511.22442v2)** | 2026-03-30 | CVPR 2026 |
-| **[FL-PBM: Pre-Training Backdoor Mitigation for Federated Learning](https://arxiv.org/abs/2603.28673v1)** | 2026-03-30 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 1 table, 2 algorithms, Regular Journal Paper</p></details> |
-| **[Mitigating Backdoor Attacks in Federated Learning Using PPA and MiniMax Game Theory](https://arxiv.org/abs/2603.28652v1)** | 2026-03-30 | <details><summary>12 pa...</summary><p>12 pages, 4 images, 2 tables, 2 algorithms, Regular Journal Paper</p></details> |
-| **[Sublogarithmic Distributed Vertex Coloring with Optimal Number of Colors](https://arxiv.org/abs/2603.28637v1)** | 2026-03-30 | <details><summary>To ap...</summary><p>To appear in STOC 2026</p></details> |
-| **[Trust-Aware Routing for Distributed Generative AI Inference at the Edge](https://arxiv.org/abs/2603.28622v1)** | 2026-03-30 | <details><summary>11 pa...</summary><p>11 pages, 10 figures. Preprint accepted at the 22nd Annual International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2026)</p></details> |
-| **[Finding a Fair Scoring Function for Top-$k$ Selection: From Hardness to Practice](https://arxiv.org/abs/2503.11575v5)** | 2026-03-30 | <details><summary>Abstr...</summary><p>Abstract shortened to meet arXiv requirements; an extended abstract to appear at SoCG 2026</p></details> |
-| **[2-Functoriality of Initial Semantics, and Applications](https://arxiv.org/abs/2503.10863v2)** | 2026-03-30 | <details><summary>Versi...</summary><p>Version identical to the one published in ICFP 2025</p></details> |
-| **[CirrusBench: Evaluating LLM-based Agents Beyond Correctness in Real-World Cloud Service Environments](https://arxiv.org/abs/2603.28569v1)** | 2026-03-30 | <details><summary>Submi...</summary><p>Submitted for SIGKDD 2026</p></details> |
-| **[Types for Grassroots Logic Programs](https://arxiv.org/abs/2601.17957v3)** | 2026-03-30 |  |
-| **[FeDMRA: Federated Incremental Learning with Dynamic Memory Replay Allocation](https://arxiv.org/abs/2603.28455v1)** | 2026-03-30 |  |
-| **[Warp-STAR: High-performance, Differentiable GPU-Accelerated Static Timing Analysis through Warp-oriented Parallel Orchestration](https://arxiv.org/abs/2603.28381v1)** | 2026-03-30 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, The Chips to System Conference (DAC'26) 2026</p></details> |
-| **[Key-Embedded Privacy for Decentralized AI in Biomedical Omics](https://arxiv.org/abs/2603.28334v1)** | 2026-03-30 |  |
-| **[Towards verifying unsafe Rust programs against Rust's pointer-aliasing restrictions](https://arxiv.org/abs/2603.28326v1)** | 2026-03-30 | 8 pages, 9 figures |
+| **[When Does Global Attention Help? A Unified Empirical Study on Atomistic Graph Learning](https://arxiv.org/abs/2510.05583v2)** | 2026-03-31 | <details><summary>44 pa...</summary><p>44 pages, 8 figures, 19 tables</p></details> |
+| **[A Lightweight Hybrid Publish/Subscribe Event Fabric for IPC and Modular Distributed Systems](https://arxiv.org/abs/2603.30030v1)** | 2026-03-31 |  |
+| **[Scalable AI-assisted Workflow Management for Detector Design Optimization Using Distributed Computing](https://arxiv.org/abs/2603.30014v1)** | 2026-03-31 |  |
+| **[Phyelds: A Pythonic Framework for Aggregate Computing](https://arxiv.org/abs/2603.29999v1)** | 2026-03-31 |  |
+| **[A Precision Emulation Approach to the GPU Acceleration of Ab Initio Electronic Structure Calculations](https://arxiv.org/abs/2603.29975v1)** | 2026-03-31 |  |
+| **[Semantic Identity Compression: Zero-Error Laws, Rate-Distortion, and Neurosymbolic Necessity](https://arxiv.org/abs/2601.14252v5)** | 2026-03-31 | <details><summary>13 pa...</summary><p>13 pages, 2 tables. Lean 4 artifact and supplementary material available at https://doi.org/10.5281/zenodo.18123531</p></details> |
+| **[Exact Recovery Under Deterministic Partial Views: Confusability Graphs, Strong Powers, and Capacity](https://arxiv.org/abs/2602.23520v4)** | 2026-03-31 | <details><summary>17 pa...</summary><p>17 pages, 1 figure, 2 tables. Lean 4 artifact and supplementary available at https://doi.org/10.5281/zenodo.18141365</p></details> |
+| **[Multi-paradigm Logic Programming in the ${\cal E}$rgoAI System](https://arxiv.org/abs/2603.29819v1)** | 2026-03-31 | <details><summary>43 pa...</summary><p>43 pages, 9 figures. Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[M3SA: Exploring Datacenter Performance and Climate-Impact with Multi- and Meta-Model Simulation and Analysis](https://arxiv.org/abs/2603.29778v1)** | 2026-03-31 |  |
+| **[A Graded Modal Dependent Type Theory with Erasure, Formalized](https://arxiv.org/abs/2603.29716v1)** | 2026-03-31 |  |
+| **[Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS Systems](https://arxiv.org/abs/2505.21899v2)** | 2026-03-31 |  |
+| **[Storing Less, Finding More: How Novelty Filtering Improves Cross-Modal Retrieval on Edge Cameras](https://arxiv.org/abs/2603.29631v1)** | 2026-03-31 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 5 tables; supplementary video included as ancillary file</p></details> |
+| **[Efficient Parallel Compilation and Profiling of Quantum Circuits at Large Scales](https://arxiv.org/abs/2603.29598v1)** | 2026-03-31 |  |
+| **[Polynomial Time Local Decision Revisited](https://arxiv.org/abs/2603.29477v1)** | 2026-03-31 |  |
+| **[Exploration of Energy and Throughput Tradeoffs for Dataflow Networks](https://arxiv.org/abs/2603.29367v1)** | 2026-03-31 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BitSov: A Composable Bitcoin-Native Architecture for Sovereign Internet Infrastructure](https://arxiv.org/abs/2603.28727v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted at BlockArch 2026, co-located with IEEE ICSA 2026. 4 pages</p></details> |
-| **[GPU-Accelerated Optimization of Transformer-Based Neural Networks for Real-Time Inference](https://arxiv.org/abs/2603.28708v1)** | 2026-03-30 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 15 tables</p></details> |
-| **[What Is the Optimal Ranking Score Between Precision and Recall? We Can Always Find It and It Is Rarely $F_1$](https://arxiv.org/abs/2511.22442v2)** | 2026-03-30 | CVPR 2026 |
-| **[FL-PBM: Pre-Training Backdoor Mitigation for Federated Learning](https://arxiv.org/abs/2603.28673v1)** | 2026-03-30 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 1 table, 2 algorithms, Regular Journal Paper</p></details> |
-| **[Mitigating Backdoor Attacks in Federated Learning Using PPA and MiniMax Game Theory](https://arxiv.org/abs/2603.28652v1)** | 2026-03-30 | <details><summary>12 pa...</summary><p>12 pages, 4 images, 2 tables, 2 algorithms, Regular Journal Paper</p></details> |
-| **[Sublogarithmic Distributed Vertex Coloring with Optimal Number of Colors](https://arxiv.org/abs/2603.28637v1)** | 2026-03-30 | <details><summary>To ap...</summary><p>To appear in STOC 2026</p></details> |
-| **[Trust-Aware Routing for Distributed Generative AI Inference at the Edge](https://arxiv.org/abs/2603.28622v1)** | 2026-03-30 | <details><summary>11 pa...</summary><p>11 pages, 10 figures. Preprint accepted at the 22nd Annual International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2026)</p></details> |
-| **[Finding a Fair Scoring Function for Top-$k$ Selection: From Hardness to Practice](https://arxiv.org/abs/2503.11575v5)** | 2026-03-30 | <details><summary>Abstr...</summary><p>Abstract shortened to meet arXiv requirements; an extended abstract to appear at SoCG 2026</p></details> |
-| **[2-Functoriality of Initial Semantics, and Applications](https://arxiv.org/abs/2503.10863v2)** | 2026-03-30 | <details><summary>Versi...</summary><p>Version identical to the one published in ICFP 2025</p></details> |
-| **[CirrusBench: Evaluating LLM-based Agents Beyond Correctness in Real-World Cloud Service Environments](https://arxiv.org/abs/2603.28569v1)** | 2026-03-30 | <details><summary>Submi...</summary><p>Submitted for SIGKDD 2026</p></details> |
-| **[Types for Grassroots Logic Programs](https://arxiv.org/abs/2601.17957v3)** | 2026-03-30 |  |
-| **[FeDMRA: Federated Incremental Learning with Dynamic Memory Replay Allocation](https://arxiv.org/abs/2603.28455v1)** | 2026-03-30 |  |
-| **[Warp-STAR: High-performance, Differentiable GPU-Accelerated Static Timing Analysis through Warp-oriented Parallel Orchestration](https://arxiv.org/abs/2603.28381v1)** | 2026-03-30 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, The Chips to System Conference (DAC'26) 2026</p></details> |
-| **[Key-Embedded Privacy for Decentralized AI in Biomedical Omics](https://arxiv.org/abs/2603.28334v1)** | 2026-03-30 |  |
-| **[Towards verifying unsafe Rust programs against Rust's pointer-aliasing restrictions](https://arxiv.org/abs/2603.28326v1)** | 2026-03-30 | 8 pages, 9 figures |
+| **[When Does Global Attention Help? A Unified Empirical Study on Atomistic Graph Learning](https://arxiv.org/abs/2510.05583v2)** | 2026-03-31 | <details><summary>44 pa...</summary><p>44 pages, 8 figures, 19 tables</p></details> |
+| **[A Lightweight Hybrid Publish/Subscribe Event Fabric for IPC and Modular Distributed Systems](https://arxiv.org/abs/2603.30030v1)** | 2026-03-31 |  |
+| **[Scalable AI-assisted Workflow Management for Detector Design Optimization Using Distributed Computing](https://arxiv.org/abs/2603.30014v1)** | 2026-03-31 |  |
+| **[Phyelds: A Pythonic Framework for Aggregate Computing](https://arxiv.org/abs/2603.29999v1)** | 2026-03-31 |  |
+| **[A Precision Emulation Approach to the GPU Acceleration of Ab Initio Electronic Structure Calculations](https://arxiv.org/abs/2603.29975v1)** | 2026-03-31 |  |
+| **[Semantic Identity Compression: Zero-Error Laws, Rate-Distortion, and Neurosymbolic Necessity](https://arxiv.org/abs/2601.14252v5)** | 2026-03-31 | <details><summary>13 pa...</summary><p>13 pages, 2 tables. Lean 4 artifact and supplementary material available at https://doi.org/10.5281/zenodo.18123531</p></details> |
+| **[Exact Recovery Under Deterministic Partial Views: Confusability Graphs, Strong Powers, and Capacity](https://arxiv.org/abs/2602.23520v4)** | 2026-03-31 | <details><summary>17 pa...</summary><p>17 pages, 1 figure, 2 tables. Lean 4 artifact and supplementary available at https://doi.org/10.5281/zenodo.18141365</p></details> |
+| **[Multi-paradigm Logic Programming in the ${\cal E}$rgoAI System](https://arxiv.org/abs/2603.29819v1)** | 2026-03-31 | <details><summary>43 pa...</summary><p>43 pages, 9 figures. Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[M3SA: Exploring Datacenter Performance and Climate-Impact with Multi- and Meta-Model Simulation and Analysis](https://arxiv.org/abs/2603.29778v1)** | 2026-03-31 |  |
+| **[A Graded Modal Dependent Type Theory with Erasure, Formalized](https://arxiv.org/abs/2603.29716v1)** | 2026-03-31 |  |
+| **[Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS Systems](https://arxiv.org/abs/2505.21899v2)** | 2026-03-31 |  |
+| **[Storing Less, Finding More: How Novelty Filtering Improves Cross-Modal Retrieval on Edge Cameras](https://arxiv.org/abs/2603.29631v1)** | 2026-03-31 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 5 tables; supplementary video included as ancillary file</p></details> |
+| **[Efficient Parallel Compilation and Profiling of Quantum Circuits at Large Scales](https://arxiv.org/abs/2603.29598v1)** | 2026-03-31 |  |
+| **[Polynomial Time Local Decision Revisited](https://arxiv.org/abs/2603.29477v1)** | 2026-03-31 |  |
+| **[Exploration of Energy and Throughput Tradeoffs for Dataflow Networks](https://arxiv.org/abs/2603.29367v1)** | 2026-03-31 |  |
 
