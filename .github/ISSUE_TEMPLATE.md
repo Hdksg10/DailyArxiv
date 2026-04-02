@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 02, 2026
+title: Latest 15 Papers - April 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Does Global Attention Help? A Unified Empirical Study on Atomistic Graph Learning](https://arxiv.org/abs/2510.05583v2)** | 2026-03-31 | <details><summary>44 pa...</summary><p>44 pages, 8 figures, 19 tables</p></details> |
-| **[A Lightweight Hybrid Publish/Subscribe Event Fabric for IPC and Modular Distributed Systems](https://arxiv.org/abs/2603.30030v1)** | 2026-03-31 |  |
-| **[Scalable AI-assisted Workflow Management for Detector Design Optimization Using Distributed Computing](https://arxiv.org/abs/2603.30014v1)** | 2026-03-31 |  |
-| **[Phyelds: A Pythonic Framework for Aggregate Computing](https://arxiv.org/abs/2603.29999v1)** | 2026-03-31 |  |
-| **[A Precision Emulation Approach to the GPU Acceleration of Ab Initio Electronic Structure Calculations](https://arxiv.org/abs/2603.29975v1)** | 2026-03-31 |  |
-| **[Semantic Identity Compression: Zero-Error Laws, Rate-Distortion, and Neurosymbolic Necessity](https://arxiv.org/abs/2601.14252v5)** | 2026-03-31 | <details><summary>13 pa...</summary><p>13 pages, 2 tables. Lean 4 artifact and supplementary material available at https://doi.org/10.5281/zenodo.18123531</p></details> |
-| **[Exact Recovery Under Deterministic Partial Views: Confusability Graphs, Strong Powers, and Capacity](https://arxiv.org/abs/2602.23520v4)** | 2026-03-31 | <details><summary>17 pa...</summary><p>17 pages, 1 figure, 2 tables. Lean 4 artifact and supplementary available at https://doi.org/10.5281/zenodo.18141365</p></details> |
-| **[Multi-paradigm Logic Programming in the ${\cal E}$rgoAI System](https://arxiv.org/abs/2603.29819v1)** | 2026-03-31 | <details><summary>43 pa...</summary><p>43 pages, 9 figures. Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[M3SA: Exploring Datacenter Performance and Climate-Impact with Multi- and Meta-Model Simulation and Analysis](https://arxiv.org/abs/2603.29778v1)** | 2026-03-31 |  |
-| **[A Graded Modal Dependent Type Theory with Erasure, Formalized](https://arxiv.org/abs/2603.29716v1)** | 2026-03-31 |  |
-| **[Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS Systems](https://arxiv.org/abs/2505.21899v2)** | 2026-03-31 |  |
-| **[Storing Less, Finding More: How Novelty Filtering Improves Cross-Modal Retrieval on Edge Cameras](https://arxiv.org/abs/2603.29631v1)** | 2026-03-31 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 5 tables; supplementary video included as ancillary file</p></details> |
-| **[Efficient Parallel Compilation and Profiling of Quantum Circuits at Large Scales](https://arxiv.org/abs/2603.29598v1)** | 2026-03-31 |  |
-| **[Polynomial Time Local Decision Revisited](https://arxiv.org/abs/2603.29477v1)** | 2026-03-31 |  |
-| **[Exploration of Energy and Throughput Tradeoffs for Dataflow Networks](https://arxiv.org/abs/2603.29367v1)** | 2026-03-31 |  |
+| **[OSGym: Scalable OS Infra for Computer Use Agents](https://arxiv.org/abs/2511.11672v4)** | 2026-04-01 |  |
+| **[Traq: Estimating the Quantum Cost of Classical Programs](https://arxiv.org/abs/2509.01508v2)** | 2026-04-01 | <details><summary>57 pa...</summary><p>57 pages; v2: significantly revised paper</p></details> |
+| **[EvalNet: A Practical Toolchain for Generation and Analysis of Extreme-Scale Interconnects](https://arxiv.org/abs/2105.12663v4)** | 2026-04-01 |  |
+| **[EmbedPart: Embedding-Driven Graph Partitioning for Scalable Graph Neural Network Training](https://arxiv.org/abs/2604.01000v1)** | 2026-04-01 |  |
+| **[A Hitchhiker's Guide to Privacy-Preserving Digital Payment Systems: A Survey on Anonymity, Confidentiality, and Auditability](https://arxiv.org/abs/2505.21008v3)** | 2026-04-01 |  |
+| **[Navigating the Energy Doldrums: Can We Exploit Energy-Price Volatility To Lower the Cost of Computing?](https://arxiv.org/abs/2509.07567v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 2 tables</p></details> |
+| **[HYLU: Hybrid Parallel Sparse LU Factorization](https://arxiv.org/abs/2509.07690v6)** | 2026-04-01 |  |
+| **[Scalable Pretraining of Large Mixture of Experts Language Models on Aurora Super Computer](https://arxiv.org/abs/2604.00785v1)** | 2026-04-01 |  |
+| **[Is RISC-V Ready for Machine Learning? Portable Gaussian Processes Using Asynchronous Tasks](https://arxiv.org/abs/2604.00736v1)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 table, submitted to the International Workshop on RISC-V for HPC at ISC</p></details> |
+| **[Fast Deterministic Distributed Degree Splitting](https://arxiv.org/abs/2604.00724v1)** | 2026-04-01 | submitted to PODC'26 |
+| **[MPI-Q: A Message Communication Library for Large-Scale Classical-Quantum Heterogeneous Hybrid Distributed Computing](https://arxiv.org/abs/2604.00600v1)** | 2026-04-01 |  |
+| **[Dual-Select FMA Butterfly for FFT: Eliminating Twiddle Factor Singularities with Bounded Precomputed Ratios](https://arxiv.org/abs/2604.00567v1)** | 2026-04-01 |  |
+| **[Executing as You Generate: Hiding Execution Latency in LLM Code Generation](https://arxiv.org/abs/2604.00491v1)** | 2026-04-01 | 10 pages |
+| **[Decidability of Livelock Detection for Parameterized Self-Disabling Unidirectional Rings](https://arxiv.org/abs/2603.21443v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 0 figures, 1 table</p></details> |
+| **[Twinning for Space-Air-Ground-Sea Integrated Networks: Beyond Conventional Digital Twin Towards Goal-Oriented Semantic Twin](https://arxiv.org/abs/2512.16058v2)** | 2026-04-01 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Does Global Attention Help? A Unified Empirical Study on Atomistic Graph Learning](https://arxiv.org/abs/2510.05583v2)** | 2026-03-31 | <details><summary>44 pa...</summary><p>44 pages, 8 figures, 19 tables</p></details> |
-| **[A Lightweight Hybrid Publish/Subscribe Event Fabric for IPC and Modular Distributed Systems](https://arxiv.org/abs/2603.30030v1)** | 2026-03-31 |  |
-| **[Scalable AI-assisted Workflow Management for Detector Design Optimization Using Distributed Computing](https://arxiv.org/abs/2603.30014v1)** | 2026-03-31 |  |
-| **[Phyelds: A Pythonic Framework for Aggregate Computing](https://arxiv.org/abs/2603.29999v1)** | 2026-03-31 |  |
-| **[A Precision Emulation Approach to the GPU Acceleration of Ab Initio Electronic Structure Calculations](https://arxiv.org/abs/2603.29975v1)** | 2026-03-31 |  |
-| **[Semantic Identity Compression: Zero-Error Laws, Rate-Distortion, and Neurosymbolic Necessity](https://arxiv.org/abs/2601.14252v5)** | 2026-03-31 | <details><summary>13 pa...</summary><p>13 pages, 2 tables. Lean 4 artifact and supplementary material available at https://doi.org/10.5281/zenodo.18123531</p></details> |
-| **[Exact Recovery Under Deterministic Partial Views: Confusability Graphs, Strong Powers, and Capacity](https://arxiv.org/abs/2602.23520v4)** | 2026-03-31 | <details><summary>17 pa...</summary><p>17 pages, 1 figure, 2 tables. Lean 4 artifact and supplementary available at https://doi.org/10.5281/zenodo.18141365</p></details> |
-| **[Multi-paradigm Logic Programming in the ${\cal E}$rgoAI System](https://arxiv.org/abs/2603.29819v1)** | 2026-03-31 | <details><summary>43 pa...</summary><p>43 pages, 9 figures. Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[M3SA: Exploring Datacenter Performance and Climate-Impact with Multi- and Meta-Model Simulation and Analysis](https://arxiv.org/abs/2603.29778v1)** | 2026-03-31 |  |
-| **[A Graded Modal Dependent Type Theory with Erasure, Formalized](https://arxiv.org/abs/2603.29716v1)** | 2026-03-31 |  |
-| **[Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS Systems](https://arxiv.org/abs/2505.21899v2)** | 2026-03-31 |  |
-| **[Storing Less, Finding More: How Novelty Filtering Improves Cross-Modal Retrieval on Edge Cameras](https://arxiv.org/abs/2603.29631v1)** | 2026-03-31 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 5 tables; supplementary video included as ancillary file</p></details> |
-| **[Efficient Parallel Compilation and Profiling of Quantum Circuits at Large Scales](https://arxiv.org/abs/2603.29598v1)** | 2026-03-31 |  |
-| **[Polynomial Time Local Decision Revisited](https://arxiv.org/abs/2603.29477v1)** | 2026-03-31 |  |
-| **[Exploration of Energy and Throughput Tradeoffs for Dataflow Networks](https://arxiv.org/abs/2603.29367v1)** | 2026-03-31 |  |
+| **[OSGym: Scalable OS Infra for Computer Use Agents](https://arxiv.org/abs/2511.11672v4)** | 2026-04-01 |  |
+| **[Traq: Estimating the Quantum Cost of Classical Programs](https://arxiv.org/abs/2509.01508v2)** | 2026-04-01 | <details><summary>57 pa...</summary><p>57 pages; v2: significantly revised paper</p></details> |
+| **[EvalNet: A Practical Toolchain for Generation and Analysis of Extreme-Scale Interconnects](https://arxiv.org/abs/2105.12663v4)** | 2026-04-01 |  |
+| **[EmbedPart: Embedding-Driven Graph Partitioning for Scalable Graph Neural Network Training](https://arxiv.org/abs/2604.01000v1)** | 2026-04-01 |  |
+| **[A Hitchhiker's Guide to Privacy-Preserving Digital Payment Systems: A Survey on Anonymity, Confidentiality, and Auditability](https://arxiv.org/abs/2505.21008v3)** | 2026-04-01 |  |
+| **[Navigating the Energy Doldrums: Can We Exploit Energy-Price Volatility To Lower the Cost of Computing?](https://arxiv.org/abs/2509.07567v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 2 tables</p></details> |
+| **[HYLU: Hybrid Parallel Sparse LU Factorization](https://arxiv.org/abs/2509.07690v6)** | 2026-04-01 |  |
+| **[Scalable Pretraining of Large Mixture of Experts Language Models on Aurora Super Computer](https://arxiv.org/abs/2604.00785v1)** | 2026-04-01 |  |
+| **[Is RISC-V Ready for Machine Learning? Portable Gaussian Processes Using Asynchronous Tasks](https://arxiv.org/abs/2604.00736v1)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 table, submitted to the International Workshop on RISC-V for HPC at ISC</p></details> |
+| **[Fast Deterministic Distributed Degree Splitting](https://arxiv.org/abs/2604.00724v1)** | 2026-04-01 | submitted to PODC'26 |
+| **[MPI-Q: A Message Communication Library for Large-Scale Classical-Quantum Heterogeneous Hybrid Distributed Computing](https://arxiv.org/abs/2604.00600v1)** | 2026-04-01 |  |
+| **[Dual-Select FMA Butterfly for FFT: Eliminating Twiddle Factor Singularities with Bounded Precomputed Ratios](https://arxiv.org/abs/2604.00567v1)** | 2026-04-01 |  |
+| **[Executing as You Generate: Hiding Execution Latency in LLM Code Generation](https://arxiv.org/abs/2604.00491v1)** | 2026-04-01 | 10 pages |
+| **[Decidability of Livelock Detection for Parameterized Self-Disabling Unidirectional Rings](https://arxiv.org/abs/2603.21443v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 0 figures, 1 table</p></details> |
+| **[Twinning for Space-Air-Ground-Sea Integrated Networks: Beyond Conventional Digital Twin Towards Goal-Oriented Semantic Twin](https://arxiv.org/abs/2512.16058v2)** | 2026-04-01 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Does Global Attention Help? A Unified Empirical Study on Atomistic Graph Learning](https://arxiv.org/abs/2510.05583v2)** | 2026-03-31 | <details><summary>44 pa...</summary><p>44 pages, 8 figures, 19 tables</p></details> |
-| **[A Lightweight Hybrid Publish/Subscribe Event Fabric for IPC and Modular Distributed Systems](https://arxiv.org/abs/2603.30030v1)** | 2026-03-31 |  |
-| **[Scalable AI-assisted Workflow Management for Detector Design Optimization Using Distributed Computing](https://arxiv.org/abs/2603.30014v1)** | 2026-03-31 |  |
-| **[Phyelds: A Pythonic Framework for Aggregate Computing](https://arxiv.org/abs/2603.29999v1)** | 2026-03-31 |  |
-| **[A Precision Emulation Approach to the GPU Acceleration of Ab Initio Electronic Structure Calculations](https://arxiv.org/abs/2603.29975v1)** | 2026-03-31 |  |
-| **[Semantic Identity Compression: Zero-Error Laws, Rate-Distortion, and Neurosymbolic Necessity](https://arxiv.org/abs/2601.14252v5)** | 2026-03-31 | <details><summary>13 pa...</summary><p>13 pages, 2 tables. Lean 4 artifact and supplementary material available at https://doi.org/10.5281/zenodo.18123531</p></details> |
-| **[Exact Recovery Under Deterministic Partial Views: Confusability Graphs, Strong Powers, and Capacity](https://arxiv.org/abs/2602.23520v4)** | 2026-03-31 | <details><summary>17 pa...</summary><p>17 pages, 1 figure, 2 tables. Lean 4 artifact and supplementary available at https://doi.org/10.5281/zenodo.18141365</p></details> |
-| **[Multi-paradigm Logic Programming in the ${\cal E}$rgoAI System](https://arxiv.org/abs/2603.29819v1)** | 2026-03-31 | <details><summary>43 pa...</summary><p>43 pages, 9 figures. Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[M3SA: Exploring Datacenter Performance and Climate-Impact with Multi- and Meta-Model Simulation and Analysis](https://arxiv.org/abs/2603.29778v1)** | 2026-03-31 |  |
-| **[A Graded Modal Dependent Type Theory with Erasure, Formalized](https://arxiv.org/abs/2603.29716v1)** | 2026-03-31 |  |
-| **[Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS Systems](https://arxiv.org/abs/2505.21899v2)** | 2026-03-31 |  |
-| **[Storing Less, Finding More: How Novelty Filtering Improves Cross-Modal Retrieval on Edge Cameras](https://arxiv.org/abs/2603.29631v1)** | 2026-03-31 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 5 tables; supplementary video included as ancillary file</p></details> |
-| **[Efficient Parallel Compilation and Profiling of Quantum Circuits at Large Scales](https://arxiv.org/abs/2603.29598v1)** | 2026-03-31 |  |
-| **[Polynomial Time Local Decision Revisited](https://arxiv.org/abs/2603.29477v1)** | 2026-03-31 |  |
-| **[Exploration of Energy and Throughput Tradeoffs for Dataflow Networks](https://arxiv.org/abs/2603.29367v1)** | 2026-03-31 |  |
+| **[OSGym: Scalable OS Infra for Computer Use Agents](https://arxiv.org/abs/2511.11672v4)** | 2026-04-01 |  |
+| **[Traq: Estimating the Quantum Cost of Classical Programs](https://arxiv.org/abs/2509.01508v2)** | 2026-04-01 | <details><summary>57 pa...</summary><p>57 pages; v2: significantly revised paper</p></details> |
+| **[EvalNet: A Practical Toolchain for Generation and Analysis of Extreme-Scale Interconnects](https://arxiv.org/abs/2105.12663v4)** | 2026-04-01 |  |
+| **[EmbedPart: Embedding-Driven Graph Partitioning for Scalable Graph Neural Network Training](https://arxiv.org/abs/2604.01000v1)** | 2026-04-01 |  |
+| **[A Hitchhiker's Guide to Privacy-Preserving Digital Payment Systems: A Survey on Anonymity, Confidentiality, and Auditability](https://arxiv.org/abs/2505.21008v3)** | 2026-04-01 |  |
+| **[Navigating the Energy Doldrums: Can We Exploit Energy-Price Volatility To Lower the Cost of Computing?](https://arxiv.org/abs/2509.07567v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 2 tables</p></details> |
+| **[HYLU: Hybrid Parallel Sparse LU Factorization](https://arxiv.org/abs/2509.07690v6)** | 2026-04-01 |  |
+| **[Scalable Pretraining of Large Mixture of Experts Language Models on Aurora Super Computer](https://arxiv.org/abs/2604.00785v1)** | 2026-04-01 |  |
+| **[Is RISC-V Ready for Machine Learning? Portable Gaussian Processes Using Asynchronous Tasks](https://arxiv.org/abs/2604.00736v1)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 table, submitted to the International Workshop on RISC-V for HPC at ISC</p></details> |
+| **[Fast Deterministic Distributed Degree Splitting](https://arxiv.org/abs/2604.00724v1)** | 2026-04-01 | submitted to PODC'26 |
+| **[MPI-Q: A Message Communication Library for Large-Scale Classical-Quantum Heterogeneous Hybrid Distributed Computing](https://arxiv.org/abs/2604.00600v1)** | 2026-04-01 |  |
+| **[Dual-Select FMA Butterfly for FFT: Eliminating Twiddle Factor Singularities with Bounded Precomputed Ratios](https://arxiv.org/abs/2604.00567v1)** | 2026-04-01 |  |
+| **[Executing as You Generate: Hiding Execution Latency in LLM Code Generation](https://arxiv.org/abs/2604.00491v1)** | 2026-04-01 | 10 pages |
+| **[Decidability of Livelock Detection for Parameterized Self-Disabling Unidirectional Rings](https://arxiv.org/abs/2603.21443v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 0 figures, 1 table</p></details> |
+| **[Twinning for Space-Air-Ground-Sea Integrated Networks: Beyond Conventional Digital Twin Towards Goal-Oriented Semantic Twin](https://arxiv.org/abs/2512.16058v2)** | 2026-04-01 |  |
 
