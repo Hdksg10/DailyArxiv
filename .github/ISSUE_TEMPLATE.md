@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 03, 2026
+title: Latest 15 Papers - April 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OSGym: Scalable OS Infra for Computer Use Agents](https://arxiv.org/abs/2511.11672v4)** | 2026-04-01 |  |
-| **[Traq: Estimating the Quantum Cost of Classical Programs](https://arxiv.org/abs/2509.01508v2)** | 2026-04-01 | <details><summary>57 pa...</summary><p>57 pages; v2: significantly revised paper</p></details> |
-| **[EvalNet: A Practical Toolchain for Generation and Analysis of Extreme-Scale Interconnects](https://arxiv.org/abs/2105.12663v4)** | 2026-04-01 |  |
-| **[EmbedPart: Embedding-Driven Graph Partitioning for Scalable Graph Neural Network Training](https://arxiv.org/abs/2604.01000v1)** | 2026-04-01 |  |
-| **[A Hitchhiker's Guide to Privacy-Preserving Digital Payment Systems: A Survey on Anonymity, Confidentiality, and Auditability](https://arxiv.org/abs/2505.21008v3)** | 2026-04-01 |  |
-| **[Navigating the Energy Doldrums: Can We Exploit Energy-Price Volatility To Lower the Cost of Computing?](https://arxiv.org/abs/2509.07567v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 2 tables</p></details> |
-| **[HYLU: Hybrid Parallel Sparse LU Factorization](https://arxiv.org/abs/2509.07690v6)** | 2026-04-01 |  |
-| **[Scalable Pretraining of Large Mixture of Experts Language Models on Aurora Super Computer](https://arxiv.org/abs/2604.00785v1)** | 2026-04-01 |  |
-| **[Is RISC-V Ready for Machine Learning? Portable Gaussian Processes Using Asynchronous Tasks](https://arxiv.org/abs/2604.00736v1)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 table, submitted to the International Workshop on RISC-V for HPC at ISC</p></details> |
-| **[Fast Deterministic Distributed Degree Splitting](https://arxiv.org/abs/2604.00724v1)** | 2026-04-01 | submitted to PODC'26 |
-| **[MPI-Q: A Message Communication Library for Large-Scale Classical-Quantum Heterogeneous Hybrid Distributed Computing](https://arxiv.org/abs/2604.00600v1)** | 2026-04-01 |  |
-| **[Dual-Select FMA Butterfly for FFT: Eliminating Twiddle Factor Singularities with Bounded Precomputed Ratios](https://arxiv.org/abs/2604.00567v1)** | 2026-04-01 |  |
-| **[Executing as You Generate: Hiding Execution Latency in LLM Code Generation](https://arxiv.org/abs/2604.00491v1)** | 2026-04-01 | 10 pages |
-| **[Decidability of Livelock Detection for Parameterized Self-Disabling Unidirectional Rings](https://arxiv.org/abs/2603.21443v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 0 figures, 1 table</p></details> |
-| **[Twinning for Space-Air-Ground-Sea Integrated Networks: Beyond Conventional Digital Twin Towards Goal-Oriented Semantic Twin](https://arxiv.org/abs/2512.16058v2)** | 2026-04-01 |  |
+| **[Democratizing AI: A Comparative Study in Deep Learning Efficiency and Future Trends in Computational Processing](https://arxiv.org/abs/2603.20920v2)** | 2026-04-02 |  |
+| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v2)** | 2026-04-02 | <details><summary>29 pa...</summary><p>29 pages, 8 tables, 3 appendices with extended examples</p></details> |
+| **[What can be computed in average anonymous networks?](https://arxiv.org/abs/2604.02192v1)** | 2026-04-02 | <details><summary>34 pa...</summary><p>34 pages, 1 figure, 2 tables</p></details> |
+| **[A Practical Two-Stage Framework for GPU Resource and Power Prediction in Heterogeneous HPC Systems](https://arxiv.org/abs/2604.02158v1)** | 2026-04-02 | 9 pages, 6 figures |
+| **[Triosecuris: Formally Verified Protection Against Speculative Control-Flow Hijacking](https://arxiv.org/abs/2601.22978v2)** | 2026-04-02 | <details><summary>Condi...</summary><p>Conditionally accepted at CSF'26; extended with concrete protection against Spectre RSB and renamed to Triosecuris</p></details> |
+| **[CompressedScaffnew: The First Theoretical Double Acceleration of Communication from Local Training and Compression in Distributed Optimization](https://arxiv.org/abs/2210.13277v4)** | 2026-04-02 |  |
+| **[Intelligent Cloud Orchestration: A Hybrid Predictive and Heuristic Framework for Cost Optimization](https://arxiv.org/abs/2604.02131v1)** | 2026-04-02 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables</p></details> |
+| **[MPI-Q: A Message Communication Library for Large-Scale Classical-Quantum Heterogeneous Hybrid Distributed Computing](https://arxiv.org/abs/2604.00600v2)** | 2026-04-02 |  |
+| **[NCCL EP: Towards a Unified Expert Parallel Communication API for NCCL](https://arxiv.org/abs/2603.13606v3)** | 2026-04-02 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 7 tables</p></details> |
+| **[Optimization Opportunities for Cloud-Based Data Pipeline Infrastructures](https://arxiv.org/abs/2604.01954v1)** | 2026-04-02 |  |
+| **[Near-Optimal Distributed Ruling Sets for Trees and High-Girth Graphs](https://arxiv.org/abs/2504.21777v2)** | 2026-04-02 |  |
+| **[GPU-RMQ: Accelerating Range Minimum Queries on Modern GPUs](https://arxiv.org/abs/2604.01811v1)** | 2026-04-02 |  |
+| **[Fast Deterministic Distributed Degree Splitting](https://arxiv.org/abs/2604.00724v2)** | 2026-04-02 |  |
+| **[YASA: Scalable Multi-Language Taint Analysis on the Unified AST at Ant Group](https://arxiv.org/abs/2601.17390v2)** | 2026-04-02 |  |
+| **[FourierMoE: Fourier Mixture-of-Experts Adaptation of Large Language Models](https://arxiv.org/abs/2604.01762v1)** | 2026-04-02 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work; listing order is random</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OSGym: Scalable OS Infra for Computer Use Agents](https://arxiv.org/abs/2511.11672v4)** | 2026-04-01 |  |
-| **[Traq: Estimating the Quantum Cost of Classical Programs](https://arxiv.org/abs/2509.01508v2)** | 2026-04-01 | <details><summary>57 pa...</summary><p>57 pages; v2: significantly revised paper</p></details> |
-| **[EvalNet: A Practical Toolchain for Generation and Analysis of Extreme-Scale Interconnects](https://arxiv.org/abs/2105.12663v4)** | 2026-04-01 |  |
-| **[EmbedPart: Embedding-Driven Graph Partitioning for Scalable Graph Neural Network Training](https://arxiv.org/abs/2604.01000v1)** | 2026-04-01 |  |
-| **[A Hitchhiker's Guide to Privacy-Preserving Digital Payment Systems: A Survey on Anonymity, Confidentiality, and Auditability](https://arxiv.org/abs/2505.21008v3)** | 2026-04-01 |  |
-| **[Navigating the Energy Doldrums: Can We Exploit Energy-Price Volatility To Lower the Cost of Computing?](https://arxiv.org/abs/2509.07567v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 2 tables</p></details> |
-| **[HYLU: Hybrid Parallel Sparse LU Factorization](https://arxiv.org/abs/2509.07690v6)** | 2026-04-01 |  |
-| **[Scalable Pretraining of Large Mixture of Experts Language Models on Aurora Super Computer](https://arxiv.org/abs/2604.00785v1)** | 2026-04-01 |  |
-| **[Is RISC-V Ready for Machine Learning? Portable Gaussian Processes Using Asynchronous Tasks](https://arxiv.org/abs/2604.00736v1)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 table, submitted to the International Workshop on RISC-V for HPC at ISC</p></details> |
-| **[Fast Deterministic Distributed Degree Splitting](https://arxiv.org/abs/2604.00724v1)** | 2026-04-01 | submitted to PODC'26 |
-| **[MPI-Q: A Message Communication Library for Large-Scale Classical-Quantum Heterogeneous Hybrid Distributed Computing](https://arxiv.org/abs/2604.00600v1)** | 2026-04-01 |  |
-| **[Dual-Select FMA Butterfly for FFT: Eliminating Twiddle Factor Singularities with Bounded Precomputed Ratios](https://arxiv.org/abs/2604.00567v1)** | 2026-04-01 |  |
-| **[Executing as You Generate: Hiding Execution Latency in LLM Code Generation](https://arxiv.org/abs/2604.00491v1)** | 2026-04-01 | 10 pages |
-| **[Decidability of Livelock Detection for Parameterized Self-Disabling Unidirectional Rings](https://arxiv.org/abs/2603.21443v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 0 figures, 1 table</p></details> |
-| **[Twinning for Space-Air-Ground-Sea Integrated Networks: Beyond Conventional Digital Twin Towards Goal-Oriented Semantic Twin](https://arxiv.org/abs/2512.16058v2)** | 2026-04-01 |  |
+| **[Democratizing AI: A Comparative Study in Deep Learning Efficiency and Future Trends in Computational Processing](https://arxiv.org/abs/2603.20920v2)** | 2026-04-02 |  |
+| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v2)** | 2026-04-02 | <details><summary>29 pa...</summary><p>29 pages, 8 tables, 3 appendices with extended examples</p></details> |
+| **[What can be computed in average anonymous networks?](https://arxiv.org/abs/2604.02192v1)** | 2026-04-02 | <details><summary>34 pa...</summary><p>34 pages, 1 figure, 2 tables</p></details> |
+| **[A Practical Two-Stage Framework for GPU Resource and Power Prediction in Heterogeneous HPC Systems](https://arxiv.org/abs/2604.02158v1)** | 2026-04-02 | 9 pages, 6 figures |
+| **[Triosecuris: Formally Verified Protection Against Speculative Control-Flow Hijacking](https://arxiv.org/abs/2601.22978v2)** | 2026-04-02 | <details><summary>Condi...</summary><p>Conditionally accepted at CSF'26; extended with concrete protection against Spectre RSB and renamed to Triosecuris</p></details> |
+| **[CompressedScaffnew: The First Theoretical Double Acceleration of Communication from Local Training and Compression in Distributed Optimization](https://arxiv.org/abs/2210.13277v4)** | 2026-04-02 |  |
+| **[Intelligent Cloud Orchestration: A Hybrid Predictive and Heuristic Framework for Cost Optimization](https://arxiv.org/abs/2604.02131v1)** | 2026-04-02 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables</p></details> |
+| **[MPI-Q: A Message Communication Library for Large-Scale Classical-Quantum Heterogeneous Hybrid Distributed Computing](https://arxiv.org/abs/2604.00600v2)** | 2026-04-02 |  |
+| **[NCCL EP: Towards a Unified Expert Parallel Communication API for NCCL](https://arxiv.org/abs/2603.13606v3)** | 2026-04-02 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 7 tables</p></details> |
+| **[Optimization Opportunities for Cloud-Based Data Pipeline Infrastructures](https://arxiv.org/abs/2604.01954v1)** | 2026-04-02 |  |
+| **[Near-Optimal Distributed Ruling Sets for Trees and High-Girth Graphs](https://arxiv.org/abs/2504.21777v2)** | 2026-04-02 |  |
+| **[GPU-RMQ: Accelerating Range Minimum Queries on Modern GPUs](https://arxiv.org/abs/2604.01811v1)** | 2026-04-02 |  |
+| **[Fast Deterministic Distributed Degree Splitting](https://arxiv.org/abs/2604.00724v2)** | 2026-04-02 |  |
+| **[YASA: Scalable Multi-Language Taint Analysis on the Unified AST at Ant Group](https://arxiv.org/abs/2601.17390v2)** | 2026-04-02 |  |
+| **[FourierMoE: Fourier Mixture-of-Experts Adaptation of Large Language Models](https://arxiv.org/abs/2604.01762v1)** | 2026-04-02 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work; listing order is random</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OSGym: Scalable OS Infra for Computer Use Agents](https://arxiv.org/abs/2511.11672v4)** | 2026-04-01 |  |
-| **[Traq: Estimating the Quantum Cost of Classical Programs](https://arxiv.org/abs/2509.01508v2)** | 2026-04-01 | <details><summary>57 pa...</summary><p>57 pages; v2: significantly revised paper</p></details> |
-| **[EvalNet: A Practical Toolchain for Generation and Analysis of Extreme-Scale Interconnects](https://arxiv.org/abs/2105.12663v4)** | 2026-04-01 |  |
-| **[EmbedPart: Embedding-Driven Graph Partitioning for Scalable Graph Neural Network Training](https://arxiv.org/abs/2604.01000v1)** | 2026-04-01 |  |
-| **[A Hitchhiker's Guide to Privacy-Preserving Digital Payment Systems: A Survey on Anonymity, Confidentiality, and Auditability](https://arxiv.org/abs/2505.21008v3)** | 2026-04-01 |  |
-| **[Navigating the Energy Doldrums: Can We Exploit Energy-Price Volatility To Lower the Cost of Computing?](https://arxiv.org/abs/2509.07567v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 2 tables</p></details> |
-| **[HYLU: Hybrid Parallel Sparse LU Factorization](https://arxiv.org/abs/2509.07690v6)** | 2026-04-01 |  |
-| **[Scalable Pretraining of Large Mixture of Experts Language Models on Aurora Super Computer](https://arxiv.org/abs/2604.00785v1)** | 2026-04-01 |  |
-| **[Is RISC-V Ready for Machine Learning? Portable Gaussian Processes Using Asynchronous Tasks](https://arxiv.org/abs/2604.00736v1)** | 2026-04-01 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 table, submitted to the International Workshop on RISC-V for HPC at ISC</p></details> |
-| **[Fast Deterministic Distributed Degree Splitting](https://arxiv.org/abs/2604.00724v1)** | 2026-04-01 | submitted to PODC'26 |
-| **[MPI-Q: A Message Communication Library for Large-Scale Classical-Quantum Heterogeneous Hybrid Distributed Computing](https://arxiv.org/abs/2604.00600v1)** | 2026-04-01 |  |
-| **[Dual-Select FMA Butterfly for FFT: Eliminating Twiddle Factor Singularities with Bounded Precomputed Ratios](https://arxiv.org/abs/2604.00567v1)** | 2026-04-01 |  |
-| **[Executing as You Generate: Hiding Execution Latency in LLM Code Generation](https://arxiv.org/abs/2604.00491v1)** | 2026-04-01 | 10 pages |
-| **[Decidability of Livelock Detection for Parameterized Self-Disabling Unidirectional Rings](https://arxiv.org/abs/2603.21443v2)** | 2026-04-01 | <details><summary>9 pag...</summary><p>9 pages, 0 figures, 1 table</p></details> |
-| **[Twinning for Space-Air-Ground-Sea Integrated Networks: Beyond Conventional Digital Twin Towards Goal-Oriented Semantic Twin](https://arxiv.org/abs/2512.16058v2)** | 2026-04-01 |  |
+| **[Democratizing AI: A Comparative Study in Deep Learning Efficiency and Future Trends in Computational Processing](https://arxiv.org/abs/2603.20920v2)** | 2026-04-02 |  |
+| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v2)** | 2026-04-02 | <details><summary>29 pa...</summary><p>29 pages, 8 tables, 3 appendices with extended examples</p></details> |
+| **[What can be computed in average anonymous networks?](https://arxiv.org/abs/2604.02192v1)** | 2026-04-02 | <details><summary>34 pa...</summary><p>34 pages, 1 figure, 2 tables</p></details> |
+| **[A Practical Two-Stage Framework for GPU Resource and Power Prediction in Heterogeneous HPC Systems](https://arxiv.org/abs/2604.02158v1)** | 2026-04-02 | 9 pages, 6 figures |
+| **[Triosecuris: Formally Verified Protection Against Speculative Control-Flow Hijacking](https://arxiv.org/abs/2601.22978v2)** | 2026-04-02 | <details><summary>Condi...</summary><p>Conditionally accepted at CSF'26; extended with concrete protection against Spectre RSB and renamed to Triosecuris</p></details> |
+| **[CompressedScaffnew: The First Theoretical Double Acceleration of Communication from Local Training and Compression in Distributed Optimization](https://arxiv.org/abs/2210.13277v4)** | 2026-04-02 |  |
+| **[Intelligent Cloud Orchestration: A Hybrid Predictive and Heuristic Framework for Cost Optimization](https://arxiv.org/abs/2604.02131v1)** | 2026-04-02 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables</p></details> |
+| **[MPI-Q: A Message Communication Library for Large-Scale Classical-Quantum Heterogeneous Hybrid Distributed Computing](https://arxiv.org/abs/2604.00600v2)** | 2026-04-02 |  |
+| **[NCCL EP: Towards a Unified Expert Parallel Communication API for NCCL](https://arxiv.org/abs/2603.13606v3)** | 2026-04-02 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 7 tables</p></details> |
+| **[Optimization Opportunities for Cloud-Based Data Pipeline Infrastructures](https://arxiv.org/abs/2604.01954v1)** | 2026-04-02 |  |
+| **[Near-Optimal Distributed Ruling Sets for Trees and High-Girth Graphs](https://arxiv.org/abs/2504.21777v2)** | 2026-04-02 |  |
+| **[GPU-RMQ: Accelerating Range Minimum Queries on Modern GPUs](https://arxiv.org/abs/2604.01811v1)** | 2026-04-02 |  |
+| **[Fast Deterministic Distributed Degree Splitting](https://arxiv.org/abs/2604.00724v2)** | 2026-04-02 |  |
+| **[YASA: Scalable Multi-Language Taint Analysis on the Unified AST at Ant Group](https://arxiv.org/abs/2601.17390v2)** | 2026-04-02 |  |
+| **[FourierMoE: Fourier Mixture-of-Experts Adaptation of Large Language Models](https://arxiv.org/abs/2604.01762v1)** | 2026-04-02 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work; listing order is random</p></details> |
 
