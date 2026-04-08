@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2026
+title: Latest 15 Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Policy-Enabled Multi-Hop Routing for Cross-Chain Message Delivery](https://arxiv.org/abs/2604.04890v1)** | 2026-04-06 | 11 pages, 8 figures |
-| **[Learning, Potential, and Retention: An Approach for Evaluating Adaptive AI-Enabled Medical Devices](https://arxiv.org/abs/2604.04878v1)** | 2026-04-06 |  |
-| **[DeepStack: Scalable and Accurate Design Space Exploration for Distributed 3D-Stacked AI Accelerators](https://arxiv.org/abs/2604.04750v1)** | 2026-04-06 |  |
-| **[RegGuard: Legitimacy and Fairness Enforcement for Optimistic Rollups](https://arxiv.org/abs/2604.04748v1)** | 2026-04-06 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, accepted at IEEE ICBC 2026</p></details> |
-| **[The Energy Cost of Execution-Idle in GPU Clusters](https://arxiv.org/abs/2604.04745v1)** | 2026-04-06 |  |
-| **[Sampling Parallelism for Fast and Efficient Bayesian Learning](https://arxiv.org/abs/2604.04736v1)** | 2026-04-06 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, 1 table</p></details> |
-| **[Faster Base64 Encoding and Decoding Using AVX2 Instructions](https://arxiv.org/abs/1704.00605v6)** | 2026-04-06 | <details><summary>softw...</summary><p>software at https://github.com/lemire/fastbase64</p></details> |
-| **[Communication-Efficient Collaborative LLM Inference over LEO Satellite Networks](https://arxiv.org/abs/2604.04654v1)** | 2026-04-06 | <details><summary>13 pa...</summary><p>13 pages, 12 figures,</p></details> |
-| **[Edge-Oriented Orchestration of Energy Services Using Graph-Driven Swarm Intelligence](https://arxiv.org/abs/2604.04645v1)** | 2026-04-06 | <details><summary>2nd W...</summary><p>2nd Workshop on Enabling Machine Learning Operations for next-Gen Embedded Wireless Networked Devices, Sept 22, Leuven, Belgium</p></details> |
-| **[Tight Bounds on Window Size and Time for Single-Agent Graph Exploration under T-Interval Connectivity](https://arxiv.org/abs/2604.04619v1)** | 2026-04-06 |  |
-| **[LP-GEMM: Integrating Layout Propagation into GEMM Operations](https://arxiv.org/abs/2604.04599v1)** | 2026-04-06 |  |
-| **[NBI-Slurm: Simplified submission of Slurm jobs with energy saving mode](https://arxiv.org/abs/2604.04558v1)** | 2026-04-06 |  |
-| **[ENCRUST: Encapsulated Substitution and Agentic Refinement on a Live Scaffold for Safe C-to-Rust Translation](https://arxiv.org/abs/2604.04527v1)** | 2026-04-06 |  |
-| **[Work-Efficient Parallel Counting via Sampling](https://arxiv.org/abs/2408.09719v3)** | 2026-04-06 | <details><summary>Super...</summary><p>Superseded by arXiv:2604.01263</p></details> |
-| **[Search-Based Multi-Trajectory Refinement for Safe C-to-Rust Translation with Large Language Models](https://arxiv.org/abs/2505.15858v3)** | 2026-04-06 |  |
+| **[Fail Faster: Staging and Fast Randomness for High-Performance PBT](https://arxiv.org/abs/2503.19797v2)** | 2026-04-07 | <details><summary>25 pa...</summary><p>25 pages, 18 figures, under review at OOPSLA</p></details> |
+| **[Fine-Grained Power and Energy Attribution on AMD GPU/APU-Based Exascale Nodes](https://arxiv.org/abs/2604.06056v1)** | 2026-04-07 |  |
+| **[CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics](https://arxiv.org/abs/2604.06036v1)** | 2026-04-07 | 18 pages, 34 figures |
+| **[Arch: An AI-Native Hardware Description Language for Register-Transfer Clocked Hardware Design](https://arxiv.org/abs/2604.05983v1)** | 2026-04-07 |  |
+| **[GTaP: A GPU-Resident Fork-Join Task-Parallel Runtime with a Pragma-Based Interface](https://arxiv.org/abs/2604.05982v1)** | 2026-04-07 | 12 pages, 11 figures |
+| **[Rewriting TTS Inference Economics: Lightning V2 on Tenstorrent Achieves 4x Lower Cost Than NVIDIA L40S](https://arxiv.org/abs/2604.03279v2)** | 2026-04-07 |  |
+| **[Circuit Folding: Modular and Qubit-Level Workload Management in Quantum-Classical Systems](https://arxiv.org/abs/2412.18705v2)** | 2026-04-07 |  |
+| **[JZ-Tree: GPU friendly neighbour search and friends-of-friends with dual tree walks in JAX plus CUDA](https://arxiv.org/abs/2604.05885v1)** | 2026-04-07 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, code available under https://github.com/jstuecker/jztree/</p></details> |
+| **[ENEC: A Lossless AI Model Compression Method Enabling Fast Inference on Ascend NPUs](https://arxiv.org/abs/2604.03298v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by ISCA 2026, 17 pages, 13 figures, 7 tables</p></details> |
+| **[JTON: A Token-Efficient JSON Superset with Zen Grid Tabular Encoding for Large Language Models](https://arxiv.org/abs/2604.05865v1)** | 2026-04-07 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 14 tables. Code and test suite available at https://github.com/gowthamkumar-nandakishore/JTON</p></details> |
+| **[Communication Requirements for Linearizable Registers](https://arxiv.org/abs/2604.05862v1)** | 2026-04-07 |  |
+| **[Service Placement in Small Cell Networks Using Distributed Best Arm Identification in Linear Bandits](https://arxiv.org/abs/2506.22480v2)** | 2026-04-07 |  |
+| **[Critical Sections Are Not Per-Thread: A Trace Semantics for Lock-Based Concurrency](https://arxiv.org/abs/2603.13142v4)** | 2026-04-07 | <details><summary>- cle...</summary><p>- clear distinction between open and closed critical sections (reflected in the definitions, statements and proofs) - some grammar and latex fixes</p></details> |
+| **[Proceedings 17th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software](https://arxiv.org/abs/2604.05737v1)** | 2026-04-07 |  |
+| **[DéjàVu: A Minimalistic Mechanism for Distributed Plurality Consensus](https://arxiv.org/abs/2604.03648v2)** | 2026-04-07 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Policy-Enabled Multi-Hop Routing for Cross-Chain Message Delivery](https://arxiv.org/abs/2604.04890v1)** | 2026-04-06 | 11 pages, 8 figures |
-| **[Learning, Potential, and Retention: An Approach for Evaluating Adaptive AI-Enabled Medical Devices](https://arxiv.org/abs/2604.04878v1)** | 2026-04-06 |  |
-| **[DeepStack: Scalable and Accurate Design Space Exploration for Distributed 3D-Stacked AI Accelerators](https://arxiv.org/abs/2604.04750v1)** | 2026-04-06 |  |
-| **[RegGuard: Legitimacy and Fairness Enforcement for Optimistic Rollups](https://arxiv.org/abs/2604.04748v1)** | 2026-04-06 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, accepted at IEEE ICBC 2026</p></details> |
-| **[The Energy Cost of Execution-Idle in GPU Clusters](https://arxiv.org/abs/2604.04745v1)** | 2026-04-06 |  |
-| **[Sampling Parallelism for Fast and Efficient Bayesian Learning](https://arxiv.org/abs/2604.04736v1)** | 2026-04-06 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, 1 table</p></details> |
-| **[Faster Base64 Encoding and Decoding Using AVX2 Instructions](https://arxiv.org/abs/1704.00605v6)** | 2026-04-06 | <details><summary>softw...</summary><p>software at https://github.com/lemire/fastbase64</p></details> |
-| **[Communication-Efficient Collaborative LLM Inference over LEO Satellite Networks](https://arxiv.org/abs/2604.04654v1)** | 2026-04-06 | <details><summary>13 pa...</summary><p>13 pages, 12 figures,</p></details> |
-| **[Edge-Oriented Orchestration of Energy Services Using Graph-Driven Swarm Intelligence](https://arxiv.org/abs/2604.04645v1)** | 2026-04-06 | <details><summary>2nd W...</summary><p>2nd Workshop on Enabling Machine Learning Operations for next-Gen Embedded Wireless Networked Devices, Sept 22, Leuven, Belgium</p></details> |
-| **[Tight Bounds on Window Size and Time for Single-Agent Graph Exploration under T-Interval Connectivity](https://arxiv.org/abs/2604.04619v1)** | 2026-04-06 |  |
-| **[LP-GEMM: Integrating Layout Propagation into GEMM Operations](https://arxiv.org/abs/2604.04599v1)** | 2026-04-06 |  |
-| **[NBI-Slurm: Simplified submission of Slurm jobs with energy saving mode](https://arxiv.org/abs/2604.04558v1)** | 2026-04-06 |  |
-| **[ENCRUST: Encapsulated Substitution and Agentic Refinement on a Live Scaffold for Safe C-to-Rust Translation](https://arxiv.org/abs/2604.04527v1)** | 2026-04-06 |  |
-| **[Work-Efficient Parallel Counting via Sampling](https://arxiv.org/abs/2408.09719v3)** | 2026-04-06 | <details><summary>Super...</summary><p>Superseded by arXiv:2604.01263</p></details> |
-| **[Search-Based Multi-Trajectory Refinement for Safe C-to-Rust Translation with Large Language Models](https://arxiv.org/abs/2505.15858v3)** | 2026-04-06 |  |
+| **[Fail Faster: Staging and Fast Randomness for High-Performance PBT](https://arxiv.org/abs/2503.19797v2)** | 2026-04-07 | <details><summary>25 pa...</summary><p>25 pages, 18 figures, under review at OOPSLA</p></details> |
+| **[Fine-Grained Power and Energy Attribution on AMD GPU/APU-Based Exascale Nodes](https://arxiv.org/abs/2604.06056v1)** | 2026-04-07 |  |
+| **[CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics](https://arxiv.org/abs/2604.06036v1)** | 2026-04-07 | 18 pages, 34 figures |
+| **[Arch: An AI-Native Hardware Description Language for Register-Transfer Clocked Hardware Design](https://arxiv.org/abs/2604.05983v1)** | 2026-04-07 |  |
+| **[GTaP: A GPU-Resident Fork-Join Task-Parallel Runtime with a Pragma-Based Interface](https://arxiv.org/abs/2604.05982v1)** | 2026-04-07 | 12 pages, 11 figures |
+| **[Rewriting TTS Inference Economics: Lightning V2 on Tenstorrent Achieves 4x Lower Cost Than NVIDIA L40S](https://arxiv.org/abs/2604.03279v2)** | 2026-04-07 |  |
+| **[Circuit Folding: Modular and Qubit-Level Workload Management in Quantum-Classical Systems](https://arxiv.org/abs/2412.18705v2)** | 2026-04-07 |  |
+| **[JZ-Tree: GPU friendly neighbour search and friends-of-friends with dual tree walks in JAX plus CUDA](https://arxiv.org/abs/2604.05885v1)** | 2026-04-07 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, code available under https://github.com/jstuecker/jztree/</p></details> |
+| **[ENEC: A Lossless AI Model Compression Method Enabling Fast Inference on Ascend NPUs](https://arxiv.org/abs/2604.03298v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by ISCA 2026, 17 pages, 13 figures, 7 tables</p></details> |
+| **[JTON: A Token-Efficient JSON Superset with Zen Grid Tabular Encoding for Large Language Models](https://arxiv.org/abs/2604.05865v1)** | 2026-04-07 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 14 tables. Code and test suite available at https://github.com/gowthamkumar-nandakishore/JTON</p></details> |
+| **[Communication Requirements for Linearizable Registers](https://arxiv.org/abs/2604.05862v1)** | 2026-04-07 |  |
+| **[Service Placement in Small Cell Networks Using Distributed Best Arm Identification in Linear Bandits](https://arxiv.org/abs/2506.22480v2)** | 2026-04-07 |  |
+| **[Critical Sections Are Not Per-Thread: A Trace Semantics for Lock-Based Concurrency](https://arxiv.org/abs/2603.13142v4)** | 2026-04-07 | <details><summary>- cle...</summary><p>- clear distinction between open and closed critical sections (reflected in the definitions, statements and proofs) - some grammar and latex fixes</p></details> |
+| **[Proceedings 17th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software](https://arxiv.org/abs/2604.05737v1)** | 2026-04-07 |  |
+| **[DéjàVu: A Minimalistic Mechanism for Distributed Plurality Consensus](https://arxiv.org/abs/2604.03648v2)** | 2026-04-07 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Policy-Enabled Multi-Hop Routing for Cross-Chain Message Delivery](https://arxiv.org/abs/2604.04890v1)** | 2026-04-06 | 11 pages, 8 figures |
-| **[Learning, Potential, and Retention: An Approach for Evaluating Adaptive AI-Enabled Medical Devices](https://arxiv.org/abs/2604.04878v1)** | 2026-04-06 |  |
-| **[DeepStack: Scalable and Accurate Design Space Exploration for Distributed 3D-Stacked AI Accelerators](https://arxiv.org/abs/2604.04750v1)** | 2026-04-06 |  |
-| **[RegGuard: Legitimacy and Fairness Enforcement for Optimistic Rollups](https://arxiv.org/abs/2604.04748v1)** | 2026-04-06 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, accepted at IEEE ICBC 2026</p></details> |
-| **[The Energy Cost of Execution-Idle in GPU Clusters](https://arxiv.org/abs/2604.04745v1)** | 2026-04-06 |  |
-| **[Sampling Parallelism for Fast and Efficient Bayesian Learning](https://arxiv.org/abs/2604.04736v1)** | 2026-04-06 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, 1 table</p></details> |
-| **[Faster Base64 Encoding and Decoding Using AVX2 Instructions](https://arxiv.org/abs/1704.00605v6)** | 2026-04-06 | <details><summary>softw...</summary><p>software at https://github.com/lemire/fastbase64</p></details> |
-| **[Communication-Efficient Collaborative LLM Inference over LEO Satellite Networks](https://arxiv.org/abs/2604.04654v1)** | 2026-04-06 | <details><summary>13 pa...</summary><p>13 pages, 12 figures,</p></details> |
-| **[Edge-Oriented Orchestration of Energy Services Using Graph-Driven Swarm Intelligence](https://arxiv.org/abs/2604.04645v1)** | 2026-04-06 | <details><summary>2nd W...</summary><p>2nd Workshop on Enabling Machine Learning Operations for next-Gen Embedded Wireless Networked Devices, Sept 22, Leuven, Belgium</p></details> |
-| **[Tight Bounds on Window Size and Time for Single-Agent Graph Exploration under T-Interval Connectivity](https://arxiv.org/abs/2604.04619v1)** | 2026-04-06 |  |
-| **[LP-GEMM: Integrating Layout Propagation into GEMM Operations](https://arxiv.org/abs/2604.04599v1)** | 2026-04-06 |  |
-| **[NBI-Slurm: Simplified submission of Slurm jobs with energy saving mode](https://arxiv.org/abs/2604.04558v1)** | 2026-04-06 |  |
-| **[ENCRUST: Encapsulated Substitution and Agentic Refinement on a Live Scaffold for Safe C-to-Rust Translation](https://arxiv.org/abs/2604.04527v1)** | 2026-04-06 |  |
-| **[Work-Efficient Parallel Counting via Sampling](https://arxiv.org/abs/2408.09719v3)** | 2026-04-06 | <details><summary>Super...</summary><p>Superseded by arXiv:2604.01263</p></details> |
-| **[Search-Based Multi-Trajectory Refinement for Safe C-to-Rust Translation with Large Language Models](https://arxiv.org/abs/2505.15858v3)** | 2026-04-06 |  |
+| **[Fail Faster: Staging and Fast Randomness for High-Performance PBT](https://arxiv.org/abs/2503.19797v2)** | 2026-04-07 | <details><summary>25 pa...</summary><p>25 pages, 18 figures, under review at OOPSLA</p></details> |
+| **[Fine-Grained Power and Energy Attribution on AMD GPU/APU-Based Exascale Nodes](https://arxiv.org/abs/2604.06056v1)** | 2026-04-07 |  |
+| **[CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics](https://arxiv.org/abs/2604.06036v1)** | 2026-04-07 | 18 pages, 34 figures |
+| **[Arch: An AI-Native Hardware Description Language for Register-Transfer Clocked Hardware Design](https://arxiv.org/abs/2604.05983v1)** | 2026-04-07 |  |
+| **[GTaP: A GPU-Resident Fork-Join Task-Parallel Runtime with a Pragma-Based Interface](https://arxiv.org/abs/2604.05982v1)** | 2026-04-07 | 12 pages, 11 figures |
+| **[Rewriting TTS Inference Economics: Lightning V2 on Tenstorrent Achieves 4x Lower Cost Than NVIDIA L40S](https://arxiv.org/abs/2604.03279v2)** | 2026-04-07 |  |
+| **[Circuit Folding: Modular and Qubit-Level Workload Management in Quantum-Classical Systems](https://arxiv.org/abs/2412.18705v2)** | 2026-04-07 |  |
+| **[JZ-Tree: GPU friendly neighbour search and friends-of-friends with dual tree walks in JAX plus CUDA](https://arxiv.org/abs/2604.05885v1)** | 2026-04-07 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, code available under https://github.com/jstuecker/jztree/</p></details> |
+| **[ENEC: A Lossless AI Model Compression Method Enabling Fast Inference on Ascend NPUs](https://arxiv.org/abs/2604.03298v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by ISCA 2026, 17 pages, 13 figures, 7 tables</p></details> |
+| **[JTON: A Token-Efficient JSON Superset with Zen Grid Tabular Encoding for Large Language Models](https://arxiv.org/abs/2604.05865v1)** | 2026-04-07 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 14 tables. Code and test suite available at https://github.com/gowthamkumar-nandakishore/JTON</p></details> |
+| **[Communication Requirements for Linearizable Registers](https://arxiv.org/abs/2604.05862v1)** | 2026-04-07 |  |
+| **[Service Placement in Small Cell Networks Using Distributed Best Arm Identification in Linear Bandits](https://arxiv.org/abs/2506.22480v2)** | 2026-04-07 |  |
+| **[Critical Sections Are Not Per-Thread: A Trace Semantics for Lock-Based Concurrency](https://arxiv.org/abs/2603.13142v4)** | 2026-04-07 | <details><summary>- cle...</summary><p>- clear distinction between open and closed critical sections (reflected in the definitions, statements and proofs) - some grammar and latex fixes</p></details> |
+| **[Proceedings 17th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software](https://arxiv.org/abs/2604.05737v1)** | 2026-04-07 |  |
+| **[DéjàVu: A Minimalistic Mechanism for Distributed Plurality Consensus](https://arxiv.org/abs/2604.03648v2)** | 2026-04-07 |  |
 
