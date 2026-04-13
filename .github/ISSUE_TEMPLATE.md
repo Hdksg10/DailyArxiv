@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 13, 2026
+title: Latest 15 Papers - April 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Taming GPU Underutilization via Static Partitioning and Fine-grained CPU Offloading](https://arxiv.org/abs/2604.08451v1)** | 2026-04-09 | <details><summary>To be...</summary><p>To be published in Proceedings of ISC High Performance 2026</p></details> |
-| **[PG-MDP: Profile-Guided Memory Dependence Prediction for Area-Constrained Cores](https://arxiv.org/abs/2604.08445v1)** | 2026-04-09 |  |
-| **[NL-CPS: Reinforcement Learning-Based Kubernetes Control Plane Placement in Multi-Region Clusters](https://arxiv.org/abs/2604.08434v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted to be published in the 10th IEEE International Conference on Fog and Edge Computing</p></details> |
-| **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v5)** | 2026-04-09 |  |
-| **[City-Scale Visibility Graph Analysis via GPU-Accelerated HyperBall](https://arxiv.org/abs/2604.08374v1)** | 2026-04-09 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, 4 tables</p></details> |
-| **[Will LLMs Scaling Hit the Wall? Breaking Barriers via Distributed Resources on Massive Edge Devices](https://arxiv.org/abs/2503.08223v3)** | 2026-04-09 |  |
-| **[Asynchronous Quantum Distributed Computing: Causality, Snapshots, and Global Operations](https://arxiv.org/abs/2604.08298v1)** | 2026-04-09 | 22 pages |
-| **[Reaching Agreement in Competitive Microbial Systems](https://arxiv.org/abs/2103.07450v4)** | 2026-04-09 | 25 pages, 6 figures |
-| **[DeepStack: Scalable and Accurate Design Space Exploration for Distributed 3D-Stacked AI Accelerators](https://arxiv.org/abs/2604.04750v2)** | 2026-04-09 | fix typo |
-| **[Efficient Federated Search for Retrieval-Augmented Generation using Lightweight Routing](https://arxiv.org/abs/2502.19280v2)** | 2026-04-09 | <details><summary>To ap...</summary><p>To appear in the proceedings of DAIS 2026 (Distributed Applications and Interoperable Systems). An earlier version appeared at EuroMLSys 2025</p></details> |
-| **[Scheduling Coflows in Multi-Core OCS Networks with Performance Guarantee](https://arxiv.org/abs/2604.08242v1)** | 2026-04-09 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, including appendix</p></details> |
-| **[Emergent complexity and rhythms in evoked and spontaneous dynamics of human whole-brain models after tuning through analysis tools](https://arxiv.org/abs/2509.12873v2)** | 2026-04-09 | <details><summary>39 pa...</summary><p>39 pages and 6 figures, plus supplementary material</p></details> |
-| **[Wattlytics: A Web Platform for Co-Optimizing Performance, Energy, and TCO in HPC Clusters](https://arxiv.org/abs/2604.08182v1)** | 2026-04-09 |  |
-| **[CobbleDB: Modelling Levelled Storage by Composition](https://arxiv.org/abs/2604.06273v2)** | 2026-04-09 |  |
-| **[LegoDiffusion: Micro-Serving Text-to-Image Diffusion Workflows](https://arxiv.org/abs/2604.08123v1)** | 2026-04-09 |  |
+| **[DMA-Latte: Expanding the Reach of DMA Offloads to Latency-bound ML Communication](https://arxiv.org/abs/2511.06605v2)** | 2026-04-10 |  |
+| **[Sustaining Exascale Performance: Lessons from HPL and HPL-MxP on Aurora](https://arxiv.org/abs/2604.09517v1)** | 2026-04-10 |  |
+| **[XFED: Non-Collusive Model Poisoning Attack Against Byzantine-Robust Federated Classifiers](https://arxiv.org/abs/2604.09489v1)** | 2026-04-10 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 7 tables</p></details> |
+| **[Reasoning Provenance for Autonomous AI Agents: Structured Behavioral Analytics Beyond State Checkpoints and Execution Traces](https://arxiv.org/abs/2603.21692v2)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 2 tables, 1 figure, preprint, v2: adds co-author and transport-layer verification mechanism</p></details> |
+| **[Tensor-Parallel Emulation of Quantum Circuits with Block-Cyclic Distributed Matrix Product States](https://arxiv.org/abs/2505.06119v2)** | 2026-04-10 | <details><summary>Subst...</summary><p>Substantially revised following reviewer feedback. Preparing for journal submission. Contains 17 pages and 17 figures</p></details> |
+| **[NOMAD: Generating Embeddings for Massive Distributed Graphs](https://arxiv.org/abs/2604.09419v1)** | 2026-04-10 |  |
+| **[Explorable Theorems: Making Written Theorems Explorable by Grounding Them in Formal Representations](https://arxiv.org/abs/2604.02598v2)** | 2026-04-10 |  |
+| **[Accelerating Local LLMs on Resource-Constrained Edge Devices via Distributed Prompt Caching](https://arxiv.org/abs/2602.22812v2)** | 2026-04-10 | EuroMLSys'26 |
+| **[CIR+CVN: Bridging LLM Semantic Understanding and Petri-Net Verification for Concurrent Programs](https://arxiv.org/abs/2604.09318v1)** | 2026-04-10 |  |
+| **[Tracers for debugging and program exploration](https://arxiv.org/abs/2604.09301v1)** | 2026-04-10 | <details><summary>13 pa...</summary><p>13 pages; presented at the 16th annual workshop on the intersection of HCI and PL (PLATEAU 2026), Pittsburgh, PA, USA</p></details> |
+| **[SuperDP: Differential Privacy Refutation via Supermartingales](https://arxiv.org/abs/2603.26215v2)** | 2026-04-10 |  |
+| **[A Deductive System for Contract Satisfaction Proofs](https://arxiv.org/abs/2604.09165v1)** | 2026-04-10 |  |
+| **[MATCHA: Efficient Deployment of Deep Neural Networks on Multi-Accelerator Heterogeneous Edge SoCs](https://arxiv.org/abs/2604.09124v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted at the 63rd ACM/IEEE Design Automation Conference (DAC26)</p></details> |
+| **[TensorHub: Scalable and Elastic Weight Transfer for LLM RL Training](https://arxiv.org/abs/2604.09107v1)** | 2026-04-10 |  |
+| **[EdgeFlow: Fast Cold Starts for LLMs on Mobile Devices](https://arxiv.org/abs/2604.09083v1)** | 2026-04-10 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Taming GPU Underutilization via Static Partitioning and Fine-grained CPU Offloading](https://arxiv.org/abs/2604.08451v1)** | 2026-04-09 | <details><summary>To be...</summary><p>To be published in Proceedings of ISC High Performance 2026</p></details> |
-| **[PG-MDP: Profile-Guided Memory Dependence Prediction for Area-Constrained Cores](https://arxiv.org/abs/2604.08445v1)** | 2026-04-09 |  |
-| **[NL-CPS: Reinforcement Learning-Based Kubernetes Control Plane Placement in Multi-Region Clusters](https://arxiv.org/abs/2604.08434v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted to be published in the 10th IEEE International Conference on Fog and Edge Computing</p></details> |
-| **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v5)** | 2026-04-09 |  |
-| **[City-Scale Visibility Graph Analysis via GPU-Accelerated HyperBall](https://arxiv.org/abs/2604.08374v1)** | 2026-04-09 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, 4 tables</p></details> |
-| **[Will LLMs Scaling Hit the Wall? Breaking Barriers via Distributed Resources on Massive Edge Devices](https://arxiv.org/abs/2503.08223v3)** | 2026-04-09 |  |
-| **[Asynchronous Quantum Distributed Computing: Causality, Snapshots, and Global Operations](https://arxiv.org/abs/2604.08298v1)** | 2026-04-09 | 22 pages |
-| **[Reaching Agreement in Competitive Microbial Systems](https://arxiv.org/abs/2103.07450v4)** | 2026-04-09 | 25 pages, 6 figures |
-| **[DeepStack: Scalable and Accurate Design Space Exploration for Distributed 3D-Stacked AI Accelerators](https://arxiv.org/abs/2604.04750v2)** | 2026-04-09 | fix typo |
-| **[Efficient Federated Search for Retrieval-Augmented Generation using Lightweight Routing](https://arxiv.org/abs/2502.19280v2)** | 2026-04-09 | <details><summary>To ap...</summary><p>To appear in the proceedings of DAIS 2026 (Distributed Applications and Interoperable Systems). An earlier version appeared at EuroMLSys 2025</p></details> |
-| **[Scheduling Coflows in Multi-Core OCS Networks with Performance Guarantee](https://arxiv.org/abs/2604.08242v1)** | 2026-04-09 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, including appendix</p></details> |
-| **[Emergent complexity and rhythms in evoked and spontaneous dynamics of human whole-brain models after tuning through analysis tools](https://arxiv.org/abs/2509.12873v2)** | 2026-04-09 | <details><summary>39 pa...</summary><p>39 pages and 6 figures, plus supplementary material</p></details> |
-| **[Wattlytics: A Web Platform for Co-Optimizing Performance, Energy, and TCO in HPC Clusters](https://arxiv.org/abs/2604.08182v1)** | 2026-04-09 |  |
-| **[CobbleDB: Modelling Levelled Storage by Composition](https://arxiv.org/abs/2604.06273v2)** | 2026-04-09 |  |
-| **[LegoDiffusion: Micro-Serving Text-to-Image Diffusion Workflows](https://arxiv.org/abs/2604.08123v1)** | 2026-04-09 |  |
+| **[DMA-Latte: Expanding the Reach of DMA Offloads to Latency-bound ML Communication](https://arxiv.org/abs/2511.06605v2)** | 2026-04-10 |  |
+| **[Sustaining Exascale Performance: Lessons from HPL and HPL-MxP on Aurora](https://arxiv.org/abs/2604.09517v1)** | 2026-04-10 |  |
+| **[XFED: Non-Collusive Model Poisoning Attack Against Byzantine-Robust Federated Classifiers](https://arxiv.org/abs/2604.09489v1)** | 2026-04-10 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 7 tables</p></details> |
+| **[Reasoning Provenance for Autonomous AI Agents: Structured Behavioral Analytics Beyond State Checkpoints and Execution Traces](https://arxiv.org/abs/2603.21692v2)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 2 tables, 1 figure, preprint, v2: adds co-author and transport-layer verification mechanism</p></details> |
+| **[Tensor-Parallel Emulation of Quantum Circuits with Block-Cyclic Distributed Matrix Product States](https://arxiv.org/abs/2505.06119v2)** | 2026-04-10 | <details><summary>Subst...</summary><p>Substantially revised following reviewer feedback. Preparing for journal submission. Contains 17 pages and 17 figures</p></details> |
+| **[NOMAD: Generating Embeddings for Massive Distributed Graphs](https://arxiv.org/abs/2604.09419v1)** | 2026-04-10 |  |
+| **[Explorable Theorems: Making Written Theorems Explorable by Grounding Them in Formal Representations](https://arxiv.org/abs/2604.02598v2)** | 2026-04-10 |  |
+| **[Accelerating Local LLMs on Resource-Constrained Edge Devices via Distributed Prompt Caching](https://arxiv.org/abs/2602.22812v2)** | 2026-04-10 | EuroMLSys'26 |
+| **[CIR+CVN: Bridging LLM Semantic Understanding and Petri-Net Verification for Concurrent Programs](https://arxiv.org/abs/2604.09318v1)** | 2026-04-10 |  |
+| **[Tracers for debugging and program exploration](https://arxiv.org/abs/2604.09301v1)** | 2026-04-10 | <details><summary>13 pa...</summary><p>13 pages; presented at the 16th annual workshop on the intersection of HCI and PL (PLATEAU 2026), Pittsburgh, PA, USA</p></details> |
+| **[SuperDP: Differential Privacy Refutation via Supermartingales](https://arxiv.org/abs/2603.26215v2)** | 2026-04-10 |  |
+| **[A Deductive System for Contract Satisfaction Proofs](https://arxiv.org/abs/2604.09165v1)** | 2026-04-10 |  |
+| **[MATCHA: Efficient Deployment of Deep Neural Networks on Multi-Accelerator Heterogeneous Edge SoCs](https://arxiv.org/abs/2604.09124v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted at the 63rd ACM/IEEE Design Automation Conference (DAC26)</p></details> |
+| **[TensorHub: Scalable and Elastic Weight Transfer for LLM RL Training](https://arxiv.org/abs/2604.09107v1)** | 2026-04-10 |  |
+| **[EdgeFlow: Fast Cold Starts for LLMs on Mobile Devices](https://arxiv.org/abs/2604.09083v1)** | 2026-04-10 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Taming GPU Underutilization via Static Partitioning and Fine-grained CPU Offloading](https://arxiv.org/abs/2604.08451v1)** | 2026-04-09 | <details><summary>To be...</summary><p>To be published in Proceedings of ISC High Performance 2026</p></details> |
-| **[PG-MDP: Profile-Guided Memory Dependence Prediction for Area-Constrained Cores](https://arxiv.org/abs/2604.08445v1)** | 2026-04-09 |  |
-| **[NL-CPS: Reinforcement Learning-Based Kubernetes Control Plane Placement in Multi-Region Clusters](https://arxiv.org/abs/2604.08434v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted to be published in the 10th IEEE International Conference on Fog and Edge Computing</p></details> |
-| **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v5)** | 2026-04-09 |  |
-| **[City-Scale Visibility Graph Analysis via GPU-Accelerated HyperBall](https://arxiv.org/abs/2604.08374v1)** | 2026-04-09 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, 4 tables</p></details> |
-| **[Will LLMs Scaling Hit the Wall? Breaking Barriers via Distributed Resources on Massive Edge Devices](https://arxiv.org/abs/2503.08223v3)** | 2026-04-09 |  |
-| **[Asynchronous Quantum Distributed Computing: Causality, Snapshots, and Global Operations](https://arxiv.org/abs/2604.08298v1)** | 2026-04-09 | 22 pages |
-| **[Reaching Agreement in Competitive Microbial Systems](https://arxiv.org/abs/2103.07450v4)** | 2026-04-09 | 25 pages, 6 figures |
-| **[DeepStack: Scalable and Accurate Design Space Exploration for Distributed 3D-Stacked AI Accelerators](https://arxiv.org/abs/2604.04750v2)** | 2026-04-09 | fix typo |
-| **[Efficient Federated Search for Retrieval-Augmented Generation using Lightweight Routing](https://arxiv.org/abs/2502.19280v2)** | 2026-04-09 | <details><summary>To ap...</summary><p>To appear in the proceedings of DAIS 2026 (Distributed Applications and Interoperable Systems). An earlier version appeared at EuroMLSys 2025</p></details> |
-| **[Scheduling Coflows in Multi-Core OCS Networks with Performance Guarantee](https://arxiv.org/abs/2604.08242v1)** | 2026-04-09 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, including appendix</p></details> |
-| **[Emergent complexity and rhythms in evoked and spontaneous dynamics of human whole-brain models after tuning through analysis tools](https://arxiv.org/abs/2509.12873v2)** | 2026-04-09 | <details><summary>39 pa...</summary><p>39 pages and 6 figures, plus supplementary material</p></details> |
-| **[Wattlytics: A Web Platform for Co-Optimizing Performance, Energy, and TCO in HPC Clusters](https://arxiv.org/abs/2604.08182v1)** | 2026-04-09 |  |
-| **[CobbleDB: Modelling Levelled Storage by Composition](https://arxiv.org/abs/2604.06273v2)** | 2026-04-09 |  |
-| **[LegoDiffusion: Micro-Serving Text-to-Image Diffusion Workflows](https://arxiv.org/abs/2604.08123v1)** | 2026-04-09 |  |
+| **[DMA-Latte: Expanding the Reach of DMA Offloads to Latency-bound ML Communication](https://arxiv.org/abs/2511.06605v2)** | 2026-04-10 |  |
+| **[Sustaining Exascale Performance: Lessons from HPL and HPL-MxP on Aurora](https://arxiv.org/abs/2604.09517v1)** | 2026-04-10 |  |
+| **[XFED: Non-Collusive Model Poisoning Attack Against Byzantine-Robust Federated Classifiers](https://arxiv.org/abs/2604.09489v1)** | 2026-04-10 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 7 tables</p></details> |
+| **[Reasoning Provenance for Autonomous AI Agents: Structured Behavioral Analytics Beyond State Checkpoints and Execution Traces](https://arxiv.org/abs/2603.21692v2)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 2 tables, 1 figure, preprint, v2: adds co-author and transport-layer verification mechanism</p></details> |
+| **[Tensor-Parallel Emulation of Quantum Circuits with Block-Cyclic Distributed Matrix Product States](https://arxiv.org/abs/2505.06119v2)** | 2026-04-10 | <details><summary>Subst...</summary><p>Substantially revised following reviewer feedback. Preparing for journal submission. Contains 17 pages and 17 figures</p></details> |
+| **[NOMAD: Generating Embeddings for Massive Distributed Graphs](https://arxiv.org/abs/2604.09419v1)** | 2026-04-10 |  |
+| **[Explorable Theorems: Making Written Theorems Explorable by Grounding Them in Formal Representations](https://arxiv.org/abs/2604.02598v2)** | 2026-04-10 |  |
+| **[Accelerating Local LLMs on Resource-Constrained Edge Devices via Distributed Prompt Caching](https://arxiv.org/abs/2602.22812v2)** | 2026-04-10 | EuroMLSys'26 |
+| **[CIR+CVN: Bridging LLM Semantic Understanding and Petri-Net Verification for Concurrent Programs](https://arxiv.org/abs/2604.09318v1)** | 2026-04-10 |  |
+| **[Tracers for debugging and program exploration](https://arxiv.org/abs/2604.09301v1)** | 2026-04-10 | <details><summary>13 pa...</summary><p>13 pages; presented at the 16th annual workshop on the intersection of HCI and PL (PLATEAU 2026), Pittsburgh, PA, USA</p></details> |
+| **[SuperDP: Differential Privacy Refutation via Supermartingales](https://arxiv.org/abs/2603.26215v2)** | 2026-04-10 |  |
+| **[A Deductive System for Contract Satisfaction Proofs](https://arxiv.org/abs/2604.09165v1)** | 2026-04-10 |  |
+| **[MATCHA: Efficient Deployment of Deep Neural Networks on Multi-Accelerator Heterogeneous Edge SoCs](https://arxiv.org/abs/2604.09124v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted at the 63rd ACM/IEEE Design Automation Conference (DAC26)</p></details> |
+| **[TensorHub: Scalable and Elastic Weight Transfer for LLM RL Training](https://arxiv.org/abs/2604.09107v1)** | 2026-04-10 |  |
+| **[EdgeFlow: Fast Cold Starts for LLMs on Mobile Devices](https://arxiv.org/abs/2604.09083v1)** | 2026-04-10 |  |
 
