@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 17, 2026
+title: Latest 15 Papers - April 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Temporary Power Adjusting Withholding Attack](https://arxiv.org/abs/2604.14135v1)** | 2026-04-15 |  |
-| **[Expressivity of AuDaLa: Turing Completeness and Possible Extensions](https://arxiv.org/abs/2412.14938v5)** | 2026-04-15 |  |
-| **[Persistent Iterators with Value Semantics](https://arxiv.org/abs/2604.14072v1)** | 2026-04-15 | <details><summary>22 pa...</summary><p>22 pages, 9 figures, 2 tables, to appear at Programming Language Design and Implementation (PLDI) 2026</p></details> |
-| **[Weighted NetKAT: A Programming Language For Quantitative Network Verification](https://arxiv.org/abs/2604.13987v1)** | 2026-04-15 | <details><summary>Appea...</summary><p>Appearing in PLDI 2026</p></details> |
-| **[AI Coding Agents Need Better Compiler Remarks](https://arxiv.org/abs/2604.13927v1)** | 2026-04-15 | <details><summary>3 pag...</summary><p>3 pages, 1 figure, 2 tables, Presented at Workshop on Co-Design for Agentic and Multimodal AI (CoDAIM) 2026</p></details> |
-| **[Accelerating Edge Inference for Distributed MoE Models with Latency-Optimized Expert Placement](https://arxiv.org/abs/2508.12851v4)** | 2026-04-15 |  |
-| **[An Engineering Journey Training Large Language Models at Scale on Alps: The Apertus Experience](https://arxiv.org/abs/2604.12973v2)** | 2026-04-15 |  |
-| **[On the energy efficiency of sparse matrix computations on multi-GPU clusters](https://arxiv.org/abs/2510.02878v2)** | 2026-04-15 |  |
-| **[Zero-shot Evaluation of Deep Learning for Java Code Clone Detection](https://arxiv.org/abs/2604.13783v1)** | 2026-04-15 |  |
-| **[OffloadFS: Leveraging Disaggregated Storage for Computation Offloading](https://arxiv.org/abs/2604.13743v1)** | 2026-04-15 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[On the Decidability of Verification under Release/Acquire](https://arxiv.org/abs/2604.13683v1)** | 2026-04-15 |  |
-| **[Erlang Binary and Source Code Obfuscation](https://arxiv.org/abs/2604.13675v1)** | 2026-04-15 | 15 pages, 15 figures |
-| **[Asynchronous Global Protocols, Precisely: Full Proofs](https://arxiv.org/abs/2505.17676v3)** | 2026-04-15 | 47 pages |
-| **[Cerisier: A Program Logic for Attestation in a Capability Machine](https://arxiv.org/abs/2604.13638v1)** | 2026-04-15 | <details><summary>To be...</summary><p>To be published in: PLDI 2026</p></details> |
-| **[SAKURAONE: An Open Ethernet-Based AI HPC System and Its Observed Workload Dynamics in a Single-Tenant LLM Development Environment](https://arxiv.org/abs/2604.13600v1)** | 2026-04-15 |  |
+| **[Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290v1)** | 2026-04-16 | <details><summary>Exten...</summary><p>Extended version of the conference paper at PLDI 2026</p></details> |
+| **[Wave-Based Dispatch for Circuit Cutting in Hybrid HPC--Quantum Systems](https://arxiv.org/abs/2604.15279v1)** | 2026-04-16 | 18 pages |
+| **[Prism: Symbolic Superoptimization of Tensor Programs](https://arxiv.org/abs/2604.15272v1)** | 2026-04-16 |  |
+| **[Simplifying Safety Proofs with Forward-Backward Reasoning and Prophecy](https://arxiv.org/abs/2604.15266v1)** | 2026-04-16 |  |
+| **[Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines](https://arxiv.org/abs/2604.15186v1)** | 2026-04-16 |  |
+| **[Chebyshev Accelerated Subspace Eigensolver for Pseudo-hermitian Hamiltonians](https://arxiv.org/abs/2601.10557v2)** | 2026-04-16 | <details><summary>To be...</summary><p>To be submitted to SISC</p></details> |
+| **[SCENIC: Stream Computation-Enhanced SmartNIC](https://arxiv.org/abs/2604.15128v1)** | 2026-04-16 |  |
+| **[Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter](https://arxiv.org/abs/2604.15039v1)** | 2026-04-16 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 6 tables</p></details> |
+| **[Efficient calculation of available space for multi-NUMA virtual machines](https://arxiv.org/abs/2604.15033v1)** | 2026-04-16 |  |
+| **[Serving Chain-structured Jobs with Large Memory Footprints with Application to Large Foundation Model Serving](https://arxiv.org/abs/2604.14993v1)** | 2026-04-16 | Technical report |
+| **[Parameterized Algorithms and Complexity for Function Merging with Branch Reordering](https://arxiv.org/abs/2604.11027v2)** | 2026-04-16 |  |
+| **[From Tokens to Layers: Redefining Stall-Free Scheduling for MoE Serving with Layered Prefill](https://arxiv.org/abs/2510.08055v2)** | 2026-04-16 | <details><summary>24 pa...</summary><p>24 pages, 5 figure, 12 tables, accepted at MLSys 2026</p></details> |
+| **[What if we have 90 minutes only to teach programming?](https://arxiv.org/abs/2604.14942v1)** | 2026-04-16 | <details><summary>5 pag...</summary><p>5 pages, final version will be published elsewhere</p></details> |
+| **[From Paradigm Shift to Audit Rift: Empirical Analysis and Validation of Security Audit Methodologies for Asynchronous Smart Contract Systems](https://arxiv.org/abs/2509.10823v2)** | 2026-04-16 |  |
+| **[Cooperate to Compete: Strategic Data Generation and Incentivization Framework for Coopetitive Cross-Silo Federated Learning](https://arxiv.org/abs/2604.14886v1)** | 2026-04-16 | <details><summary>Compe...</summary><p>Competition-aware Federated Learning, Strategic data generation approaches, A payoff-redistribution based incentive mechanism, Potential game, Social welfare</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Temporary Power Adjusting Withholding Attack](https://arxiv.org/abs/2604.14135v1)** | 2026-04-15 |  |
-| **[Expressivity of AuDaLa: Turing Completeness and Possible Extensions](https://arxiv.org/abs/2412.14938v5)** | 2026-04-15 |  |
-| **[Persistent Iterators with Value Semantics](https://arxiv.org/abs/2604.14072v1)** | 2026-04-15 | <details><summary>22 pa...</summary><p>22 pages, 9 figures, 2 tables, to appear at Programming Language Design and Implementation (PLDI) 2026</p></details> |
-| **[Weighted NetKAT: A Programming Language For Quantitative Network Verification](https://arxiv.org/abs/2604.13987v1)** | 2026-04-15 | <details><summary>Appea...</summary><p>Appearing in PLDI 2026</p></details> |
-| **[AI Coding Agents Need Better Compiler Remarks](https://arxiv.org/abs/2604.13927v1)** | 2026-04-15 | <details><summary>3 pag...</summary><p>3 pages, 1 figure, 2 tables, Presented at Workshop on Co-Design for Agentic and Multimodal AI (CoDAIM) 2026</p></details> |
-| **[Accelerating Edge Inference for Distributed MoE Models with Latency-Optimized Expert Placement](https://arxiv.org/abs/2508.12851v4)** | 2026-04-15 |  |
-| **[An Engineering Journey Training Large Language Models at Scale on Alps: The Apertus Experience](https://arxiv.org/abs/2604.12973v2)** | 2026-04-15 |  |
-| **[On the energy efficiency of sparse matrix computations on multi-GPU clusters](https://arxiv.org/abs/2510.02878v2)** | 2026-04-15 |  |
-| **[Zero-shot Evaluation of Deep Learning for Java Code Clone Detection](https://arxiv.org/abs/2604.13783v1)** | 2026-04-15 |  |
-| **[OffloadFS: Leveraging Disaggregated Storage for Computation Offloading](https://arxiv.org/abs/2604.13743v1)** | 2026-04-15 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[On the Decidability of Verification under Release/Acquire](https://arxiv.org/abs/2604.13683v1)** | 2026-04-15 |  |
-| **[Erlang Binary and Source Code Obfuscation](https://arxiv.org/abs/2604.13675v1)** | 2026-04-15 | 15 pages, 15 figures |
-| **[Asynchronous Global Protocols, Precisely: Full Proofs](https://arxiv.org/abs/2505.17676v3)** | 2026-04-15 | 47 pages |
-| **[Cerisier: A Program Logic for Attestation in a Capability Machine](https://arxiv.org/abs/2604.13638v1)** | 2026-04-15 | <details><summary>To be...</summary><p>To be published in: PLDI 2026</p></details> |
-| **[SAKURAONE: An Open Ethernet-Based AI HPC System and Its Observed Workload Dynamics in a Single-Tenant LLM Development Environment](https://arxiv.org/abs/2604.13600v1)** | 2026-04-15 |  |
+| **[Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290v1)** | 2026-04-16 | <details><summary>Exten...</summary><p>Extended version of the conference paper at PLDI 2026</p></details> |
+| **[Wave-Based Dispatch for Circuit Cutting in Hybrid HPC--Quantum Systems](https://arxiv.org/abs/2604.15279v1)** | 2026-04-16 | 18 pages |
+| **[Prism: Symbolic Superoptimization of Tensor Programs](https://arxiv.org/abs/2604.15272v1)** | 2026-04-16 |  |
+| **[Simplifying Safety Proofs with Forward-Backward Reasoning and Prophecy](https://arxiv.org/abs/2604.15266v1)** | 2026-04-16 |  |
+| **[Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines](https://arxiv.org/abs/2604.15186v1)** | 2026-04-16 |  |
+| **[Chebyshev Accelerated Subspace Eigensolver for Pseudo-hermitian Hamiltonians](https://arxiv.org/abs/2601.10557v2)** | 2026-04-16 | <details><summary>To be...</summary><p>To be submitted to SISC</p></details> |
+| **[SCENIC: Stream Computation-Enhanced SmartNIC](https://arxiv.org/abs/2604.15128v1)** | 2026-04-16 |  |
+| **[Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter](https://arxiv.org/abs/2604.15039v1)** | 2026-04-16 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 6 tables</p></details> |
+| **[Efficient calculation of available space for multi-NUMA virtual machines](https://arxiv.org/abs/2604.15033v1)** | 2026-04-16 |  |
+| **[Serving Chain-structured Jobs with Large Memory Footprints with Application to Large Foundation Model Serving](https://arxiv.org/abs/2604.14993v1)** | 2026-04-16 | Technical report |
+| **[Parameterized Algorithms and Complexity for Function Merging with Branch Reordering](https://arxiv.org/abs/2604.11027v2)** | 2026-04-16 |  |
+| **[From Tokens to Layers: Redefining Stall-Free Scheduling for MoE Serving with Layered Prefill](https://arxiv.org/abs/2510.08055v2)** | 2026-04-16 | <details><summary>24 pa...</summary><p>24 pages, 5 figure, 12 tables, accepted at MLSys 2026</p></details> |
+| **[What if we have 90 minutes only to teach programming?](https://arxiv.org/abs/2604.14942v1)** | 2026-04-16 | <details><summary>5 pag...</summary><p>5 pages, final version will be published elsewhere</p></details> |
+| **[From Paradigm Shift to Audit Rift: Empirical Analysis and Validation of Security Audit Methodologies for Asynchronous Smart Contract Systems](https://arxiv.org/abs/2509.10823v2)** | 2026-04-16 |  |
+| **[Cooperate to Compete: Strategic Data Generation and Incentivization Framework for Coopetitive Cross-Silo Federated Learning](https://arxiv.org/abs/2604.14886v1)** | 2026-04-16 | <details><summary>Compe...</summary><p>Competition-aware Federated Learning, Strategic data generation approaches, A payoff-redistribution based incentive mechanism, Potential game, Social welfare</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Temporary Power Adjusting Withholding Attack](https://arxiv.org/abs/2604.14135v1)** | 2026-04-15 |  |
-| **[Expressivity of AuDaLa: Turing Completeness and Possible Extensions](https://arxiv.org/abs/2412.14938v5)** | 2026-04-15 |  |
-| **[Persistent Iterators with Value Semantics](https://arxiv.org/abs/2604.14072v1)** | 2026-04-15 | <details><summary>22 pa...</summary><p>22 pages, 9 figures, 2 tables, to appear at Programming Language Design and Implementation (PLDI) 2026</p></details> |
-| **[Weighted NetKAT: A Programming Language For Quantitative Network Verification](https://arxiv.org/abs/2604.13987v1)** | 2026-04-15 | <details><summary>Appea...</summary><p>Appearing in PLDI 2026</p></details> |
-| **[AI Coding Agents Need Better Compiler Remarks](https://arxiv.org/abs/2604.13927v1)** | 2026-04-15 | <details><summary>3 pag...</summary><p>3 pages, 1 figure, 2 tables, Presented at Workshop on Co-Design for Agentic and Multimodal AI (CoDAIM) 2026</p></details> |
-| **[Accelerating Edge Inference for Distributed MoE Models with Latency-Optimized Expert Placement](https://arxiv.org/abs/2508.12851v4)** | 2026-04-15 |  |
-| **[An Engineering Journey Training Large Language Models at Scale on Alps: The Apertus Experience](https://arxiv.org/abs/2604.12973v2)** | 2026-04-15 |  |
-| **[On the energy efficiency of sparse matrix computations on multi-GPU clusters](https://arxiv.org/abs/2510.02878v2)** | 2026-04-15 |  |
-| **[Zero-shot Evaluation of Deep Learning for Java Code Clone Detection](https://arxiv.org/abs/2604.13783v1)** | 2026-04-15 |  |
-| **[OffloadFS: Leveraging Disaggregated Storage for Computation Offloading](https://arxiv.org/abs/2604.13743v1)** | 2026-04-15 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[On the Decidability of Verification under Release/Acquire](https://arxiv.org/abs/2604.13683v1)** | 2026-04-15 |  |
-| **[Erlang Binary and Source Code Obfuscation](https://arxiv.org/abs/2604.13675v1)** | 2026-04-15 | 15 pages, 15 figures |
-| **[Asynchronous Global Protocols, Precisely: Full Proofs](https://arxiv.org/abs/2505.17676v3)** | 2026-04-15 | 47 pages |
-| **[Cerisier: A Program Logic for Attestation in a Capability Machine](https://arxiv.org/abs/2604.13638v1)** | 2026-04-15 | <details><summary>To be...</summary><p>To be published in: PLDI 2026</p></details> |
-| **[SAKURAONE: An Open Ethernet-Based AI HPC System and Its Observed Workload Dynamics in a Single-Tenant LLM Development Environment](https://arxiv.org/abs/2604.13600v1)** | 2026-04-15 |  |
+| **[Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290v1)** | 2026-04-16 | <details><summary>Exten...</summary><p>Extended version of the conference paper at PLDI 2026</p></details> |
+| **[Wave-Based Dispatch for Circuit Cutting in Hybrid HPC--Quantum Systems](https://arxiv.org/abs/2604.15279v1)** | 2026-04-16 | 18 pages |
+| **[Prism: Symbolic Superoptimization of Tensor Programs](https://arxiv.org/abs/2604.15272v1)** | 2026-04-16 |  |
+| **[Simplifying Safety Proofs with Forward-Backward Reasoning and Prophecy](https://arxiv.org/abs/2604.15266v1)** | 2026-04-16 |  |
+| **[Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines](https://arxiv.org/abs/2604.15186v1)** | 2026-04-16 |  |
+| **[Chebyshev Accelerated Subspace Eigensolver for Pseudo-hermitian Hamiltonians](https://arxiv.org/abs/2601.10557v2)** | 2026-04-16 | <details><summary>To be...</summary><p>To be submitted to SISC</p></details> |
+| **[SCENIC: Stream Computation-Enhanced SmartNIC](https://arxiv.org/abs/2604.15128v1)** | 2026-04-16 |  |
+| **[Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter](https://arxiv.org/abs/2604.15039v1)** | 2026-04-16 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 6 tables</p></details> |
+| **[Efficient calculation of available space for multi-NUMA virtual machines](https://arxiv.org/abs/2604.15033v1)** | 2026-04-16 |  |
+| **[Serving Chain-structured Jobs with Large Memory Footprints with Application to Large Foundation Model Serving](https://arxiv.org/abs/2604.14993v1)** | 2026-04-16 | Technical report |
+| **[Parameterized Algorithms and Complexity for Function Merging with Branch Reordering](https://arxiv.org/abs/2604.11027v2)** | 2026-04-16 |  |
+| **[From Tokens to Layers: Redefining Stall-Free Scheduling for MoE Serving with Layered Prefill](https://arxiv.org/abs/2510.08055v2)** | 2026-04-16 | <details><summary>24 pa...</summary><p>24 pages, 5 figure, 12 tables, accepted at MLSys 2026</p></details> |
+| **[What if we have 90 minutes only to teach programming?](https://arxiv.org/abs/2604.14942v1)** | 2026-04-16 | <details><summary>5 pag...</summary><p>5 pages, final version will be published elsewhere</p></details> |
+| **[From Paradigm Shift to Audit Rift: Empirical Analysis and Validation of Security Audit Methodologies for Asynchronous Smart Contract Systems](https://arxiv.org/abs/2509.10823v2)** | 2026-04-16 |  |
+| **[Cooperate to Compete: Strategic Data Generation and Incentivization Framework for Coopetitive Cross-Silo Federated Learning](https://arxiv.org/abs/2604.14886v1)** | 2026-04-16 | <details><summary>Compe...</summary><p>Competition-aware Federated Learning, Strategic data generation approaches, A payoff-redistribution based incentive mechanism, Potential game, Social welfare</p></details> |
 
