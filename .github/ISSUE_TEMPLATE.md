@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2026
+title: Latest 15 Papers - April 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290v1)** | 2026-04-16 | <details><summary>Exten...</summary><p>Extended version of the conference paper at PLDI 2026</p></details> |
-| **[Wave-Based Dispatch for Circuit Cutting in Hybrid HPC--Quantum Systems](https://arxiv.org/abs/2604.15279v1)** | 2026-04-16 | 18 pages |
-| **[Prism: Symbolic Superoptimization of Tensor Programs](https://arxiv.org/abs/2604.15272v1)** | 2026-04-16 |  |
-| **[Simplifying Safety Proofs with Forward-Backward Reasoning and Prophecy](https://arxiv.org/abs/2604.15266v1)** | 2026-04-16 |  |
-| **[Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines](https://arxiv.org/abs/2604.15186v1)** | 2026-04-16 |  |
-| **[Chebyshev Accelerated Subspace Eigensolver for Pseudo-hermitian Hamiltonians](https://arxiv.org/abs/2601.10557v2)** | 2026-04-16 | <details><summary>To be...</summary><p>To be submitted to SISC</p></details> |
-| **[SCENIC: Stream Computation-Enhanced SmartNIC](https://arxiv.org/abs/2604.15128v1)** | 2026-04-16 |  |
-| **[Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter](https://arxiv.org/abs/2604.15039v1)** | 2026-04-16 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 6 tables</p></details> |
-| **[Efficient calculation of available space for multi-NUMA virtual machines](https://arxiv.org/abs/2604.15033v1)** | 2026-04-16 |  |
-| **[Serving Chain-structured Jobs with Large Memory Footprints with Application to Large Foundation Model Serving](https://arxiv.org/abs/2604.14993v1)** | 2026-04-16 | Technical report |
-| **[Parameterized Algorithms and Complexity for Function Merging with Branch Reordering](https://arxiv.org/abs/2604.11027v2)** | 2026-04-16 |  |
-| **[From Tokens to Layers: Redefining Stall-Free Scheduling for MoE Serving with Layered Prefill](https://arxiv.org/abs/2510.08055v2)** | 2026-04-16 | <details><summary>24 pa...</summary><p>24 pages, 5 figure, 12 tables, accepted at MLSys 2026</p></details> |
-| **[What if we have 90 minutes only to teach programming?](https://arxiv.org/abs/2604.14942v1)** | 2026-04-16 | <details><summary>5 pag...</summary><p>5 pages, final version will be published elsewhere</p></details> |
-| **[From Paradigm Shift to Audit Rift: Empirical Analysis and Validation of Security Audit Methodologies for Asynchronous Smart Contract Systems](https://arxiv.org/abs/2509.10823v2)** | 2026-04-16 |  |
-| **[Cooperate to Compete: Strategic Data Generation and Incentivization Framework for Coopetitive Cross-Silo Federated Learning](https://arxiv.org/abs/2604.14886v1)** | 2026-04-16 | <details><summary>Compe...</summary><p>Competition-aware Federated Learning, Strategic data generation approaches, A payoff-redistribution based incentive mechanism, Potential game, Social welfare</p></details> |
+| **[Bonsai: Compiling Queries to Pruned Tree Traversals](https://arxiv.org/abs/2511.15000v2)** | 2026-04-17 |  |
+| **[Emulation-Completeness of Programming Languages](https://arxiv.org/abs/2604.11021v2)** | 2026-04-17 | 13 pages, 7 tables |
+| **[The downgrading semantics of memory safety (Extended version)](https://arxiv.org/abs/2507.11282v2)** | 2026-04-17 | <details><summary>65 pa...</summary><p>65 pages, 26 figures, Extended version of PLDI 2026 paper with the same title</p></details> |
+| **[Training Time Prediction for Mixed Precision-based Distributed Training](https://arxiv.org/abs/2604.16145v1)** | 2026-04-17 |  |
+| **[Logarithmic-Time Geodesically Convex Decomposition in Programmable Matter](https://arxiv.org/abs/2604.16112v1)** | 2026-04-17 |  |
+| **[Compositional Design, Implementation, and Verification of Swarms (Technical Report)](https://arxiv.org/abs/2604.16097v1)** | 2026-04-17 | <details><summary>43 pa...</summary><p>43 pages, 15 figures, Related version accepted at ECOOP 2026 conference</p></details> |
+| **[Robust Synchronisation for Federated Learning in The Face of Correlated Device Failure](https://arxiv.org/abs/2604.16090v1)** | 2026-04-17 |  |
+| **[Contextual Refinement of Higher-Order Concurrent Probabilistic Programs (Extended Version)](https://arxiv.org/abs/2511.10135v3)** | 2026-04-17 | Updated version |
+| **[T-RBFT: A Scalable and Efficient Byzantine Consensus Based on Trusted Execution Environment for Consortium Blockchain](https://arxiv.org/abs/2604.16053v1)** | 2026-04-17 |  |
+| **[Evaluating SYCL as a Unified Programming Model for Heterogeneous Systems](https://arxiv.org/abs/2604.16043v1)** | 2026-04-17 |  |
+| **[Intrinsically Correct Algorithms and Recursive Coalgebras](https://arxiv.org/abs/2512.10748v3)** | 2026-04-17 | <details><summary>Agda ...</summary><p>Agda source repository is archived under the Software Heritage ID: swh:1:dir:dd4da03ce67637632d48f28e941771c11a2d64ee</p></details> |
+| **[Cleaning up the Mess: Re-Evaluating the Real-System Modeling Accuracy of Ramulator 2.0](https://arxiv.org/abs/2510.15744v3)** | 2026-04-17 | <details><summary>Exten...</summary><p>Extended version of paper to appear at ISPASS 2026</p></details> |
+| **[jMT: Testing Correctness of Java Memory Models (Extended Version)](https://arxiv.org/abs/2604.15978v1)** | 2026-04-17 | <details><summary>This ...</summary><p>This is the extended version referenced in the TACAS proceedings</p></details> |
+| **[Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference](https://arxiv.org/abs/2601.12967v2)** | 2026-04-17 |  |
+| **[Continuous benchmarking: Keeping pace with an evolving ecosystem of models and technologies](https://arxiv.org/abs/2604.15919v1)** | 2026-04-17 | 20 pages, 8 figures |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290v1)** | 2026-04-16 | <details><summary>Exten...</summary><p>Extended version of the conference paper at PLDI 2026</p></details> |
-| **[Wave-Based Dispatch for Circuit Cutting in Hybrid HPC--Quantum Systems](https://arxiv.org/abs/2604.15279v1)** | 2026-04-16 | 18 pages |
-| **[Prism: Symbolic Superoptimization of Tensor Programs](https://arxiv.org/abs/2604.15272v1)** | 2026-04-16 |  |
-| **[Simplifying Safety Proofs with Forward-Backward Reasoning and Prophecy](https://arxiv.org/abs/2604.15266v1)** | 2026-04-16 |  |
-| **[Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines](https://arxiv.org/abs/2604.15186v1)** | 2026-04-16 |  |
-| **[Chebyshev Accelerated Subspace Eigensolver for Pseudo-hermitian Hamiltonians](https://arxiv.org/abs/2601.10557v2)** | 2026-04-16 | <details><summary>To be...</summary><p>To be submitted to SISC</p></details> |
-| **[SCENIC: Stream Computation-Enhanced SmartNIC](https://arxiv.org/abs/2604.15128v1)** | 2026-04-16 |  |
-| **[Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter](https://arxiv.org/abs/2604.15039v1)** | 2026-04-16 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 6 tables</p></details> |
-| **[Efficient calculation of available space for multi-NUMA virtual machines](https://arxiv.org/abs/2604.15033v1)** | 2026-04-16 |  |
-| **[Serving Chain-structured Jobs with Large Memory Footprints with Application to Large Foundation Model Serving](https://arxiv.org/abs/2604.14993v1)** | 2026-04-16 | Technical report |
-| **[Parameterized Algorithms and Complexity for Function Merging with Branch Reordering](https://arxiv.org/abs/2604.11027v2)** | 2026-04-16 |  |
-| **[From Tokens to Layers: Redefining Stall-Free Scheduling for MoE Serving with Layered Prefill](https://arxiv.org/abs/2510.08055v2)** | 2026-04-16 | <details><summary>24 pa...</summary><p>24 pages, 5 figure, 12 tables, accepted at MLSys 2026</p></details> |
-| **[What if we have 90 minutes only to teach programming?](https://arxiv.org/abs/2604.14942v1)** | 2026-04-16 | <details><summary>5 pag...</summary><p>5 pages, final version will be published elsewhere</p></details> |
-| **[From Paradigm Shift to Audit Rift: Empirical Analysis and Validation of Security Audit Methodologies for Asynchronous Smart Contract Systems](https://arxiv.org/abs/2509.10823v2)** | 2026-04-16 |  |
-| **[Cooperate to Compete: Strategic Data Generation and Incentivization Framework for Coopetitive Cross-Silo Federated Learning](https://arxiv.org/abs/2604.14886v1)** | 2026-04-16 | <details><summary>Compe...</summary><p>Competition-aware Federated Learning, Strategic data generation approaches, A payoff-redistribution based incentive mechanism, Potential game, Social welfare</p></details> |
+| **[Bonsai: Compiling Queries to Pruned Tree Traversals](https://arxiv.org/abs/2511.15000v2)** | 2026-04-17 |  |
+| **[Emulation-Completeness of Programming Languages](https://arxiv.org/abs/2604.11021v2)** | 2026-04-17 | 13 pages, 7 tables |
+| **[The downgrading semantics of memory safety (Extended version)](https://arxiv.org/abs/2507.11282v2)** | 2026-04-17 | <details><summary>65 pa...</summary><p>65 pages, 26 figures, Extended version of PLDI 2026 paper with the same title</p></details> |
+| **[Training Time Prediction for Mixed Precision-based Distributed Training](https://arxiv.org/abs/2604.16145v1)** | 2026-04-17 |  |
+| **[Logarithmic-Time Geodesically Convex Decomposition in Programmable Matter](https://arxiv.org/abs/2604.16112v1)** | 2026-04-17 |  |
+| **[Compositional Design, Implementation, and Verification of Swarms (Technical Report)](https://arxiv.org/abs/2604.16097v1)** | 2026-04-17 | <details><summary>43 pa...</summary><p>43 pages, 15 figures, Related version accepted at ECOOP 2026 conference</p></details> |
+| **[Robust Synchronisation for Federated Learning in The Face of Correlated Device Failure](https://arxiv.org/abs/2604.16090v1)** | 2026-04-17 |  |
+| **[Contextual Refinement of Higher-Order Concurrent Probabilistic Programs (Extended Version)](https://arxiv.org/abs/2511.10135v3)** | 2026-04-17 | Updated version |
+| **[T-RBFT: A Scalable and Efficient Byzantine Consensus Based on Trusted Execution Environment for Consortium Blockchain](https://arxiv.org/abs/2604.16053v1)** | 2026-04-17 |  |
+| **[Evaluating SYCL as a Unified Programming Model for Heterogeneous Systems](https://arxiv.org/abs/2604.16043v1)** | 2026-04-17 |  |
+| **[Intrinsically Correct Algorithms and Recursive Coalgebras](https://arxiv.org/abs/2512.10748v3)** | 2026-04-17 | <details><summary>Agda ...</summary><p>Agda source repository is archived under the Software Heritage ID: swh:1:dir:dd4da03ce67637632d48f28e941771c11a2d64ee</p></details> |
+| **[Cleaning up the Mess: Re-Evaluating the Real-System Modeling Accuracy of Ramulator 2.0](https://arxiv.org/abs/2510.15744v3)** | 2026-04-17 | <details><summary>Exten...</summary><p>Extended version of paper to appear at ISPASS 2026</p></details> |
+| **[jMT: Testing Correctness of Java Memory Models (Extended Version)](https://arxiv.org/abs/2604.15978v1)** | 2026-04-17 | <details><summary>This ...</summary><p>This is the extended version referenced in the TACAS proceedings</p></details> |
+| **[Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference](https://arxiv.org/abs/2601.12967v2)** | 2026-04-17 |  |
+| **[Continuous benchmarking: Keeping pace with an evolving ecosystem of models and technologies](https://arxiv.org/abs/2604.15919v1)** | 2026-04-17 | 20 pages, 8 figures |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290v1)** | 2026-04-16 | <details><summary>Exten...</summary><p>Extended version of the conference paper at PLDI 2026</p></details> |
-| **[Wave-Based Dispatch for Circuit Cutting in Hybrid HPC--Quantum Systems](https://arxiv.org/abs/2604.15279v1)** | 2026-04-16 | 18 pages |
-| **[Prism: Symbolic Superoptimization of Tensor Programs](https://arxiv.org/abs/2604.15272v1)** | 2026-04-16 |  |
-| **[Simplifying Safety Proofs with Forward-Backward Reasoning and Prophecy](https://arxiv.org/abs/2604.15266v1)** | 2026-04-16 |  |
-| **[Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines](https://arxiv.org/abs/2604.15186v1)** | 2026-04-16 |  |
-| **[Chebyshev Accelerated Subspace Eigensolver for Pseudo-hermitian Hamiltonians](https://arxiv.org/abs/2601.10557v2)** | 2026-04-16 | <details><summary>To be...</summary><p>To be submitted to SISC</p></details> |
-| **[SCENIC: Stream Computation-Enhanced SmartNIC](https://arxiv.org/abs/2604.15128v1)** | 2026-04-16 |  |
-| **[Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter](https://arxiv.org/abs/2604.15039v1)** | 2026-04-16 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 6 tables</p></details> |
-| **[Efficient calculation of available space for multi-NUMA virtual machines](https://arxiv.org/abs/2604.15033v1)** | 2026-04-16 |  |
-| **[Serving Chain-structured Jobs with Large Memory Footprints with Application to Large Foundation Model Serving](https://arxiv.org/abs/2604.14993v1)** | 2026-04-16 | Technical report |
-| **[Parameterized Algorithms and Complexity for Function Merging with Branch Reordering](https://arxiv.org/abs/2604.11027v2)** | 2026-04-16 |  |
-| **[From Tokens to Layers: Redefining Stall-Free Scheduling for MoE Serving with Layered Prefill](https://arxiv.org/abs/2510.08055v2)** | 2026-04-16 | <details><summary>24 pa...</summary><p>24 pages, 5 figure, 12 tables, accepted at MLSys 2026</p></details> |
-| **[What if we have 90 minutes only to teach programming?](https://arxiv.org/abs/2604.14942v1)** | 2026-04-16 | <details><summary>5 pag...</summary><p>5 pages, final version will be published elsewhere</p></details> |
-| **[From Paradigm Shift to Audit Rift: Empirical Analysis and Validation of Security Audit Methodologies for Asynchronous Smart Contract Systems](https://arxiv.org/abs/2509.10823v2)** | 2026-04-16 |  |
-| **[Cooperate to Compete: Strategic Data Generation and Incentivization Framework for Coopetitive Cross-Silo Federated Learning](https://arxiv.org/abs/2604.14886v1)** | 2026-04-16 | <details><summary>Compe...</summary><p>Competition-aware Federated Learning, Strategic data generation approaches, A payoff-redistribution based incentive mechanism, Potential game, Social welfare</p></details> |
+| **[Bonsai: Compiling Queries to Pruned Tree Traversals](https://arxiv.org/abs/2511.15000v2)** | 2026-04-17 |  |
+| **[Emulation-Completeness of Programming Languages](https://arxiv.org/abs/2604.11021v2)** | 2026-04-17 | 13 pages, 7 tables |
+| **[The downgrading semantics of memory safety (Extended version)](https://arxiv.org/abs/2507.11282v2)** | 2026-04-17 | <details><summary>65 pa...</summary><p>65 pages, 26 figures, Extended version of PLDI 2026 paper with the same title</p></details> |
+| **[Training Time Prediction for Mixed Precision-based Distributed Training](https://arxiv.org/abs/2604.16145v1)** | 2026-04-17 |  |
+| **[Logarithmic-Time Geodesically Convex Decomposition in Programmable Matter](https://arxiv.org/abs/2604.16112v1)** | 2026-04-17 |  |
+| **[Compositional Design, Implementation, and Verification of Swarms (Technical Report)](https://arxiv.org/abs/2604.16097v1)** | 2026-04-17 | <details><summary>43 pa...</summary><p>43 pages, 15 figures, Related version accepted at ECOOP 2026 conference</p></details> |
+| **[Robust Synchronisation for Federated Learning in The Face of Correlated Device Failure](https://arxiv.org/abs/2604.16090v1)** | 2026-04-17 |  |
+| **[Contextual Refinement of Higher-Order Concurrent Probabilistic Programs (Extended Version)](https://arxiv.org/abs/2511.10135v3)** | 2026-04-17 | Updated version |
+| **[T-RBFT: A Scalable and Efficient Byzantine Consensus Based on Trusted Execution Environment for Consortium Blockchain](https://arxiv.org/abs/2604.16053v1)** | 2026-04-17 |  |
+| **[Evaluating SYCL as a Unified Programming Model for Heterogeneous Systems](https://arxiv.org/abs/2604.16043v1)** | 2026-04-17 |  |
+| **[Intrinsically Correct Algorithms and Recursive Coalgebras](https://arxiv.org/abs/2512.10748v3)** | 2026-04-17 | <details><summary>Agda ...</summary><p>Agda source repository is archived under the Software Heritage ID: swh:1:dir:dd4da03ce67637632d48f28e941771c11a2d64ee</p></details> |
+| **[Cleaning up the Mess: Re-Evaluating the Real-System Modeling Accuracy of Ramulator 2.0](https://arxiv.org/abs/2510.15744v3)** | 2026-04-17 | <details><summary>Exten...</summary><p>Extended version of paper to appear at ISPASS 2026</p></details> |
+| **[jMT: Testing Correctness of Java Memory Models (Extended Version)](https://arxiv.org/abs/2604.15978v1)** | 2026-04-17 | <details><summary>This ...</summary><p>This is the extended version referenced in the TACAS proceedings</p></details> |
+| **[Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference](https://arxiv.org/abs/2601.12967v2)** | 2026-04-17 |  |
+| **[Continuous benchmarking: Keeping pace with an evolving ecosystem of models and technologies](https://arxiv.org/abs/2604.15919v1)** | 2026-04-17 | 20 pages, 8 figures |
 
