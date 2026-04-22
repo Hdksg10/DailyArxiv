@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 21, 2026
+title: Latest 15 Papers - April 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bonsai: Compiling Queries to Pruned Tree Traversals](https://arxiv.org/abs/2511.15000v2)** | 2026-04-17 |  |
-| **[Emulation-Completeness of Programming Languages](https://arxiv.org/abs/2604.11021v2)** | 2026-04-17 | 13 pages, 7 tables |
-| **[The downgrading semantics of memory safety (Extended version)](https://arxiv.org/abs/2507.11282v2)** | 2026-04-17 | <details><summary>65 pa...</summary><p>65 pages, 26 figures, Extended version of PLDI 2026 paper with the same title</p></details> |
-| **[Training Time Prediction for Mixed Precision-based Distributed Training](https://arxiv.org/abs/2604.16145v1)** | 2026-04-17 |  |
-| **[Logarithmic-Time Geodesically Convex Decomposition in Programmable Matter](https://arxiv.org/abs/2604.16112v1)** | 2026-04-17 |  |
-| **[Compositional Design, Implementation, and Verification of Swarms (Technical Report)](https://arxiv.org/abs/2604.16097v1)** | 2026-04-17 | <details><summary>43 pa...</summary><p>43 pages, 15 figures, Related version accepted at ECOOP 2026 conference</p></details> |
-| **[Robust Synchronisation for Federated Learning in The Face of Correlated Device Failure](https://arxiv.org/abs/2604.16090v1)** | 2026-04-17 |  |
-| **[Contextual Refinement of Higher-Order Concurrent Probabilistic Programs (Extended Version)](https://arxiv.org/abs/2511.10135v3)** | 2026-04-17 | Updated version |
-| **[T-RBFT: A Scalable and Efficient Byzantine Consensus Based on Trusted Execution Environment for Consortium Blockchain](https://arxiv.org/abs/2604.16053v1)** | 2026-04-17 |  |
-| **[Evaluating SYCL as a Unified Programming Model for Heterogeneous Systems](https://arxiv.org/abs/2604.16043v1)** | 2026-04-17 |  |
-| **[Intrinsically Correct Algorithms and Recursive Coalgebras](https://arxiv.org/abs/2512.10748v3)** | 2026-04-17 | <details><summary>Agda ...</summary><p>Agda source repository is archived under the Software Heritage ID: swh:1:dir:dd4da03ce67637632d48f28e941771c11a2d64ee</p></details> |
-| **[Cleaning up the Mess: Re-Evaluating the Real-System Modeling Accuracy of Ramulator 2.0](https://arxiv.org/abs/2510.15744v3)** | 2026-04-17 | <details><summary>Exten...</summary><p>Extended version of paper to appear at ISPASS 2026</p></details> |
-| **[jMT: Testing Correctness of Java Memory Models (Extended Version)](https://arxiv.org/abs/2604.15978v1)** | 2026-04-17 | <details><summary>This ...</summary><p>This is the extended version referenced in the TACAS proceedings</p></details> |
-| **[Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference](https://arxiv.org/abs/2601.12967v2)** | 2026-04-17 |  |
-| **[Continuous benchmarking: Keeping pace with an evolving ecosystem of models and technologies](https://arxiv.org/abs/2604.15919v1)** | 2026-04-17 | 20 pages, 8 figures |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290v2)** | 2026-04-21 | <details><summary>Exten...</summary><p>Extended version of the PLDI 2026 paper</p></details> |
+| **[FEPLB: Exploiting Copy Engines for Nearly Free MoE Load Balancing in Distributed Training](https://arxiv.org/abs/2604.19654v1)** | 2026-04-21 | 6 pages, 6 figures |
+| **[Adding Compilation Metadata To Binaries To Make Disassembly Decidable](https://arxiv.org/abs/2604.19628v1)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables. Submitted to QRS 2026</p></details> |
+| **[ReaLB: Real-Time Load Balancing for Multimodal MoE Inference](https://arxiv.org/abs/2604.19503v1)** | 2026-04-21 |  |
+| **[Bitcoin-IPC Whitepaper: Scaling Bitcoin with a Network of Proof-of-Stake Subnets](https://arxiv.org/abs/2512.23439v2)** | 2026-04-21 | 31 pages, 13 figures |
+| **[DPC: A Distributed Page Cache over CXL](https://arxiv.org/abs/2604.19494v1)** | 2026-04-21 |  |
+| **[On the Power Saving in High-Speed Ethernet-based Networks for Supercomputers and Data Centers](https://arxiv.org/abs/2510.19783v4)** | 2026-04-21 | <details><summary>Submi...</summary><p>Submitted to The Journal of Systems Architecture</p></details> |
+| **[Minimizing Intellectual Property Risks via Self-Stabilizing Algorithms](https://arxiv.org/abs/2604.19454v1)** | 2026-04-21 |  |
+| **[Optimal Routing for Federated Learning over Dynamic Satellite Networks: Tractable or Not?](https://arxiv.org/abs/2604.19399v1)** | 2026-04-21 |  |
+| **[CROWDio: A Practical Mobile Crowd Computing Framework with Developer-Oriented Design, Adaptive Scheduling, and Fault Resilience](https://arxiv.org/abs/2604.19363v1)** | 2026-04-21 | 10 pages, 3 figures |
+| **[POLAR-PIC: A Holistic Framework for Matrixized PIC with Co-Designed Compute, Layout, and Communication](https://arxiv.org/abs/2604.19337v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted for publication at HPDC 2026</p></details> |
+| **[Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey](https://arxiv.org/abs/2603.04445v2)** | 2026-04-21 | <details><summary>Work ...</summary><p>Work funded by ADAPT Centre, Trinity College Dublin, and Huawei Ireland</p></details> |
+| **[Mass Matrix Assembly on Tensor Cores for Implicit Particle-In-Cell Methods](https://arxiv.org/abs/2604.19286v1)** | 2026-04-21 |  |
+| **[A Simple Communication Scheme for Distributed Fast Multipole Methods](https://arxiv.org/abs/2604.19243v1)** | 2026-04-21 | 38 pages, 13 figures |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bonsai: Compiling Queries to Pruned Tree Traversals](https://arxiv.org/abs/2511.15000v2)** | 2026-04-17 |  |
-| **[Emulation-Completeness of Programming Languages](https://arxiv.org/abs/2604.11021v2)** | 2026-04-17 | 13 pages, 7 tables |
-| **[The downgrading semantics of memory safety (Extended version)](https://arxiv.org/abs/2507.11282v2)** | 2026-04-17 | <details><summary>65 pa...</summary><p>65 pages, 26 figures, Extended version of PLDI 2026 paper with the same title</p></details> |
-| **[Training Time Prediction for Mixed Precision-based Distributed Training](https://arxiv.org/abs/2604.16145v1)** | 2026-04-17 |  |
-| **[Logarithmic-Time Geodesically Convex Decomposition in Programmable Matter](https://arxiv.org/abs/2604.16112v1)** | 2026-04-17 |  |
-| **[Compositional Design, Implementation, and Verification of Swarms (Technical Report)](https://arxiv.org/abs/2604.16097v1)** | 2026-04-17 | <details><summary>43 pa...</summary><p>43 pages, 15 figures, Related version accepted at ECOOP 2026 conference</p></details> |
-| **[Robust Synchronisation for Federated Learning in The Face of Correlated Device Failure](https://arxiv.org/abs/2604.16090v1)** | 2026-04-17 |  |
-| **[Contextual Refinement of Higher-Order Concurrent Probabilistic Programs (Extended Version)](https://arxiv.org/abs/2511.10135v3)** | 2026-04-17 | Updated version |
-| **[T-RBFT: A Scalable and Efficient Byzantine Consensus Based on Trusted Execution Environment for Consortium Blockchain](https://arxiv.org/abs/2604.16053v1)** | 2026-04-17 |  |
-| **[Evaluating SYCL as a Unified Programming Model for Heterogeneous Systems](https://arxiv.org/abs/2604.16043v1)** | 2026-04-17 |  |
-| **[Intrinsically Correct Algorithms and Recursive Coalgebras](https://arxiv.org/abs/2512.10748v3)** | 2026-04-17 | <details><summary>Agda ...</summary><p>Agda source repository is archived under the Software Heritage ID: swh:1:dir:dd4da03ce67637632d48f28e941771c11a2d64ee</p></details> |
-| **[Cleaning up the Mess: Re-Evaluating the Real-System Modeling Accuracy of Ramulator 2.0](https://arxiv.org/abs/2510.15744v3)** | 2026-04-17 | <details><summary>Exten...</summary><p>Extended version of paper to appear at ISPASS 2026</p></details> |
-| **[jMT: Testing Correctness of Java Memory Models (Extended Version)](https://arxiv.org/abs/2604.15978v1)** | 2026-04-17 | <details><summary>This ...</summary><p>This is the extended version referenced in the TACAS proceedings</p></details> |
-| **[Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference](https://arxiv.org/abs/2601.12967v2)** | 2026-04-17 |  |
-| **[Continuous benchmarking: Keeping pace with an evolving ecosystem of models and technologies](https://arxiv.org/abs/2604.15919v1)** | 2026-04-17 | 20 pages, 8 figures |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290v2)** | 2026-04-21 | <details><summary>Exten...</summary><p>Extended version of the PLDI 2026 paper</p></details> |
+| **[FEPLB: Exploiting Copy Engines for Nearly Free MoE Load Balancing in Distributed Training](https://arxiv.org/abs/2604.19654v1)** | 2026-04-21 | 6 pages, 6 figures |
+| **[Adding Compilation Metadata To Binaries To Make Disassembly Decidable](https://arxiv.org/abs/2604.19628v1)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables. Submitted to QRS 2026</p></details> |
+| **[ReaLB: Real-Time Load Balancing for Multimodal MoE Inference](https://arxiv.org/abs/2604.19503v1)** | 2026-04-21 |  |
+| **[Bitcoin-IPC Whitepaper: Scaling Bitcoin with a Network of Proof-of-Stake Subnets](https://arxiv.org/abs/2512.23439v2)** | 2026-04-21 | 31 pages, 13 figures |
+| **[DPC: A Distributed Page Cache over CXL](https://arxiv.org/abs/2604.19494v1)** | 2026-04-21 |  |
+| **[On the Power Saving in High-Speed Ethernet-based Networks for Supercomputers and Data Centers](https://arxiv.org/abs/2510.19783v4)** | 2026-04-21 | <details><summary>Submi...</summary><p>Submitted to The Journal of Systems Architecture</p></details> |
+| **[Minimizing Intellectual Property Risks via Self-Stabilizing Algorithms](https://arxiv.org/abs/2604.19454v1)** | 2026-04-21 |  |
+| **[Optimal Routing for Federated Learning over Dynamic Satellite Networks: Tractable or Not?](https://arxiv.org/abs/2604.19399v1)** | 2026-04-21 |  |
+| **[CROWDio: A Practical Mobile Crowd Computing Framework with Developer-Oriented Design, Adaptive Scheduling, and Fault Resilience](https://arxiv.org/abs/2604.19363v1)** | 2026-04-21 | 10 pages, 3 figures |
+| **[POLAR-PIC: A Holistic Framework for Matrixized PIC with Co-Designed Compute, Layout, and Communication](https://arxiv.org/abs/2604.19337v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted for publication at HPDC 2026</p></details> |
+| **[Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey](https://arxiv.org/abs/2603.04445v2)** | 2026-04-21 | <details><summary>Work ...</summary><p>Work funded by ADAPT Centre, Trinity College Dublin, and Huawei Ireland</p></details> |
+| **[Mass Matrix Assembly on Tensor Cores for Implicit Particle-In-Cell Methods](https://arxiv.org/abs/2604.19286v1)** | 2026-04-21 |  |
+| **[A Simple Communication Scheme for Distributed Fast Multipole Methods](https://arxiv.org/abs/2604.19243v1)** | 2026-04-21 | 38 pages, 13 figures |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bonsai: Compiling Queries to Pruned Tree Traversals](https://arxiv.org/abs/2511.15000v2)** | 2026-04-17 |  |
-| **[Emulation-Completeness of Programming Languages](https://arxiv.org/abs/2604.11021v2)** | 2026-04-17 | 13 pages, 7 tables |
-| **[The downgrading semantics of memory safety (Extended version)](https://arxiv.org/abs/2507.11282v2)** | 2026-04-17 | <details><summary>65 pa...</summary><p>65 pages, 26 figures, Extended version of PLDI 2026 paper with the same title</p></details> |
-| **[Training Time Prediction for Mixed Precision-based Distributed Training](https://arxiv.org/abs/2604.16145v1)** | 2026-04-17 |  |
-| **[Logarithmic-Time Geodesically Convex Decomposition in Programmable Matter](https://arxiv.org/abs/2604.16112v1)** | 2026-04-17 |  |
-| **[Compositional Design, Implementation, and Verification of Swarms (Technical Report)](https://arxiv.org/abs/2604.16097v1)** | 2026-04-17 | <details><summary>43 pa...</summary><p>43 pages, 15 figures, Related version accepted at ECOOP 2026 conference</p></details> |
-| **[Robust Synchronisation for Federated Learning in The Face of Correlated Device Failure](https://arxiv.org/abs/2604.16090v1)** | 2026-04-17 |  |
-| **[Contextual Refinement of Higher-Order Concurrent Probabilistic Programs (Extended Version)](https://arxiv.org/abs/2511.10135v3)** | 2026-04-17 | Updated version |
-| **[T-RBFT: A Scalable and Efficient Byzantine Consensus Based on Trusted Execution Environment for Consortium Blockchain](https://arxiv.org/abs/2604.16053v1)** | 2026-04-17 |  |
-| **[Evaluating SYCL as a Unified Programming Model for Heterogeneous Systems](https://arxiv.org/abs/2604.16043v1)** | 2026-04-17 |  |
-| **[Intrinsically Correct Algorithms and Recursive Coalgebras](https://arxiv.org/abs/2512.10748v3)** | 2026-04-17 | <details><summary>Agda ...</summary><p>Agda source repository is archived under the Software Heritage ID: swh:1:dir:dd4da03ce67637632d48f28e941771c11a2d64ee</p></details> |
-| **[Cleaning up the Mess: Re-Evaluating the Real-System Modeling Accuracy of Ramulator 2.0](https://arxiv.org/abs/2510.15744v3)** | 2026-04-17 | <details><summary>Exten...</summary><p>Extended version of paper to appear at ISPASS 2026</p></details> |
-| **[jMT: Testing Correctness of Java Memory Models (Extended Version)](https://arxiv.org/abs/2604.15978v1)** | 2026-04-17 | <details><summary>This ...</summary><p>This is the extended version referenced in the TACAS proceedings</p></details> |
-| **[Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference](https://arxiv.org/abs/2601.12967v2)** | 2026-04-17 |  |
-| **[Continuous benchmarking: Keeping pace with an evolving ecosystem of models and technologies](https://arxiv.org/abs/2604.15919v1)** | 2026-04-17 | 20 pages, 8 figures |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290v2)** | 2026-04-21 | <details><summary>Exten...</summary><p>Extended version of the PLDI 2026 paper</p></details> |
+| **[FEPLB: Exploiting Copy Engines for Nearly Free MoE Load Balancing in Distributed Training](https://arxiv.org/abs/2604.19654v1)** | 2026-04-21 | 6 pages, 6 figures |
+| **[Adding Compilation Metadata To Binaries To Make Disassembly Decidable](https://arxiv.org/abs/2604.19628v1)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables. Submitted to QRS 2026</p></details> |
+| **[ReaLB: Real-Time Load Balancing for Multimodal MoE Inference](https://arxiv.org/abs/2604.19503v1)** | 2026-04-21 |  |
+| **[Bitcoin-IPC Whitepaper: Scaling Bitcoin with a Network of Proof-of-Stake Subnets](https://arxiv.org/abs/2512.23439v2)** | 2026-04-21 | 31 pages, 13 figures |
+| **[DPC: A Distributed Page Cache over CXL](https://arxiv.org/abs/2604.19494v1)** | 2026-04-21 |  |
+| **[On the Power Saving in High-Speed Ethernet-based Networks for Supercomputers and Data Centers](https://arxiv.org/abs/2510.19783v4)** | 2026-04-21 | <details><summary>Submi...</summary><p>Submitted to The Journal of Systems Architecture</p></details> |
+| **[Minimizing Intellectual Property Risks via Self-Stabilizing Algorithms](https://arxiv.org/abs/2604.19454v1)** | 2026-04-21 |  |
+| **[Optimal Routing for Federated Learning over Dynamic Satellite Networks: Tractable or Not?](https://arxiv.org/abs/2604.19399v1)** | 2026-04-21 |  |
+| **[CROWDio: A Practical Mobile Crowd Computing Framework with Developer-Oriented Design, Adaptive Scheduling, and Fault Resilience](https://arxiv.org/abs/2604.19363v1)** | 2026-04-21 | 10 pages, 3 figures |
+| **[POLAR-PIC: A Holistic Framework for Matrixized PIC with Co-Designed Compute, Layout, and Communication](https://arxiv.org/abs/2604.19337v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted for publication at HPDC 2026</p></details> |
+| **[Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey](https://arxiv.org/abs/2603.04445v2)** | 2026-04-21 | <details><summary>Work ...</summary><p>Work funded by ADAPT Centre, Trinity College Dublin, and Huawei Ireland</p></details> |
+| **[Mass Matrix Assembly on Tensor Cores for Implicit Particle-In-Cell Methods](https://arxiv.org/abs/2604.19286v1)** | 2026-04-21 |  |
+| **[A Simple Communication Scheme for Distributed Fast Multipole Methods](https://arxiv.org/abs/2604.19243v1)** | 2026-04-21 | 38 pages, 13 figures |
 
