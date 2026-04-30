@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 29, 2026
+title: Latest 15 Papers - May 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v6)** | 2026-04-27 | <details><summary>33 pa...</summary><p>33 pages, 8 tables, 3 appendices with extended examples</p></details> |
-| **[The 1/W Law: An Analytical Study of Context-Length Routing Topology and GPU Generation Gains for LLM Inference Energy Efficiency](https://arxiv.org/abs/2603.17280v2)** | 2026-04-27 | Work in progress |
-| **[Optimal Predicate Pushdown Synthesis](https://arxiv.org/abs/2604.13351v3)** | 2026-04-27 | <details><summary>45 pa...</summary><p>45 pages, 9 figures, 7 tables. Extended version (with appendices) of the PLDI 2026 paper</p></details> |
-| **[Hybrid Path-Sums for Hybrid Quantum Programs](https://arxiv.org/abs/2604.24578v1)** | 2026-04-27 |  |
-| **[SpotVista: Availability-Aware Recommendation System for Reliable and Cost-Efficient Multi-Node Spot Instances](https://arxiv.org/abs/2604.24548v1)** | 2026-04-27 |  |
-| **[MegaScale-Data: Scaling Dataloader for Multisource Large Foundation Model Training](https://arxiv.org/abs/2504.09844v4)** | 2026-04-27 |  |
-| **[A Survey on Split Learning for LLM Fine-Tuning: Models, Systems, and Privacy Optimizations](https://arxiv.org/abs/2604.24468v1)** | 2026-04-27 |  |
-| **[Incisor: Ex Ante Cloud Instance Selection for HPC Jobs](https://arxiv.org/abs/2604.24464v1)** | 2026-04-27 |  |
-| **[RoboECC: Multi-Factor-Aware Edge-Cloud Collaborative Deployment for VLA Models](https://arxiv.org/abs/2603.20711v2)** | 2026-04-27 | <details><summary>This ...</summary><p>This paper has been accepted by IJCNN 2026</p></details> |
-| **[Demonstrating a Future for MLIR-native DSL Compilers on a NumPy-like Example](https://arxiv.org/abs/2604.19906v2)** | 2026-04-27 | 17 pages, 5 figures |
-| **[Exact, Efficient, and Reliable Multi-Objective and Multi-Constrained IoT Workflow Scheduling in Edge-Hub-Cloud Cyber-Physical Systems](https://arxiv.org/abs/2604.24340v1)** | 2026-04-27 | <details><summary>This ...</summary><p>This version of the manuscript has been accepted for publication in IEEE Internet of Things Journal after peer review (Author Accepted Manuscript). It is not the final published version (Version of Record) and does not reflect any post-acceptance improvements. The Version of Record is available online at https://doi.org/10.1109/JIOT.2026.3665298</p></details> |
-| **[On the Surprising Effectiveness of a Single Global Merging in Decentralized Learning](https://arxiv.org/abs/2507.06542v4)** | 2026-04-27 | <details><summary>We di...</summary><p>We discover and theoretically explain why and when a single global parameter merging in decentralized learning can recover the performance of federated learning, even in highly heterogeneous and communication-constrained environments</p></details> |
-| **[The Finality Calculator: Analyzing and Quantifying Filecoin's Finality Guarantees](https://arxiv.org/abs/2603.01307v2)** | 2026-04-27 | 16 pages, 7 figures |
-| **[SpaDA: A Spatial Dataflow Architecture Programming Language](https://arxiv.org/abs/2511.09447v2)** | 2026-04-27 |  |
-| **[Generating Verifiable Chain of Thoughts from Exection-Traces](https://arxiv.org/abs/2512.00127v3)** | 2026-04-27 |  |
+| **[Adaptive Self-Organization in Anonymous Dynamic Networks](https://arxiv.org/abs/2604.26931v1)** | 2026-04-29 | <details><summary>30 pa...</summary><p>30 pages, 1 figure, 1 table, 1 algorithm. To appear as a brief announcement at SAND 2026</p></details> |
+| **[Revealing NVIDIA Closed-Source Driver Command Streams for CPU-GPU Runtime Behavior Insight](https://arxiv.org/abs/2604.26889v1)** | 2026-04-29 |  |
+| **[FaaSMoE: A Serverless Framework for Multi-Tenant Mixture-of-Experts Serving](https://arxiv.org/abs/2604.26881v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted for publication in the 9th International Workshop on Edge Systems, Analytics and Networking (EdgeSys 2026)</p></details> |
+| **[A Test Taxonomy and Continuous Integration Ecosystem for Dynamic Resource Management in HPC](https://arxiv.org/abs/2604.26824v1)** | 2026-04-29 |  |
+| **[Exploring the Efficiency of 3D-Stacked AI Chip Architecture for LLM Inference with Voxel](https://arxiv.org/abs/2604.26821v1)** | 2026-04-29 |  |
+| **[What Is the Cost of Energy Monitoring? An Empirical Study on the Overhead of RAPL-Based Tools](https://arxiv.org/abs/2604.26815v1)** | 2026-04-29 |  |
+| **[A Semantic Quantum Circuit Cache for Scalable and Distributed Quantum-Classical Workflows](https://arxiv.org/abs/2604.26788v1)** | 2026-04-29 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 4 tables</p></details> |
+| **[CommFuse: Hiding Tail Latency via Communication Decomposition and Fusion for Distributed LLM Training](https://arxiv.org/abs/2604.24013v2)** | 2026-04-29 | <details><summary>Sligh...</summary><p>Slightly modified the title, and corresponding minor wording change in the content</p></details> |
+| **[SSA without Dominance for Higher-Order Programs](https://arxiv.org/abs/2604.09961v2)** | 2026-04-29 |  |
+| **[Comparing Smart Contract Paradigms: A Preliminary Study of Security and Developer Experience](https://arxiv.org/abs/2604.26727v1)** | 2026-04-29 | <details><summary>6 pag...</summary><p>6 pages, The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
+| **[COPUS: Co-adaptive Parallelism and Batch Size Selection in Large Language Model Training](https://arxiv.org/abs/2604.26687v1)** | 2026-04-29 | <details><summary>22 pa...</summary><p>22 pages, 13 figures, 2 tables</p></details> |
+| **[FACT: Compositional Kernel Synthesis with a Three-Stage Agentic Workflow](https://arxiv.org/abs/2604.26666v1)** | 2026-04-29 |  |
+| **[DMRlib: Easy-coding and Efficient Resource Management for Job Malleability](https://arxiv.org/abs/2604.26624v1)** | 2026-04-29 |  |
+| **[Provable Coordination for LLM Agents via Message Sequence Charts](https://arxiv.org/abs/2604.17612v2)** | 2026-04-29 | <details><summary>40 pa...</summary><p>40 pages; v2: All definitions and results are now mechanically verified in Lean 4</p></details> |
+| **[A comprehensive evaluation of spatial co-execution on GPUs using MPS and MIG technologies](https://arxiv.org/abs/2604.22430v2)** | 2026-04-29 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v6)** | 2026-04-27 | <details><summary>33 pa...</summary><p>33 pages, 8 tables, 3 appendices with extended examples</p></details> |
-| **[The 1/W Law: An Analytical Study of Context-Length Routing Topology and GPU Generation Gains for LLM Inference Energy Efficiency](https://arxiv.org/abs/2603.17280v2)** | 2026-04-27 | Work in progress |
-| **[Optimal Predicate Pushdown Synthesis](https://arxiv.org/abs/2604.13351v3)** | 2026-04-27 | <details><summary>45 pa...</summary><p>45 pages, 9 figures, 7 tables. Extended version (with appendices) of the PLDI 2026 paper</p></details> |
-| **[Hybrid Path-Sums for Hybrid Quantum Programs](https://arxiv.org/abs/2604.24578v1)** | 2026-04-27 |  |
-| **[SpotVista: Availability-Aware Recommendation System for Reliable and Cost-Efficient Multi-Node Spot Instances](https://arxiv.org/abs/2604.24548v1)** | 2026-04-27 |  |
-| **[MegaScale-Data: Scaling Dataloader for Multisource Large Foundation Model Training](https://arxiv.org/abs/2504.09844v4)** | 2026-04-27 |  |
-| **[A Survey on Split Learning for LLM Fine-Tuning: Models, Systems, and Privacy Optimizations](https://arxiv.org/abs/2604.24468v1)** | 2026-04-27 |  |
-| **[Incisor: Ex Ante Cloud Instance Selection for HPC Jobs](https://arxiv.org/abs/2604.24464v1)** | 2026-04-27 |  |
-| **[RoboECC: Multi-Factor-Aware Edge-Cloud Collaborative Deployment for VLA Models](https://arxiv.org/abs/2603.20711v2)** | 2026-04-27 | <details><summary>This ...</summary><p>This paper has been accepted by IJCNN 2026</p></details> |
-| **[Demonstrating a Future for MLIR-native DSL Compilers on a NumPy-like Example](https://arxiv.org/abs/2604.19906v2)** | 2026-04-27 | 17 pages, 5 figures |
-| **[Exact, Efficient, and Reliable Multi-Objective and Multi-Constrained IoT Workflow Scheduling in Edge-Hub-Cloud Cyber-Physical Systems](https://arxiv.org/abs/2604.24340v1)** | 2026-04-27 | <details><summary>This ...</summary><p>This version of the manuscript has been accepted for publication in IEEE Internet of Things Journal after peer review (Author Accepted Manuscript). It is not the final published version (Version of Record) and does not reflect any post-acceptance improvements. The Version of Record is available online at https://doi.org/10.1109/JIOT.2026.3665298</p></details> |
-| **[On the Surprising Effectiveness of a Single Global Merging in Decentralized Learning](https://arxiv.org/abs/2507.06542v4)** | 2026-04-27 | <details><summary>We di...</summary><p>We discover and theoretically explain why and when a single global parameter merging in decentralized learning can recover the performance of federated learning, even in highly heterogeneous and communication-constrained environments</p></details> |
-| **[The Finality Calculator: Analyzing and Quantifying Filecoin's Finality Guarantees](https://arxiv.org/abs/2603.01307v2)** | 2026-04-27 | 16 pages, 7 figures |
-| **[SpaDA: A Spatial Dataflow Architecture Programming Language](https://arxiv.org/abs/2511.09447v2)** | 2026-04-27 |  |
-| **[Generating Verifiable Chain of Thoughts from Exection-Traces](https://arxiv.org/abs/2512.00127v3)** | 2026-04-27 |  |
+| **[Adaptive Self-Organization in Anonymous Dynamic Networks](https://arxiv.org/abs/2604.26931v1)** | 2026-04-29 | <details><summary>30 pa...</summary><p>30 pages, 1 figure, 1 table, 1 algorithm. To appear as a brief announcement at SAND 2026</p></details> |
+| **[Revealing NVIDIA Closed-Source Driver Command Streams for CPU-GPU Runtime Behavior Insight](https://arxiv.org/abs/2604.26889v1)** | 2026-04-29 |  |
+| **[FaaSMoE: A Serverless Framework for Multi-Tenant Mixture-of-Experts Serving](https://arxiv.org/abs/2604.26881v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted for publication in the 9th International Workshop on Edge Systems, Analytics and Networking (EdgeSys 2026)</p></details> |
+| **[A Test Taxonomy and Continuous Integration Ecosystem for Dynamic Resource Management in HPC](https://arxiv.org/abs/2604.26824v1)** | 2026-04-29 |  |
+| **[Exploring the Efficiency of 3D-Stacked AI Chip Architecture for LLM Inference with Voxel](https://arxiv.org/abs/2604.26821v1)** | 2026-04-29 |  |
+| **[What Is the Cost of Energy Monitoring? An Empirical Study on the Overhead of RAPL-Based Tools](https://arxiv.org/abs/2604.26815v1)** | 2026-04-29 |  |
+| **[A Semantic Quantum Circuit Cache for Scalable and Distributed Quantum-Classical Workflows](https://arxiv.org/abs/2604.26788v1)** | 2026-04-29 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 4 tables</p></details> |
+| **[CommFuse: Hiding Tail Latency via Communication Decomposition and Fusion for Distributed LLM Training](https://arxiv.org/abs/2604.24013v2)** | 2026-04-29 | <details><summary>Sligh...</summary><p>Slightly modified the title, and corresponding minor wording change in the content</p></details> |
+| **[SSA without Dominance for Higher-Order Programs](https://arxiv.org/abs/2604.09961v2)** | 2026-04-29 |  |
+| **[Comparing Smart Contract Paradigms: A Preliminary Study of Security and Developer Experience](https://arxiv.org/abs/2604.26727v1)** | 2026-04-29 | <details><summary>6 pag...</summary><p>6 pages, The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
+| **[COPUS: Co-adaptive Parallelism and Batch Size Selection in Large Language Model Training](https://arxiv.org/abs/2604.26687v1)** | 2026-04-29 | <details><summary>22 pa...</summary><p>22 pages, 13 figures, 2 tables</p></details> |
+| **[FACT: Compositional Kernel Synthesis with a Three-Stage Agentic Workflow](https://arxiv.org/abs/2604.26666v1)** | 2026-04-29 |  |
+| **[DMRlib: Easy-coding and Efficient Resource Management for Job Malleability](https://arxiv.org/abs/2604.26624v1)** | 2026-04-29 |  |
+| **[Provable Coordination for LLM Agents via Message Sequence Charts](https://arxiv.org/abs/2604.17612v2)** | 2026-04-29 | <details><summary>40 pa...</summary><p>40 pages; v2: All definitions and results are now mechanically verified in Lean 4</p></details> |
+| **[A comprehensive evaluation of spatial co-execution on GPUs using MPS and MIG technologies](https://arxiv.org/abs/2604.22430v2)** | 2026-04-29 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v6)** | 2026-04-27 | <details><summary>33 pa...</summary><p>33 pages, 8 tables, 3 appendices with extended examples</p></details> |
-| **[The 1/W Law: An Analytical Study of Context-Length Routing Topology and GPU Generation Gains for LLM Inference Energy Efficiency](https://arxiv.org/abs/2603.17280v2)** | 2026-04-27 | Work in progress |
-| **[Optimal Predicate Pushdown Synthesis](https://arxiv.org/abs/2604.13351v3)** | 2026-04-27 | <details><summary>45 pa...</summary><p>45 pages, 9 figures, 7 tables. Extended version (with appendices) of the PLDI 2026 paper</p></details> |
-| **[Hybrid Path-Sums for Hybrid Quantum Programs](https://arxiv.org/abs/2604.24578v1)** | 2026-04-27 |  |
-| **[SpotVista: Availability-Aware Recommendation System for Reliable and Cost-Efficient Multi-Node Spot Instances](https://arxiv.org/abs/2604.24548v1)** | 2026-04-27 |  |
-| **[MegaScale-Data: Scaling Dataloader for Multisource Large Foundation Model Training](https://arxiv.org/abs/2504.09844v4)** | 2026-04-27 |  |
-| **[A Survey on Split Learning for LLM Fine-Tuning: Models, Systems, and Privacy Optimizations](https://arxiv.org/abs/2604.24468v1)** | 2026-04-27 |  |
-| **[Incisor: Ex Ante Cloud Instance Selection for HPC Jobs](https://arxiv.org/abs/2604.24464v1)** | 2026-04-27 |  |
-| **[RoboECC: Multi-Factor-Aware Edge-Cloud Collaborative Deployment for VLA Models](https://arxiv.org/abs/2603.20711v2)** | 2026-04-27 | <details><summary>This ...</summary><p>This paper has been accepted by IJCNN 2026</p></details> |
-| **[Demonstrating a Future for MLIR-native DSL Compilers on a NumPy-like Example](https://arxiv.org/abs/2604.19906v2)** | 2026-04-27 | 17 pages, 5 figures |
-| **[Exact, Efficient, and Reliable Multi-Objective and Multi-Constrained IoT Workflow Scheduling in Edge-Hub-Cloud Cyber-Physical Systems](https://arxiv.org/abs/2604.24340v1)** | 2026-04-27 | <details><summary>This ...</summary><p>This version of the manuscript has been accepted for publication in IEEE Internet of Things Journal after peer review (Author Accepted Manuscript). It is not the final published version (Version of Record) and does not reflect any post-acceptance improvements. The Version of Record is available online at https://doi.org/10.1109/JIOT.2026.3665298</p></details> |
-| **[On the Surprising Effectiveness of a Single Global Merging in Decentralized Learning](https://arxiv.org/abs/2507.06542v4)** | 2026-04-27 | <details><summary>We di...</summary><p>We discover and theoretically explain why and when a single global parameter merging in decentralized learning can recover the performance of federated learning, even in highly heterogeneous and communication-constrained environments</p></details> |
-| **[The Finality Calculator: Analyzing and Quantifying Filecoin's Finality Guarantees](https://arxiv.org/abs/2603.01307v2)** | 2026-04-27 | 16 pages, 7 figures |
-| **[SpaDA: A Spatial Dataflow Architecture Programming Language](https://arxiv.org/abs/2511.09447v2)** | 2026-04-27 |  |
-| **[Generating Verifiable Chain of Thoughts from Exection-Traces](https://arxiv.org/abs/2512.00127v3)** | 2026-04-27 |  |
+| **[Adaptive Self-Organization in Anonymous Dynamic Networks](https://arxiv.org/abs/2604.26931v1)** | 2026-04-29 | <details><summary>30 pa...</summary><p>30 pages, 1 figure, 1 table, 1 algorithm. To appear as a brief announcement at SAND 2026</p></details> |
+| **[Revealing NVIDIA Closed-Source Driver Command Streams for CPU-GPU Runtime Behavior Insight](https://arxiv.org/abs/2604.26889v1)** | 2026-04-29 |  |
+| **[FaaSMoE: A Serverless Framework for Multi-Tenant Mixture-of-Experts Serving](https://arxiv.org/abs/2604.26881v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted for publication in the 9th International Workshop on Edge Systems, Analytics and Networking (EdgeSys 2026)</p></details> |
+| **[A Test Taxonomy and Continuous Integration Ecosystem for Dynamic Resource Management in HPC](https://arxiv.org/abs/2604.26824v1)** | 2026-04-29 |  |
+| **[Exploring the Efficiency of 3D-Stacked AI Chip Architecture for LLM Inference with Voxel](https://arxiv.org/abs/2604.26821v1)** | 2026-04-29 |  |
+| **[What Is the Cost of Energy Monitoring? An Empirical Study on the Overhead of RAPL-Based Tools](https://arxiv.org/abs/2604.26815v1)** | 2026-04-29 |  |
+| **[A Semantic Quantum Circuit Cache for Scalable and Distributed Quantum-Classical Workflows](https://arxiv.org/abs/2604.26788v1)** | 2026-04-29 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 4 tables</p></details> |
+| **[CommFuse: Hiding Tail Latency via Communication Decomposition and Fusion for Distributed LLM Training](https://arxiv.org/abs/2604.24013v2)** | 2026-04-29 | <details><summary>Sligh...</summary><p>Slightly modified the title, and corresponding minor wording change in the content</p></details> |
+| **[SSA without Dominance for Higher-Order Programs](https://arxiv.org/abs/2604.09961v2)** | 2026-04-29 |  |
+| **[Comparing Smart Contract Paradigms: A Preliminary Study of Security and Developer Experience](https://arxiv.org/abs/2604.26727v1)** | 2026-04-29 | <details><summary>6 pag...</summary><p>6 pages, The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
+| **[COPUS: Co-adaptive Parallelism and Batch Size Selection in Large Language Model Training](https://arxiv.org/abs/2604.26687v1)** | 2026-04-29 | <details><summary>22 pa...</summary><p>22 pages, 13 figures, 2 tables</p></details> |
+| **[FACT: Compositional Kernel Synthesis with a Three-Stage Agentic Workflow](https://arxiv.org/abs/2604.26666v1)** | 2026-04-29 |  |
+| **[DMRlib: Easy-coding and Efficient Resource Management for Job Malleability](https://arxiv.org/abs/2604.26624v1)** | 2026-04-29 |  |
+| **[Provable Coordination for LLM Agents via Message Sequence Charts](https://arxiv.org/abs/2604.17612v2)** | 2026-04-29 | <details><summary>40 pa...</summary><p>40 pages; v2: All definitions and results are now mechanically verified in Lean 4</p></details> |
+| **[A comprehensive evaluation of spatial co-execution on GPUs using MPS and MIG technologies](https://arxiv.org/abs/2604.22430v2)** | 2026-04-29 |  |
 
