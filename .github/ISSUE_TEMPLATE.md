@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 01, 2026
+title: Latest 15 Papers - May 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adaptive Self-Organization in Anonymous Dynamic Networks](https://arxiv.org/abs/2604.26931v1)** | 2026-04-29 | <details><summary>30 pa...</summary><p>30 pages, 1 figure, 1 table, 1 algorithm. To appear as a brief announcement at SAND 2026</p></details> |
-| **[Revealing NVIDIA Closed-Source Driver Command Streams for CPU-GPU Runtime Behavior Insight](https://arxiv.org/abs/2604.26889v1)** | 2026-04-29 |  |
-| **[FaaSMoE: A Serverless Framework for Multi-Tenant Mixture-of-Experts Serving](https://arxiv.org/abs/2604.26881v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted for publication in the 9th International Workshop on Edge Systems, Analytics and Networking (EdgeSys 2026)</p></details> |
-| **[A Test Taxonomy and Continuous Integration Ecosystem for Dynamic Resource Management in HPC](https://arxiv.org/abs/2604.26824v1)** | 2026-04-29 |  |
-| **[Exploring the Efficiency of 3D-Stacked AI Chip Architecture for LLM Inference with Voxel](https://arxiv.org/abs/2604.26821v1)** | 2026-04-29 |  |
-| **[What Is the Cost of Energy Monitoring? An Empirical Study on the Overhead of RAPL-Based Tools](https://arxiv.org/abs/2604.26815v1)** | 2026-04-29 |  |
-| **[A Semantic Quantum Circuit Cache for Scalable and Distributed Quantum-Classical Workflows](https://arxiv.org/abs/2604.26788v1)** | 2026-04-29 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 4 tables</p></details> |
-| **[CommFuse: Hiding Tail Latency via Communication Decomposition and Fusion for Distributed LLM Training](https://arxiv.org/abs/2604.24013v2)** | 2026-04-29 | <details><summary>Sligh...</summary><p>Slightly modified the title, and corresponding minor wording change in the content</p></details> |
-| **[SSA without Dominance for Higher-Order Programs](https://arxiv.org/abs/2604.09961v2)** | 2026-04-29 |  |
-| **[Comparing Smart Contract Paradigms: A Preliminary Study of Security and Developer Experience](https://arxiv.org/abs/2604.26727v1)** | 2026-04-29 | <details><summary>6 pag...</summary><p>6 pages, The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[COPUS: Co-adaptive Parallelism and Batch Size Selection in Large Language Model Training](https://arxiv.org/abs/2604.26687v1)** | 2026-04-29 | <details><summary>22 pa...</summary><p>22 pages, 13 figures, 2 tables</p></details> |
-| **[FACT: Compositional Kernel Synthesis with a Three-Stage Agentic Workflow](https://arxiv.org/abs/2604.26666v1)** | 2026-04-29 |  |
-| **[DMRlib: Easy-coding and Efficient Resource Management for Job Malleability](https://arxiv.org/abs/2604.26624v1)** | 2026-04-29 |  |
-| **[Provable Coordination for LLM Agents via Message Sequence Charts](https://arxiv.org/abs/2604.17612v2)** | 2026-04-29 | <details><summary>40 pa...</summary><p>40 pages; v2: All definitions and results are now mechanically verified in Lean 4</p></details> |
-| **[A comprehensive evaluation of spatial co-execution on GPUs using MPS and MIG technologies](https://arxiv.org/abs/2604.22430v2)** | 2026-04-29 |  |
+| **[Polynomial Invariant Generation for Floating-Point Programs](https://arxiv.org/abs/2507.15017v2)** | 2026-04-30 |  |
+| **[GraphMend: Code Transformations for Fixing Graph Breaks in PyTorch 2](https://arxiv.org/abs/2509.16248v3)** | 2026-04-30 |  |
+| **[Akita: A High Usability Simulation Framework for Computer Architecture](https://arxiv.org/abs/2604.28073v1)** | 2026-04-30 |  |
+| **[NeuroRing: Scaling Spiking Neural Networks via Multi-FPGA Bidirectional Ring Topologies and Stream-Dataflow Architectures](https://arxiv.org/abs/2604.28059v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted at Euro-Par 2026</p></details> |
+| **[Characterizing Path-Independent Fees: A Route to Zero Impermanent Loss in CPMMs](https://arxiv.org/abs/2604.28017v1)** | 2026-04-30 |  |
+| **[From Impermanent Loss to Sustainable Gain: Quantifying Profitability Zones for Liquidity Providers on DEX](https://arxiv.org/abs/2604.28014v1)** | 2026-04-30 |  |
+| **[Exploring Sparse Matrix Multiplication Kernels on the Cerebras CS-3](https://arxiv.org/abs/2604.27985v1)** | 2026-04-30 |  |
+| **[Distributed Santa Claus via Global Rounding](https://arxiv.org/abs/2604.27983v1)** | 2026-04-30 | <details><summary>abstr...</summary><p>abstract shortened for arXiv requirements</p></details> |
+| **[The Origins of MEV: Systematic Attribution of Arbitrage Opportunity Creation at Scale](https://arxiv.org/abs/2604.27979v1)** | 2026-04-30 |  |
+| **[A Graded Modal Dependent Type Theory with Erasure, Formalized](https://arxiv.org/abs/2603.29716v2)** | 2026-04-30 |  |
+| **[Affinity Tailor: Dynamic Locality-Aware Scheduling at Scale](https://arxiv.org/abs/2604.27915v1)** | 2026-04-30 |  |
+| **[A Monadic Implementation of Functional Logic Programs](https://arxiv.org/abs/2604.27863v1)** | 2026-04-30 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[AnTi-MiCS: Analytical Framework for Bounding Time in Embedded Mixed-Criticality Systems](https://arxiv.org/abs/2604.27862v1)** | 2026-04-30 |  |
+| **[AI Inference as Relocatable Electricity Demand: A Latency-Constrained Energy-Geography Framework](https://arxiv.org/abs/2604.27855v1)** | 2026-04-30 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 8 tables; preprint</p></details> |
+| **[Enabling Reconfiguration-Communication Overlap for Collective Communication in Optical Networks](https://arxiv.org/abs/2510.19322v3)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted at ACM CoNEXT '26. To be published in Proceedings of the ACM on Networking (PACMNET), Volume 4, CoNEXT2, June 2026</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adaptive Self-Organization in Anonymous Dynamic Networks](https://arxiv.org/abs/2604.26931v1)** | 2026-04-29 | <details><summary>30 pa...</summary><p>30 pages, 1 figure, 1 table, 1 algorithm. To appear as a brief announcement at SAND 2026</p></details> |
-| **[Revealing NVIDIA Closed-Source Driver Command Streams for CPU-GPU Runtime Behavior Insight](https://arxiv.org/abs/2604.26889v1)** | 2026-04-29 |  |
-| **[FaaSMoE: A Serverless Framework for Multi-Tenant Mixture-of-Experts Serving](https://arxiv.org/abs/2604.26881v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted for publication in the 9th International Workshop on Edge Systems, Analytics and Networking (EdgeSys 2026)</p></details> |
-| **[A Test Taxonomy and Continuous Integration Ecosystem for Dynamic Resource Management in HPC](https://arxiv.org/abs/2604.26824v1)** | 2026-04-29 |  |
-| **[Exploring the Efficiency of 3D-Stacked AI Chip Architecture for LLM Inference with Voxel](https://arxiv.org/abs/2604.26821v1)** | 2026-04-29 |  |
-| **[What Is the Cost of Energy Monitoring? An Empirical Study on the Overhead of RAPL-Based Tools](https://arxiv.org/abs/2604.26815v1)** | 2026-04-29 |  |
-| **[A Semantic Quantum Circuit Cache for Scalable and Distributed Quantum-Classical Workflows](https://arxiv.org/abs/2604.26788v1)** | 2026-04-29 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 4 tables</p></details> |
-| **[CommFuse: Hiding Tail Latency via Communication Decomposition and Fusion for Distributed LLM Training](https://arxiv.org/abs/2604.24013v2)** | 2026-04-29 | <details><summary>Sligh...</summary><p>Slightly modified the title, and corresponding minor wording change in the content</p></details> |
-| **[SSA without Dominance for Higher-Order Programs](https://arxiv.org/abs/2604.09961v2)** | 2026-04-29 |  |
-| **[Comparing Smart Contract Paradigms: A Preliminary Study of Security and Developer Experience](https://arxiv.org/abs/2604.26727v1)** | 2026-04-29 | <details><summary>6 pag...</summary><p>6 pages, The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[COPUS: Co-adaptive Parallelism and Batch Size Selection in Large Language Model Training](https://arxiv.org/abs/2604.26687v1)** | 2026-04-29 | <details><summary>22 pa...</summary><p>22 pages, 13 figures, 2 tables</p></details> |
-| **[FACT: Compositional Kernel Synthesis with a Three-Stage Agentic Workflow](https://arxiv.org/abs/2604.26666v1)** | 2026-04-29 |  |
-| **[DMRlib: Easy-coding and Efficient Resource Management for Job Malleability](https://arxiv.org/abs/2604.26624v1)** | 2026-04-29 |  |
-| **[Provable Coordination for LLM Agents via Message Sequence Charts](https://arxiv.org/abs/2604.17612v2)** | 2026-04-29 | <details><summary>40 pa...</summary><p>40 pages; v2: All definitions and results are now mechanically verified in Lean 4</p></details> |
-| **[A comprehensive evaluation of spatial co-execution on GPUs using MPS and MIG technologies](https://arxiv.org/abs/2604.22430v2)** | 2026-04-29 |  |
+| **[Polynomial Invariant Generation for Floating-Point Programs](https://arxiv.org/abs/2507.15017v2)** | 2026-04-30 |  |
+| **[GraphMend: Code Transformations for Fixing Graph Breaks in PyTorch 2](https://arxiv.org/abs/2509.16248v3)** | 2026-04-30 |  |
+| **[Akita: A High Usability Simulation Framework for Computer Architecture](https://arxiv.org/abs/2604.28073v1)** | 2026-04-30 |  |
+| **[NeuroRing: Scaling Spiking Neural Networks via Multi-FPGA Bidirectional Ring Topologies and Stream-Dataflow Architectures](https://arxiv.org/abs/2604.28059v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted at Euro-Par 2026</p></details> |
+| **[Characterizing Path-Independent Fees: A Route to Zero Impermanent Loss in CPMMs](https://arxiv.org/abs/2604.28017v1)** | 2026-04-30 |  |
+| **[From Impermanent Loss to Sustainable Gain: Quantifying Profitability Zones for Liquidity Providers on DEX](https://arxiv.org/abs/2604.28014v1)** | 2026-04-30 |  |
+| **[Exploring Sparse Matrix Multiplication Kernels on the Cerebras CS-3](https://arxiv.org/abs/2604.27985v1)** | 2026-04-30 |  |
+| **[Distributed Santa Claus via Global Rounding](https://arxiv.org/abs/2604.27983v1)** | 2026-04-30 | <details><summary>abstr...</summary><p>abstract shortened for arXiv requirements</p></details> |
+| **[The Origins of MEV: Systematic Attribution of Arbitrage Opportunity Creation at Scale](https://arxiv.org/abs/2604.27979v1)** | 2026-04-30 |  |
+| **[A Graded Modal Dependent Type Theory with Erasure, Formalized](https://arxiv.org/abs/2603.29716v2)** | 2026-04-30 |  |
+| **[Affinity Tailor: Dynamic Locality-Aware Scheduling at Scale](https://arxiv.org/abs/2604.27915v1)** | 2026-04-30 |  |
+| **[A Monadic Implementation of Functional Logic Programs](https://arxiv.org/abs/2604.27863v1)** | 2026-04-30 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[AnTi-MiCS: Analytical Framework for Bounding Time in Embedded Mixed-Criticality Systems](https://arxiv.org/abs/2604.27862v1)** | 2026-04-30 |  |
+| **[AI Inference as Relocatable Electricity Demand: A Latency-Constrained Energy-Geography Framework](https://arxiv.org/abs/2604.27855v1)** | 2026-04-30 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 8 tables; preprint</p></details> |
+| **[Enabling Reconfiguration-Communication Overlap for Collective Communication in Optical Networks](https://arxiv.org/abs/2510.19322v3)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted at ACM CoNEXT '26. To be published in Proceedings of the ACM on Networking (PACMNET), Volume 4, CoNEXT2, June 2026</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adaptive Self-Organization in Anonymous Dynamic Networks](https://arxiv.org/abs/2604.26931v1)** | 2026-04-29 | <details><summary>30 pa...</summary><p>30 pages, 1 figure, 1 table, 1 algorithm. To appear as a brief announcement at SAND 2026</p></details> |
-| **[Revealing NVIDIA Closed-Source Driver Command Streams for CPU-GPU Runtime Behavior Insight](https://arxiv.org/abs/2604.26889v1)** | 2026-04-29 |  |
-| **[FaaSMoE: A Serverless Framework for Multi-Tenant Mixture-of-Experts Serving](https://arxiv.org/abs/2604.26881v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted for publication in the 9th International Workshop on Edge Systems, Analytics and Networking (EdgeSys 2026)</p></details> |
-| **[A Test Taxonomy and Continuous Integration Ecosystem for Dynamic Resource Management in HPC](https://arxiv.org/abs/2604.26824v1)** | 2026-04-29 |  |
-| **[Exploring the Efficiency of 3D-Stacked AI Chip Architecture for LLM Inference with Voxel](https://arxiv.org/abs/2604.26821v1)** | 2026-04-29 |  |
-| **[What Is the Cost of Energy Monitoring? An Empirical Study on the Overhead of RAPL-Based Tools](https://arxiv.org/abs/2604.26815v1)** | 2026-04-29 |  |
-| **[A Semantic Quantum Circuit Cache for Scalable and Distributed Quantum-Classical Workflows](https://arxiv.org/abs/2604.26788v1)** | 2026-04-29 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 4 tables</p></details> |
-| **[CommFuse: Hiding Tail Latency via Communication Decomposition and Fusion for Distributed LLM Training](https://arxiv.org/abs/2604.24013v2)** | 2026-04-29 | <details><summary>Sligh...</summary><p>Slightly modified the title, and corresponding minor wording change in the content</p></details> |
-| **[SSA without Dominance for Higher-Order Programs](https://arxiv.org/abs/2604.09961v2)** | 2026-04-29 |  |
-| **[Comparing Smart Contract Paradigms: A Preliminary Study of Security and Developer Experience](https://arxiv.org/abs/2604.26727v1)** | 2026-04-29 | <details><summary>6 pag...</summary><p>6 pages, The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[COPUS: Co-adaptive Parallelism and Batch Size Selection in Large Language Model Training](https://arxiv.org/abs/2604.26687v1)** | 2026-04-29 | <details><summary>22 pa...</summary><p>22 pages, 13 figures, 2 tables</p></details> |
-| **[FACT: Compositional Kernel Synthesis with a Three-Stage Agentic Workflow](https://arxiv.org/abs/2604.26666v1)** | 2026-04-29 |  |
-| **[DMRlib: Easy-coding and Efficient Resource Management for Job Malleability](https://arxiv.org/abs/2604.26624v1)** | 2026-04-29 |  |
-| **[Provable Coordination for LLM Agents via Message Sequence Charts](https://arxiv.org/abs/2604.17612v2)** | 2026-04-29 | <details><summary>40 pa...</summary><p>40 pages; v2: All definitions and results are now mechanically verified in Lean 4</p></details> |
-| **[A comprehensive evaluation of spatial co-execution on GPUs using MPS and MIG technologies](https://arxiv.org/abs/2604.22430v2)** | 2026-04-29 |  |
+| **[Polynomial Invariant Generation for Floating-Point Programs](https://arxiv.org/abs/2507.15017v2)** | 2026-04-30 |  |
+| **[GraphMend: Code Transformations for Fixing Graph Breaks in PyTorch 2](https://arxiv.org/abs/2509.16248v3)** | 2026-04-30 |  |
+| **[Akita: A High Usability Simulation Framework for Computer Architecture](https://arxiv.org/abs/2604.28073v1)** | 2026-04-30 |  |
+| **[NeuroRing: Scaling Spiking Neural Networks via Multi-FPGA Bidirectional Ring Topologies and Stream-Dataflow Architectures](https://arxiv.org/abs/2604.28059v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted at Euro-Par 2026</p></details> |
+| **[Characterizing Path-Independent Fees: A Route to Zero Impermanent Loss in CPMMs](https://arxiv.org/abs/2604.28017v1)** | 2026-04-30 |  |
+| **[From Impermanent Loss to Sustainable Gain: Quantifying Profitability Zones for Liquidity Providers on DEX](https://arxiv.org/abs/2604.28014v1)** | 2026-04-30 |  |
+| **[Exploring Sparse Matrix Multiplication Kernels on the Cerebras CS-3](https://arxiv.org/abs/2604.27985v1)** | 2026-04-30 |  |
+| **[Distributed Santa Claus via Global Rounding](https://arxiv.org/abs/2604.27983v1)** | 2026-04-30 | <details><summary>abstr...</summary><p>abstract shortened for arXiv requirements</p></details> |
+| **[The Origins of MEV: Systematic Attribution of Arbitrage Opportunity Creation at Scale](https://arxiv.org/abs/2604.27979v1)** | 2026-04-30 |  |
+| **[A Graded Modal Dependent Type Theory with Erasure, Formalized](https://arxiv.org/abs/2603.29716v2)** | 2026-04-30 |  |
+| **[Affinity Tailor: Dynamic Locality-Aware Scheduling at Scale](https://arxiv.org/abs/2604.27915v1)** | 2026-04-30 |  |
+| **[A Monadic Implementation of Functional Logic Programs](https://arxiv.org/abs/2604.27863v1)** | 2026-04-30 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[AnTi-MiCS: Analytical Framework for Bounding Time in Embedded Mixed-Criticality Systems](https://arxiv.org/abs/2604.27862v1)** | 2026-04-30 |  |
+| **[AI Inference as Relocatable Electricity Demand: A Latency-Constrained Energy-Geography Framework](https://arxiv.org/abs/2604.27855v1)** | 2026-04-30 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 8 tables; preprint</p></details> |
+| **[Enabling Reconfiguration-Communication Overlap for Collective Communication in Optical Networks](https://arxiv.org/abs/2510.19322v3)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted at ACM CoNEXT '26. To be published in Proceedings of the ACM on Networking (PACMNET), Volume 4, CoNEXT2, June 2026</p></details> |
 
