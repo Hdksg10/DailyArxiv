@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2026
+title: Latest 15 Papers - May 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability Modeling](https://arxiv.org/abs/2603.07041v2)** | 2026-05-01 | <details><summary>To ap...</summary><p>To appear in the Industry track of the IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2026</p></details> |
-| **[Eliminating Hidden Serialization in Multi-Node Megakernel Communication](https://arxiv.org/abs/2605.00686v1)** | 2026-05-01 |  |
-| **[Type Theory With Erasure](https://arxiv.org/abs/2605.00655v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to FSCD 2026</p></details> |
-| **[Autonomous Systems Dependability in the era of AI: Design Challenges in Safety, Security, Reliability and Certification](https://arxiv.org/abs/2604.27807v2)** | 2026-05-01 |  |
-| **[Practical Livelock Analysis in Parameterized Unidirectional Rings](https://arxiv.org/abs/2603.21443v4)** | 2026-05-01 | <details><summary>Revis...</summary><p>Revision of the core result to align with undecidability of the problem. Now a semi-verifier catching livelocks and livelock free on all cases of interest. Returns conclusively for more than 4300, and inconclusive for Kari's aperiodic instance. This is no longer a result on decidability, but more of a verifier for a practical fragment of an undecidable problem</p></details> |
-| **[LLM-Emu: Native Runtime Emulation of LLM Inference via Profile-Driven Sampling](https://arxiv.org/abs/2605.00616v1)** | 2026-05-01 | <details><summary>6 pag...</summary><p>6 page, 2 figures, workshop paper shape</p></details> |
-| **[TokenWeave: Efficient Compute-Communication Overlap for Distributed LLM Inference](https://arxiv.org/abs/2505.11329v5)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted at MLSys 2026. In Versions 1 and 2, Figure 6 erroneously reports Multimem-AllReduce bandwidth rather than Multimem Reduce-Scatter bandwidth. In Version 4, we corrected the x-axis tick labels in Figure 7</p></details> |
-| **[Omnidirectional type inference for ML: principality any way](https://arxiv.org/abs/2511.10343v2)** | 2026-05-01 | <details><summary>updat...</summary><p>updated and improved version: 44 pages + appendices</p></details> |
-| **[BugMagnifier: TON Transaction Simulator for Revealing Smart Contract Vulnerabilities](https://arxiv.org/abs/2509.24444v3)** | 2026-05-01 |  |
-| **[AGoQ: Activation and Gradient Quantization for Memory-Efficient Distributed Training of LLMs](https://arxiv.org/abs/2605.00539v1)** | 2026-05-01 |  |
-| **[Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge](https://arxiv.org/abs/2605.00536v1)** | 2026-05-01 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 8 tables, 4 algorithms</p></details> |
-| **[SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters](https://arxiv.org/abs/2605.00528v1)** | 2026-05-01 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 11 tables. Accepted to HPDC '26 (35th International Symposium on High-Performance Parallel and Distributed Computing), July 13-16, 2026, Cleveland, OH, USA</p></details> |
-| **[Silicon Showdown: Performance, Efficiency, and Ecosystem Barriers in Consumer-Grade LLM Inference](https://arxiv.org/abs/2605.00519v1)** | 2026-05-01 |  |
-| **[Space Network of Experts: Architecture and Expert Placement](https://arxiv.org/abs/2605.00515v1)** | 2026-05-01 |  |
-| **[Literate Execution](https://arxiv.org/abs/2604.26967v2)** | 2026-05-01 | <details><summary>A ver...</summary><p>A version of this paper was accepted to the 16th Annual Workshop on the Intersection of HCI and PL (PLATEAU 2026). https://2026.plateau-workshop.org/</p></details> |
+| **[SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection](https://arxiv.org/abs/2605.02888v1)** | 2026-05-04 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 7 tables. Code and data available at: https://github.com/Amorfati123/SpecKV</p></details> |
+| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v2)** | 2026-05-04 |  |
+| **[From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02859v1)** | 2026-05-04 |  |
+| **[(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02844v1)** | 2026-05-04 |  |
+| **[When Is the Same Model Not the Same Service? A Measurement Study of Hosted Open-Weight LLM APIs](https://arxiv.org/abs/2605.02821v1)** | 2026-05-04 | 21 pages, 21 figures |
+| **[Compositional Neural-Cyber-Physical System Verification in the Interactive Theorem Prover of Your Choice](https://arxiv.org/abs/2605.02790v1)** | 2026-05-04 |  |
+| **[Assessing Performance and Porting Strategies for Gravitational $N$-Body Simulations on the RISC-V-Based Tenstorrent Wormhole\textsuperscript{\texttrademark}](https://arxiv.org/abs/2605.02744v1)** | 2026-05-04 |  |
+| **[Distributed Quantum Circuit Optimisation: Evaluating Global and Local encodings](https://arxiv.org/abs/2605.02727v1)** | 2026-05-04 |  |
+| **[Compile-Time Java Stream Fusion via mapMulti](https://arxiv.org/abs/2605.02691v1)** | 2026-05-04 |  |
+| **[Caliper-in-the-Loop: Black-Box Optimization for Hyperledger Fabric Performance Tuning](https://arxiv.org/abs/2605.02690v1)** | 2026-05-04 |  |
+| **[NCCLbpf: Verified, Composable Policy Execution for GPU Collective Communication](https://arxiv.org/abs/2603.11438v2)** | 2026-05-04 |  |
+| **[Static Type Checking for Database Access Code](https://arxiv.org/abs/2605.02569v1)** | 2026-05-04 |  |
+| **[StreamIndex: Memory-Bounded Compressed Sparse Attention via Streaming Top-k](https://arxiv.org/abs/2605.02568v1)** | 2026-05-04 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 7 tables, 2 algorithms, 36 references. Memory-bounded indexer kernel for DeepSeek-V4 CSA via chunked partition-merge top-k. Code: https://github.com/RightNow-AI/StreamIndex</p></details> |
+| **[Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge](https://arxiv.org/abs/2605.00536v2)** | 2026-05-04 | <details><summary>Sourc...</summary><p>Source code available at: https://github.com/mgrailoo/TEMPUS</p></details> |
+| **[STAR: Decode-Phase Rescheduling for LLM Inference](https://arxiv.org/abs/2510.13668v2)** | 2026-05-04 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability Modeling](https://arxiv.org/abs/2603.07041v2)** | 2026-05-01 | <details><summary>To ap...</summary><p>To appear in the Industry track of the IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2026</p></details> |
-| **[Eliminating Hidden Serialization in Multi-Node Megakernel Communication](https://arxiv.org/abs/2605.00686v1)** | 2026-05-01 |  |
-| **[Type Theory With Erasure](https://arxiv.org/abs/2605.00655v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to FSCD 2026</p></details> |
-| **[Autonomous Systems Dependability in the era of AI: Design Challenges in Safety, Security, Reliability and Certification](https://arxiv.org/abs/2604.27807v2)** | 2026-05-01 |  |
-| **[Practical Livelock Analysis in Parameterized Unidirectional Rings](https://arxiv.org/abs/2603.21443v4)** | 2026-05-01 | <details><summary>Revis...</summary><p>Revision of the core result to align with undecidability of the problem. Now a semi-verifier catching livelocks and livelock free on all cases of interest. Returns conclusively for more than 4300, and inconclusive for Kari's aperiodic instance. This is no longer a result on decidability, but more of a verifier for a practical fragment of an undecidable problem</p></details> |
-| **[LLM-Emu: Native Runtime Emulation of LLM Inference via Profile-Driven Sampling](https://arxiv.org/abs/2605.00616v1)** | 2026-05-01 | <details><summary>6 pag...</summary><p>6 page, 2 figures, workshop paper shape</p></details> |
-| **[TokenWeave: Efficient Compute-Communication Overlap for Distributed LLM Inference](https://arxiv.org/abs/2505.11329v5)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted at MLSys 2026. In Versions 1 and 2, Figure 6 erroneously reports Multimem-AllReduce bandwidth rather than Multimem Reduce-Scatter bandwidth. In Version 4, we corrected the x-axis tick labels in Figure 7</p></details> |
-| **[Omnidirectional type inference for ML: principality any way](https://arxiv.org/abs/2511.10343v2)** | 2026-05-01 | <details><summary>updat...</summary><p>updated and improved version: 44 pages + appendices</p></details> |
-| **[BugMagnifier: TON Transaction Simulator for Revealing Smart Contract Vulnerabilities](https://arxiv.org/abs/2509.24444v3)** | 2026-05-01 |  |
-| **[AGoQ: Activation and Gradient Quantization for Memory-Efficient Distributed Training of LLMs](https://arxiv.org/abs/2605.00539v1)** | 2026-05-01 |  |
-| **[Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge](https://arxiv.org/abs/2605.00536v1)** | 2026-05-01 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 8 tables, 4 algorithms</p></details> |
-| **[SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters](https://arxiv.org/abs/2605.00528v1)** | 2026-05-01 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 11 tables. Accepted to HPDC '26 (35th International Symposium on High-Performance Parallel and Distributed Computing), July 13-16, 2026, Cleveland, OH, USA</p></details> |
-| **[Silicon Showdown: Performance, Efficiency, and Ecosystem Barriers in Consumer-Grade LLM Inference](https://arxiv.org/abs/2605.00519v1)** | 2026-05-01 |  |
-| **[Space Network of Experts: Architecture and Expert Placement](https://arxiv.org/abs/2605.00515v1)** | 2026-05-01 |  |
-| **[Literate Execution](https://arxiv.org/abs/2604.26967v2)** | 2026-05-01 | <details><summary>A ver...</summary><p>A version of this paper was accepted to the 16th Annual Workshop on the Intersection of HCI and PL (PLATEAU 2026). https://2026.plateau-workshop.org/</p></details> |
+| **[SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection](https://arxiv.org/abs/2605.02888v1)** | 2026-05-04 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 7 tables. Code and data available at: https://github.com/Amorfati123/SpecKV</p></details> |
+| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v2)** | 2026-05-04 |  |
+| **[From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02859v1)** | 2026-05-04 |  |
+| **[(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02844v1)** | 2026-05-04 |  |
+| **[When Is the Same Model Not the Same Service? A Measurement Study of Hosted Open-Weight LLM APIs](https://arxiv.org/abs/2605.02821v1)** | 2026-05-04 | 21 pages, 21 figures |
+| **[Compositional Neural-Cyber-Physical System Verification in the Interactive Theorem Prover of Your Choice](https://arxiv.org/abs/2605.02790v1)** | 2026-05-04 |  |
+| **[Assessing Performance and Porting Strategies for Gravitational $N$-Body Simulations on the RISC-V-Based Tenstorrent Wormhole\textsuperscript{\texttrademark}](https://arxiv.org/abs/2605.02744v1)** | 2026-05-04 |  |
+| **[Distributed Quantum Circuit Optimisation: Evaluating Global and Local encodings](https://arxiv.org/abs/2605.02727v1)** | 2026-05-04 |  |
+| **[Compile-Time Java Stream Fusion via mapMulti](https://arxiv.org/abs/2605.02691v1)** | 2026-05-04 |  |
+| **[Caliper-in-the-Loop: Black-Box Optimization for Hyperledger Fabric Performance Tuning](https://arxiv.org/abs/2605.02690v1)** | 2026-05-04 |  |
+| **[NCCLbpf: Verified, Composable Policy Execution for GPU Collective Communication](https://arxiv.org/abs/2603.11438v2)** | 2026-05-04 |  |
+| **[Static Type Checking for Database Access Code](https://arxiv.org/abs/2605.02569v1)** | 2026-05-04 |  |
+| **[StreamIndex: Memory-Bounded Compressed Sparse Attention via Streaming Top-k](https://arxiv.org/abs/2605.02568v1)** | 2026-05-04 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 7 tables, 2 algorithms, 36 references. Memory-bounded indexer kernel for DeepSeek-V4 CSA via chunked partition-merge top-k. Code: https://github.com/RightNow-AI/StreamIndex</p></details> |
+| **[Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge](https://arxiv.org/abs/2605.00536v2)** | 2026-05-04 | <details><summary>Sourc...</summary><p>Source code available at: https://github.com/mgrailoo/TEMPUS</p></details> |
+| **[STAR: Decode-Phase Rescheduling for LLM Inference](https://arxiv.org/abs/2510.13668v2)** | 2026-05-04 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AIReSim: A Discrete Event Simulator for Large-scale AI Cluster Reliability Modeling](https://arxiv.org/abs/2603.07041v2)** | 2026-05-01 | <details><summary>To ap...</summary><p>To appear in the Industry track of the IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2026</p></details> |
-| **[Eliminating Hidden Serialization in Multi-Node Megakernel Communication](https://arxiv.org/abs/2605.00686v1)** | 2026-05-01 |  |
-| **[Type Theory With Erasure](https://arxiv.org/abs/2605.00655v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to FSCD 2026</p></details> |
-| **[Autonomous Systems Dependability in the era of AI: Design Challenges in Safety, Security, Reliability and Certification](https://arxiv.org/abs/2604.27807v2)** | 2026-05-01 |  |
-| **[Practical Livelock Analysis in Parameterized Unidirectional Rings](https://arxiv.org/abs/2603.21443v4)** | 2026-05-01 | <details><summary>Revis...</summary><p>Revision of the core result to align with undecidability of the problem. Now a semi-verifier catching livelocks and livelock free on all cases of interest. Returns conclusively for more than 4300, and inconclusive for Kari's aperiodic instance. This is no longer a result on decidability, but more of a verifier for a practical fragment of an undecidable problem</p></details> |
-| **[LLM-Emu: Native Runtime Emulation of LLM Inference via Profile-Driven Sampling](https://arxiv.org/abs/2605.00616v1)** | 2026-05-01 | <details><summary>6 pag...</summary><p>6 page, 2 figures, workshop paper shape</p></details> |
-| **[TokenWeave: Efficient Compute-Communication Overlap for Distributed LLM Inference](https://arxiv.org/abs/2505.11329v5)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted at MLSys 2026. In Versions 1 and 2, Figure 6 erroneously reports Multimem-AllReduce bandwidth rather than Multimem Reduce-Scatter bandwidth. In Version 4, we corrected the x-axis tick labels in Figure 7</p></details> |
-| **[Omnidirectional type inference for ML: principality any way](https://arxiv.org/abs/2511.10343v2)** | 2026-05-01 | <details><summary>updat...</summary><p>updated and improved version: 44 pages + appendices</p></details> |
-| **[BugMagnifier: TON Transaction Simulator for Revealing Smart Contract Vulnerabilities](https://arxiv.org/abs/2509.24444v3)** | 2026-05-01 |  |
-| **[AGoQ: Activation and Gradient Quantization for Memory-Efficient Distributed Training of LLMs](https://arxiv.org/abs/2605.00539v1)** | 2026-05-01 |  |
-| **[Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge](https://arxiv.org/abs/2605.00536v1)** | 2026-05-01 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 8 tables, 4 algorithms</p></details> |
-| **[SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters](https://arxiv.org/abs/2605.00528v1)** | 2026-05-01 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 11 tables. Accepted to HPDC '26 (35th International Symposium on High-Performance Parallel and Distributed Computing), July 13-16, 2026, Cleveland, OH, USA</p></details> |
-| **[Silicon Showdown: Performance, Efficiency, and Ecosystem Barriers in Consumer-Grade LLM Inference](https://arxiv.org/abs/2605.00519v1)** | 2026-05-01 |  |
-| **[Space Network of Experts: Architecture and Expert Placement](https://arxiv.org/abs/2605.00515v1)** | 2026-05-01 |  |
-| **[Literate Execution](https://arxiv.org/abs/2604.26967v2)** | 2026-05-01 | <details><summary>A ver...</summary><p>A version of this paper was accepted to the 16th Annual Workshop on the Intersection of HCI and PL (PLATEAU 2026). https://2026.plateau-workshop.org/</p></details> |
+| **[SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection](https://arxiv.org/abs/2605.02888v1)** | 2026-05-04 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 7 tables. Code and data available at: https://github.com/Amorfati123/SpecKV</p></details> |
+| **[Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases](https://arxiv.org/abs/2511.21612v2)** | 2026-05-04 |  |
+| **[From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02859v1)** | 2026-05-04 |  |
+| **[(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications](https://arxiv.org/abs/2605.02844v1)** | 2026-05-04 |  |
+| **[When Is the Same Model Not the Same Service? A Measurement Study of Hosted Open-Weight LLM APIs](https://arxiv.org/abs/2605.02821v1)** | 2026-05-04 | 21 pages, 21 figures |
+| **[Compositional Neural-Cyber-Physical System Verification in the Interactive Theorem Prover of Your Choice](https://arxiv.org/abs/2605.02790v1)** | 2026-05-04 |  |
+| **[Assessing Performance and Porting Strategies for Gravitational $N$-Body Simulations on the RISC-V-Based Tenstorrent Wormhole\textsuperscript{\texttrademark}](https://arxiv.org/abs/2605.02744v1)** | 2026-05-04 |  |
+| **[Distributed Quantum Circuit Optimisation: Evaluating Global and Local encodings](https://arxiv.org/abs/2605.02727v1)** | 2026-05-04 |  |
+| **[Compile-Time Java Stream Fusion via mapMulti](https://arxiv.org/abs/2605.02691v1)** | 2026-05-04 |  |
+| **[Caliper-in-the-Loop: Black-Box Optimization for Hyperledger Fabric Performance Tuning](https://arxiv.org/abs/2605.02690v1)** | 2026-05-04 |  |
+| **[NCCLbpf: Verified, Composable Policy Execution for GPU Collective Communication](https://arxiv.org/abs/2603.11438v2)** | 2026-05-04 |  |
+| **[Static Type Checking for Database Access Code](https://arxiv.org/abs/2605.02569v1)** | 2026-05-04 |  |
+| **[StreamIndex: Memory-Bounded Compressed Sparse Attention via Streaming Top-k](https://arxiv.org/abs/2605.02568v1)** | 2026-05-04 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 7 tables, 2 algorithms, 36 references. Memory-bounded indexer kernel for DeepSeek-V4 CSA via chunked partition-merge top-k. Code: https://github.com/RightNow-AI/StreamIndex</p></details> |
+| **[Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge](https://arxiv.org/abs/2605.00536v2)** | 2026-05-04 | <details><summary>Sourc...</summary><p>Source code available at: https://github.com/mgrailoo/TEMPUS</p></details> |
+| **[STAR: Decode-Phase Rescheduling for LLM Inference](https://arxiv.org/abs/2510.13668v2)** | 2026-05-04 |  |
 
