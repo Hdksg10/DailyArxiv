@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 07, 2026
+title: Latest 15 Papers - May 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Decentralized Edge Caching under Budget and Storage Constraints: A Game-Theoretic Approach](https://arxiv.org/abs/2605.04023v1)** | 2026-05-05 |  |
-| **[Implementing True MPI Sessions and Evaluating MPI Initialization Scalability](https://arxiv.org/abs/2605.03983v1)** | 2026-05-05 | <details><summary>Europ...</summary><p>European MPI Users' Group Meeting. 2025</p></details> |
-| **[Distributed Generative Inference of LLM at Internet Scales with Multi-Dimensional Communication Optimization](https://arxiv.org/abs/2604.21072v2)** | 2026-05-05 |  |
-| **[Surviving the Edge: Federated Learning under Networking and Resource Constraints](https://arxiv.org/abs/2605.03870v1)** | 2026-05-05 |  |
-| **[Fixed Parameter Tractable Linearizability Monitoring](https://arxiv.org/abs/2509.05586v3)** | 2026-05-05 | <details><summary>To ap...</summary><p>To appear in proceedings of PLDI 2026</p></details> |
-| **[TCM-Serve: Modality-aware Scheduling for Multimodal Large Language Model Inference](https://arxiv.org/abs/2603.26498v2)** | 2026-05-05 |  |
-| **[A Workflow-Oriented Framework for Asynchronous Human-AI Collaboration in Hybrid and Compute-Intensive HPC Environments](https://arxiv.org/abs/2605.03743v1)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted manuscript. 14 pages, 6 figures, 1 table. Published in Proceedings of SPIE, volume 13679, Artificial Intelligence for Security and Defence Applications III</p></details> |
-| **[SPEC CPU2026: Characterization, Representativeness, and Cross-Suite Comparison](https://arxiv.org/abs/2605.03713v1)** | 2026-05-05 |  |
-| **[SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection](https://arxiv.org/abs/2605.02888v2)** | 2026-05-05 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 7 tables. Code and data available at: https://github.com/Amorfati123/SpecKV</p></details> |
-| **[A Comprehensive Evaluation of Deep Learning Object Detection Models on Heterogeneous Edge Devices](https://arxiv.org/abs/2409.16808v2)** | 2026-05-05 |  |
-| **[Can Blockchains Reliably Train Machine Learning Models?](https://arxiv.org/abs/2307.07066v2)** | 2026-05-05 |  |
-| **[Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries](https://arxiv.org/abs/2605.01030v2)** | 2026-05-05 | <details><summary>15 pa...</summary><p>15 pages. Companion proofs: https://github.com/mashin-live/governance-proofs. Project: https://mashin.live. v2: corrected cross-reference identifiers for companion papers</p></details> |
-| **[Certified Purity for Cognitive Workflow Executors: From Static Analysis to Cryptographic Attestation](https://arxiv.org/abs/2605.01037v2)** | 2026-05-05 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 8 tables. Companion proofs: https://github.com/mashin-live/governance-proofs. Project: https://mashin.live</p></details> |
-| **[Algebraic Semantics of Governed Execution: Monoidal Categories, Effect Algebras, and Coterminous Boundaries](https://arxiv.org/abs/2605.01032v2)** | 2026-05-05 | <details><summary>26 pa...</summary><p>26 pages, 1 figure, 1 table. Companion proofs: https://github.com/mashin-live/governance-proofs. Project: https://mashin.live</p></details> |
-| **[Lifting to tensors when compiling scientific computing workloads for AI Engines](https://arxiv.org/abs/2605.03566v1)** | 2026-05-05 | <details><summary>Autho...</summary><p>Author accepted manuscript of paper in CCGrid 2026</p></details> |
+| **[Private Delegated Quantum Computing for User-Level and Industry-Level Settings](https://arxiv.org/abs/2405.11608v3)** | 2026-05-07 | <details><summary>45 pa...</summary><p>45 pages, 9 figures, improved versions with more protocols, good privacy analysis and mathematical rigor</p></details> |
+| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[CCL-Bench 1.0: A Trace-Based Benchmark for LLM Infrastructure](https://arxiv.org/abs/2605.06544v1)** | 2026-05-07 |  |
+| **[ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL](https://arxiv.org/abs/2605.06534v1)** | 2026-05-07 | 19 pages, 15 figures |
+| **[AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v2)** | 2026-05-07 |  |
+| **[ADELIA: Automatic Differentiation for Efficient Laplace Inference Approximations](https://arxiv.org/abs/2605.06392v1)** | 2026-05-07 |  |
+| **[ResiHP: Taming LLM Training Failures with Dynamic Hybrid](https://arxiv.org/abs/2605.06374v1)** | 2026-05-07 |  |
+| **[Tracking Capabilities for Safer Agents](https://arxiv.org/abs/2603.00991v2)** | 2026-05-07 |  |
+| **[Safactory: A Scalable Agent Factory for Trustworthy Autonomous Intelligence](https://arxiv.org/abs/2605.06230v1)** | 2026-05-07 | 50 pages, 21 figures |
+| **[Teaching LLMs Program Semantics via Symbolic Execution Traces](https://arxiv.org/abs/2605.06184v1)** | 2026-05-07 |  |
+| **[TACO: A Toolsuite for the Verification of Threshold Automata](https://arxiv.org/abs/2605.06118v1)** | 2026-05-07 | <details><summary>Exten...</summary><p>Extended Version of CAV 2026 paper</p></details> |
+| **[Tackling the Data-Parallel Load Balancing Bottleneck in LLM Serving: Practical Online Routing at Scale](https://arxiv.org/abs/2605.06113v1)** | 2026-05-07 | 29 pages,14 figures |
+| **[PoTAcc: A Pipeline for End-to-End Acceleration of Power-of-Two Quantized DNNs](https://arxiv.org/abs/2605.06082v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI), 2026</p></details> |
+| **[VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?](https://arxiv.org/abs/2605.06068v1)** | 2026-05-07 |  |
+| **[FalconGEMM: Surpassing Hardware Peaks with Lower-Complexity Matrix Multiplication](https://arxiv.org/abs/2605.06057v1)** | 2026-05-07 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Decentralized Edge Caching under Budget and Storage Constraints: A Game-Theoretic Approach](https://arxiv.org/abs/2605.04023v1)** | 2026-05-05 |  |
-| **[Implementing True MPI Sessions and Evaluating MPI Initialization Scalability](https://arxiv.org/abs/2605.03983v1)** | 2026-05-05 | <details><summary>Europ...</summary><p>European MPI Users' Group Meeting. 2025</p></details> |
-| **[Distributed Generative Inference of LLM at Internet Scales with Multi-Dimensional Communication Optimization](https://arxiv.org/abs/2604.21072v2)** | 2026-05-05 |  |
-| **[Surviving the Edge: Federated Learning under Networking and Resource Constraints](https://arxiv.org/abs/2605.03870v1)** | 2026-05-05 |  |
-| **[Fixed Parameter Tractable Linearizability Monitoring](https://arxiv.org/abs/2509.05586v3)** | 2026-05-05 | <details><summary>To ap...</summary><p>To appear in proceedings of PLDI 2026</p></details> |
-| **[TCM-Serve: Modality-aware Scheduling for Multimodal Large Language Model Inference](https://arxiv.org/abs/2603.26498v2)** | 2026-05-05 |  |
-| **[A Workflow-Oriented Framework for Asynchronous Human-AI Collaboration in Hybrid and Compute-Intensive HPC Environments](https://arxiv.org/abs/2605.03743v1)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted manuscript. 14 pages, 6 figures, 1 table. Published in Proceedings of SPIE, volume 13679, Artificial Intelligence for Security and Defence Applications III</p></details> |
-| **[SPEC CPU2026: Characterization, Representativeness, and Cross-Suite Comparison](https://arxiv.org/abs/2605.03713v1)** | 2026-05-05 |  |
-| **[SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection](https://arxiv.org/abs/2605.02888v2)** | 2026-05-05 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 7 tables. Code and data available at: https://github.com/Amorfati123/SpecKV</p></details> |
-| **[A Comprehensive Evaluation of Deep Learning Object Detection Models on Heterogeneous Edge Devices](https://arxiv.org/abs/2409.16808v2)** | 2026-05-05 |  |
-| **[Can Blockchains Reliably Train Machine Learning Models?](https://arxiv.org/abs/2307.07066v2)** | 2026-05-05 |  |
-| **[Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries](https://arxiv.org/abs/2605.01030v2)** | 2026-05-05 | <details><summary>15 pa...</summary><p>15 pages. Companion proofs: https://github.com/mashin-live/governance-proofs. Project: https://mashin.live. v2: corrected cross-reference identifiers for companion papers</p></details> |
-| **[Certified Purity for Cognitive Workflow Executors: From Static Analysis to Cryptographic Attestation](https://arxiv.org/abs/2605.01037v2)** | 2026-05-05 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 8 tables. Companion proofs: https://github.com/mashin-live/governance-proofs. Project: https://mashin.live</p></details> |
-| **[Algebraic Semantics of Governed Execution: Monoidal Categories, Effect Algebras, and Coterminous Boundaries](https://arxiv.org/abs/2605.01032v2)** | 2026-05-05 | <details><summary>26 pa...</summary><p>26 pages, 1 figure, 1 table. Companion proofs: https://github.com/mashin-live/governance-proofs. Project: https://mashin.live</p></details> |
-| **[Lifting to tensors when compiling scientific computing workloads for AI Engines](https://arxiv.org/abs/2605.03566v1)** | 2026-05-05 | <details><summary>Autho...</summary><p>Author accepted manuscript of paper in CCGrid 2026</p></details> |
+| **[Private Delegated Quantum Computing for User-Level and Industry-Level Settings](https://arxiv.org/abs/2405.11608v3)** | 2026-05-07 | <details><summary>45 pa...</summary><p>45 pages, 9 figures, improved versions with more protocols, good privacy analysis and mathematical rigor</p></details> |
+| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[CCL-Bench 1.0: A Trace-Based Benchmark for LLM Infrastructure](https://arxiv.org/abs/2605.06544v1)** | 2026-05-07 |  |
+| **[ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL](https://arxiv.org/abs/2605.06534v1)** | 2026-05-07 | 19 pages, 15 figures |
+| **[AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v2)** | 2026-05-07 |  |
+| **[ADELIA: Automatic Differentiation for Efficient Laplace Inference Approximations](https://arxiv.org/abs/2605.06392v1)** | 2026-05-07 |  |
+| **[ResiHP: Taming LLM Training Failures with Dynamic Hybrid](https://arxiv.org/abs/2605.06374v1)** | 2026-05-07 |  |
+| **[Tracking Capabilities for Safer Agents](https://arxiv.org/abs/2603.00991v2)** | 2026-05-07 |  |
+| **[Safactory: A Scalable Agent Factory for Trustworthy Autonomous Intelligence](https://arxiv.org/abs/2605.06230v1)** | 2026-05-07 | 50 pages, 21 figures |
+| **[Teaching LLMs Program Semantics via Symbolic Execution Traces](https://arxiv.org/abs/2605.06184v1)** | 2026-05-07 |  |
+| **[TACO: A Toolsuite for the Verification of Threshold Automata](https://arxiv.org/abs/2605.06118v1)** | 2026-05-07 | <details><summary>Exten...</summary><p>Extended Version of CAV 2026 paper</p></details> |
+| **[Tackling the Data-Parallel Load Balancing Bottleneck in LLM Serving: Practical Online Routing at Scale](https://arxiv.org/abs/2605.06113v1)** | 2026-05-07 | 29 pages,14 figures |
+| **[PoTAcc: A Pipeline for End-to-End Acceleration of Power-of-Two Quantized DNNs](https://arxiv.org/abs/2605.06082v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI), 2026</p></details> |
+| **[VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?](https://arxiv.org/abs/2605.06068v1)** | 2026-05-07 |  |
+| **[FalconGEMM: Surpassing Hardware Peaks with Lower-Complexity Matrix Multiplication](https://arxiv.org/abs/2605.06057v1)** | 2026-05-07 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Decentralized Edge Caching under Budget and Storage Constraints: A Game-Theoretic Approach](https://arxiv.org/abs/2605.04023v1)** | 2026-05-05 |  |
-| **[Implementing True MPI Sessions and Evaluating MPI Initialization Scalability](https://arxiv.org/abs/2605.03983v1)** | 2026-05-05 | <details><summary>Europ...</summary><p>European MPI Users' Group Meeting. 2025</p></details> |
-| **[Distributed Generative Inference of LLM at Internet Scales with Multi-Dimensional Communication Optimization](https://arxiv.org/abs/2604.21072v2)** | 2026-05-05 |  |
-| **[Surviving the Edge: Federated Learning under Networking and Resource Constraints](https://arxiv.org/abs/2605.03870v1)** | 2026-05-05 |  |
-| **[Fixed Parameter Tractable Linearizability Monitoring](https://arxiv.org/abs/2509.05586v3)** | 2026-05-05 | <details><summary>To ap...</summary><p>To appear in proceedings of PLDI 2026</p></details> |
-| **[TCM-Serve: Modality-aware Scheduling for Multimodal Large Language Model Inference](https://arxiv.org/abs/2603.26498v2)** | 2026-05-05 |  |
-| **[A Workflow-Oriented Framework for Asynchronous Human-AI Collaboration in Hybrid and Compute-Intensive HPC Environments](https://arxiv.org/abs/2605.03743v1)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted manuscript. 14 pages, 6 figures, 1 table. Published in Proceedings of SPIE, volume 13679, Artificial Intelligence for Security and Defence Applications III</p></details> |
-| **[SPEC CPU2026: Characterization, Representativeness, and Cross-Suite Comparison](https://arxiv.org/abs/2605.03713v1)** | 2026-05-05 |  |
-| **[SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection](https://arxiv.org/abs/2605.02888v2)** | 2026-05-05 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 7 tables. Code and data available at: https://github.com/Amorfati123/SpecKV</p></details> |
-| **[A Comprehensive Evaluation of Deep Learning Object Detection Models on Heterogeneous Edge Devices](https://arxiv.org/abs/2409.16808v2)** | 2026-05-05 |  |
-| **[Can Blockchains Reliably Train Machine Learning Models?](https://arxiv.org/abs/2307.07066v2)** | 2026-05-05 |  |
-| **[Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries](https://arxiv.org/abs/2605.01030v2)** | 2026-05-05 | <details><summary>15 pa...</summary><p>15 pages. Companion proofs: https://github.com/mashin-live/governance-proofs. Project: https://mashin.live. v2: corrected cross-reference identifiers for companion papers</p></details> |
-| **[Certified Purity for Cognitive Workflow Executors: From Static Analysis to Cryptographic Attestation](https://arxiv.org/abs/2605.01037v2)** | 2026-05-05 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 8 tables. Companion proofs: https://github.com/mashin-live/governance-proofs. Project: https://mashin.live</p></details> |
-| **[Algebraic Semantics of Governed Execution: Monoidal Categories, Effect Algebras, and Coterminous Boundaries](https://arxiv.org/abs/2605.01032v2)** | 2026-05-05 | <details><summary>26 pa...</summary><p>26 pages, 1 figure, 1 table. Companion proofs: https://github.com/mashin-live/governance-proofs. Project: https://mashin.live</p></details> |
-| **[Lifting to tensors when compiling scientific computing workloads for AI Engines](https://arxiv.org/abs/2605.03566v1)** | 2026-05-05 | <details><summary>Autho...</summary><p>Author accepted manuscript of paper in CCGrid 2026</p></details> |
+| **[Private Delegated Quantum Computing for User-Level and Industry-Level Settings](https://arxiv.org/abs/2405.11608v3)** | 2026-05-07 | <details><summary>45 pa...</summary><p>45 pages, 9 figures, improved versions with more protocols, good privacy analysis and mathematical rigor</p></details> |
+| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[CCL-Bench 1.0: A Trace-Based Benchmark for LLM Infrastructure](https://arxiv.org/abs/2605.06544v1)** | 2026-05-07 |  |
+| **[ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL](https://arxiv.org/abs/2605.06534v1)** | 2026-05-07 | 19 pages, 15 figures |
+| **[AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v2)** | 2026-05-07 |  |
+| **[ADELIA: Automatic Differentiation for Efficient Laplace Inference Approximations](https://arxiv.org/abs/2605.06392v1)** | 2026-05-07 |  |
+| **[ResiHP: Taming LLM Training Failures with Dynamic Hybrid](https://arxiv.org/abs/2605.06374v1)** | 2026-05-07 |  |
+| **[Tracking Capabilities for Safer Agents](https://arxiv.org/abs/2603.00991v2)** | 2026-05-07 |  |
+| **[Safactory: A Scalable Agent Factory for Trustworthy Autonomous Intelligence](https://arxiv.org/abs/2605.06230v1)** | 2026-05-07 | 50 pages, 21 figures |
+| **[Teaching LLMs Program Semantics via Symbolic Execution Traces](https://arxiv.org/abs/2605.06184v1)** | 2026-05-07 |  |
+| **[TACO: A Toolsuite for the Verification of Threshold Automata](https://arxiv.org/abs/2605.06118v1)** | 2026-05-07 | <details><summary>Exten...</summary><p>Extended Version of CAV 2026 paper</p></details> |
+| **[Tackling the Data-Parallel Load Balancing Bottleneck in LLM Serving: Practical Online Routing at Scale](https://arxiv.org/abs/2605.06113v1)** | 2026-05-07 | 29 pages,14 figures |
+| **[PoTAcc: A Pipeline for End-to-End Acceleration of Power-of-Two Quantized DNNs](https://arxiv.org/abs/2605.06082v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI), 2026</p></details> |
+| **[VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?](https://arxiv.org/abs/2605.06068v1)** | 2026-05-07 |  |
+| **[FalconGEMM: Surpassing Hardware Peaks with Lower-Complexity Matrix Multiplication](https://arxiv.org/abs/2605.06057v1)** | 2026-05-07 |  |
 
