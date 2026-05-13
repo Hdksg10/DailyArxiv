@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 11, 2026
+title: Latest 15 Papers - May 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Private Delegated Quantum Computing for User-Level and Industry-Level Settings](https://arxiv.org/abs/2405.11608v3)** | 2026-05-07 | <details><summary>45 pa...</summary><p>45 pages, 9 figures, improved versions with more protocols, good privacy analysis and mathematical rigor</p></details> |
-| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
-| **[CCL-Bench 1.0: A Trace-Based Benchmark for LLM Infrastructure](https://arxiv.org/abs/2605.06544v1)** | 2026-05-07 |  |
-| **[ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL](https://arxiv.org/abs/2605.06534v1)** | 2026-05-07 | 19 pages, 15 figures |
-| **[AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v2)** | 2026-05-07 |  |
-| **[ADELIA: Automatic Differentiation for Efficient Laplace Inference Approximations](https://arxiv.org/abs/2605.06392v1)** | 2026-05-07 |  |
-| **[ResiHP: Taming LLM Training Failures with Dynamic Hybrid](https://arxiv.org/abs/2605.06374v1)** | 2026-05-07 |  |
-| **[Tracking Capabilities for Safer Agents](https://arxiv.org/abs/2603.00991v2)** | 2026-05-07 |  |
-| **[Safactory: A Scalable Agent Factory for Trustworthy Autonomous Intelligence](https://arxiv.org/abs/2605.06230v1)** | 2026-05-07 | 50 pages, 21 figures |
-| **[Teaching LLMs Program Semantics via Symbolic Execution Traces](https://arxiv.org/abs/2605.06184v1)** | 2026-05-07 |  |
-| **[TACO: A Toolsuite for the Verification of Threshold Automata](https://arxiv.org/abs/2605.06118v1)** | 2026-05-07 | <details><summary>Exten...</summary><p>Extended Version of CAV 2026 paper</p></details> |
-| **[Tackling the Data-Parallel Load Balancing Bottleneck in LLM Serving: Practical Online Routing at Scale](https://arxiv.org/abs/2605.06113v1)** | 2026-05-07 | 29 pages,14 figures |
-| **[PoTAcc: A Pipeline for End-to-End Acceleration of Power-of-Two Quantized DNNs](https://arxiv.org/abs/2605.06082v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI), 2026</p></details> |
-| **[VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?](https://arxiv.org/abs/2605.06068v1)** | 2026-05-07 |  |
-| **[FalconGEMM: Surpassing Hardware Peaks with Lower-Complexity Matrix Multiplication](https://arxiv.org/abs/2605.06057v1)** | 2026-05-07 |  |
+| **[Zero-Error Recovery under Deterministic Partial Views: Matroid Bounds and Verifiable Realizability](https://arxiv.org/abs/2602.23520v8)** | 2026-05-12 | <details><summary>Main ...</summary><p>Main PDF: 46 pages, 1 figure and 2 tables. Supplementary: 9 pages, 2 tables. Lean 4 artifact available at https://doi.org/10.5281/zenodo.18141365</p></details> |
+| **[A Lightweight High-Throughput Collective-Capable NoC for Large-Scale ML Accelerators](https://arxiv.org/abs/2603.26438v2)** | 2026-05-12 | 12 pages, 10 figures |
+| **[Search Your Block Floating Point Scales!](https://arxiv.org/abs/2605.12464v1)** | 2026-05-12 |  |
+| **[Scalable Packed Layouts for Vector-Length-Agnostic ML Code Generation](https://arxiv.org/abs/2605.12445v1)** | 2026-05-12 |  |
+| **[Enhancing Instruction Prefetching via Cache and TLB Management](https://arxiv.org/abs/2605.12433v1)** | 2026-05-12 | <details><summary>To ap...</summary><p>To appear at ISCA 2026</p></details> |
+| **[NCCLZ: Compression-Enabled GPU Collectives with Decoupled Quantization and Entropy Coding](https://arxiv.org/abs/2605.12396v1)** | 2026-05-12 | 12 pages, 9 figures |
+| **[Minimalistic Terminal Editor for Julia Programming -- MinTEJ: A Friendly Approach for a Scientific Programmer](https://arxiv.org/abs/2605.12275v1)** | 2026-05-12 | 15 Pages, 42 figures |
+| **[SPECTRE: Hybrid Ordinary-Parallel Speculative Serving for Resource-Efficient LLM Inference](https://arxiv.org/abs/2605.08151v2)** | 2026-05-12 |  |
+| **[Harness Engineering as Categorical Architecture](https://arxiv.org/abs/2605.12239v1)** | 2026-05-12 |  |
+| **[Gradient Clock Synchronization with Practically Constant Local Skew](https://arxiv.org/abs/2511.01420v2)** | 2026-05-12 | <details><summary>39 pa...</summary><p>39 pages, no figures, shorter conference version accepted at PODC 2026</p></details> |
+| **[Pruning Federated Models through Loss Landscape Analysis and Client Agreement Scoring](https://arxiv.org/abs/2405.10271v5)** | 2026-05-12 |  |
+| **[DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference on NVL72](https://arxiv.org/abs/2604.01621v2)** | 2026-05-12 | <details><summary>Techn...</summary><p>Technical Report. 17 pages. 8 figures</p></details> |
+| **[Efficient Remote KV Cache Reuse with GPU-native Video Codec](https://arxiv.org/abs/2602.09725v3)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted by SIGCOMM 2026</p></details> |
+| **[Capacity Scalability of LEO Constellations With Dynamic Link Failures](https://arxiv.org/abs/2605.12146v1)** | 2026-05-12 |  |
+| **[AB-Sparse: Sparse Attention with Adaptive Block Size for Accurate and Efficient Long-Context Inference](https://arxiv.org/abs/2605.12110v1)** | 2026-05-12 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Private Delegated Quantum Computing for User-Level and Industry-Level Settings](https://arxiv.org/abs/2405.11608v3)** | 2026-05-07 | <details><summary>45 pa...</summary><p>45 pages, 9 figures, improved versions with more protocols, good privacy analysis and mathematical rigor</p></details> |
-| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
-| **[CCL-Bench 1.0: A Trace-Based Benchmark for LLM Infrastructure](https://arxiv.org/abs/2605.06544v1)** | 2026-05-07 |  |
-| **[ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL](https://arxiv.org/abs/2605.06534v1)** | 2026-05-07 | 19 pages, 15 figures |
-| **[AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v2)** | 2026-05-07 |  |
-| **[ADELIA: Automatic Differentiation for Efficient Laplace Inference Approximations](https://arxiv.org/abs/2605.06392v1)** | 2026-05-07 |  |
-| **[ResiHP: Taming LLM Training Failures with Dynamic Hybrid](https://arxiv.org/abs/2605.06374v1)** | 2026-05-07 |  |
-| **[Tracking Capabilities for Safer Agents](https://arxiv.org/abs/2603.00991v2)** | 2026-05-07 |  |
-| **[Safactory: A Scalable Agent Factory for Trustworthy Autonomous Intelligence](https://arxiv.org/abs/2605.06230v1)** | 2026-05-07 | 50 pages, 21 figures |
-| **[Teaching LLMs Program Semantics via Symbolic Execution Traces](https://arxiv.org/abs/2605.06184v1)** | 2026-05-07 |  |
-| **[TACO: A Toolsuite for the Verification of Threshold Automata](https://arxiv.org/abs/2605.06118v1)** | 2026-05-07 | <details><summary>Exten...</summary><p>Extended Version of CAV 2026 paper</p></details> |
-| **[Tackling the Data-Parallel Load Balancing Bottleneck in LLM Serving: Practical Online Routing at Scale](https://arxiv.org/abs/2605.06113v1)** | 2026-05-07 | 29 pages,14 figures |
-| **[PoTAcc: A Pipeline for End-to-End Acceleration of Power-of-Two Quantized DNNs](https://arxiv.org/abs/2605.06082v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI), 2026</p></details> |
-| **[VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?](https://arxiv.org/abs/2605.06068v1)** | 2026-05-07 |  |
-| **[FalconGEMM: Surpassing Hardware Peaks with Lower-Complexity Matrix Multiplication](https://arxiv.org/abs/2605.06057v1)** | 2026-05-07 |  |
+| **[Zero-Error Recovery under Deterministic Partial Views: Matroid Bounds and Verifiable Realizability](https://arxiv.org/abs/2602.23520v8)** | 2026-05-12 | <details><summary>Main ...</summary><p>Main PDF: 46 pages, 1 figure and 2 tables. Supplementary: 9 pages, 2 tables. Lean 4 artifact available at https://doi.org/10.5281/zenodo.18141365</p></details> |
+| **[A Lightweight High-Throughput Collective-Capable NoC for Large-Scale ML Accelerators](https://arxiv.org/abs/2603.26438v2)** | 2026-05-12 | 12 pages, 10 figures |
+| **[Search Your Block Floating Point Scales!](https://arxiv.org/abs/2605.12464v1)** | 2026-05-12 |  |
+| **[Scalable Packed Layouts for Vector-Length-Agnostic ML Code Generation](https://arxiv.org/abs/2605.12445v1)** | 2026-05-12 |  |
+| **[Enhancing Instruction Prefetching via Cache and TLB Management](https://arxiv.org/abs/2605.12433v1)** | 2026-05-12 | <details><summary>To ap...</summary><p>To appear at ISCA 2026</p></details> |
+| **[NCCLZ: Compression-Enabled GPU Collectives with Decoupled Quantization and Entropy Coding](https://arxiv.org/abs/2605.12396v1)** | 2026-05-12 | 12 pages, 9 figures |
+| **[Minimalistic Terminal Editor for Julia Programming -- MinTEJ: A Friendly Approach for a Scientific Programmer](https://arxiv.org/abs/2605.12275v1)** | 2026-05-12 | 15 Pages, 42 figures |
+| **[SPECTRE: Hybrid Ordinary-Parallel Speculative Serving for Resource-Efficient LLM Inference](https://arxiv.org/abs/2605.08151v2)** | 2026-05-12 |  |
+| **[Harness Engineering as Categorical Architecture](https://arxiv.org/abs/2605.12239v1)** | 2026-05-12 |  |
+| **[Gradient Clock Synchronization with Practically Constant Local Skew](https://arxiv.org/abs/2511.01420v2)** | 2026-05-12 | <details><summary>39 pa...</summary><p>39 pages, no figures, shorter conference version accepted at PODC 2026</p></details> |
+| **[Pruning Federated Models through Loss Landscape Analysis and Client Agreement Scoring](https://arxiv.org/abs/2405.10271v5)** | 2026-05-12 |  |
+| **[DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference on NVL72](https://arxiv.org/abs/2604.01621v2)** | 2026-05-12 | <details><summary>Techn...</summary><p>Technical Report. 17 pages. 8 figures</p></details> |
+| **[Efficient Remote KV Cache Reuse with GPU-native Video Codec](https://arxiv.org/abs/2602.09725v3)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted by SIGCOMM 2026</p></details> |
+| **[Capacity Scalability of LEO Constellations With Dynamic Link Failures](https://arxiv.org/abs/2605.12146v1)** | 2026-05-12 |  |
+| **[AB-Sparse: Sparse Attention with Adaptive Block Size for Accurate and Efficient Long-Context Inference](https://arxiv.org/abs/2605.12110v1)** | 2026-05-12 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Private Delegated Quantum Computing for User-Level and Industry-Level Settings](https://arxiv.org/abs/2405.11608v3)** | 2026-05-07 | <details><summary>45 pa...</summary><p>45 pages, 9 figures, improved versions with more protocols, good privacy analysis and mathematical rigor</p></details> |
-| **[CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification](https://arxiv.org/abs/2605.06571v1)** | 2026-05-07 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
-| **[CCL-Bench 1.0: A Trace-Based Benchmark for LLM Infrastructure](https://arxiv.org/abs/2605.06544v1)** | 2026-05-07 |  |
-| **[ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL](https://arxiv.org/abs/2605.06534v1)** | 2026-05-07 | 19 pages, 15 figures |
-| **[AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v2)** | 2026-05-07 |  |
-| **[ADELIA: Automatic Differentiation for Efficient Laplace Inference Approximations](https://arxiv.org/abs/2605.06392v1)** | 2026-05-07 |  |
-| **[ResiHP: Taming LLM Training Failures with Dynamic Hybrid](https://arxiv.org/abs/2605.06374v1)** | 2026-05-07 |  |
-| **[Tracking Capabilities for Safer Agents](https://arxiv.org/abs/2603.00991v2)** | 2026-05-07 |  |
-| **[Safactory: A Scalable Agent Factory for Trustworthy Autonomous Intelligence](https://arxiv.org/abs/2605.06230v1)** | 2026-05-07 | 50 pages, 21 figures |
-| **[Teaching LLMs Program Semantics via Symbolic Execution Traces](https://arxiv.org/abs/2605.06184v1)** | 2026-05-07 |  |
-| **[TACO: A Toolsuite for the Verification of Threshold Automata](https://arxiv.org/abs/2605.06118v1)** | 2026-05-07 | <details><summary>Exten...</summary><p>Extended Version of CAV 2026 paper</p></details> |
-| **[Tackling the Data-Parallel Load Balancing Bottleneck in LLM Serving: Practical Online Routing at Scale](https://arxiv.org/abs/2605.06113v1)** | 2026-05-07 | 29 pages,14 figures |
-| **[PoTAcc: A Pipeline for End-to-End Acceleration of Power-of-Two Quantized DNNs](https://arxiv.org/abs/2605.06082v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI), 2026</p></details> |
-| **[VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?](https://arxiv.org/abs/2605.06068v1)** | 2026-05-07 |  |
-| **[FalconGEMM: Surpassing Hardware Peaks with Lower-Complexity Matrix Multiplication](https://arxiv.org/abs/2605.06057v1)** | 2026-05-07 |  |
+| **[Zero-Error Recovery under Deterministic Partial Views: Matroid Bounds and Verifiable Realizability](https://arxiv.org/abs/2602.23520v8)** | 2026-05-12 | <details><summary>Main ...</summary><p>Main PDF: 46 pages, 1 figure and 2 tables. Supplementary: 9 pages, 2 tables. Lean 4 artifact available at https://doi.org/10.5281/zenodo.18141365</p></details> |
+| **[A Lightweight High-Throughput Collective-Capable NoC for Large-Scale ML Accelerators](https://arxiv.org/abs/2603.26438v2)** | 2026-05-12 | 12 pages, 10 figures |
+| **[Search Your Block Floating Point Scales!](https://arxiv.org/abs/2605.12464v1)** | 2026-05-12 |  |
+| **[Scalable Packed Layouts for Vector-Length-Agnostic ML Code Generation](https://arxiv.org/abs/2605.12445v1)** | 2026-05-12 |  |
+| **[Enhancing Instruction Prefetching via Cache and TLB Management](https://arxiv.org/abs/2605.12433v1)** | 2026-05-12 | <details><summary>To ap...</summary><p>To appear at ISCA 2026</p></details> |
+| **[NCCLZ: Compression-Enabled GPU Collectives with Decoupled Quantization and Entropy Coding](https://arxiv.org/abs/2605.12396v1)** | 2026-05-12 | 12 pages, 9 figures |
+| **[Minimalistic Terminal Editor for Julia Programming -- MinTEJ: A Friendly Approach for a Scientific Programmer](https://arxiv.org/abs/2605.12275v1)** | 2026-05-12 | 15 Pages, 42 figures |
+| **[SPECTRE: Hybrid Ordinary-Parallel Speculative Serving for Resource-Efficient LLM Inference](https://arxiv.org/abs/2605.08151v2)** | 2026-05-12 |  |
+| **[Harness Engineering as Categorical Architecture](https://arxiv.org/abs/2605.12239v1)** | 2026-05-12 |  |
+| **[Gradient Clock Synchronization with Practically Constant Local Skew](https://arxiv.org/abs/2511.01420v2)** | 2026-05-12 | <details><summary>39 pa...</summary><p>39 pages, no figures, shorter conference version accepted at PODC 2026</p></details> |
+| **[Pruning Federated Models through Loss Landscape Analysis and Client Agreement Scoring](https://arxiv.org/abs/2405.10271v5)** | 2026-05-12 |  |
+| **[DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference on NVL72](https://arxiv.org/abs/2604.01621v2)** | 2026-05-12 | <details><summary>Techn...</summary><p>Technical Report. 17 pages. 8 figures</p></details> |
+| **[Efficient Remote KV Cache Reuse with GPU-native Video Codec](https://arxiv.org/abs/2602.09725v3)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted by SIGCOMM 2026</p></details> |
+| **[Capacity Scalability of LEO Constellations With Dynamic Link Failures](https://arxiv.org/abs/2605.12146v1)** | 2026-05-12 |  |
+| **[AB-Sparse: Sparse Attention with Adaptive Block Size for Accurate and Efficient Long-Context Inference](https://arxiv.org/abs/2605.12110v1)** | 2026-05-12 |  |
 
