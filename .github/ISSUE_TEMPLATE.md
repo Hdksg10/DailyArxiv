@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 14, 2026
+title: Latest 15 Papers - May 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Zero-Error Recovery under Deterministic Partial Views: Matroid Bounds and Verifiable Realizability](https://arxiv.org/abs/2602.23520v8)** | 2026-05-12 | <details><summary>Main ...</summary><p>Main PDF: 46 pages, 1 figure and 2 tables. Supplementary: 9 pages, 2 tables. Lean 4 artifact available at https://doi.org/10.5281/zenodo.18141365</p></details> |
-| **[A Lightweight High-Throughput Collective-Capable NoC for Large-Scale ML Accelerators](https://arxiv.org/abs/2603.26438v2)** | 2026-05-12 | 12 pages, 10 figures |
-| **[Search Your Block Floating Point Scales!](https://arxiv.org/abs/2605.12464v1)** | 2026-05-12 |  |
-| **[Scalable Packed Layouts for Vector-Length-Agnostic ML Code Generation](https://arxiv.org/abs/2605.12445v1)** | 2026-05-12 |  |
-| **[Enhancing Instruction Prefetching via Cache and TLB Management](https://arxiv.org/abs/2605.12433v1)** | 2026-05-12 | <details><summary>To ap...</summary><p>To appear at ISCA 2026</p></details> |
-| **[NCCLZ: Compression-Enabled GPU Collectives with Decoupled Quantization and Entropy Coding](https://arxiv.org/abs/2605.12396v1)** | 2026-05-12 | 12 pages, 9 figures |
-| **[Minimalistic Terminal Editor for Julia Programming -- MinTEJ: A Friendly Approach for a Scientific Programmer](https://arxiv.org/abs/2605.12275v1)** | 2026-05-12 | 15 Pages, 42 figures |
-| **[SPECTRE: Hybrid Ordinary-Parallel Speculative Serving for Resource-Efficient LLM Inference](https://arxiv.org/abs/2605.08151v2)** | 2026-05-12 |  |
-| **[Harness Engineering as Categorical Architecture](https://arxiv.org/abs/2605.12239v1)** | 2026-05-12 |  |
-| **[Gradient Clock Synchronization with Practically Constant Local Skew](https://arxiv.org/abs/2511.01420v2)** | 2026-05-12 | <details><summary>39 pa...</summary><p>39 pages, no figures, shorter conference version accepted at PODC 2026</p></details> |
-| **[Pruning Federated Models through Loss Landscape Analysis and Client Agreement Scoring](https://arxiv.org/abs/2405.10271v5)** | 2026-05-12 |  |
-| **[DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference on NVL72](https://arxiv.org/abs/2604.01621v2)** | 2026-05-12 | <details><summary>Techn...</summary><p>Technical Report. 17 pages. 8 figures</p></details> |
-| **[Efficient Remote KV Cache Reuse with GPU-native Video Codec](https://arxiv.org/abs/2602.09725v3)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted by SIGCOMM 2026</p></details> |
-| **[Capacity Scalability of LEO Constellations With Dynamic Link Failures](https://arxiv.org/abs/2605.12146v1)** | 2026-05-12 |  |
-| **[AB-Sparse: Sparse Attention with Adaptive Block Size for Accurate and Efficient Long-Context Inference](https://arxiv.org/abs/2605.12110v1)** | 2026-05-12 |  |
+| **[On the Complexity of Checking Soundness of Natural Reductions (Extended Version)](https://arxiv.org/abs/2605.13780v1)** | 2026-05-13 | <details><summary>31 pa...</summary><p>31 pages, extended version (with proofs) of the paper accepted at CAV'26</p></details> |
+| **[Cobble: Compiling Block Encodings for Quantum Computational Linear Algebra](https://arxiv.org/abs/2511.01736v2)** | 2026-05-13 | <details><summary>22 pa...</summary><p>22 pages, 13 figures. v2: published version of paper</p></details> |
+| **[MinT: Managed Infrastructure for Training and Serving Millions of LLMs](https://arxiv.org/abs/2605.13779v1)** | 2026-05-13 | <details><summary>27 pa...</summary><p>27 pages. Technical report. Mind Lab</p></details> |
+| **[First Steps Towards Probabilistic Iris: Harmonizing Independence, Conditioning, and Dynamic Heap Allocation](https://arxiv.org/abs/2605.13765v1)** | 2026-05-13 |  |
+| **[SPLIT: SymPathy for Large jobs Improves Tail latency](https://arxiv.org/abs/2605.13749v1)** | 2026-05-13 |  |
+| **[KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving](https://arxiv.org/abs/2605.13734v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by SIGCOMM 2026</p></details> |
+| **[DisAgg: Distributed Aggregators for Efficient Secure Aggregation in Federated Learning](https://arxiv.org/abs/2605.13708v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted to MLSys 2026; code available at: https://github.com/SamsungLabs/mlsys26_disagg</p></details> |
+| **[ArcLight: A Lightweight LLM Inference Architecture for Many-Core CPUs](https://arxiv.org/abs/2603.07770v2)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Demo</p></details> |
+| **[MultiPath Memory Access: Breaking Host-GPU Bandwidth Bottlenecks in LLM Services](https://arxiv.org/abs/2512.16056v2)** | 2026-05-13 |  |
+| **[Blockchain Transaction Conflicts: A Historical Perspective](https://arxiv.org/abs/2505.05358v3)** | 2026-05-13 |  |
+| **[MARLIN: Multi-Agent Game-Theoretic Reinforcement Learning for Sustainable LLM Inference in Cloud Datacenters](https://arxiv.org/abs/2605.13496v1)** | 2026-05-13 |  |
+| **[Sustainable Graph Analytics Workload Scheduling with Evolutionary Reinforcement Learning in Edge-Cloud Systems](https://arxiv.org/abs/2605.13489v1)** | 2026-05-13 |  |
+| **[Liquid Tree Automata](https://arxiv.org/abs/2605.13456v1)** | 2026-05-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2508.14614</p></details> |
+| **[Rescaled Asynchronous SGD: Optimal Distributed Optimization under Data and System Heterogeneity](https://arxiv.org/abs/2605.13434v1)** | 2026-05-13 |  |
+| **[TurboGR: An Accelerated Training System for Large-Scale Generative Recommendation](https://arxiv.org/abs/2605.13433v1)** | 2026-05-13 | 18 pages |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Zero-Error Recovery under Deterministic Partial Views: Matroid Bounds and Verifiable Realizability](https://arxiv.org/abs/2602.23520v8)** | 2026-05-12 | <details><summary>Main ...</summary><p>Main PDF: 46 pages, 1 figure and 2 tables. Supplementary: 9 pages, 2 tables. Lean 4 artifact available at https://doi.org/10.5281/zenodo.18141365</p></details> |
-| **[A Lightweight High-Throughput Collective-Capable NoC for Large-Scale ML Accelerators](https://arxiv.org/abs/2603.26438v2)** | 2026-05-12 | 12 pages, 10 figures |
-| **[Search Your Block Floating Point Scales!](https://arxiv.org/abs/2605.12464v1)** | 2026-05-12 |  |
-| **[Scalable Packed Layouts for Vector-Length-Agnostic ML Code Generation](https://arxiv.org/abs/2605.12445v1)** | 2026-05-12 |  |
-| **[Enhancing Instruction Prefetching via Cache and TLB Management](https://arxiv.org/abs/2605.12433v1)** | 2026-05-12 | <details><summary>To ap...</summary><p>To appear at ISCA 2026</p></details> |
-| **[NCCLZ: Compression-Enabled GPU Collectives with Decoupled Quantization and Entropy Coding](https://arxiv.org/abs/2605.12396v1)** | 2026-05-12 | 12 pages, 9 figures |
-| **[Minimalistic Terminal Editor for Julia Programming -- MinTEJ: A Friendly Approach for a Scientific Programmer](https://arxiv.org/abs/2605.12275v1)** | 2026-05-12 | 15 Pages, 42 figures |
-| **[SPECTRE: Hybrid Ordinary-Parallel Speculative Serving for Resource-Efficient LLM Inference](https://arxiv.org/abs/2605.08151v2)** | 2026-05-12 |  |
-| **[Harness Engineering as Categorical Architecture](https://arxiv.org/abs/2605.12239v1)** | 2026-05-12 |  |
-| **[Gradient Clock Synchronization with Practically Constant Local Skew](https://arxiv.org/abs/2511.01420v2)** | 2026-05-12 | <details><summary>39 pa...</summary><p>39 pages, no figures, shorter conference version accepted at PODC 2026</p></details> |
-| **[Pruning Federated Models through Loss Landscape Analysis and Client Agreement Scoring](https://arxiv.org/abs/2405.10271v5)** | 2026-05-12 |  |
-| **[DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference on NVL72](https://arxiv.org/abs/2604.01621v2)** | 2026-05-12 | <details><summary>Techn...</summary><p>Technical Report. 17 pages. 8 figures</p></details> |
-| **[Efficient Remote KV Cache Reuse with GPU-native Video Codec](https://arxiv.org/abs/2602.09725v3)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted by SIGCOMM 2026</p></details> |
-| **[Capacity Scalability of LEO Constellations With Dynamic Link Failures](https://arxiv.org/abs/2605.12146v1)** | 2026-05-12 |  |
-| **[AB-Sparse: Sparse Attention with Adaptive Block Size for Accurate and Efficient Long-Context Inference](https://arxiv.org/abs/2605.12110v1)** | 2026-05-12 |  |
+| **[On the Complexity of Checking Soundness of Natural Reductions (Extended Version)](https://arxiv.org/abs/2605.13780v1)** | 2026-05-13 | <details><summary>31 pa...</summary><p>31 pages, extended version (with proofs) of the paper accepted at CAV'26</p></details> |
+| **[Cobble: Compiling Block Encodings for Quantum Computational Linear Algebra](https://arxiv.org/abs/2511.01736v2)** | 2026-05-13 | <details><summary>22 pa...</summary><p>22 pages, 13 figures. v2: published version of paper</p></details> |
+| **[MinT: Managed Infrastructure for Training and Serving Millions of LLMs](https://arxiv.org/abs/2605.13779v1)** | 2026-05-13 | <details><summary>27 pa...</summary><p>27 pages. Technical report. Mind Lab</p></details> |
+| **[First Steps Towards Probabilistic Iris: Harmonizing Independence, Conditioning, and Dynamic Heap Allocation](https://arxiv.org/abs/2605.13765v1)** | 2026-05-13 |  |
+| **[SPLIT: SymPathy for Large jobs Improves Tail latency](https://arxiv.org/abs/2605.13749v1)** | 2026-05-13 |  |
+| **[KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving](https://arxiv.org/abs/2605.13734v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by SIGCOMM 2026</p></details> |
+| **[DisAgg: Distributed Aggregators for Efficient Secure Aggregation in Federated Learning](https://arxiv.org/abs/2605.13708v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted to MLSys 2026; code available at: https://github.com/SamsungLabs/mlsys26_disagg</p></details> |
+| **[ArcLight: A Lightweight LLM Inference Architecture for Many-Core CPUs](https://arxiv.org/abs/2603.07770v2)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Demo</p></details> |
+| **[MultiPath Memory Access: Breaking Host-GPU Bandwidth Bottlenecks in LLM Services](https://arxiv.org/abs/2512.16056v2)** | 2026-05-13 |  |
+| **[Blockchain Transaction Conflicts: A Historical Perspective](https://arxiv.org/abs/2505.05358v3)** | 2026-05-13 |  |
+| **[MARLIN: Multi-Agent Game-Theoretic Reinforcement Learning for Sustainable LLM Inference in Cloud Datacenters](https://arxiv.org/abs/2605.13496v1)** | 2026-05-13 |  |
+| **[Sustainable Graph Analytics Workload Scheduling with Evolutionary Reinforcement Learning in Edge-Cloud Systems](https://arxiv.org/abs/2605.13489v1)** | 2026-05-13 |  |
+| **[Liquid Tree Automata](https://arxiv.org/abs/2605.13456v1)** | 2026-05-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2508.14614</p></details> |
+| **[Rescaled Asynchronous SGD: Optimal Distributed Optimization under Data and System Heterogeneity](https://arxiv.org/abs/2605.13434v1)** | 2026-05-13 |  |
+| **[TurboGR: An Accelerated Training System for Large-Scale Generative Recommendation](https://arxiv.org/abs/2605.13433v1)** | 2026-05-13 | 18 pages |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Zero-Error Recovery under Deterministic Partial Views: Matroid Bounds and Verifiable Realizability](https://arxiv.org/abs/2602.23520v8)** | 2026-05-12 | <details><summary>Main ...</summary><p>Main PDF: 46 pages, 1 figure and 2 tables. Supplementary: 9 pages, 2 tables. Lean 4 artifact available at https://doi.org/10.5281/zenodo.18141365</p></details> |
-| **[A Lightweight High-Throughput Collective-Capable NoC for Large-Scale ML Accelerators](https://arxiv.org/abs/2603.26438v2)** | 2026-05-12 | 12 pages, 10 figures |
-| **[Search Your Block Floating Point Scales!](https://arxiv.org/abs/2605.12464v1)** | 2026-05-12 |  |
-| **[Scalable Packed Layouts for Vector-Length-Agnostic ML Code Generation](https://arxiv.org/abs/2605.12445v1)** | 2026-05-12 |  |
-| **[Enhancing Instruction Prefetching via Cache and TLB Management](https://arxiv.org/abs/2605.12433v1)** | 2026-05-12 | <details><summary>To ap...</summary><p>To appear at ISCA 2026</p></details> |
-| **[NCCLZ: Compression-Enabled GPU Collectives with Decoupled Quantization and Entropy Coding](https://arxiv.org/abs/2605.12396v1)** | 2026-05-12 | 12 pages, 9 figures |
-| **[Minimalistic Terminal Editor for Julia Programming -- MinTEJ: A Friendly Approach for a Scientific Programmer](https://arxiv.org/abs/2605.12275v1)** | 2026-05-12 | 15 Pages, 42 figures |
-| **[SPECTRE: Hybrid Ordinary-Parallel Speculative Serving for Resource-Efficient LLM Inference](https://arxiv.org/abs/2605.08151v2)** | 2026-05-12 |  |
-| **[Harness Engineering as Categorical Architecture](https://arxiv.org/abs/2605.12239v1)** | 2026-05-12 |  |
-| **[Gradient Clock Synchronization with Practically Constant Local Skew](https://arxiv.org/abs/2511.01420v2)** | 2026-05-12 | <details><summary>39 pa...</summary><p>39 pages, no figures, shorter conference version accepted at PODC 2026</p></details> |
-| **[Pruning Federated Models through Loss Landscape Analysis and Client Agreement Scoring](https://arxiv.org/abs/2405.10271v5)** | 2026-05-12 |  |
-| **[DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference on NVL72](https://arxiv.org/abs/2604.01621v2)** | 2026-05-12 | <details><summary>Techn...</summary><p>Technical Report. 17 pages. 8 figures</p></details> |
-| **[Efficient Remote KV Cache Reuse with GPU-native Video Codec](https://arxiv.org/abs/2602.09725v3)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted by SIGCOMM 2026</p></details> |
-| **[Capacity Scalability of LEO Constellations With Dynamic Link Failures](https://arxiv.org/abs/2605.12146v1)** | 2026-05-12 |  |
-| **[AB-Sparse: Sparse Attention with Adaptive Block Size for Accurate and Efficient Long-Context Inference](https://arxiv.org/abs/2605.12110v1)** | 2026-05-12 |  |
+| **[On the Complexity of Checking Soundness of Natural Reductions (Extended Version)](https://arxiv.org/abs/2605.13780v1)** | 2026-05-13 | <details><summary>31 pa...</summary><p>31 pages, extended version (with proofs) of the paper accepted at CAV'26</p></details> |
+| **[Cobble: Compiling Block Encodings for Quantum Computational Linear Algebra](https://arxiv.org/abs/2511.01736v2)** | 2026-05-13 | <details><summary>22 pa...</summary><p>22 pages, 13 figures. v2: published version of paper</p></details> |
+| **[MinT: Managed Infrastructure for Training and Serving Millions of LLMs](https://arxiv.org/abs/2605.13779v1)** | 2026-05-13 | <details><summary>27 pa...</summary><p>27 pages. Technical report. Mind Lab</p></details> |
+| **[First Steps Towards Probabilistic Iris: Harmonizing Independence, Conditioning, and Dynamic Heap Allocation](https://arxiv.org/abs/2605.13765v1)** | 2026-05-13 |  |
+| **[SPLIT: SymPathy for Large jobs Improves Tail latency](https://arxiv.org/abs/2605.13749v1)** | 2026-05-13 |  |
+| **[KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving](https://arxiv.org/abs/2605.13734v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by SIGCOMM 2026</p></details> |
+| **[DisAgg: Distributed Aggregators for Efficient Secure Aggregation in Federated Learning](https://arxiv.org/abs/2605.13708v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted to MLSys 2026; code available at: https://github.com/SamsungLabs/mlsys26_disagg</p></details> |
+| **[ArcLight: A Lightweight LLM Inference Architecture for Many-Core CPUs](https://arxiv.org/abs/2603.07770v2)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Demo</p></details> |
+| **[MultiPath Memory Access: Breaking Host-GPU Bandwidth Bottlenecks in LLM Services](https://arxiv.org/abs/2512.16056v2)** | 2026-05-13 |  |
+| **[Blockchain Transaction Conflicts: A Historical Perspective](https://arxiv.org/abs/2505.05358v3)** | 2026-05-13 |  |
+| **[MARLIN: Multi-Agent Game-Theoretic Reinforcement Learning for Sustainable LLM Inference in Cloud Datacenters](https://arxiv.org/abs/2605.13496v1)** | 2026-05-13 |  |
+| **[Sustainable Graph Analytics Workload Scheduling with Evolutionary Reinforcement Learning in Edge-Cloud Systems](https://arxiv.org/abs/2605.13489v1)** | 2026-05-13 |  |
+| **[Liquid Tree Automata](https://arxiv.org/abs/2605.13456v1)** | 2026-05-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2508.14614</p></details> |
+| **[Rescaled Asynchronous SGD: Optimal Distributed Optimization under Data and System Heterogeneity](https://arxiv.org/abs/2605.13434v1)** | 2026-05-13 |  |
+| **[TurboGR: An Accelerated Training System for Large-Scale Generative Recommendation](https://arxiv.org/abs/2605.13433v1)** | 2026-05-13 | 18 pages |
 
