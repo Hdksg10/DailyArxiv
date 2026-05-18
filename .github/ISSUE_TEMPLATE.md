@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 15, 2026
+title: Latest 15 Papers - May 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Complexity of Checking Soundness of Natural Reductions (Extended Version)](https://arxiv.org/abs/2605.13780v1)** | 2026-05-13 | <details><summary>31 pa...</summary><p>31 pages, extended version (with proofs) of the paper accepted at CAV'26</p></details> |
-| **[Cobble: Compiling Block Encodings for Quantum Computational Linear Algebra](https://arxiv.org/abs/2511.01736v2)** | 2026-05-13 | <details><summary>22 pa...</summary><p>22 pages, 13 figures. v2: published version of paper</p></details> |
-| **[MinT: Managed Infrastructure for Training and Serving Millions of LLMs](https://arxiv.org/abs/2605.13779v1)** | 2026-05-13 | <details><summary>27 pa...</summary><p>27 pages. Technical report. Mind Lab</p></details> |
-| **[First Steps Towards Probabilistic Iris: Harmonizing Independence, Conditioning, and Dynamic Heap Allocation](https://arxiv.org/abs/2605.13765v1)** | 2026-05-13 |  |
-| **[SPLIT: SymPathy for Large jobs Improves Tail latency](https://arxiv.org/abs/2605.13749v1)** | 2026-05-13 |  |
-| **[KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving](https://arxiv.org/abs/2605.13734v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by SIGCOMM 2026</p></details> |
-| **[DisAgg: Distributed Aggregators for Efficient Secure Aggregation in Federated Learning](https://arxiv.org/abs/2605.13708v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted to MLSys 2026; code available at: https://github.com/SamsungLabs/mlsys26_disagg</p></details> |
-| **[ArcLight: A Lightweight LLM Inference Architecture for Many-Core CPUs](https://arxiv.org/abs/2603.07770v2)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Demo</p></details> |
-| **[MultiPath Memory Access: Breaking Host-GPU Bandwidth Bottlenecks in LLM Services](https://arxiv.org/abs/2512.16056v2)** | 2026-05-13 |  |
-| **[Blockchain Transaction Conflicts: A Historical Perspective](https://arxiv.org/abs/2505.05358v3)** | 2026-05-13 |  |
-| **[MARLIN: Multi-Agent Game-Theoretic Reinforcement Learning for Sustainable LLM Inference in Cloud Datacenters](https://arxiv.org/abs/2605.13496v1)** | 2026-05-13 |  |
-| **[Sustainable Graph Analytics Workload Scheduling with Evolutionary Reinforcement Learning in Edge-Cloud Systems](https://arxiv.org/abs/2605.13489v1)** | 2026-05-13 |  |
-| **[Liquid Tree Automata](https://arxiv.org/abs/2605.13456v1)** | 2026-05-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2508.14614</p></details> |
-| **[Rescaled Asynchronous SGD: Optimal Distributed Optimization under Data and System Heterogeneity](https://arxiv.org/abs/2605.13434v1)** | 2026-05-13 |  |
-| **[TurboGR: An Accelerated Training System for Large-Scale Generative Recommendation](https://arxiv.org/abs/2605.13433v1)** | 2026-05-13 | 18 pages |
+| **[Designing Datacenter Power Delivery Hierarchies for the AI Era](https://arxiv.org/abs/2605.16255v1)** | 2026-05-15 |  |
+| **[Runtime-Orchestrated Second-Order Optimization for Scalable LLM Training](https://arxiv.org/abs/2605.16184v1)** | 2026-05-15 |  |
+| **[A GPU Accelerated Temporal Window-Based Random Walk Sampler](https://arxiv.org/abs/2605.16182v1)** | 2026-05-15 |  |
+| **[SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM Pretraining Systems with 100k+ GPUs](https://arxiv.org/abs/2603.00357v2)** | 2026-05-15 | <details><summary>Forty...</summary><p>Forty-Third International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[PCDM: A Diffusion-Based Data Poisoning Attack Against Federated Learning Systems](https://arxiv.org/abs/2605.16098v1)** | 2026-05-15 |  |
+| **[An efficient multi-GPU implementation for the Discontinuous Galerkin ocean model SLIM](https://arxiv.org/abs/2605.16082v1)** | 2026-05-15 |  |
+| **[High-Performance Star-M SVD for Big Data Compression](https://arxiv.org/abs/2605.16058v1)** | 2026-05-15 |  |
+| **[LMDeploy Accelerates Mixed-Precision LLM Inference with TurboMind](https://arxiv.org/abs/2508.15601v2)** | 2026-05-15 |  |
+| **[Hardware Utilization and Inference Performance of Edge Object Detection Under Fault Injection](https://arxiv.org/abs/2604.09631v2)** | 2026-05-15 |  |
+| **[Evaluating Container Orchestration for Neuromorphic Workloads in Virtual Edge Environments](https://arxiv.org/abs/2605.15866v1)** | 2026-05-15 | 7 pages, 8 figures |
+| **[CascadeInfer: Length-Aware Scheduling of LLM Serving with Low Latency and Load Balancing](https://arxiv.org/abs/2512.19179v3)** | 2026-05-15 | 15 pages, 16 figures |
+| **[Heuristic-Based Merging of HPC Traces to Extend Hardware Counter Coverage](https://arxiv.org/abs/2605.15832v1)** | 2026-05-15 |  |
+| **[Caesar: A Deductive Verifier for Probabilistic Programs](https://arxiv.org/abs/2605.15827v1)** | 2026-05-15 | <details><summary>To be...</summary><p>To be published at CAV2026</p></details> |
+| **[ADAPT: A Self-Calibrating Proactive Autoscaler for Container Orchestration](https://arxiv.org/abs/2605.15788v1)** | 2026-05-15 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 3 tables. Includes reproducible simulation framework for proactive Kubernetes autoscaling with adaptive cold-start estimation and MPC-based scaling. Source code and experiment configurations available at: https://github.com/Himanshu21035/autoscaling_research</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Complexity of Checking Soundness of Natural Reductions (Extended Version)](https://arxiv.org/abs/2605.13780v1)** | 2026-05-13 | <details><summary>31 pa...</summary><p>31 pages, extended version (with proofs) of the paper accepted at CAV'26</p></details> |
-| **[Cobble: Compiling Block Encodings for Quantum Computational Linear Algebra](https://arxiv.org/abs/2511.01736v2)** | 2026-05-13 | <details><summary>22 pa...</summary><p>22 pages, 13 figures. v2: published version of paper</p></details> |
-| **[MinT: Managed Infrastructure for Training and Serving Millions of LLMs](https://arxiv.org/abs/2605.13779v1)** | 2026-05-13 | <details><summary>27 pa...</summary><p>27 pages. Technical report. Mind Lab</p></details> |
-| **[First Steps Towards Probabilistic Iris: Harmonizing Independence, Conditioning, and Dynamic Heap Allocation](https://arxiv.org/abs/2605.13765v1)** | 2026-05-13 |  |
-| **[SPLIT: SymPathy for Large jobs Improves Tail latency](https://arxiv.org/abs/2605.13749v1)** | 2026-05-13 |  |
-| **[KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving](https://arxiv.org/abs/2605.13734v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by SIGCOMM 2026</p></details> |
-| **[DisAgg: Distributed Aggregators for Efficient Secure Aggregation in Federated Learning](https://arxiv.org/abs/2605.13708v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted to MLSys 2026; code available at: https://github.com/SamsungLabs/mlsys26_disagg</p></details> |
-| **[ArcLight: A Lightweight LLM Inference Architecture for Many-Core CPUs](https://arxiv.org/abs/2603.07770v2)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Demo</p></details> |
-| **[MultiPath Memory Access: Breaking Host-GPU Bandwidth Bottlenecks in LLM Services](https://arxiv.org/abs/2512.16056v2)** | 2026-05-13 |  |
-| **[Blockchain Transaction Conflicts: A Historical Perspective](https://arxiv.org/abs/2505.05358v3)** | 2026-05-13 |  |
-| **[MARLIN: Multi-Agent Game-Theoretic Reinforcement Learning for Sustainable LLM Inference in Cloud Datacenters](https://arxiv.org/abs/2605.13496v1)** | 2026-05-13 |  |
-| **[Sustainable Graph Analytics Workload Scheduling with Evolutionary Reinforcement Learning in Edge-Cloud Systems](https://arxiv.org/abs/2605.13489v1)** | 2026-05-13 |  |
-| **[Liquid Tree Automata](https://arxiv.org/abs/2605.13456v1)** | 2026-05-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2508.14614</p></details> |
-| **[Rescaled Asynchronous SGD: Optimal Distributed Optimization under Data and System Heterogeneity](https://arxiv.org/abs/2605.13434v1)** | 2026-05-13 |  |
-| **[TurboGR: An Accelerated Training System for Large-Scale Generative Recommendation](https://arxiv.org/abs/2605.13433v1)** | 2026-05-13 | 18 pages |
+| **[Designing Datacenter Power Delivery Hierarchies for the AI Era](https://arxiv.org/abs/2605.16255v1)** | 2026-05-15 |  |
+| **[Runtime-Orchestrated Second-Order Optimization for Scalable LLM Training](https://arxiv.org/abs/2605.16184v1)** | 2026-05-15 |  |
+| **[A GPU Accelerated Temporal Window-Based Random Walk Sampler](https://arxiv.org/abs/2605.16182v1)** | 2026-05-15 |  |
+| **[SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM Pretraining Systems with 100k+ GPUs](https://arxiv.org/abs/2603.00357v2)** | 2026-05-15 | <details><summary>Forty...</summary><p>Forty-Third International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[PCDM: A Diffusion-Based Data Poisoning Attack Against Federated Learning Systems](https://arxiv.org/abs/2605.16098v1)** | 2026-05-15 |  |
+| **[An efficient multi-GPU implementation for the Discontinuous Galerkin ocean model SLIM](https://arxiv.org/abs/2605.16082v1)** | 2026-05-15 |  |
+| **[High-Performance Star-M SVD for Big Data Compression](https://arxiv.org/abs/2605.16058v1)** | 2026-05-15 |  |
+| **[LMDeploy Accelerates Mixed-Precision LLM Inference with TurboMind](https://arxiv.org/abs/2508.15601v2)** | 2026-05-15 |  |
+| **[Hardware Utilization and Inference Performance of Edge Object Detection Under Fault Injection](https://arxiv.org/abs/2604.09631v2)** | 2026-05-15 |  |
+| **[Evaluating Container Orchestration for Neuromorphic Workloads in Virtual Edge Environments](https://arxiv.org/abs/2605.15866v1)** | 2026-05-15 | 7 pages, 8 figures |
+| **[CascadeInfer: Length-Aware Scheduling of LLM Serving with Low Latency and Load Balancing](https://arxiv.org/abs/2512.19179v3)** | 2026-05-15 | 15 pages, 16 figures |
+| **[Heuristic-Based Merging of HPC Traces to Extend Hardware Counter Coverage](https://arxiv.org/abs/2605.15832v1)** | 2026-05-15 |  |
+| **[Caesar: A Deductive Verifier for Probabilistic Programs](https://arxiv.org/abs/2605.15827v1)** | 2026-05-15 | <details><summary>To be...</summary><p>To be published at CAV2026</p></details> |
+| **[ADAPT: A Self-Calibrating Proactive Autoscaler for Container Orchestration](https://arxiv.org/abs/2605.15788v1)** | 2026-05-15 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 3 tables. Includes reproducible simulation framework for proactive Kubernetes autoscaling with adaptive cold-start estimation and MPC-based scaling. Source code and experiment configurations available at: https://github.com/Himanshu21035/autoscaling_research</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Complexity of Checking Soundness of Natural Reductions (Extended Version)](https://arxiv.org/abs/2605.13780v1)** | 2026-05-13 | <details><summary>31 pa...</summary><p>31 pages, extended version (with proofs) of the paper accepted at CAV'26</p></details> |
-| **[Cobble: Compiling Block Encodings for Quantum Computational Linear Algebra](https://arxiv.org/abs/2511.01736v2)** | 2026-05-13 | <details><summary>22 pa...</summary><p>22 pages, 13 figures. v2: published version of paper</p></details> |
-| **[MinT: Managed Infrastructure for Training and Serving Millions of LLMs](https://arxiv.org/abs/2605.13779v1)** | 2026-05-13 | <details><summary>27 pa...</summary><p>27 pages. Technical report. Mind Lab</p></details> |
-| **[First Steps Towards Probabilistic Iris: Harmonizing Independence, Conditioning, and Dynamic Heap Allocation](https://arxiv.org/abs/2605.13765v1)** | 2026-05-13 |  |
-| **[SPLIT: SymPathy for Large jobs Improves Tail latency](https://arxiv.org/abs/2605.13749v1)** | 2026-05-13 |  |
-| **[KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving](https://arxiv.org/abs/2605.13734v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by SIGCOMM 2026</p></details> |
-| **[DisAgg: Distributed Aggregators for Efficient Secure Aggregation in Federated Learning](https://arxiv.org/abs/2605.13708v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted to MLSys 2026; code available at: https://github.com/SamsungLabs/mlsys26_disagg</p></details> |
-| **[ArcLight: A Lightweight LLM Inference Architecture for Many-Core CPUs](https://arxiv.org/abs/2603.07770v2)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Demo</p></details> |
-| **[MultiPath Memory Access: Breaking Host-GPU Bandwidth Bottlenecks in LLM Services](https://arxiv.org/abs/2512.16056v2)** | 2026-05-13 |  |
-| **[Blockchain Transaction Conflicts: A Historical Perspective](https://arxiv.org/abs/2505.05358v3)** | 2026-05-13 |  |
-| **[MARLIN: Multi-Agent Game-Theoretic Reinforcement Learning for Sustainable LLM Inference in Cloud Datacenters](https://arxiv.org/abs/2605.13496v1)** | 2026-05-13 |  |
-| **[Sustainable Graph Analytics Workload Scheduling with Evolutionary Reinforcement Learning in Edge-Cloud Systems](https://arxiv.org/abs/2605.13489v1)** | 2026-05-13 |  |
-| **[Liquid Tree Automata](https://arxiv.org/abs/2605.13456v1)** | 2026-05-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2508.14614</p></details> |
-| **[Rescaled Asynchronous SGD: Optimal Distributed Optimization under Data and System Heterogeneity](https://arxiv.org/abs/2605.13434v1)** | 2026-05-13 |  |
-| **[TurboGR: An Accelerated Training System for Large-Scale Generative Recommendation](https://arxiv.org/abs/2605.13433v1)** | 2026-05-13 | 18 pages |
+| **[Designing Datacenter Power Delivery Hierarchies for the AI Era](https://arxiv.org/abs/2605.16255v1)** | 2026-05-15 |  |
+| **[Runtime-Orchestrated Second-Order Optimization for Scalable LLM Training](https://arxiv.org/abs/2605.16184v1)** | 2026-05-15 |  |
+| **[A GPU Accelerated Temporal Window-Based Random Walk Sampler](https://arxiv.org/abs/2605.16182v1)** | 2026-05-15 |  |
+| **[SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM Pretraining Systems with 100k+ GPUs](https://arxiv.org/abs/2603.00357v2)** | 2026-05-15 | <details><summary>Forty...</summary><p>Forty-Third International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[PCDM: A Diffusion-Based Data Poisoning Attack Against Federated Learning Systems](https://arxiv.org/abs/2605.16098v1)** | 2026-05-15 |  |
+| **[An efficient multi-GPU implementation for the Discontinuous Galerkin ocean model SLIM](https://arxiv.org/abs/2605.16082v1)** | 2026-05-15 |  |
+| **[High-Performance Star-M SVD for Big Data Compression](https://arxiv.org/abs/2605.16058v1)** | 2026-05-15 |  |
+| **[LMDeploy Accelerates Mixed-Precision LLM Inference with TurboMind](https://arxiv.org/abs/2508.15601v2)** | 2026-05-15 |  |
+| **[Hardware Utilization and Inference Performance of Edge Object Detection Under Fault Injection](https://arxiv.org/abs/2604.09631v2)** | 2026-05-15 |  |
+| **[Evaluating Container Orchestration for Neuromorphic Workloads in Virtual Edge Environments](https://arxiv.org/abs/2605.15866v1)** | 2026-05-15 | 7 pages, 8 figures |
+| **[CascadeInfer: Length-Aware Scheduling of LLM Serving with Low Latency and Load Balancing](https://arxiv.org/abs/2512.19179v3)** | 2026-05-15 | 15 pages, 16 figures |
+| **[Heuristic-Based Merging of HPC Traces to Extend Hardware Counter Coverage](https://arxiv.org/abs/2605.15832v1)** | 2026-05-15 |  |
+| **[Caesar: A Deductive Verifier for Probabilistic Programs](https://arxiv.org/abs/2605.15827v1)** | 2026-05-15 | <details><summary>To be...</summary><p>To be published at CAV2026</p></details> |
+| **[ADAPT: A Self-Calibrating Proactive Autoscaler for Container Orchestration](https://arxiv.org/abs/2605.15788v1)** | 2026-05-15 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 3 tables. Includes reproducible simulation framework for proactive Kubernetes autoscaling with adaptive cold-start estimation and MPC-based scaling. Source code and experiment configurations available at: https://github.com/Himanshu21035/autoscaling_research</p></details> |
 
