@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2026
+title: Latest 15 Papers - May 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback](https://arxiv.org/abs/2605.22781v1)** | 2026-05-21 |  |
-| **[AI-Driven Multi-Region Provisioning for Cloud Services Using Spot Fleets](https://arxiv.org/abs/2605.22778v1)** | 2026-05-21 |  |
-| **[A Generalized Nash Equilibrium-Seeking Scheme for Trauma Resuscitation](https://arxiv.org/abs/2605.22661v1)** | 2026-05-21 |  |
-| **[Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation](https://arxiv.org/abs/2605.07985v2)** | 2026-05-21 |  |
-| **[Relay-Based Synchronization of Replicated Data Types in Opportunistic Networks](https://arxiv.org/abs/2605.22491v1)** | 2026-05-21 | 33 pages |
-| **[QuCtrl-BELL: A Compiler-Driven Sub-Microsecond Feedback Control Stack for Scalable Trapped-Ion Quantum Experiments](https://arxiv.org/abs/2605.22433v1)** | 2026-05-21 | 7 pages, 6 figures |
-| **[Exploiting Multicast for Accelerating Collective Communication](https://arxiv.org/abs/2605.22428v1)** | 2026-05-21 |  |
-| **[Monotone Erasure Codes](https://arxiv.org/abs/2605.22426v1)** | 2026-05-21 |  |
-| **[Asymmetric Virtual Memory Paging for Hybrid Mamba-Transformer Inference](https://arxiv.org/abs/2605.22416v1)** | 2026-05-21 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 6 tables. Code and reproducibility artifacts at https://github.com/codepawl/cachepawl</p></details> |
-| **[SpaceMoE: Realizing Distributed Mixture-of-Experts Inference over Space Networks](https://arxiv.org/abs/2605.00515v2)** | 2026-05-21 |  |
-| **[Nf-PEAK: Process-Based Energy Attribution for Nextflow Workflows on Kubernetes Clusters](https://arxiv.org/abs/2605.22393v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE 19th International Conference on Cloud Computing (CLOUD)</p></details> |
-| **[Formally Verified Linear-Time Invertible Lexing](https://arxiv.org/abs/2510.18479v3)** | 2026-05-21 |  |
-| **[AutoBaxBuilder: Bootstrapping Code Security Benchmarking](https://arxiv.org/abs/2512.21132v2)** | 2026-05-21 | ICML 2026 |
-| **[SepsisAI Orchestrator: A Containerized and Scalable Platform for Deploying AI Models and Real-Time Monitoring in Early Sepsis Detection](https://arxiv.org/abs/2605.22331v1)** | 2026-05-21 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Submitted to BioCARLA 2025 Workshop</p></details> |
-| **[Governed Metaprogramming for Intelligent Systems: Reclassifying Eval as a Governed Effect](https://arxiv.org/abs/2605.05248v3)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages. Companion proofs: https://github.com/mashin-live/governance-proofs. Project: https://mashin.live. Update: Abstract typo fixes</p></details> |
+| **[Radial Extremality for LRU Caching and the Fill--Holst Conjecture](https://arxiv.org/abs/2605.26107v1)** | 2026-05-25 | 13 pages, 0 figures |
+| **[Taming Request Imbalance: SLO-Aware Scheduling for Disaggregated LLM Inference](https://arxiv.org/abs/2605.02329v2)** | 2026-05-25 |  |
+| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v2)** | 2026-05-25 | <details><summary>50 pa...</summary><p>50 pages, 22 figures, 14 tables</p></details> |
+| **[On the Communication Complexity of Decentralized Stochastic Bilevel Optimization](https://arxiv.org/abs/2311.11342v5)** | 2026-05-25 |  |
+| **[GPU-Accelerated OLTP: An In-Depth Analysis of Concurrency Control Schemes](https://arxiv.org/abs/2406.10158v2)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026. Camera-ready manuscript. 12 pages, 16 figures</p></details> |
+| **[Scalable Explainability-as-a-Service (XaaS) for Edge AI Systems](https://arxiv.org/abs/2602.04120v3)** | 2026-05-25 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. This version updates metadata after publication in IEEE Xplore and publication by SoutheastCon 2026</p></details> |
+| **[Joint Optimization of Training and Inference in Federated Edge Learning via Constrained Multi-Objective Deep Reinforcement Learning](https://arxiv.org/abs/2605.25916v1)** | 2026-05-25 |  |
+| **[Mathematical Foundations for Peer-to-Peer Lattice Computation](https://arxiv.org/abs/2605.22832v2)** | 2026-05-25 | <details><summary>Found...</summary><p>Foundations for software engineering of peer-to-peer distributed computation: abelian-monoid fold semantics (PCC-certifiable), reduction-depth/transport-work/Steiner-edge lower bounds, subcritical fault-tolerance detour bounds, small-world topology extension. 20 pages, 7 figures, 35 references</p></details> |
+| **[Proof of Useful Attestation: A Consensus Primitive for Attestation-Native Chains](https://arxiv.org/abs/2605.25844v1)** | 2026-05-25 | <details><summary>62 pa...</summary><p>62 pages, 9 figures. Reference simulator with 196+ passing tests at https://github.com/ligate-io/ligate-research/tree/main/prototypes/poua-sim</p></details> |
+| **[Multi-modal video data-pipelines for machine learning with minimal human supervision](https://arxiv.org/abs/2510.14862v2)** | 2026-05-25 |  |
+| **[From Reasoning to Code: GRPO Optimization for Underrepresented Languages](https://arxiv.org/abs/2506.11027v3)** | 2026-05-25 | Accepted ICLP 2026 |
+| **[An Efficient and Privacy-Preserving Architecture for Cross-Institutional Collaborative RAG](https://arxiv.org/abs/2605.25716v1)** | 2026-05-25 |  |
+| **[Neural Router: Semantic Content Matching for Agentic AI](https://arxiv.org/abs/2605.25701v1)** | 2026-05-25 | <details><summary>35 pa...</summary><p>35 pages, 12 figures. Combined main paper and electronic supplement, folded into one document for arXiv</p></details> |
+| **[Profiling-Driven Adaptive Distributed Transformer Inference on Embedded Edge Deployment](https://arxiv.org/abs/2605.25682v1)** | 2026-05-25 |  |
+| **[Do GPUs Really Need New Tabular File Formats?](https://arxiv.org/abs/2602.17335v2)** | 2026-05-25 | DaMoN Camera Ready |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AI-Driven Multi-Region Provisioning for Cloud Services Using Spot Fleets](https://arxiv.org/abs/2605.22778v1)** | 2026-05-21 |  |
-| **[A Generalized Nash Equilibrium-Seeking Scheme for Trauma Resuscitation](https://arxiv.org/abs/2605.22661v1)** | 2026-05-21 |  |
-| **[Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation](https://arxiv.org/abs/2605.07985v2)** | 2026-05-21 |  |
-| **[Relay-Based Synchronization of Replicated Data Types in Opportunistic Networks](https://arxiv.org/abs/2605.22491v1)** | 2026-05-21 | 33 pages |
-| **[QuCtrl-BELL: A Compiler-Driven Sub-Microsecond Feedback Control Stack for Scalable Trapped-Ion Quantum Experiments](https://arxiv.org/abs/2605.22433v1)** | 2026-05-21 | 7 pages, 6 figures |
-| **[Exploiting Multicast for Accelerating Collective Communication](https://arxiv.org/abs/2605.22428v1)** | 2026-05-21 |  |
-| **[Monotone Erasure Codes](https://arxiv.org/abs/2605.22426v1)** | 2026-05-21 |  |
-| **[Asymmetric Virtual Memory Paging for Hybrid Mamba-Transformer Inference](https://arxiv.org/abs/2605.22416v1)** | 2026-05-21 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 6 tables. Code and reproducibility artifacts at https://github.com/codepawl/cachepawl</p></details> |
-| **[SpaceMoE: Realizing Distributed Mixture-of-Experts Inference over Space Networks](https://arxiv.org/abs/2605.00515v2)** | 2026-05-21 |  |
-| **[Nf-PEAK: Process-Based Energy Attribution for Nextflow Workflows on Kubernetes Clusters](https://arxiv.org/abs/2605.22393v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE 19th International Conference on Cloud Computing (CLOUD)</p></details> |
-| **[Formally Verified Linear-Time Invertible Lexing](https://arxiv.org/abs/2510.18479v3)** | 2026-05-21 |  |
-| **[AutoBaxBuilder: Bootstrapping Code Security Benchmarking](https://arxiv.org/abs/2512.21132v2)** | 2026-05-21 | ICML 2026 |
-| **[SepsisAI Orchestrator: A Containerized and Scalable Platform for Deploying AI Models and Real-Time Monitoring in Early Sepsis Detection](https://arxiv.org/abs/2605.22331v1)** | 2026-05-21 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Submitted to BioCARLA 2025 Workshop</p></details> |
-| **[Governed Metaprogramming for Intelligent Systems: Reclassifying Eval as a Governed Effect](https://arxiv.org/abs/2605.05248v3)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages. Companion proofs: https://github.com/mashin-live/governance-proofs. Project: https://mashin.live. Update: Abstract typo fixes</p></details> |
-| **[WarmServe: Enabling One-for-Many GPU Prewarming for Multi-LLM Serving](https://arxiv.org/abs/2512.09472v2)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Radial Extremality for LRU Caching and the Fill--Holst Conjecture](https://arxiv.org/abs/2605.26107v1)** | 2026-05-25 | 13 pages, 0 figures |
+| **[Taming Request Imbalance: SLO-Aware Scheduling for Disaggregated LLM Inference](https://arxiv.org/abs/2605.02329v2)** | 2026-05-25 |  |
+| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v2)** | 2026-05-25 | <details><summary>50 pa...</summary><p>50 pages, 22 figures, 14 tables</p></details> |
+| **[On the Communication Complexity of Decentralized Stochastic Bilevel Optimization](https://arxiv.org/abs/2311.11342v5)** | 2026-05-25 |  |
+| **[GPU-Accelerated OLTP: An In-Depth Analysis of Concurrency Control Schemes](https://arxiv.org/abs/2406.10158v2)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026. Camera-ready manuscript. 12 pages, 16 figures</p></details> |
+| **[Scalable Explainability-as-a-Service (XaaS) for Edge AI Systems](https://arxiv.org/abs/2602.04120v3)** | 2026-05-25 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. This version updates metadata after publication in IEEE Xplore and publication by SoutheastCon 2026</p></details> |
+| **[Joint Optimization of Training and Inference in Federated Edge Learning via Constrained Multi-Objective Deep Reinforcement Learning](https://arxiv.org/abs/2605.25916v1)** | 2026-05-25 |  |
+| **[Mathematical Foundations for Peer-to-Peer Lattice Computation](https://arxiv.org/abs/2605.22832v2)** | 2026-05-25 | <details><summary>Found...</summary><p>Foundations for software engineering of peer-to-peer distributed computation: abelian-monoid fold semantics (PCC-certifiable), reduction-depth/transport-work/Steiner-edge lower bounds, subcritical fault-tolerance detour bounds, small-world topology extension. 20 pages, 7 figures, 35 references</p></details> |
+| **[Proof of Useful Attestation: A Consensus Primitive for Attestation-Native Chains](https://arxiv.org/abs/2605.25844v1)** | 2026-05-25 | <details><summary>62 pa...</summary><p>62 pages, 9 figures. Reference simulator with 196+ passing tests at https://github.com/ligate-io/ligate-research/tree/main/prototypes/poua-sim</p></details> |
+| **[Multi-modal video data-pipelines for machine learning with minimal human supervision](https://arxiv.org/abs/2510.14862v2)** | 2026-05-25 |  |
+| **[From Reasoning to Code: GRPO Optimization for Underrepresented Languages](https://arxiv.org/abs/2506.11027v3)** | 2026-05-25 | Accepted ICLP 2026 |
+| **[An Efficient and Privacy-Preserving Architecture for Cross-Institutional Collaborative RAG](https://arxiv.org/abs/2605.25716v1)** | 2026-05-25 |  |
+| **[Neural Router: Semantic Content Matching for Agentic AI](https://arxiv.org/abs/2605.25701v1)** | 2026-05-25 | <details><summary>35 pa...</summary><p>35 pages, 12 figures. Combined main paper and electronic supplement, folded into one document for arXiv</p></details> |
+| **[Profiling-Driven Adaptive Distributed Transformer Inference on Embedded Edge Deployment](https://arxiv.org/abs/2605.25682v1)** | 2026-05-25 |  |
+| **[Do GPUs Really Need New Tabular File Formats?](https://arxiv.org/abs/2602.17335v2)** | 2026-05-25 | DaMoN Camera Ready |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AI-Driven Multi-Region Provisioning for Cloud Services Using Spot Fleets](https://arxiv.org/abs/2605.22778v1)** | 2026-05-21 |  |
-| **[A Generalized Nash Equilibrium-Seeking Scheme for Trauma Resuscitation](https://arxiv.org/abs/2605.22661v1)** | 2026-05-21 |  |
-| **[Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation](https://arxiv.org/abs/2605.07985v2)** | 2026-05-21 |  |
-| **[Relay-Based Synchronization of Replicated Data Types in Opportunistic Networks](https://arxiv.org/abs/2605.22491v1)** | 2026-05-21 | 33 pages |
-| **[QuCtrl-BELL: A Compiler-Driven Sub-Microsecond Feedback Control Stack for Scalable Trapped-Ion Quantum Experiments](https://arxiv.org/abs/2605.22433v1)** | 2026-05-21 | 7 pages, 6 figures |
-| **[Exploiting Multicast for Accelerating Collective Communication](https://arxiv.org/abs/2605.22428v1)** | 2026-05-21 |  |
-| **[Monotone Erasure Codes](https://arxiv.org/abs/2605.22426v1)** | 2026-05-21 |  |
-| **[Asymmetric Virtual Memory Paging for Hybrid Mamba-Transformer Inference](https://arxiv.org/abs/2605.22416v1)** | 2026-05-21 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 6 tables. Code and reproducibility artifacts at https://github.com/codepawl/cachepawl</p></details> |
-| **[SpaceMoE: Realizing Distributed Mixture-of-Experts Inference over Space Networks](https://arxiv.org/abs/2605.00515v2)** | 2026-05-21 |  |
-| **[Nf-PEAK: Process-Based Energy Attribution for Nextflow Workflows on Kubernetes Clusters](https://arxiv.org/abs/2605.22393v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE 19th International Conference on Cloud Computing (CLOUD)</p></details> |
-| **[Formally Verified Linear-Time Invertible Lexing](https://arxiv.org/abs/2510.18479v3)** | 2026-05-21 |  |
-| **[AutoBaxBuilder: Bootstrapping Code Security Benchmarking](https://arxiv.org/abs/2512.21132v2)** | 2026-05-21 | ICML 2026 |
-| **[SepsisAI Orchestrator: A Containerized and Scalable Platform for Deploying AI Models and Real-Time Monitoring in Early Sepsis Detection](https://arxiv.org/abs/2605.22331v1)** | 2026-05-21 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Submitted to BioCARLA 2025 Workshop</p></details> |
-| **[Governed Metaprogramming for Intelligent Systems: Reclassifying Eval as a Governed Effect](https://arxiv.org/abs/2605.05248v3)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages. Companion proofs: https://github.com/mashin-live/governance-proofs. Project: https://mashin.live. Update: Abstract typo fixes</p></details> |
-| **[WarmServe: Enabling One-for-Many GPU Prewarming for Multi-LLM Serving](https://arxiv.org/abs/2512.09472v2)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Radial Extremality for LRU Caching and the Fill--Holst Conjecture](https://arxiv.org/abs/2605.26107v1)** | 2026-05-25 | 13 pages, 0 figures |
+| **[Taming Request Imbalance: SLO-Aware Scheduling for Disaggregated LLM Inference](https://arxiv.org/abs/2605.02329v2)** | 2026-05-25 |  |
+| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v2)** | 2026-05-25 | <details><summary>50 pa...</summary><p>50 pages, 22 figures, 14 tables</p></details> |
+| **[On the Communication Complexity of Decentralized Stochastic Bilevel Optimization](https://arxiv.org/abs/2311.11342v5)** | 2026-05-25 |  |
+| **[GPU-Accelerated OLTP: An In-Depth Analysis of Concurrency Control Schemes](https://arxiv.org/abs/2406.10158v2)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026. Camera-ready manuscript. 12 pages, 16 figures</p></details> |
+| **[Scalable Explainability-as-a-Service (XaaS) for Edge AI Systems](https://arxiv.org/abs/2602.04120v3)** | 2026-05-25 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. This version updates metadata after publication in IEEE Xplore and publication by SoutheastCon 2026</p></details> |
+| **[Joint Optimization of Training and Inference in Federated Edge Learning via Constrained Multi-Objective Deep Reinforcement Learning](https://arxiv.org/abs/2605.25916v1)** | 2026-05-25 |  |
+| **[Mathematical Foundations for Peer-to-Peer Lattice Computation](https://arxiv.org/abs/2605.22832v2)** | 2026-05-25 | <details><summary>Found...</summary><p>Foundations for software engineering of peer-to-peer distributed computation: abelian-monoid fold semantics (PCC-certifiable), reduction-depth/transport-work/Steiner-edge lower bounds, subcritical fault-tolerance detour bounds, small-world topology extension. 20 pages, 7 figures, 35 references</p></details> |
+| **[Proof of Useful Attestation: A Consensus Primitive for Attestation-Native Chains](https://arxiv.org/abs/2605.25844v1)** | 2026-05-25 | <details><summary>62 pa...</summary><p>62 pages, 9 figures. Reference simulator with 196+ passing tests at https://github.com/ligate-io/ligate-research/tree/main/prototypes/poua-sim</p></details> |
+| **[Multi-modal video data-pipelines for machine learning with minimal human supervision](https://arxiv.org/abs/2510.14862v2)** | 2026-05-25 |  |
+| **[From Reasoning to Code: GRPO Optimization for Underrepresented Languages](https://arxiv.org/abs/2506.11027v3)** | 2026-05-25 | Accepted ICLP 2026 |
+| **[An Efficient and Privacy-Preserving Architecture for Cross-Institutional Collaborative RAG](https://arxiv.org/abs/2605.25716v1)** | 2026-05-25 |  |
+| **[Neural Router: Semantic Content Matching for Agentic AI](https://arxiv.org/abs/2605.25701v1)** | 2026-05-25 | <details><summary>35 pa...</summary><p>35 pages, 12 figures. Combined main paper and electronic supplement, folded into one document for arXiv</p></details> |
+| **[Profiling-Driven Adaptive Distributed Transformer Inference on Embedded Edge Deployment](https://arxiv.org/abs/2605.25682v1)** | 2026-05-25 |  |
+| **[Do GPUs Really Need New Tabular File Formats?](https://arxiv.org/abs/2602.17335v2)** | 2026-05-25 | DaMoN Camera Ready |
 
