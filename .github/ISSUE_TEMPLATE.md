@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 29, 2026
+title: Latest 15 Papers - June 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Accuracy to Auditability: A Survey of Determinism in Financial AI Systems](https://arxiv.org/abs/2605.23955v2)** | 2026-05-27 |  |
-| **[SwarmHarness: Skill-Based Task Routing via Decentralized Incentive-Aligned AI Agent Networks](https://arxiv.org/abs/2605.28764v1)** | 2026-05-27 |  |
-| **[E-Path: Equality Saturation for Control-Flow Graphs](https://arxiv.org/abs/2605.28694v1)** | 2026-05-27 | 4 pages |
-| **[Regression Language Models for Code](https://arxiv.org/abs/2509.26476v2)** | 2026-05-27 | <details><summary>Publi...</summary><p>Published in International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[LACUNA: Safe Agents as Recursive Program Holes](https://arxiv.org/abs/2605.28617v1)** | 2026-05-27 |  |
-| **[Range, Not Precision: Block-Floating-Point Half-Precision FFT and SAR Imaging on Apple Silicon](https://arxiv.org/abs/2605.28451v1)** | 2026-05-27 |  |
-| **[Fault Tolerance of Accelerated Asynchronous Fixed-Point Iterations on Flexible Computing Infrastructure](https://arxiv.org/abs/2605.28426v1)** | 2026-05-27 |  |
-| **[TrioSeq: A Novel Approach to Accelerate Triplet Sequence Alignment on GPUs](https://arxiv.org/abs/2605.28400v1)** | 2026-05-27 | <details><summary>publi...</summary><p>published on IPDPS '26 (2026 International Parallel & Distributed Processing Symposium)</p></details> |
-| **[High-Quality Multi-Constraint Hypergraph Partitioning via Greedy Rebalancing](https://arxiv.org/abs/2605.28333v1)** | 2026-05-27 | <details><summary>Submi...</summary><p>Submitted to ESA 2026</p></details> |
-| **[Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation](https://arxiv.org/abs/2602.03515v2)** | 2026-05-27 | ICML 2026 |
-| **[How Far Can Disaggregation Go? A Design-Space Exploration of Attention-FFN Disaggregation for Efficient MoE LLM Serving](https://arxiv.org/abs/2605.28302v1)** | 2026-05-27 |  |
-| **[Resource Allocation in HyperX Networks](https://arxiv.org/abs/2605.28205v1)** | 2026-05-27 |  |
-| **[TinyDéjàVu: Smaller RAM and Faster Inference with Neural Networks on MCUs for Sensor Data Streams](https://arxiv.org/abs/2512.09786v2)** | 2026-05-27 |  |
-| **[Ariel-ML: Computing Parallelization with Embedded Rust for Neural Networks on Heterogeneous Multi-core Microcontrollers](https://arxiv.org/abs/2512.09800v2)** | 2026-05-27 |  |
-| **[SiDP: Memory-Efficient Data Parallelism for Offline LLM Inference](https://arxiv.org/abs/2605.28095v1)** | 2026-05-27 |  |
+| **[RAFI -- A Ray/Work Forwarding Infrastructure for Data Parallel Multi-Node/Multi-GPU Computing](https://arxiv.org/abs/2605.30294v1)** | 2026-05-28 |  |
+| **[MarginGate: Sparse Margin-Triggered Verification for Batch-Invariant LLM Inference](https://arxiv.org/abs/2605.30218v1)** | 2026-05-28 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 11 tables</p></details> |
+| **[A Bayesian Approach to Membership Inference for Statistical Release](https://arxiv.org/abs/2605.30203v1)** | 2026-05-28 |  |
+| **[Q-ANCHOR: Federated Quantum Learning with ZNE-guided Correction](https://arxiv.org/abs/2605.30075v1)** | 2026-05-28 |  |
+| **[SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding](https://arxiv.org/abs/2604.09557v2)** | 2026-05-28 | <details><summary>ICML ...</summary><p>ICML 2026; Our data is available on https://huggingface.co/datasets/nvidia/SPEED-Bench</p></details> |
+| **[Demystifying VEINS: A Reality Check Against Living Lab Experiments](https://arxiv.org/abs/2605.29988v1)** | 2026-05-28 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, accepted for publication on VTC26-Spring</p></details> |
+| **[Effective MPI: User-defined Datatypes and Cartesian Communicators for Zero-copy All-to-all Communication in Multidimensional Tori](https://arxiv.org/abs/2605.29970v1)** | 2026-05-28 |  |
+| **[Ciphera: A Decentralised Biometric Identity Framework](https://arxiv.org/abs/2605.29868v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted at the CyberAI 2026 Conference, and to be indexed at IEEE-Scopus</p></details> |
+| **[From Roofline to Ruggedness: Decomposing and Smoothing the GEMM Performance Landscape](https://arxiv.org/abs/2605.29752v1)** | 2026-05-28 |  |
+| **[CARM Tool: Cache-Aware Roofline Model Automatic Benchmarking and Application Analysis](https://arxiv.org/abs/2605.29740v1)** | 2026-05-28 | <details><summary>publi...</summary><p>published on IISWC '24 (International Symposium on Workload Characterization)</p></details> |
+| **[PRISM: Processing-In-Memory Sparse MTTKRP for Tensor Decomposition Acceleration](https://arxiv.org/abs/2605.29728v1)** | 2026-05-28 | <details><summary>publi...</summary><p>published on IISWC '25 (International Symposium on Workload Characterization)</p></details> |
+| **[Monte Cimone v3: Where RISC-V Stands in High-Performance Computing](https://arxiv.org/abs/2605.22831v2)** | 2026-05-28 | <details><summary>Exten...</summary><p>Extended abstract for RISC-V Summit Europe 2026</p></details> |
+| **[CompilerDream: Learning a Compiler World Model for General Code Optimization](https://arxiv.org/abs/2404.16077v4)** | 2026-05-28 | <details><summary>KDD 2...</summary><p>KDD 2025 camera-ready version with extended appendix. Code is available at https://github.com/thuml/CompilerDream. This update additionally fixes an issue in Table 6 where the dataset names in three rows were ordered incorrectly</p></details> |
+| **[AMDP: Asynchronous Multi-Directional Pipeline Parallelism for Large-Scale Models Training](https://arxiv.org/abs/2605.29664v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, 9 pages, and 8 figures</p></details> |
+| **[Experimentation for Different Scheduling Policies on Queues: Mixed Differences-in-Q Estimators Based on Little's Law](https://arxiv.org/abs/2605.29641v1)** | 2026-05-28 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Accuracy to Auditability: A Survey of Determinism in Financial AI Systems](https://arxiv.org/abs/2605.23955v2)** | 2026-05-27 |  |
-| **[SwarmHarness: Skill-Based Task Routing via Decentralized Incentive-Aligned AI Agent Networks](https://arxiv.org/abs/2605.28764v1)** | 2026-05-27 |  |
-| **[E-Path: Equality Saturation for Control-Flow Graphs](https://arxiv.org/abs/2605.28694v1)** | 2026-05-27 | 4 pages |
-| **[Regression Language Models for Code](https://arxiv.org/abs/2509.26476v2)** | 2026-05-27 | <details><summary>Publi...</summary><p>Published in International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[LACUNA: Safe Agents as Recursive Program Holes](https://arxiv.org/abs/2605.28617v1)** | 2026-05-27 |  |
-| **[Range, Not Precision: Block-Floating-Point Half-Precision FFT and SAR Imaging on Apple Silicon](https://arxiv.org/abs/2605.28451v1)** | 2026-05-27 |  |
-| **[Fault Tolerance of Accelerated Asynchronous Fixed-Point Iterations on Flexible Computing Infrastructure](https://arxiv.org/abs/2605.28426v1)** | 2026-05-27 |  |
-| **[TrioSeq: A Novel Approach to Accelerate Triplet Sequence Alignment on GPUs](https://arxiv.org/abs/2605.28400v1)** | 2026-05-27 | <details><summary>publi...</summary><p>published on IPDPS '26 (2026 International Parallel & Distributed Processing Symposium)</p></details> |
-| **[High-Quality Multi-Constraint Hypergraph Partitioning via Greedy Rebalancing](https://arxiv.org/abs/2605.28333v1)** | 2026-05-27 | <details><summary>Submi...</summary><p>Submitted to ESA 2026</p></details> |
-| **[Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation](https://arxiv.org/abs/2602.03515v2)** | 2026-05-27 | ICML 2026 |
-| **[How Far Can Disaggregation Go? A Design-Space Exploration of Attention-FFN Disaggregation for Efficient MoE LLM Serving](https://arxiv.org/abs/2605.28302v1)** | 2026-05-27 |  |
-| **[Resource Allocation in HyperX Networks](https://arxiv.org/abs/2605.28205v1)** | 2026-05-27 |  |
-| **[TinyDéjàVu: Smaller RAM and Faster Inference with Neural Networks on MCUs for Sensor Data Streams](https://arxiv.org/abs/2512.09786v2)** | 2026-05-27 |  |
-| **[Ariel-ML: Computing Parallelization with Embedded Rust for Neural Networks on Heterogeneous Multi-core Microcontrollers](https://arxiv.org/abs/2512.09800v2)** | 2026-05-27 |  |
-| **[SiDP: Memory-Efficient Data Parallelism for Offline LLM Inference](https://arxiv.org/abs/2605.28095v1)** | 2026-05-27 |  |
+| **[RAFI -- A Ray/Work Forwarding Infrastructure for Data Parallel Multi-Node/Multi-GPU Computing](https://arxiv.org/abs/2605.30294v1)** | 2026-05-28 |  |
+| **[MarginGate: Sparse Margin-Triggered Verification for Batch-Invariant LLM Inference](https://arxiv.org/abs/2605.30218v1)** | 2026-05-28 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 11 tables</p></details> |
+| **[A Bayesian Approach to Membership Inference for Statistical Release](https://arxiv.org/abs/2605.30203v1)** | 2026-05-28 |  |
+| **[Q-ANCHOR: Federated Quantum Learning with ZNE-guided Correction](https://arxiv.org/abs/2605.30075v1)** | 2026-05-28 |  |
+| **[SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding](https://arxiv.org/abs/2604.09557v2)** | 2026-05-28 | <details><summary>ICML ...</summary><p>ICML 2026; Our data is available on https://huggingface.co/datasets/nvidia/SPEED-Bench</p></details> |
+| **[Demystifying VEINS: A Reality Check Against Living Lab Experiments](https://arxiv.org/abs/2605.29988v1)** | 2026-05-28 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, accepted for publication on VTC26-Spring</p></details> |
+| **[Effective MPI: User-defined Datatypes and Cartesian Communicators for Zero-copy All-to-all Communication in Multidimensional Tori](https://arxiv.org/abs/2605.29970v1)** | 2026-05-28 |  |
+| **[Ciphera: A Decentralised Biometric Identity Framework](https://arxiv.org/abs/2605.29868v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted at the CyberAI 2026 Conference, and to be indexed at IEEE-Scopus</p></details> |
+| **[From Roofline to Ruggedness: Decomposing and Smoothing the GEMM Performance Landscape](https://arxiv.org/abs/2605.29752v1)** | 2026-05-28 |  |
+| **[CARM Tool: Cache-Aware Roofline Model Automatic Benchmarking and Application Analysis](https://arxiv.org/abs/2605.29740v1)** | 2026-05-28 | <details><summary>publi...</summary><p>published on IISWC '24 (International Symposium on Workload Characterization)</p></details> |
+| **[PRISM: Processing-In-Memory Sparse MTTKRP for Tensor Decomposition Acceleration](https://arxiv.org/abs/2605.29728v1)** | 2026-05-28 | <details><summary>publi...</summary><p>published on IISWC '25 (International Symposium on Workload Characterization)</p></details> |
+| **[Monte Cimone v3: Where RISC-V Stands in High-Performance Computing](https://arxiv.org/abs/2605.22831v2)** | 2026-05-28 | <details><summary>Exten...</summary><p>Extended abstract for RISC-V Summit Europe 2026</p></details> |
+| **[CompilerDream: Learning a Compiler World Model for General Code Optimization](https://arxiv.org/abs/2404.16077v4)** | 2026-05-28 | <details><summary>KDD 2...</summary><p>KDD 2025 camera-ready version with extended appendix. Code is available at https://github.com/thuml/CompilerDream. This update additionally fixes an issue in Table 6 where the dataset names in three rows were ordered incorrectly</p></details> |
+| **[AMDP: Asynchronous Multi-Directional Pipeline Parallelism for Large-Scale Models Training](https://arxiv.org/abs/2605.29664v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, 9 pages, and 8 figures</p></details> |
+| **[Experimentation for Different Scheduling Policies on Queues: Mixed Differences-in-Q Estimators Based on Little's Law](https://arxiv.org/abs/2605.29641v1)** | 2026-05-28 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Accuracy to Auditability: A Survey of Determinism in Financial AI Systems](https://arxiv.org/abs/2605.23955v2)** | 2026-05-27 |  |
-| **[SwarmHarness: Skill-Based Task Routing via Decentralized Incentive-Aligned AI Agent Networks](https://arxiv.org/abs/2605.28764v1)** | 2026-05-27 |  |
-| **[E-Path: Equality Saturation for Control-Flow Graphs](https://arxiv.org/abs/2605.28694v1)** | 2026-05-27 | 4 pages |
-| **[Regression Language Models for Code](https://arxiv.org/abs/2509.26476v2)** | 2026-05-27 | <details><summary>Publi...</summary><p>Published in International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[LACUNA: Safe Agents as Recursive Program Holes](https://arxiv.org/abs/2605.28617v1)** | 2026-05-27 |  |
-| **[Range, Not Precision: Block-Floating-Point Half-Precision FFT and SAR Imaging on Apple Silicon](https://arxiv.org/abs/2605.28451v1)** | 2026-05-27 |  |
-| **[Fault Tolerance of Accelerated Asynchronous Fixed-Point Iterations on Flexible Computing Infrastructure](https://arxiv.org/abs/2605.28426v1)** | 2026-05-27 |  |
-| **[TrioSeq: A Novel Approach to Accelerate Triplet Sequence Alignment on GPUs](https://arxiv.org/abs/2605.28400v1)** | 2026-05-27 | <details><summary>publi...</summary><p>published on IPDPS '26 (2026 International Parallel & Distributed Processing Symposium)</p></details> |
-| **[High-Quality Multi-Constraint Hypergraph Partitioning via Greedy Rebalancing](https://arxiv.org/abs/2605.28333v1)** | 2026-05-27 | <details><summary>Submi...</summary><p>Submitted to ESA 2026</p></details> |
-| **[Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation](https://arxiv.org/abs/2602.03515v2)** | 2026-05-27 | ICML 2026 |
-| **[How Far Can Disaggregation Go? A Design-Space Exploration of Attention-FFN Disaggregation for Efficient MoE LLM Serving](https://arxiv.org/abs/2605.28302v1)** | 2026-05-27 |  |
-| **[Resource Allocation in HyperX Networks](https://arxiv.org/abs/2605.28205v1)** | 2026-05-27 |  |
-| **[TinyDéjàVu: Smaller RAM and Faster Inference with Neural Networks on MCUs for Sensor Data Streams](https://arxiv.org/abs/2512.09786v2)** | 2026-05-27 |  |
-| **[Ariel-ML: Computing Parallelization with Embedded Rust for Neural Networks on Heterogeneous Multi-core Microcontrollers](https://arxiv.org/abs/2512.09800v2)** | 2026-05-27 |  |
-| **[SiDP: Memory-Efficient Data Parallelism for Offline LLM Inference](https://arxiv.org/abs/2605.28095v1)** | 2026-05-27 |  |
+| **[RAFI -- A Ray/Work Forwarding Infrastructure for Data Parallel Multi-Node/Multi-GPU Computing](https://arxiv.org/abs/2605.30294v1)** | 2026-05-28 |  |
+| **[MarginGate: Sparse Margin-Triggered Verification for Batch-Invariant LLM Inference](https://arxiv.org/abs/2605.30218v1)** | 2026-05-28 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 11 tables</p></details> |
+| **[A Bayesian Approach to Membership Inference for Statistical Release](https://arxiv.org/abs/2605.30203v1)** | 2026-05-28 |  |
+| **[Q-ANCHOR: Federated Quantum Learning with ZNE-guided Correction](https://arxiv.org/abs/2605.30075v1)** | 2026-05-28 |  |
+| **[SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding](https://arxiv.org/abs/2604.09557v2)** | 2026-05-28 | <details><summary>ICML ...</summary><p>ICML 2026; Our data is available on https://huggingface.co/datasets/nvidia/SPEED-Bench</p></details> |
+| **[Demystifying VEINS: A Reality Check Against Living Lab Experiments](https://arxiv.org/abs/2605.29988v1)** | 2026-05-28 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, accepted for publication on VTC26-Spring</p></details> |
+| **[Effective MPI: User-defined Datatypes and Cartesian Communicators for Zero-copy All-to-all Communication in Multidimensional Tori](https://arxiv.org/abs/2605.29970v1)** | 2026-05-28 |  |
+| **[Ciphera: A Decentralised Biometric Identity Framework](https://arxiv.org/abs/2605.29868v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted at the CyberAI 2026 Conference, and to be indexed at IEEE-Scopus</p></details> |
+| **[From Roofline to Ruggedness: Decomposing and Smoothing the GEMM Performance Landscape](https://arxiv.org/abs/2605.29752v1)** | 2026-05-28 |  |
+| **[CARM Tool: Cache-Aware Roofline Model Automatic Benchmarking and Application Analysis](https://arxiv.org/abs/2605.29740v1)** | 2026-05-28 | <details><summary>publi...</summary><p>published on IISWC '24 (International Symposium on Workload Characterization)</p></details> |
+| **[PRISM: Processing-In-Memory Sparse MTTKRP for Tensor Decomposition Acceleration](https://arxiv.org/abs/2605.29728v1)** | 2026-05-28 | <details><summary>publi...</summary><p>published on IISWC '25 (International Symposium on Workload Characterization)</p></details> |
+| **[Monte Cimone v3: Where RISC-V Stands in High-Performance Computing](https://arxiv.org/abs/2605.22831v2)** | 2026-05-28 | <details><summary>Exten...</summary><p>Extended abstract for RISC-V Summit Europe 2026</p></details> |
+| **[CompilerDream: Learning a Compiler World Model for General Code Optimization](https://arxiv.org/abs/2404.16077v4)** | 2026-05-28 | <details><summary>KDD 2...</summary><p>KDD 2025 camera-ready version with extended appendix. Code is available at https://github.com/thuml/CompilerDream. This update additionally fixes an issue in Table 6 where the dataset names in three rows were ordered incorrectly</p></details> |
+| **[AMDP: Asynchronous Multi-Directional Pipeline Parallelism for Large-Scale Models Training](https://arxiv.org/abs/2605.29664v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, 9 pages, and 8 figures</p></details> |
+| **[Experimentation for Different Scheduling Policies on Queues: Mixed Differences-in-Q Estimators Based on Little's Law](https://arxiv.org/abs/2605.29641v1)** | 2026-05-28 |  |
 
