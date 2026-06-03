@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 03, 2026
+title: Latest 15 Papers - June 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MineDraft: A Framework for Batch Parallel Speculative Decoding](https://arxiv.org/abs/2603.18016v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning](https://arxiv.org/abs/2606.02563v1)** | 2026-06-01 |  |
-| **[Not All Errors Are Equal: A Systematic Study of Error Propagation in Large Language Model Inference](https://arxiv.org/abs/2606.02430v1)** | 2026-06-01 | Accepted at ICS'26 |
-| **[From Time to Space: The Impact of Linearity in Higher-Order Datalog](https://arxiv.org/abs/2606.02394v1)** | 2026-06-01 |  |
-| **[Strategies for Molecular Dynamics using Hybrid Systems: LAMMPS Use Case](https://arxiv.org/abs/2606.02319v1)** | 2026-06-01 | 19 pages, 9 figures |
-| **[$γ$-CounterBoost: Optimizing response time tails using job type information only](https://arxiv.org/abs/2606.02311v1)** | 2026-06-01 |  |
-| **[GRANITE : a Byzantine-Resilient Dynamic Gossip Learning Framework](https://arxiv.org/abs/2504.17471v2)** | 2026-06-01 |  |
-| **[Tail Optimality and Performance Analysis of the Nudge*(M) Scheduling Algorithm](https://arxiv.org/abs/2403.06588v3)** | 2026-06-01 |  |
-| **[EES-CND: Collaborative Neural Decision-Making for Drift-Aware Fault-Tolerant Edge-Cloud Service Placement](https://arxiv.org/abs/2606.02259v1)** | 2026-06-01 | <details><summary>In Pr...</summary><p>In Proceedings of the 16th International Conference on Cloud Computing and Services Science (CLOSER 2026). (https://www.scitepress.org/Link.aspx?doi=10.5220%2f0015047300004039)</p></details> |
-| **[FTHP-MPI: Towards Providing Replication-based Fault Tolerance in a Fault-Intolerant Native MPI Library](https://arxiv.org/abs/2504.09989v2)** | 2026-06-01 |  |
-| **[TAPAAL SMC: Statistical Model Checking of Stochastic Timed-Arc Petri Nets](https://arxiv.org/abs/2606.02007v1)** | 2026-06-01 |  |
-| **[Toka: A Systems Programming Language with Explicit Resource Semantics](https://arxiv.org/abs/2606.01974v1)** | 2026-06-01 | <details><summary>12 pa...</summary><p>12 pages. A Design and Implementation Experience Report on Explicit Resource Semantics</p></details> |
-| **[Implementation and Optimization of HQC Decoding on NPU-Integrated Devices](https://arxiv.org/abs/2606.01968v1)** | 2026-06-01 |  |
-| **[Teaching Synchronous Dataflow Modelling with Learn-Heptagon](https://arxiv.org/abs/2606.01928v1)** | 2026-06-01 |  |
-| **[Scaling LLM Inference Beyond Amdahl`s Limits via Eliminating Non-Scalable Overheads](https://arxiv.org/abs/2606.01927v1)** | 2026-06-01 |  |
+| **[FlashbackCL: Mitigating Temporal Forgetting in Federated Learning](https://arxiv.org/abs/2606.03939v1)** | 2026-06-02 |  |
+| **[Fast Entropy Decoding for Sparse MVM on GPUs](https://arxiv.org/abs/2603.01915v2)** | 2026-06-02 | <details><summary>To ap...</summary><p>To appear in 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2026. Reproducibility Appendix available at https://doi.org/10.5281/zenodo.18694064</p></details> |
+| **[NetKV: Network-Aware Decode Instance Selection for Disaggregated LLM Inference](https://arxiv.org/abs/2606.03910v1)** | 2026-06-02 |  |
+| **[SAIL: Sound Abstract Interpreters with LLMs](https://arxiv.org/abs/2511.13663v2)** | 2026-06-02 | 43 pages, 21 figures |
+| **[Characterizing Metastable Faults and Failures](https://arxiv.org/abs/2606.00942v2)** | 2026-06-02 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, submitted to SOSP 2026</p></details> |
+| **[eAID: Elastic Asynchronous Information Dispersal with Post-Dissemination Pruning](https://arxiv.org/abs/2603.24761v2)** | 2026-06-02 |  |
+| **[E2LLM: Towards Efficient LLM Serving in Heterogeneous Edge/Fog Environments](https://arxiv.org/abs/2606.03770v1)** | 2026-06-02 |  |
+| **[SWARM+: Scalable and Resilient Multi-Agent Consensus for Decentralized Data-Aware Workload Management](https://arxiv.org/abs/2603.19431v2)** | 2026-06-02 |  |
+| **[Fast TetraBFT: Optimizing Latency Where It Matters](https://arxiv.org/abs/2606.03754v1)** | 2026-06-02 |  |
+| **[Distributed Local Verification using Proofs with(out) Errors](https://arxiv.org/abs/2603.20831v2)** | 2026-06-02 |  |
+| **[Scaling Multi Agent Reinforcement Learning for Underwater Acoustic Tracking via Autonomous Vehicles](https://arxiv.org/abs/2505.08222v3)** | 2026-06-02 |  |
+| **[Tridirectional Discriminating-Power Formal Verification of Smart Contract Reentrancy Defense Against Production-Deployed Solidity Source](https://arxiv.org/abs/2606.01794v2)** | 2026-06-02 | <details><summary>Prepr...</summary><p>Preprint v2: added Zenodo concept DOI (10.5281/zenodo.20510920) for the archival artifact snapshot in the reproduction-commands appendix. No changes to the methodology, results, theorems, or references. Community feedback welcome; v3 with feedback planned before venue submission</p></details> |
+| **[Deterministic Distance Approximation in MPC via Improved Hitting Sets](https://arxiv.org/abs/2606.03674v1)** | 2026-06-02 | <details><summary>To ap...</summary><p>To apear in SPAA 2026</p></details> |
+| **[Stability of local tip pool sizes](https://arxiv.org/abs/2302.01625v2)** | 2026-06-02 | <details><summary>6 fig...</summary><p>6 figures, major revision</p></details> |
+| **[Fine-Tuning and Serving Gemma 4 31B on Google Cloud TPU: A Technical Comparison with GPU Baselines](https://arxiv.org/abs/2605.25645v2)** | 2026-06-02 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MineDraft: A Framework for Batch Parallel Speculative Decoding](https://arxiv.org/abs/2603.18016v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning](https://arxiv.org/abs/2606.02563v1)** | 2026-06-01 |  |
-| **[Not All Errors Are Equal: A Systematic Study of Error Propagation in Large Language Model Inference](https://arxiv.org/abs/2606.02430v1)** | 2026-06-01 | Accepted at ICS'26 |
-| **[From Time to Space: The Impact of Linearity in Higher-Order Datalog](https://arxiv.org/abs/2606.02394v1)** | 2026-06-01 |  |
-| **[Strategies for Molecular Dynamics using Hybrid Systems: LAMMPS Use Case](https://arxiv.org/abs/2606.02319v1)** | 2026-06-01 | 19 pages, 9 figures |
-| **[$γ$-CounterBoost: Optimizing response time tails using job type information only](https://arxiv.org/abs/2606.02311v1)** | 2026-06-01 |  |
-| **[GRANITE : a Byzantine-Resilient Dynamic Gossip Learning Framework](https://arxiv.org/abs/2504.17471v2)** | 2026-06-01 |  |
-| **[Tail Optimality and Performance Analysis of the Nudge*(M) Scheduling Algorithm](https://arxiv.org/abs/2403.06588v3)** | 2026-06-01 |  |
-| **[EES-CND: Collaborative Neural Decision-Making for Drift-Aware Fault-Tolerant Edge-Cloud Service Placement](https://arxiv.org/abs/2606.02259v1)** | 2026-06-01 | <details><summary>In Pr...</summary><p>In Proceedings of the 16th International Conference on Cloud Computing and Services Science (CLOSER 2026). (https://www.scitepress.org/Link.aspx?doi=10.5220%2f0015047300004039)</p></details> |
-| **[FTHP-MPI: Towards Providing Replication-based Fault Tolerance in a Fault-Intolerant Native MPI Library](https://arxiv.org/abs/2504.09989v2)** | 2026-06-01 |  |
-| **[TAPAAL SMC: Statistical Model Checking of Stochastic Timed-Arc Petri Nets](https://arxiv.org/abs/2606.02007v1)** | 2026-06-01 |  |
-| **[Toka: A Systems Programming Language with Explicit Resource Semantics](https://arxiv.org/abs/2606.01974v1)** | 2026-06-01 | <details><summary>12 pa...</summary><p>12 pages. A Design and Implementation Experience Report on Explicit Resource Semantics</p></details> |
-| **[Implementation and Optimization of HQC Decoding on NPU-Integrated Devices](https://arxiv.org/abs/2606.01968v1)** | 2026-06-01 |  |
-| **[Teaching Synchronous Dataflow Modelling with Learn-Heptagon](https://arxiv.org/abs/2606.01928v1)** | 2026-06-01 |  |
-| **[Scaling LLM Inference Beyond Amdahl`s Limits via Eliminating Non-Scalable Overheads](https://arxiv.org/abs/2606.01927v1)** | 2026-06-01 |  |
+| **[FlashbackCL: Mitigating Temporal Forgetting in Federated Learning](https://arxiv.org/abs/2606.03939v1)** | 2026-06-02 |  |
+| **[Fast Entropy Decoding for Sparse MVM on GPUs](https://arxiv.org/abs/2603.01915v2)** | 2026-06-02 | <details><summary>To ap...</summary><p>To appear in 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2026. Reproducibility Appendix available at https://doi.org/10.5281/zenodo.18694064</p></details> |
+| **[NetKV: Network-Aware Decode Instance Selection for Disaggregated LLM Inference](https://arxiv.org/abs/2606.03910v1)** | 2026-06-02 |  |
+| **[SAIL: Sound Abstract Interpreters with LLMs](https://arxiv.org/abs/2511.13663v2)** | 2026-06-02 | 43 pages, 21 figures |
+| **[Characterizing Metastable Faults and Failures](https://arxiv.org/abs/2606.00942v2)** | 2026-06-02 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, submitted to SOSP 2026</p></details> |
+| **[eAID: Elastic Asynchronous Information Dispersal with Post-Dissemination Pruning](https://arxiv.org/abs/2603.24761v2)** | 2026-06-02 |  |
+| **[E2LLM: Towards Efficient LLM Serving in Heterogeneous Edge/Fog Environments](https://arxiv.org/abs/2606.03770v1)** | 2026-06-02 |  |
+| **[SWARM+: Scalable and Resilient Multi-Agent Consensus for Decentralized Data-Aware Workload Management](https://arxiv.org/abs/2603.19431v2)** | 2026-06-02 |  |
+| **[Fast TetraBFT: Optimizing Latency Where It Matters](https://arxiv.org/abs/2606.03754v1)** | 2026-06-02 |  |
+| **[Distributed Local Verification using Proofs with(out) Errors](https://arxiv.org/abs/2603.20831v2)** | 2026-06-02 |  |
+| **[Scaling Multi Agent Reinforcement Learning for Underwater Acoustic Tracking via Autonomous Vehicles](https://arxiv.org/abs/2505.08222v3)** | 2026-06-02 |  |
+| **[Tridirectional Discriminating-Power Formal Verification of Smart Contract Reentrancy Defense Against Production-Deployed Solidity Source](https://arxiv.org/abs/2606.01794v2)** | 2026-06-02 | <details><summary>Prepr...</summary><p>Preprint v2: added Zenodo concept DOI (10.5281/zenodo.20510920) for the archival artifact snapshot in the reproduction-commands appendix. No changes to the methodology, results, theorems, or references. Community feedback welcome; v3 with feedback planned before venue submission</p></details> |
+| **[Deterministic Distance Approximation in MPC via Improved Hitting Sets](https://arxiv.org/abs/2606.03674v1)** | 2026-06-02 | <details><summary>To ap...</summary><p>To apear in SPAA 2026</p></details> |
+| **[Stability of local tip pool sizes](https://arxiv.org/abs/2302.01625v2)** | 2026-06-02 | <details><summary>6 fig...</summary><p>6 figures, major revision</p></details> |
+| **[Fine-Tuning and Serving Gemma 4 31B on Google Cloud TPU: A Technical Comparison with GPU Baselines](https://arxiv.org/abs/2605.25645v2)** | 2026-06-02 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MineDraft: A Framework for Batch Parallel Speculative Decoding](https://arxiv.org/abs/2603.18016v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning](https://arxiv.org/abs/2606.02563v1)** | 2026-06-01 |  |
-| **[Not All Errors Are Equal: A Systematic Study of Error Propagation in Large Language Model Inference](https://arxiv.org/abs/2606.02430v1)** | 2026-06-01 | Accepted at ICS'26 |
-| **[From Time to Space: The Impact of Linearity in Higher-Order Datalog](https://arxiv.org/abs/2606.02394v1)** | 2026-06-01 |  |
-| **[Strategies for Molecular Dynamics using Hybrid Systems: LAMMPS Use Case](https://arxiv.org/abs/2606.02319v1)** | 2026-06-01 | 19 pages, 9 figures |
-| **[$γ$-CounterBoost: Optimizing response time tails using job type information only](https://arxiv.org/abs/2606.02311v1)** | 2026-06-01 |  |
-| **[GRANITE : a Byzantine-Resilient Dynamic Gossip Learning Framework](https://arxiv.org/abs/2504.17471v2)** | 2026-06-01 |  |
-| **[Tail Optimality and Performance Analysis of the Nudge*(M) Scheduling Algorithm](https://arxiv.org/abs/2403.06588v3)** | 2026-06-01 |  |
-| **[EES-CND: Collaborative Neural Decision-Making for Drift-Aware Fault-Tolerant Edge-Cloud Service Placement](https://arxiv.org/abs/2606.02259v1)** | 2026-06-01 | <details><summary>In Pr...</summary><p>In Proceedings of the 16th International Conference on Cloud Computing and Services Science (CLOSER 2026). (https://www.scitepress.org/Link.aspx?doi=10.5220%2f0015047300004039)</p></details> |
-| **[FTHP-MPI: Towards Providing Replication-based Fault Tolerance in a Fault-Intolerant Native MPI Library](https://arxiv.org/abs/2504.09989v2)** | 2026-06-01 |  |
-| **[TAPAAL SMC: Statistical Model Checking of Stochastic Timed-Arc Petri Nets](https://arxiv.org/abs/2606.02007v1)** | 2026-06-01 |  |
-| **[Toka: A Systems Programming Language with Explicit Resource Semantics](https://arxiv.org/abs/2606.01974v1)** | 2026-06-01 | <details><summary>12 pa...</summary><p>12 pages. A Design and Implementation Experience Report on Explicit Resource Semantics</p></details> |
-| **[Implementation and Optimization of HQC Decoding on NPU-Integrated Devices](https://arxiv.org/abs/2606.01968v1)** | 2026-06-01 |  |
-| **[Teaching Synchronous Dataflow Modelling with Learn-Heptagon](https://arxiv.org/abs/2606.01928v1)** | 2026-06-01 |  |
-| **[Scaling LLM Inference Beyond Amdahl`s Limits via Eliminating Non-Scalable Overheads](https://arxiv.org/abs/2606.01927v1)** | 2026-06-01 |  |
+| **[FlashbackCL: Mitigating Temporal Forgetting in Federated Learning](https://arxiv.org/abs/2606.03939v1)** | 2026-06-02 |  |
+| **[Fast Entropy Decoding for Sparse MVM on GPUs](https://arxiv.org/abs/2603.01915v2)** | 2026-06-02 | <details><summary>To ap...</summary><p>To appear in 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2026. Reproducibility Appendix available at https://doi.org/10.5281/zenodo.18694064</p></details> |
+| **[NetKV: Network-Aware Decode Instance Selection for Disaggregated LLM Inference](https://arxiv.org/abs/2606.03910v1)** | 2026-06-02 |  |
+| **[SAIL: Sound Abstract Interpreters with LLMs](https://arxiv.org/abs/2511.13663v2)** | 2026-06-02 | 43 pages, 21 figures |
+| **[Characterizing Metastable Faults and Failures](https://arxiv.org/abs/2606.00942v2)** | 2026-06-02 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, submitted to SOSP 2026</p></details> |
+| **[eAID: Elastic Asynchronous Information Dispersal with Post-Dissemination Pruning](https://arxiv.org/abs/2603.24761v2)** | 2026-06-02 |  |
+| **[E2LLM: Towards Efficient LLM Serving in Heterogeneous Edge/Fog Environments](https://arxiv.org/abs/2606.03770v1)** | 2026-06-02 |  |
+| **[SWARM+: Scalable and Resilient Multi-Agent Consensus for Decentralized Data-Aware Workload Management](https://arxiv.org/abs/2603.19431v2)** | 2026-06-02 |  |
+| **[Fast TetraBFT: Optimizing Latency Where It Matters](https://arxiv.org/abs/2606.03754v1)** | 2026-06-02 |  |
+| **[Distributed Local Verification using Proofs with(out) Errors](https://arxiv.org/abs/2603.20831v2)** | 2026-06-02 |  |
+| **[Scaling Multi Agent Reinforcement Learning for Underwater Acoustic Tracking via Autonomous Vehicles](https://arxiv.org/abs/2505.08222v3)** | 2026-06-02 |  |
+| **[Tridirectional Discriminating-Power Formal Verification of Smart Contract Reentrancy Defense Against Production-Deployed Solidity Source](https://arxiv.org/abs/2606.01794v2)** | 2026-06-02 | <details><summary>Prepr...</summary><p>Preprint v2: added Zenodo concept DOI (10.5281/zenodo.20510920) for the archival artifact snapshot in the reproduction-commands appendix. No changes to the methodology, results, theorems, or references. Community feedback welcome; v3 with feedback planned before venue submission</p></details> |
+| **[Deterministic Distance Approximation in MPC via Improved Hitting Sets](https://arxiv.org/abs/2606.03674v1)** | 2026-06-02 | <details><summary>To ap...</summary><p>To apear in SPAA 2026</p></details> |
+| **[Stability of local tip pool sizes](https://arxiv.org/abs/2302.01625v2)** | 2026-06-02 | <details><summary>6 fig...</summary><p>6 figures, major revision</p></details> |
+| **[Fine-Tuning and Serving Gemma 4 31B on Google Cloud TPU: A Technical Comparison with GPU Baselines](https://arxiv.org/abs/2605.25645v2)** | 2026-06-02 |  |
 
