@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 10, 2026
+title: Latest 15 Papers - June 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SWARM+: Scalable and Resilient Multi-Agent Consensus for Decentralized Data-Aware Workload Management](https://arxiv.org/abs/2603.19431v3)** | 2026-06-08 |  |
-| **[Energy Efficient Federated Learning with Hyperdimensional Computing over Wireless Communication Networks](https://arxiv.org/abs/2602.21949v2)** | 2026-06-08 | 13 pages, 9 figures |
-| **[An 84-Format Numeric Catalog with Bit-Exact Conformance Vectors: A Vendor-Neutral Reference for FP8, BF16, MXFP4, and Microscaling Formats](https://arxiv.org/abs/2606.09686v1)** | 2026-06-08 | <details><summary>17 pa...</summary><p>17 pages. Source repository: https://github.com/gHashTag/paper3-methodology tag v4.0-trinity. Paper CC BY 4.0; code MIT. ORCID 0009-0008-4294-6159</p></details> |
-| **[AutoMegaKernel: A Statically-Checked Agent Harness for Self-Retargeting Megakernel Synthesis](https://arxiv.org/abs/2606.09682v1)** | 2026-06-08 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Open-source code, data, and agent harness: https://github.com/RightNow-AI/AutoMegaKernel</p></details> |
-| **[Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery](https://arxiv.org/abs/2606.09672v1)** | 2026-06-08 | <details><summary>20 pa...</summary><p>20 pages, 18 figures, 9 tables</p></details> |
-| **[A Datalog Framework for Conflict-Free Replicated Data Types](https://arxiv.org/abs/2605.31569v2)** | 2026-06-08 | <details><summary>Paper...</summary><p>Paper presented at the 42nd International Conference on Logic Programming (ICLP 2026), Lisbon, Portugal, July 20 to July 23, 2026</p></details> |
-| **[Modeling Components and Connections in Cyber-Physical Systems](https://arxiv.org/abs/2606.09645v1)** | 2026-06-08 |  |
-| **[FMplex: Model Virtualization for Serving Extensible Foundation Models](https://arxiv.org/abs/2606.09643v1)** | 2026-06-08 |  |
-| **[Parent-Hash DAG: A Cost Analysis of Constant-Time Append for On-Chain Registries](https://arxiv.org/abs/2606.09593v1)** | 2026-06-08 | <details><summary>19 pa...</summary><p>19 pages, 2 figures; reference implementation at https://github.com/AnchorRegistry/ar-phdag</p></details> |
-| **[Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](https://arxiv.org/abs/2602.03682v2)** | 2026-06-08 |  |
-| **[Byzantine Consensus in Directed Graphs with Message Authentication](https://arxiv.org/abs/2605.11309v2)** | 2026-06-08 |  |
-| **[When Types Intersect and Effects Get Handled](https://arxiv.org/abs/2606.09526v1)** | 2026-06-08 |  |
-| **[Verification of the Release-Acquire Semantics](https://arxiv.org/abs/2506.08238v2)** | 2026-06-08 | <details><summary>journ...</summary><p>journal version of previous version</p></details> |
-| **[Emergence-as-Code as a Foundation for Self-Governing Reliable Systems](https://arxiv.org/abs/2602.05458v2)** | 2026-06-08 |  |
-| **[DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback](https://arxiv.org/abs/2605.22781v2)** | 2026-06-08 |  |
+| **[Piper: A Programmable Distributed Training System](https://arxiv.org/abs/2606.11169v1)** | 2026-06-09 |  |
+| **[Revisiting "Cooler is Better": ITD-Aware Per-CPU Thermal Optimization for Sustainable Data Center Operation](https://arxiv.org/abs/2606.11163v1)** | 2026-06-09 |  |
+| **[Defeat the Heap: Zero-Copy Data Movement in AXI4MLIR](https://arxiv.org/abs/2606.11158v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to the 7th Compilers for Machine Learning Workshop (C4ML), co-located with CGO 2026</p></details> |
+| **[Towards Autonomous Accelerator Design: FPGA Accelerator Generation with SECDA](https://arxiv.org/abs/2606.11117v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to the Machine Learning for Architecture and Systems Workshop (MLArchSys), co-located with ISCA 2026</p></details> |
+| **[A Neurosymbolic Prolog Skill for LLM-Driven Service Placement](https://arxiv.org/abs/2606.11113v1)** | 2026-06-09 |  |
+| **[FairWave : A Fairness-Aware Asynchronous DAG-BFT Consensus](https://arxiv.org/abs/2606.10982v1)** | 2026-06-09 | <details><summary>20 pa...</summary><p>20 pages, 36 figures, preprint version</p></details> |
+| **[Dynamic Software Updates using CRDTs](https://arxiv.org/abs/2606.10920v1)** | 2026-06-09 | <details><summary>13 pa...</summary><p>13 pages, 1 figure, 6 listings</p></details> |
+| **[Flash-GMM: A Memory-Efficient Kernel for Scalable Soft Clustering](https://arxiv.org/abs/2606.10896v1)** | 2026-06-09 |  |
+| **[Inverse Probability Weighting and Age-of-Information Aggregation for Decentralized Federated Learning under Partial Reception](https://arxiv.org/abs/2606.10774v1)** | 2026-06-09 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, research paper for journal submission</p></details> |
+| **[Max-Policy Iteration, Revisited](https://arxiv.org/abs/2606.10717v1)** | 2026-06-09 |  |
+| **[Generalizing LCL Complexity Gaps to Unbounded Degree via Monadic Second-Order Properties](https://arxiv.org/abs/2606.10693v1)** | 2026-06-09 |  |
+| **[Answer Set Programming for Egg Extraction and More](https://arxiv.org/abs/2606.10644v1)** | 2026-06-09 | <details><summary>To be...</summary><p>To be presented at EGRAPHS 2026</p></details> |
+| **[From Patchwork to Network: A Comprehensive Framework for Demand Analysis and Fleet Optimization of Urban Air Mobility](https://arxiv.org/abs/2510.04186v4)** | 2026-06-09 |  |
+| **[A Hybrid Edge-Cloud Architecture for Low-Latency Entitlement Verification in Resource-Constrained Devices](https://arxiv.org/abs/2606.10536v1)** | 2026-06-09 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 2 tables, 1 algorithm. Prepared in IEEE format. Proposes the AEC-PR framework for low-latency OTT entitlement verification using TEE and Ed25519</p></details> |
+| **[Achieving Cloud-Grade SLOs for Local Mixture-of-Experts Inference through CPU-GPU Hybrid Design](https://arxiv.org/abs/2606.10493v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to the 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI '26). The official version will appear in the OSDI '26 proceedings published by USENIX</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SWARM+: Scalable and Resilient Multi-Agent Consensus for Decentralized Data-Aware Workload Management](https://arxiv.org/abs/2603.19431v3)** | 2026-06-08 |  |
-| **[Energy Efficient Federated Learning with Hyperdimensional Computing over Wireless Communication Networks](https://arxiv.org/abs/2602.21949v2)** | 2026-06-08 | 13 pages, 9 figures |
-| **[An 84-Format Numeric Catalog with Bit-Exact Conformance Vectors: A Vendor-Neutral Reference for FP8, BF16, MXFP4, and Microscaling Formats](https://arxiv.org/abs/2606.09686v1)** | 2026-06-08 | <details><summary>17 pa...</summary><p>17 pages. Source repository: https://github.com/gHashTag/paper3-methodology tag v4.0-trinity. Paper CC BY 4.0; code MIT. ORCID 0009-0008-4294-6159</p></details> |
-| **[AutoMegaKernel: A Statically-Checked Agent Harness for Self-Retargeting Megakernel Synthesis](https://arxiv.org/abs/2606.09682v1)** | 2026-06-08 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Open-source code, data, and agent harness: https://github.com/RightNow-AI/AutoMegaKernel</p></details> |
-| **[Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery](https://arxiv.org/abs/2606.09672v1)** | 2026-06-08 | <details><summary>20 pa...</summary><p>20 pages, 18 figures, 9 tables</p></details> |
-| **[A Datalog Framework for Conflict-Free Replicated Data Types](https://arxiv.org/abs/2605.31569v2)** | 2026-06-08 | <details><summary>Paper...</summary><p>Paper presented at the 42nd International Conference on Logic Programming (ICLP 2026), Lisbon, Portugal, July 20 to July 23, 2026</p></details> |
-| **[Modeling Components and Connections in Cyber-Physical Systems](https://arxiv.org/abs/2606.09645v1)** | 2026-06-08 |  |
-| **[FMplex: Model Virtualization for Serving Extensible Foundation Models](https://arxiv.org/abs/2606.09643v1)** | 2026-06-08 |  |
-| **[Parent-Hash DAG: A Cost Analysis of Constant-Time Append for On-Chain Registries](https://arxiv.org/abs/2606.09593v1)** | 2026-06-08 | <details><summary>19 pa...</summary><p>19 pages, 2 figures; reference implementation at https://github.com/AnchorRegistry/ar-phdag</p></details> |
-| **[Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](https://arxiv.org/abs/2602.03682v2)** | 2026-06-08 |  |
-| **[Byzantine Consensus in Directed Graphs with Message Authentication](https://arxiv.org/abs/2605.11309v2)** | 2026-06-08 |  |
-| **[When Types Intersect and Effects Get Handled](https://arxiv.org/abs/2606.09526v1)** | 2026-06-08 |  |
-| **[Verification of the Release-Acquire Semantics](https://arxiv.org/abs/2506.08238v2)** | 2026-06-08 | <details><summary>journ...</summary><p>journal version of previous version</p></details> |
-| **[Emergence-as-Code as a Foundation for Self-Governing Reliable Systems](https://arxiv.org/abs/2602.05458v2)** | 2026-06-08 |  |
-| **[Efficient Scaling of LLM Training with Flexible Context Parallelism](https://arxiv.org/abs/2602.21788v2)** | 2026-06-08 |  |
+| **[Piper: A Programmable Distributed Training System](https://arxiv.org/abs/2606.11169v1)** | 2026-06-09 |  |
+| **[Revisiting "Cooler is Better": ITD-Aware Per-CPU Thermal Optimization for Sustainable Data Center Operation](https://arxiv.org/abs/2606.11163v1)** | 2026-06-09 |  |
+| **[Defeat the Heap: Zero-Copy Data Movement in AXI4MLIR](https://arxiv.org/abs/2606.11158v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to the 7th Compilers for Machine Learning Workshop (C4ML), co-located with CGO 2026</p></details> |
+| **[Towards Autonomous Accelerator Design: FPGA Accelerator Generation with SECDA](https://arxiv.org/abs/2606.11117v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to the Machine Learning for Architecture and Systems Workshop (MLArchSys), co-located with ISCA 2026</p></details> |
+| **[A Neurosymbolic Prolog Skill for LLM-Driven Service Placement](https://arxiv.org/abs/2606.11113v1)** | 2026-06-09 |  |
+| **[FairWave : A Fairness-Aware Asynchronous DAG-BFT Consensus](https://arxiv.org/abs/2606.10982v1)** | 2026-06-09 | <details><summary>20 pa...</summary><p>20 pages, 36 figures, preprint version</p></details> |
+| **[Dynamic Software Updates using CRDTs](https://arxiv.org/abs/2606.10920v1)** | 2026-06-09 | <details><summary>13 pa...</summary><p>13 pages, 1 figure, 6 listings</p></details> |
+| **[Flash-GMM: A Memory-Efficient Kernel for Scalable Soft Clustering](https://arxiv.org/abs/2606.10896v1)** | 2026-06-09 |  |
+| **[Inverse Probability Weighting and Age-of-Information Aggregation for Decentralized Federated Learning under Partial Reception](https://arxiv.org/abs/2606.10774v1)** | 2026-06-09 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, research paper for journal submission</p></details> |
+| **[Max-Policy Iteration, Revisited](https://arxiv.org/abs/2606.10717v1)** | 2026-06-09 |  |
+| **[Generalizing LCL Complexity Gaps to Unbounded Degree via Monadic Second-Order Properties](https://arxiv.org/abs/2606.10693v1)** | 2026-06-09 |  |
+| **[Answer Set Programming for Egg Extraction and More](https://arxiv.org/abs/2606.10644v1)** | 2026-06-09 | <details><summary>To be...</summary><p>To be presented at EGRAPHS 2026</p></details> |
+| **[From Patchwork to Network: A Comprehensive Framework for Demand Analysis and Fleet Optimization of Urban Air Mobility](https://arxiv.org/abs/2510.04186v4)** | 2026-06-09 |  |
+| **[A Hybrid Edge-Cloud Architecture for Low-Latency Entitlement Verification in Resource-Constrained Devices](https://arxiv.org/abs/2606.10536v1)** | 2026-06-09 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 2 tables, 1 algorithm. Prepared in IEEE format. Proposes the AEC-PR framework for low-latency OTT entitlement verification using TEE and Ed25519</p></details> |
+| **[Achieving Cloud-Grade SLOs for Local Mixture-of-Experts Inference through CPU-GPU Hybrid Design](https://arxiv.org/abs/2606.10493v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to the 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI '26). The official version will appear in the OSDI '26 proceedings published by USENIX</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SWARM+: Scalable and Resilient Multi-Agent Consensus for Decentralized Data-Aware Workload Management](https://arxiv.org/abs/2603.19431v3)** | 2026-06-08 |  |
-| **[Energy Efficient Federated Learning with Hyperdimensional Computing over Wireless Communication Networks](https://arxiv.org/abs/2602.21949v2)** | 2026-06-08 | 13 pages, 9 figures |
-| **[An 84-Format Numeric Catalog with Bit-Exact Conformance Vectors: A Vendor-Neutral Reference for FP8, BF16, MXFP4, and Microscaling Formats](https://arxiv.org/abs/2606.09686v1)** | 2026-06-08 | <details><summary>17 pa...</summary><p>17 pages. Source repository: https://github.com/gHashTag/paper3-methodology tag v4.0-trinity. Paper CC BY 4.0; code MIT. ORCID 0009-0008-4294-6159</p></details> |
-| **[AutoMegaKernel: A Statically-Checked Agent Harness for Self-Retargeting Megakernel Synthesis](https://arxiv.org/abs/2606.09682v1)** | 2026-06-08 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Open-source code, data, and agent harness: https://github.com/RightNow-AI/AutoMegaKernel</p></details> |
-| **[Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery](https://arxiv.org/abs/2606.09672v1)** | 2026-06-08 | <details><summary>20 pa...</summary><p>20 pages, 18 figures, 9 tables</p></details> |
-| **[A Datalog Framework for Conflict-Free Replicated Data Types](https://arxiv.org/abs/2605.31569v2)** | 2026-06-08 | <details><summary>Paper...</summary><p>Paper presented at the 42nd International Conference on Logic Programming (ICLP 2026), Lisbon, Portugal, July 20 to July 23, 2026</p></details> |
-| **[Modeling Components and Connections in Cyber-Physical Systems](https://arxiv.org/abs/2606.09645v1)** | 2026-06-08 |  |
-| **[FMplex: Model Virtualization for Serving Extensible Foundation Models](https://arxiv.org/abs/2606.09643v1)** | 2026-06-08 |  |
-| **[Parent-Hash DAG: A Cost Analysis of Constant-Time Append for On-Chain Registries](https://arxiv.org/abs/2606.09593v1)** | 2026-06-08 | <details><summary>19 pa...</summary><p>19 pages, 2 figures; reference implementation at https://github.com/AnchorRegistry/ar-phdag</p></details> |
-| **[Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](https://arxiv.org/abs/2602.03682v2)** | 2026-06-08 |  |
-| **[Byzantine Consensus in Directed Graphs with Message Authentication](https://arxiv.org/abs/2605.11309v2)** | 2026-06-08 |  |
-| **[When Types Intersect and Effects Get Handled](https://arxiv.org/abs/2606.09526v1)** | 2026-06-08 |  |
-| **[Verification of the Release-Acquire Semantics](https://arxiv.org/abs/2506.08238v2)** | 2026-06-08 | <details><summary>journ...</summary><p>journal version of previous version</p></details> |
-| **[Emergence-as-Code as a Foundation for Self-Governing Reliable Systems](https://arxiv.org/abs/2602.05458v2)** | 2026-06-08 |  |
-| **[Efficient Scaling of LLM Training with Flexible Context Parallelism](https://arxiv.org/abs/2602.21788v2)** | 2026-06-08 |  |
+| **[Piper: A Programmable Distributed Training System](https://arxiv.org/abs/2606.11169v1)** | 2026-06-09 |  |
+| **[Revisiting "Cooler is Better": ITD-Aware Per-CPU Thermal Optimization for Sustainable Data Center Operation](https://arxiv.org/abs/2606.11163v1)** | 2026-06-09 |  |
+| **[Defeat the Heap: Zero-Copy Data Movement in AXI4MLIR](https://arxiv.org/abs/2606.11158v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to the 7th Compilers for Machine Learning Workshop (C4ML), co-located with CGO 2026</p></details> |
+| **[Towards Autonomous Accelerator Design: FPGA Accelerator Generation with SECDA](https://arxiv.org/abs/2606.11117v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to the Machine Learning for Architecture and Systems Workshop (MLArchSys), co-located with ISCA 2026</p></details> |
+| **[A Neurosymbolic Prolog Skill for LLM-Driven Service Placement](https://arxiv.org/abs/2606.11113v1)** | 2026-06-09 |  |
+| **[FairWave : A Fairness-Aware Asynchronous DAG-BFT Consensus](https://arxiv.org/abs/2606.10982v1)** | 2026-06-09 | <details><summary>20 pa...</summary><p>20 pages, 36 figures, preprint version</p></details> |
+| **[Dynamic Software Updates using CRDTs](https://arxiv.org/abs/2606.10920v1)** | 2026-06-09 | <details><summary>13 pa...</summary><p>13 pages, 1 figure, 6 listings</p></details> |
+| **[Flash-GMM: A Memory-Efficient Kernel for Scalable Soft Clustering](https://arxiv.org/abs/2606.10896v1)** | 2026-06-09 |  |
+| **[Inverse Probability Weighting and Age-of-Information Aggregation for Decentralized Federated Learning under Partial Reception](https://arxiv.org/abs/2606.10774v1)** | 2026-06-09 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, research paper for journal submission</p></details> |
+| **[Max-Policy Iteration, Revisited](https://arxiv.org/abs/2606.10717v1)** | 2026-06-09 |  |
+| **[Generalizing LCL Complexity Gaps to Unbounded Degree via Monadic Second-Order Properties](https://arxiv.org/abs/2606.10693v1)** | 2026-06-09 |  |
+| **[Answer Set Programming for Egg Extraction and More](https://arxiv.org/abs/2606.10644v1)** | 2026-06-09 | <details><summary>To be...</summary><p>To be presented at EGRAPHS 2026</p></details> |
+| **[From Patchwork to Network: A Comprehensive Framework for Demand Analysis and Fleet Optimization of Urban Air Mobility](https://arxiv.org/abs/2510.04186v4)** | 2026-06-09 |  |
+| **[A Hybrid Edge-Cloud Architecture for Low-Latency Entitlement Verification in Resource-Constrained Devices](https://arxiv.org/abs/2606.10536v1)** | 2026-06-09 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 2 tables, 1 algorithm. Prepared in IEEE format. Proposes the AEC-PR framework for low-latency OTT entitlement verification using TEE and Ed25519</p></details> |
+| **[Achieving Cloud-Grade SLOs for Local Mixture-of-Experts Inference through CPU-GPU Hybrid Design](https://arxiv.org/abs/2606.10493v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to the 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI '26). The official version will appear in the OSDI '26 proceedings published by USENIX</p></details> |
 
