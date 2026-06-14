@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 12, 2026
+title: Latest 15 Papers - June 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fair Comparison of Scheduling Algorithms on Heterogeneous Edge Clusters: A Continuous Adaptive Benchmark](https://arxiv.org/abs/2606.12343v1)** | 2026-06-10 |  |
-| **[EvalStop: Using World Feedback to Detect and Correct Reward Overoptimization in Multi-Tenant RLHF Platforms](https://arxiv.org/abs/2606.04145v2)** | 2026-06-10 |  |
-| **[When Does Deep RL Beat Calibrated Baselines? A Benchmark Study on Adaptive Resource Control](https://arxiv.org/abs/2605.26418v2)** | 2026-06-10 |  |
-| **[Efficient and Robust Online Learning to Rank in Decentralized Systems](https://arxiv.org/abs/2606.12246v1)** | 2026-06-10 |  |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v3)** | 2026-06-10 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 7 tables</p></details> |
-| **[Internet of Everything in the 6G Era: Paradigms, Enablers, Potentials and Future Directions](https://arxiv.org/abs/2604.25018v2)** | 2026-06-10 | <details><summary>48 pa...</summary><p>48 pages, 15 figures, 6 tables, 272 references</p></details> |
-| **[Escape with Your Self: Sound and Expressive Bidirectional Typing with Avoidance for Reachability Types](https://arxiv.org/abs/2404.08217v6)** | 2026-06-10 |  |
-| **[SEDULity: A Proof-of-Learning Framework for Distributed and Secure Blockchains with Efficient Useful Work](https://arxiv.org/abs/2512.13666v2)** | 2026-06-10 |  |
-| **[The Brain That Goes Quiet: Serving a Large Model's Knowledge at 131 Tokens per Second on an 8 GB Laptop by Removing the Large Model from the Runtime Path](https://arxiv.org/abs/2606.12154v1)** | 2026-06-10 | 17 pages, 5 figures |
-| **[The PM-EdgeMap: Towards Real-Time Process Mining on the Edge-Cloud Continuum](https://arxiv.org/abs/2606.12103v1)** | 2026-06-10 |  |
-| **[Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions](https://arxiv.org/abs/2209.03999v2)** | 2026-06-10 | <details><summary>34 pa...</summary><p>34 pages, 2 figures, 5 tables</p></details> |
-| **[LCLs Beyond Bounded Degrees](https://arxiv.org/abs/2602.02340v3)** | 2026-06-10 |  |
-| **[Near-Optimal Distributed 2-Ruling Sets on Graphs with Low Arboricity](https://arxiv.org/abs/2606.11974v1)** | 2026-06-10 |  |
-| **[From Fork-Join to Asynchronous Tasks: Parallelizing Tiled Cholesky Decomposition with OpenMP and HPX](https://arxiv.org/abs/2606.11937v1)** | 2026-06-10 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, accepted paper at AMTE held in conjunction with PPAM 2026</p></details> |
-| **[The complexity of verifying the release-acquire semantics over register machines](https://arxiv.org/abs/2506.08238v3)** | 2026-06-10 | New title |
+| **[Specifying Hardware Communication as Programs](https://arxiv.org/abs/2606.13659v1)** | 2026-06-11 |  |
+| **[Beyond Virtual Delay: Improving Packet Delay Bound in Network Calculus](https://arxiv.org/abs/2606.13631v1)** | 2026-06-11 |  |
+| **[Finding Conservation Laws of Large Dynamical Systems with Tasks and Futures: A Case Study in Utilizing Dynamic Data Dependencies](https://arxiv.org/abs/2606.13623v1)** | 2026-06-11 | <details><summary>To be...</summary><p>To be published in Lecture Notes in Computer Science, Volume 16592</p></details> |
+| **[Probabilistic, Resource-Aware, Asynchronous, Out-of-Order Choreographies](https://arxiv.org/abs/2606.13520v1)** | 2026-06-11 | <details><summary>To be...</summary><p>To be presented at CP 2026 (16 June 2026, Boulder, CO)</p></details> |
+| **[Programmable Property-Based Testing](https://arxiv.org/abs/2602.18545v2)** | 2026-06-11 |  |
+| **[FOLD: Fuzzy Online Deduplication for Very Large Evolving Datasets via Approximate Nearest Neighbor Search](https://arxiv.org/abs/2606.03001v2)** | 2026-06-11 |  |
+| **[GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving](https://arxiv.org/abs/2606.13501v1)** | 2026-06-11 |  |
+| **[Etna: An Evaluation Platform for Property-Based Testing](https://arxiv.org/abs/2603.27002v2)** | 2026-06-11 |  |
+| **[Implementing CPSLint: A Data Validation and Sanitisation Tool for Industrial Cyber-Physical Systems](https://arxiv.org/abs/2604.18191v2)** | 2026-06-11 |  |
+| **[Temporal Conductance and Bounds on the Voter Model for Dynamic Networks](https://arxiv.org/abs/2606.13374v1)** | 2026-06-11 |  |
+| **[SupraSNN: Exploiting Synapse-Level Parallelism in Spiking Neural Network Accelerators through Co-Optimized Mapping and Scheduling](https://arxiv.org/abs/2606.13354v1)** | 2026-06-11 |  |
+| **[DWM-RO: Decentralized World Models with Reasoning Offloading for SWIPT-enabled Satellite-Terrestrial HetNets](https://arxiv.org/abs/2511.05972v3)** | 2026-06-11 |  |
+| **[Work Stealing for the 2D-Mesh Topology of Satellite Constellations in Low Earth Orbit](https://arxiv.org/abs/2606.13329v1)** | 2026-06-11 | preprint |
+| **[Skiplists with Foresight: Skipping Cache Misses](https://arxiv.org/abs/2606.13321v1)** | 2026-06-11 |  |
+| **[Clipping Makes Distributed and Federated Asynchronous SGD Robust to Stragglers](https://arxiv.org/abs/2606.13287v1)** | 2026-06-11 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fair Comparison of Scheduling Algorithms on Heterogeneous Edge Clusters: A Continuous Adaptive Benchmark](https://arxiv.org/abs/2606.12343v1)** | 2026-06-10 |  |
-| **[EvalStop: Using World Feedback to Detect and Correct Reward Overoptimization in Multi-Tenant RLHF Platforms](https://arxiv.org/abs/2606.04145v2)** | 2026-06-10 |  |
-| **[When Does Deep RL Beat Calibrated Baselines? A Benchmark Study on Adaptive Resource Control](https://arxiv.org/abs/2605.26418v2)** | 2026-06-10 |  |
-| **[Efficient and Robust Online Learning to Rank in Decentralized Systems](https://arxiv.org/abs/2606.12246v1)** | 2026-06-10 |  |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v3)** | 2026-06-10 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 7 tables</p></details> |
-| **[Internet of Everything in the 6G Era: Paradigms, Enablers, Potentials and Future Directions](https://arxiv.org/abs/2604.25018v2)** | 2026-06-10 | <details><summary>48 pa...</summary><p>48 pages, 15 figures, 6 tables, 272 references</p></details> |
-| **[Escape with Your Self: Sound and Expressive Bidirectional Typing with Avoidance for Reachability Types](https://arxiv.org/abs/2404.08217v6)** | 2026-06-10 |  |
-| **[SEDULity: A Proof-of-Learning Framework for Distributed and Secure Blockchains with Efficient Useful Work](https://arxiv.org/abs/2512.13666v2)** | 2026-06-10 |  |
-| **[The Brain That Goes Quiet: Serving a Large Model's Knowledge at 131 Tokens per Second on an 8 GB Laptop by Removing the Large Model from the Runtime Path](https://arxiv.org/abs/2606.12154v1)** | 2026-06-10 | 17 pages, 5 figures |
-| **[The PM-EdgeMap: Towards Real-Time Process Mining on the Edge-Cloud Continuum](https://arxiv.org/abs/2606.12103v1)** | 2026-06-10 |  |
-| **[Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions](https://arxiv.org/abs/2209.03999v2)** | 2026-06-10 | <details><summary>34 pa...</summary><p>34 pages, 2 figures, 5 tables</p></details> |
-| **[LCLs Beyond Bounded Degrees](https://arxiv.org/abs/2602.02340v3)** | 2026-06-10 |  |
-| **[Near-Optimal Distributed 2-Ruling Sets on Graphs with Low Arboricity](https://arxiv.org/abs/2606.11974v1)** | 2026-06-10 |  |
-| **[From Fork-Join to Asynchronous Tasks: Parallelizing Tiled Cholesky Decomposition with OpenMP and HPX](https://arxiv.org/abs/2606.11937v1)** | 2026-06-10 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, accepted paper at AMTE held in conjunction with PPAM 2026</p></details> |
-| **[The complexity of verifying the release-acquire semantics over register machines](https://arxiv.org/abs/2506.08238v3)** | 2026-06-10 | New title |
+| **[Specifying Hardware Communication as Programs](https://arxiv.org/abs/2606.13659v1)** | 2026-06-11 |  |
+| **[Beyond Virtual Delay: Improving Packet Delay Bound in Network Calculus](https://arxiv.org/abs/2606.13631v1)** | 2026-06-11 |  |
+| **[Finding Conservation Laws of Large Dynamical Systems with Tasks and Futures: A Case Study in Utilizing Dynamic Data Dependencies](https://arxiv.org/abs/2606.13623v1)** | 2026-06-11 | <details><summary>To be...</summary><p>To be published in Lecture Notes in Computer Science, Volume 16592</p></details> |
+| **[Probabilistic, Resource-Aware, Asynchronous, Out-of-Order Choreographies](https://arxiv.org/abs/2606.13520v1)** | 2026-06-11 | <details><summary>To be...</summary><p>To be presented at CP 2026 (16 June 2026, Boulder, CO)</p></details> |
+| **[Programmable Property-Based Testing](https://arxiv.org/abs/2602.18545v2)** | 2026-06-11 |  |
+| **[FOLD: Fuzzy Online Deduplication for Very Large Evolving Datasets via Approximate Nearest Neighbor Search](https://arxiv.org/abs/2606.03001v2)** | 2026-06-11 |  |
+| **[GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving](https://arxiv.org/abs/2606.13501v1)** | 2026-06-11 |  |
+| **[Etna: An Evaluation Platform for Property-Based Testing](https://arxiv.org/abs/2603.27002v2)** | 2026-06-11 |  |
+| **[Implementing CPSLint: A Data Validation and Sanitisation Tool for Industrial Cyber-Physical Systems](https://arxiv.org/abs/2604.18191v2)** | 2026-06-11 |  |
+| **[Temporal Conductance and Bounds on the Voter Model for Dynamic Networks](https://arxiv.org/abs/2606.13374v1)** | 2026-06-11 |  |
+| **[SupraSNN: Exploiting Synapse-Level Parallelism in Spiking Neural Network Accelerators through Co-Optimized Mapping and Scheduling](https://arxiv.org/abs/2606.13354v1)** | 2026-06-11 |  |
+| **[DWM-RO: Decentralized World Models with Reasoning Offloading for SWIPT-enabled Satellite-Terrestrial HetNets](https://arxiv.org/abs/2511.05972v3)** | 2026-06-11 |  |
+| **[Work Stealing for the 2D-Mesh Topology of Satellite Constellations in Low Earth Orbit](https://arxiv.org/abs/2606.13329v1)** | 2026-06-11 | preprint |
+| **[Skiplists with Foresight: Skipping Cache Misses](https://arxiv.org/abs/2606.13321v1)** | 2026-06-11 |  |
+| **[Clipping Makes Distributed and Federated Asynchronous SGD Robust to Stragglers](https://arxiv.org/abs/2606.13287v1)** | 2026-06-11 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fair Comparison of Scheduling Algorithms on Heterogeneous Edge Clusters: A Continuous Adaptive Benchmark](https://arxiv.org/abs/2606.12343v1)** | 2026-06-10 |  |
-| **[EvalStop: Using World Feedback to Detect and Correct Reward Overoptimization in Multi-Tenant RLHF Platforms](https://arxiv.org/abs/2606.04145v2)** | 2026-06-10 |  |
-| **[When Does Deep RL Beat Calibrated Baselines? A Benchmark Study on Adaptive Resource Control](https://arxiv.org/abs/2605.26418v2)** | 2026-06-10 |  |
-| **[Efficient and Robust Online Learning to Rank in Decentralized Systems](https://arxiv.org/abs/2606.12246v1)** | 2026-06-10 |  |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v3)** | 2026-06-10 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 7 tables</p></details> |
-| **[Internet of Everything in the 6G Era: Paradigms, Enablers, Potentials and Future Directions](https://arxiv.org/abs/2604.25018v2)** | 2026-06-10 | <details><summary>48 pa...</summary><p>48 pages, 15 figures, 6 tables, 272 references</p></details> |
-| **[Escape with Your Self: Sound and Expressive Bidirectional Typing with Avoidance for Reachability Types](https://arxiv.org/abs/2404.08217v6)** | 2026-06-10 |  |
-| **[SEDULity: A Proof-of-Learning Framework for Distributed and Secure Blockchains with Efficient Useful Work](https://arxiv.org/abs/2512.13666v2)** | 2026-06-10 |  |
-| **[The Brain That Goes Quiet: Serving a Large Model's Knowledge at 131 Tokens per Second on an 8 GB Laptop by Removing the Large Model from the Runtime Path](https://arxiv.org/abs/2606.12154v1)** | 2026-06-10 | 17 pages, 5 figures |
-| **[The PM-EdgeMap: Towards Real-Time Process Mining on the Edge-Cloud Continuum](https://arxiv.org/abs/2606.12103v1)** | 2026-06-10 |  |
-| **[Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions](https://arxiv.org/abs/2209.03999v2)** | 2026-06-10 | <details><summary>34 pa...</summary><p>34 pages, 2 figures, 5 tables</p></details> |
-| **[LCLs Beyond Bounded Degrees](https://arxiv.org/abs/2602.02340v3)** | 2026-06-10 |  |
-| **[Near-Optimal Distributed 2-Ruling Sets on Graphs with Low Arboricity](https://arxiv.org/abs/2606.11974v1)** | 2026-06-10 |  |
-| **[From Fork-Join to Asynchronous Tasks: Parallelizing Tiled Cholesky Decomposition with OpenMP and HPX](https://arxiv.org/abs/2606.11937v1)** | 2026-06-10 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, accepted paper at AMTE held in conjunction with PPAM 2026</p></details> |
-| **[The complexity of verifying the release-acquire semantics over register machines](https://arxiv.org/abs/2506.08238v3)** | 2026-06-10 | New title |
+| **[Specifying Hardware Communication as Programs](https://arxiv.org/abs/2606.13659v1)** | 2026-06-11 |  |
+| **[Beyond Virtual Delay: Improving Packet Delay Bound in Network Calculus](https://arxiv.org/abs/2606.13631v1)** | 2026-06-11 |  |
+| **[Finding Conservation Laws of Large Dynamical Systems with Tasks and Futures: A Case Study in Utilizing Dynamic Data Dependencies](https://arxiv.org/abs/2606.13623v1)** | 2026-06-11 | <details><summary>To be...</summary><p>To be published in Lecture Notes in Computer Science, Volume 16592</p></details> |
+| **[Probabilistic, Resource-Aware, Asynchronous, Out-of-Order Choreographies](https://arxiv.org/abs/2606.13520v1)** | 2026-06-11 | <details><summary>To be...</summary><p>To be presented at CP 2026 (16 June 2026, Boulder, CO)</p></details> |
+| **[Programmable Property-Based Testing](https://arxiv.org/abs/2602.18545v2)** | 2026-06-11 |  |
+| **[FOLD: Fuzzy Online Deduplication for Very Large Evolving Datasets via Approximate Nearest Neighbor Search](https://arxiv.org/abs/2606.03001v2)** | 2026-06-11 |  |
+| **[GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving](https://arxiv.org/abs/2606.13501v1)** | 2026-06-11 |  |
+| **[Etna: An Evaluation Platform for Property-Based Testing](https://arxiv.org/abs/2603.27002v2)** | 2026-06-11 |  |
+| **[Implementing CPSLint: A Data Validation and Sanitisation Tool for Industrial Cyber-Physical Systems](https://arxiv.org/abs/2604.18191v2)** | 2026-06-11 |  |
+| **[Temporal Conductance and Bounds on the Voter Model for Dynamic Networks](https://arxiv.org/abs/2606.13374v1)** | 2026-06-11 |  |
+| **[SupraSNN: Exploiting Synapse-Level Parallelism in Spiking Neural Network Accelerators through Co-Optimized Mapping and Scheduling](https://arxiv.org/abs/2606.13354v1)** | 2026-06-11 |  |
+| **[DWM-RO: Decentralized World Models with Reasoning Offloading for SWIPT-enabled Satellite-Terrestrial HetNets](https://arxiv.org/abs/2511.05972v3)** | 2026-06-11 |  |
+| **[Work Stealing for the 2D-Mesh Topology of Satellite Constellations in Low Earth Orbit](https://arxiv.org/abs/2606.13329v1)** | 2026-06-11 | preprint |
+| **[Skiplists with Foresight: Skipping Cache Misses](https://arxiv.org/abs/2606.13321v1)** | 2026-06-11 |  |
+| **[Clipping Makes Distributed and Federated Asynchronous SGD Robust to Stragglers](https://arxiv.org/abs/2606.13287v1)** | 2026-06-11 |  |
 
