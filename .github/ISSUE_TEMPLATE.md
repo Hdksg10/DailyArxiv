@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 15, 2026
+title: Latest 15 Papers - June 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Specifying Hardware Communication as Programs](https://arxiv.org/abs/2606.13659v1)** | 2026-06-11 |  |
-| **[Beyond Virtual Delay: Improving Packet Delay Bound in Network Calculus](https://arxiv.org/abs/2606.13631v1)** | 2026-06-11 |  |
-| **[Finding Conservation Laws of Large Dynamical Systems with Tasks and Futures: A Case Study in Utilizing Dynamic Data Dependencies](https://arxiv.org/abs/2606.13623v1)** | 2026-06-11 | <details><summary>To be...</summary><p>To be published in Lecture Notes in Computer Science, Volume 16592</p></details> |
-| **[Probabilistic, Resource-Aware, Asynchronous, Out-of-Order Choreographies](https://arxiv.org/abs/2606.13520v1)** | 2026-06-11 | <details><summary>To be...</summary><p>To be presented at CP 2026 (16 June 2026, Boulder, CO)</p></details> |
-| **[Programmable Property-Based Testing](https://arxiv.org/abs/2602.18545v2)** | 2026-06-11 |  |
-| **[FOLD: Fuzzy Online Deduplication for Very Large Evolving Datasets via Approximate Nearest Neighbor Search](https://arxiv.org/abs/2606.03001v2)** | 2026-06-11 |  |
-| **[GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving](https://arxiv.org/abs/2606.13501v1)** | 2026-06-11 |  |
-| **[Etna: An Evaluation Platform for Property-Based Testing](https://arxiv.org/abs/2603.27002v2)** | 2026-06-11 |  |
-| **[Implementing CPSLint: A Data Validation and Sanitisation Tool for Industrial Cyber-Physical Systems](https://arxiv.org/abs/2604.18191v2)** | 2026-06-11 |  |
-| **[Temporal Conductance and Bounds on the Voter Model for Dynamic Networks](https://arxiv.org/abs/2606.13374v1)** | 2026-06-11 |  |
-| **[SupraSNN: Exploiting Synapse-Level Parallelism in Spiking Neural Network Accelerators through Co-Optimized Mapping and Scheduling](https://arxiv.org/abs/2606.13354v1)** | 2026-06-11 |  |
-| **[DWM-RO: Decentralized World Models with Reasoning Offloading for SWIPT-enabled Satellite-Terrestrial HetNets](https://arxiv.org/abs/2511.05972v3)** | 2026-06-11 |  |
-| **[Work Stealing for the 2D-Mesh Topology of Satellite Constellations in Low Earth Orbit](https://arxiv.org/abs/2606.13329v1)** | 2026-06-11 | preprint |
-| **[Skiplists with Foresight: Skipping Cache Misses](https://arxiv.org/abs/2606.13321v1)** | 2026-06-11 |  |
-| **[Clipping Makes Distributed and Federated Asynchronous SGD Robust to Stragglers](https://arxiv.org/abs/2606.13287v1)** | 2026-06-11 |  |
+| **[Quasilinear Equivalence Checking for Detector Error Models](https://arxiv.org/abs/2606.14677v1)** | 2026-06-12 | 19 pages, 5 figures |
+| **[parRSB: Exascale Spectral Element Mesh Partitioning](https://arxiv.org/abs/2606.14659v1)** | 2026-06-12 |  |
+| **[Syntax and semantics of focalisation with relative monads and comonads](https://arxiv.org/abs/2606.14652v1)** | 2026-06-12 | <details><summary>Prese...</summary><p>Presented at the Sixth International Workshop on Structures and Deduction 2026 (SD 2026)</p></details> |
+| **[Empowering Student Debugging in Parallel Programming with Execution Traces and Large Language Models](https://arxiv.org/abs/2606.14607v1)** | 2026-06-12 |  |
+| **[When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime](https://arxiv.org/abs/2606.14589v1)** | 2026-06-12 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 2 tables. 22 incident postmortems and all defense-framework artifacts publicly available at https://github.com/bisdom-cell/openclaw-model-bridge; governance engine on PyPI (openclaw-ontology-engine)</p></details> |
+| **[Extended Abstract: Re-Evaluating the Real-System Modeling Accuracy of Ramulator 2.0](https://arxiv.org/abs/2606.14566v1)** | 2026-06-12 | <details><summary>This ...</summary><p>This is an extended abstract version of the full paper available at arXiv:2510.15744 (ISPASS 2026). Presented at the Third Tutorial on Ramulator and DRAM Bender, colocated with ICS 2026</p></details> |
+| **[OpenDT: Exploring Datacenter Performance and Sustainability with a Self-Calibrating Digital Twin -- Technical Report](https://arxiv.org/abs/2604.11445v2)** | 2026-06-12 | <details><summary>Compa...</summary><p>Companion of the 17th ACM/SPEC International Conference on Performance Engineering (ICPE 2026), May 04-08, 2026, Florence, Italy</p></details> |
+| **[Simple-IT: Practical Low-Latency Signature-Free BFT Consensus](https://arxiv.org/abs/2606.14404v1)** | 2026-06-12 |  |
+| **[Simulation-Based Performance Evaluation of Sharded Blockchain Architectures](https://arxiv.org/abs/2606.14394v1)** | 2026-06-12 | <details><summary>4 pag...</summary><p>4 pages, 3 figures. Companion technical report for GCASR 2026 poster</p></details> |
+| **[PLAIground: SLO-Driven Runtime Model Selection for Compound AI Systems in the Edge-Cloud-Space Continuum](https://arxiv.org/abs/2606.14356v1)** | 2026-06-12 |  |
+| **[Design Methodology and Performance Trade-offs Management for Distributed and Compound AI Systems](https://arxiv.org/abs/2606.14350v1)** | 2026-06-12 |  |
+| **[RT-RkNN: Reverse k Nearest Neighbor Queries as a Graphics Ray Casting Problem](https://arxiv.org/abs/2605.26671v2)** | 2026-06-12 | <details><summary>12 pa...</summary><p>12 pages except reference</p></details> |
+| **[Shifting the Sweet Spot: High-Performance Matrix-Free Method for High-Order Elasticity](https://arxiv.org/abs/2601.08374v2)** | 2026-06-12 | <details><summary>23 pa...</summary><p>23 pages, 6 figures; revised manuscript with narrowed claims, expanded related work and reproducibility details, and added GMG configuration and performance-context analyses</p></details> |
+| **[Selective Field Transmission: Bandwidth Efficient Communication under Standardized Message Schemas](https://arxiv.org/abs/2606.14228v1)** | 2026-06-12 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, IEEE ETFA</p></details> |
+| **[On the Limits of Causal Observation in Shared-Memory Systems](https://arxiv.org/abs/2606.14093v1)** | 2026-06-12 | <details><summary>21 pa...</summary><p>21 pages, 2 figures, full version, under review</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Specifying Hardware Communication as Programs](https://arxiv.org/abs/2606.13659v1)** | 2026-06-11 |  |
-| **[Beyond Virtual Delay: Improving Packet Delay Bound in Network Calculus](https://arxiv.org/abs/2606.13631v1)** | 2026-06-11 |  |
-| **[Finding Conservation Laws of Large Dynamical Systems with Tasks and Futures: A Case Study in Utilizing Dynamic Data Dependencies](https://arxiv.org/abs/2606.13623v1)** | 2026-06-11 | <details><summary>To be...</summary><p>To be published in Lecture Notes in Computer Science, Volume 16592</p></details> |
-| **[Probabilistic, Resource-Aware, Asynchronous, Out-of-Order Choreographies](https://arxiv.org/abs/2606.13520v1)** | 2026-06-11 | <details><summary>To be...</summary><p>To be presented at CP 2026 (16 June 2026, Boulder, CO)</p></details> |
-| **[Programmable Property-Based Testing](https://arxiv.org/abs/2602.18545v2)** | 2026-06-11 |  |
-| **[FOLD: Fuzzy Online Deduplication for Very Large Evolving Datasets via Approximate Nearest Neighbor Search](https://arxiv.org/abs/2606.03001v2)** | 2026-06-11 |  |
-| **[GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving](https://arxiv.org/abs/2606.13501v1)** | 2026-06-11 |  |
-| **[Etna: An Evaluation Platform for Property-Based Testing](https://arxiv.org/abs/2603.27002v2)** | 2026-06-11 |  |
-| **[Implementing CPSLint: A Data Validation and Sanitisation Tool for Industrial Cyber-Physical Systems](https://arxiv.org/abs/2604.18191v2)** | 2026-06-11 |  |
-| **[Temporal Conductance and Bounds on the Voter Model for Dynamic Networks](https://arxiv.org/abs/2606.13374v1)** | 2026-06-11 |  |
-| **[SupraSNN: Exploiting Synapse-Level Parallelism in Spiking Neural Network Accelerators through Co-Optimized Mapping and Scheduling](https://arxiv.org/abs/2606.13354v1)** | 2026-06-11 |  |
-| **[DWM-RO: Decentralized World Models with Reasoning Offloading for SWIPT-enabled Satellite-Terrestrial HetNets](https://arxiv.org/abs/2511.05972v3)** | 2026-06-11 |  |
-| **[Work Stealing for the 2D-Mesh Topology of Satellite Constellations in Low Earth Orbit](https://arxiv.org/abs/2606.13329v1)** | 2026-06-11 | preprint |
-| **[Skiplists with Foresight: Skipping Cache Misses](https://arxiv.org/abs/2606.13321v1)** | 2026-06-11 |  |
-| **[Clipping Makes Distributed and Federated Asynchronous SGD Robust to Stragglers](https://arxiv.org/abs/2606.13287v1)** | 2026-06-11 |  |
+| **[Quasilinear Equivalence Checking for Detector Error Models](https://arxiv.org/abs/2606.14677v1)** | 2026-06-12 | 19 pages, 5 figures |
+| **[parRSB: Exascale Spectral Element Mesh Partitioning](https://arxiv.org/abs/2606.14659v1)** | 2026-06-12 |  |
+| **[Syntax and semantics of focalisation with relative monads and comonads](https://arxiv.org/abs/2606.14652v1)** | 2026-06-12 | <details><summary>Prese...</summary><p>Presented at the Sixth International Workshop on Structures and Deduction 2026 (SD 2026)</p></details> |
+| **[Empowering Student Debugging in Parallel Programming with Execution Traces and Large Language Models](https://arxiv.org/abs/2606.14607v1)** | 2026-06-12 |  |
+| **[When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime](https://arxiv.org/abs/2606.14589v1)** | 2026-06-12 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 2 tables. 22 incident postmortems and all defense-framework artifacts publicly available at https://github.com/bisdom-cell/openclaw-model-bridge; governance engine on PyPI (openclaw-ontology-engine)</p></details> |
+| **[Extended Abstract: Re-Evaluating the Real-System Modeling Accuracy of Ramulator 2.0](https://arxiv.org/abs/2606.14566v1)** | 2026-06-12 | <details><summary>This ...</summary><p>This is an extended abstract version of the full paper available at arXiv:2510.15744 (ISPASS 2026). Presented at the Third Tutorial on Ramulator and DRAM Bender, colocated with ICS 2026</p></details> |
+| **[OpenDT: Exploring Datacenter Performance and Sustainability with a Self-Calibrating Digital Twin -- Technical Report](https://arxiv.org/abs/2604.11445v2)** | 2026-06-12 | <details><summary>Compa...</summary><p>Companion of the 17th ACM/SPEC International Conference on Performance Engineering (ICPE 2026), May 04-08, 2026, Florence, Italy</p></details> |
+| **[Simple-IT: Practical Low-Latency Signature-Free BFT Consensus](https://arxiv.org/abs/2606.14404v1)** | 2026-06-12 |  |
+| **[Simulation-Based Performance Evaluation of Sharded Blockchain Architectures](https://arxiv.org/abs/2606.14394v1)** | 2026-06-12 | <details><summary>4 pag...</summary><p>4 pages, 3 figures. Companion technical report for GCASR 2026 poster</p></details> |
+| **[PLAIground: SLO-Driven Runtime Model Selection for Compound AI Systems in the Edge-Cloud-Space Continuum](https://arxiv.org/abs/2606.14356v1)** | 2026-06-12 |  |
+| **[Design Methodology and Performance Trade-offs Management for Distributed and Compound AI Systems](https://arxiv.org/abs/2606.14350v1)** | 2026-06-12 |  |
+| **[RT-RkNN: Reverse k Nearest Neighbor Queries as a Graphics Ray Casting Problem](https://arxiv.org/abs/2605.26671v2)** | 2026-06-12 | <details><summary>12 pa...</summary><p>12 pages except reference</p></details> |
+| **[Shifting the Sweet Spot: High-Performance Matrix-Free Method for High-Order Elasticity](https://arxiv.org/abs/2601.08374v2)** | 2026-06-12 | <details><summary>23 pa...</summary><p>23 pages, 6 figures; revised manuscript with narrowed claims, expanded related work and reproducibility details, and added GMG configuration and performance-context analyses</p></details> |
+| **[Selective Field Transmission: Bandwidth Efficient Communication under Standardized Message Schemas](https://arxiv.org/abs/2606.14228v1)** | 2026-06-12 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, IEEE ETFA</p></details> |
+| **[On the Limits of Causal Observation in Shared-Memory Systems](https://arxiv.org/abs/2606.14093v1)** | 2026-06-12 | <details><summary>21 pa...</summary><p>21 pages, 2 figures, full version, under review</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Specifying Hardware Communication as Programs](https://arxiv.org/abs/2606.13659v1)** | 2026-06-11 |  |
-| **[Beyond Virtual Delay: Improving Packet Delay Bound in Network Calculus](https://arxiv.org/abs/2606.13631v1)** | 2026-06-11 |  |
-| **[Finding Conservation Laws of Large Dynamical Systems with Tasks and Futures: A Case Study in Utilizing Dynamic Data Dependencies](https://arxiv.org/abs/2606.13623v1)** | 2026-06-11 | <details><summary>To be...</summary><p>To be published in Lecture Notes in Computer Science, Volume 16592</p></details> |
-| **[Probabilistic, Resource-Aware, Asynchronous, Out-of-Order Choreographies](https://arxiv.org/abs/2606.13520v1)** | 2026-06-11 | <details><summary>To be...</summary><p>To be presented at CP 2026 (16 June 2026, Boulder, CO)</p></details> |
-| **[Programmable Property-Based Testing](https://arxiv.org/abs/2602.18545v2)** | 2026-06-11 |  |
-| **[FOLD: Fuzzy Online Deduplication for Very Large Evolving Datasets via Approximate Nearest Neighbor Search](https://arxiv.org/abs/2606.03001v2)** | 2026-06-11 |  |
-| **[GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving](https://arxiv.org/abs/2606.13501v1)** | 2026-06-11 |  |
-| **[Etna: An Evaluation Platform for Property-Based Testing](https://arxiv.org/abs/2603.27002v2)** | 2026-06-11 |  |
-| **[Implementing CPSLint: A Data Validation and Sanitisation Tool for Industrial Cyber-Physical Systems](https://arxiv.org/abs/2604.18191v2)** | 2026-06-11 |  |
-| **[Temporal Conductance and Bounds on the Voter Model for Dynamic Networks](https://arxiv.org/abs/2606.13374v1)** | 2026-06-11 |  |
-| **[SupraSNN: Exploiting Synapse-Level Parallelism in Spiking Neural Network Accelerators through Co-Optimized Mapping and Scheduling](https://arxiv.org/abs/2606.13354v1)** | 2026-06-11 |  |
-| **[DWM-RO: Decentralized World Models with Reasoning Offloading for SWIPT-enabled Satellite-Terrestrial HetNets](https://arxiv.org/abs/2511.05972v3)** | 2026-06-11 |  |
-| **[Work Stealing for the 2D-Mesh Topology of Satellite Constellations in Low Earth Orbit](https://arxiv.org/abs/2606.13329v1)** | 2026-06-11 | preprint |
-| **[Skiplists with Foresight: Skipping Cache Misses](https://arxiv.org/abs/2606.13321v1)** | 2026-06-11 |  |
-| **[Clipping Makes Distributed and Federated Asynchronous SGD Robust to Stragglers](https://arxiv.org/abs/2606.13287v1)** | 2026-06-11 |  |
+| **[Quasilinear Equivalence Checking for Detector Error Models](https://arxiv.org/abs/2606.14677v1)** | 2026-06-12 | 19 pages, 5 figures |
+| **[parRSB: Exascale Spectral Element Mesh Partitioning](https://arxiv.org/abs/2606.14659v1)** | 2026-06-12 |  |
+| **[Syntax and semantics of focalisation with relative monads and comonads](https://arxiv.org/abs/2606.14652v1)** | 2026-06-12 | <details><summary>Prese...</summary><p>Presented at the Sixth International Workshop on Structures and Deduction 2026 (SD 2026)</p></details> |
+| **[Empowering Student Debugging in Parallel Programming with Execution Traces and Large Language Models](https://arxiv.org/abs/2606.14607v1)** | 2026-06-12 |  |
+| **[When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime](https://arxiv.org/abs/2606.14589v1)** | 2026-06-12 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 2 tables. 22 incident postmortems and all defense-framework artifacts publicly available at https://github.com/bisdom-cell/openclaw-model-bridge; governance engine on PyPI (openclaw-ontology-engine)</p></details> |
+| **[Extended Abstract: Re-Evaluating the Real-System Modeling Accuracy of Ramulator 2.0](https://arxiv.org/abs/2606.14566v1)** | 2026-06-12 | <details><summary>This ...</summary><p>This is an extended abstract version of the full paper available at arXiv:2510.15744 (ISPASS 2026). Presented at the Third Tutorial on Ramulator and DRAM Bender, colocated with ICS 2026</p></details> |
+| **[OpenDT: Exploring Datacenter Performance and Sustainability with a Self-Calibrating Digital Twin -- Technical Report](https://arxiv.org/abs/2604.11445v2)** | 2026-06-12 | <details><summary>Compa...</summary><p>Companion of the 17th ACM/SPEC International Conference on Performance Engineering (ICPE 2026), May 04-08, 2026, Florence, Italy</p></details> |
+| **[Simple-IT: Practical Low-Latency Signature-Free BFT Consensus](https://arxiv.org/abs/2606.14404v1)** | 2026-06-12 |  |
+| **[Simulation-Based Performance Evaluation of Sharded Blockchain Architectures](https://arxiv.org/abs/2606.14394v1)** | 2026-06-12 | <details><summary>4 pag...</summary><p>4 pages, 3 figures. Companion technical report for GCASR 2026 poster</p></details> |
+| **[PLAIground: SLO-Driven Runtime Model Selection for Compound AI Systems in the Edge-Cloud-Space Continuum](https://arxiv.org/abs/2606.14356v1)** | 2026-06-12 |  |
+| **[Design Methodology and Performance Trade-offs Management for Distributed and Compound AI Systems](https://arxiv.org/abs/2606.14350v1)** | 2026-06-12 |  |
+| **[RT-RkNN: Reverse k Nearest Neighbor Queries as a Graphics Ray Casting Problem](https://arxiv.org/abs/2605.26671v2)** | 2026-06-12 | <details><summary>12 pa...</summary><p>12 pages except reference</p></details> |
+| **[Shifting the Sweet Spot: High-Performance Matrix-Free Method for High-Order Elasticity](https://arxiv.org/abs/2601.08374v2)** | 2026-06-12 | <details><summary>23 pa...</summary><p>23 pages, 6 figures; revised manuscript with narrowed claims, expanded related work and reproducibility details, and added GMG configuration and performance-context analyses</p></details> |
+| **[Selective Field Transmission: Bandwidth Efficient Communication under Standardized Message Schemas](https://arxiv.org/abs/2606.14228v1)** | 2026-06-12 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, IEEE ETFA</p></details> |
+| **[On the Limits of Causal Observation in Shared-Memory Systems](https://arxiv.org/abs/2606.14093v1)** | 2026-06-12 | <details><summary>21 pa...</summary><p>21 pages, 2 figures, full version, under review</p></details> |
 
