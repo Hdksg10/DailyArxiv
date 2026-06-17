@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2026
+title: Latest 15 Papers - June 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diagonal-Budgeted Trotterization for Efficient Quantum Hamiltonian Simulation](https://arxiv.org/abs/2606.16959v1)** | 2026-06-15 | <details><summary>Exten...</summary><p>Extended version including appendix. Accepted to ACM ICS 2026</p></details> |
-| **[Re-Rooting-Based Fault-Tolerant Broadcasting in Dense Gaussian Networks](https://arxiv.org/abs/2606.16954v1)** | 2026-06-15 | <details><summary>Submi...</summary><p>Submitted to IEEE Access. Preprint also available on Zenodo:https://doi.org/10.5281/zenodo.20690481</p></details> |
-| **[Single-Connection Mixed-Criticality Transport with CATS: Bounded Guarantees, Three Structural Limits, and a QUIC Escape](https://arxiv.org/abs/2606.16924v1)** | 2026-06-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 1 table</p></details> |
-| **[Tangram: Hiding GPU Heterogeneity for Efficient LLM Parallelization](https://arxiv.org/abs/2606.16907v1)** | 2026-06-15 |  |
-| **[A Unified Constant-Time Switch Rule for Constructing Edge-Disjoint Hamiltonian Cycles in Gaussian Networks](https://arxiv.org/abs/2606.16892v1)** | 2026-06-15 | <details><summary>Prepr...</summary><p>Preprint also available on Zenodo:https://doi.org/10.5281/zenodo.20690698</p></details> |
-| **[Communication-Efficient Distributed Training for Collaborative Flat Optima Recovery in Deep Learning](https://arxiv.org/abs/2507.20424v3)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted to UAI 2026 - 9 pages main body, 33 pages of supplementary material for hyperparameter configurations, full proofs of theorems and additional results</p></details> |
-| **[Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection](https://arxiv.org/abs/2606.16868v1)** | 2026-06-15 |  |
-| **[CacheWise: Understanding Workloads and Optimizing KVCache Management for Efficiently Serving LLM Coding Agents](https://arxiv.org/abs/2606.16824v1)** | 2026-06-15 |  |
-| **[From the NYU Ultracomputer to Modern Exascale: A Historical and Architectural Survey of In-Network Computing and Scalable Synchronization](https://arxiv.org/abs/2606.16819v1)** | 2026-06-15 | 19 pages, 3 figures |
-| **[Compositional Neural-Cyber-Physical System Verification in the Interactive Theorem Prover of Your Choice](https://arxiv.org/abs/2605.02790v3)** | 2026-06-15 |  |
-| **[Robust and Automated Reconfiguration of Byzantine Wide-Area Replication](https://arxiv.org/abs/2606.16740v1)** | 2026-06-15 | <details><summary>To ap...</summary><p>To appear in Proceedings of the 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026), Charlotte, USA, June 22-25, 2026</p></details> |
-| **[Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving](https://arxiv.org/abs/2512.22420v5)** | 2026-06-15 |  |
-| **[DRIFT: Risk-Constrained Diffusion with Imitation Priors for Mixed-Autonomy Traffic Generation](https://arxiv.org/abs/2606.16589v1)** | 2026-06-15 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 16 tables</p></details> |
-| **[Incentives and Evidence in Learned Service Orchestration](https://arxiv.org/abs/2606.16555v1)** | 2026-06-15 | <details><summary>To be...</summary><p>To be presented at the IEEE 2026 International Congress on Intelligent and Service Oriented Systems Engineering (CISOSE 2026)</p></details> |
-| **[Generated, Parallel, Scalable? A Study of Agentic AI-Generated Julia Code on Supercomputers](https://arxiv.org/abs/2606.16534v1)** | 2026-06-15 |  |
+| **[Gatling: Rapid-Fire Consensus from Parallel Composition](https://arxiv.org/abs/2606.18220v1)** | 2026-06-16 |  |
+| **[Regression Language Models for Code](https://arxiv.org/abs/2509.26476v3)** | 2026-06-16 | <details><summary>Publi...</summary><p>Published in International Conference on Machine Learning (ICML) 2026</p></details> |
+| **[Vulcan: Instance-specialized, Verifiable Systems Heuristics Through LLM-driven Search](https://arxiv.org/abs/2512.25065v2)** | 2026-06-16 | 19 pages |
+| **[Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold](https://arxiv.org/abs/2606.18187v1)** | 2026-06-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/group-commit-policy</p></details> |
+| **[Optimal Calibration of Quantum Network Links](https://arxiv.org/abs/2606.18167v1)** | 2026-06-16 | 23 pages, 10 figures |
+| **[Behind Python: The Languages That Power AI](https://arxiv.org/abs/2606.18141v1)** | 2026-06-16 |  |
+| **[S4oP: Operator-level Pruning of Structured State Space Models for Resource-Constrained Devices](https://arxiv.org/abs/2606.18096v1)** | 2026-06-16 |  |
+| **[Defense-in-Depth Runtime Safety in Move](https://arxiv.org/abs/2606.18064v1)** | 2026-06-16 |  |
+| **[Latency Prediction for LLM Inference on NPU Systems](https://arxiv.org/abs/2606.18042v1)** | 2026-06-16 | <details><summary>12 pa...</summary><p>12 pages, 9 figures. Submitted to IISWC 2026</p></details> |
+| **[RouteBalance: Fused Model Routing and Load Balancing for Heterogeneous LLM Serving](https://arxiv.org/abs/2606.17949v1)** | 2026-06-16 | 12 pages, 5 figures |
+| **[Blueprint First, Model Second: A Framework for Deterministic LLM Workflow](https://arxiv.org/abs/2508.02721v2)** | 2026-06-16 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 6 tables</p></details> |
+| **[An Epistemic Analysis of Random Coordinated Attack](https://arxiv.org/abs/2606.17860v1)** | 2026-06-16 |  |
+| **[Free Doubly-Infinitary Distributive Categories are Cartesian Closed](https://arxiv.org/abs/2403.10447v8)** | 2026-06-16 | <details><summary>35 pa...</summary><p>35 pages, changed presentation</p></details> |
+| **[LUMEN: Coordinated Failure Recovery for Distributed LLM Serving](https://arxiv.org/abs/2606.17787v1)** | 2026-06-16 |  |
+| **[Parallelizing Tool Execution and LLM Generation for Low-Latency Agent Serving](https://arxiv.org/abs/2603.18897v3)** | 2026-06-16 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diagonal-Budgeted Trotterization for Efficient Quantum Hamiltonian Simulation](https://arxiv.org/abs/2606.16959v1)** | 2026-06-15 | <details><summary>Exten...</summary><p>Extended version including appendix. Accepted to ACM ICS 2026</p></details> |
-| **[Re-Rooting-Based Fault-Tolerant Broadcasting in Dense Gaussian Networks](https://arxiv.org/abs/2606.16954v1)** | 2026-06-15 | <details><summary>Submi...</summary><p>Submitted to IEEE Access. Preprint also available on Zenodo:https://doi.org/10.5281/zenodo.20690481</p></details> |
-| **[Single-Connection Mixed-Criticality Transport with CATS: Bounded Guarantees, Three Structural Limits, and a QUIC Escape](https://arxiv.org/abs/2606.16924v1)** | 2026-06-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 1 table</p></details> |
-| **[Tangram: Hiding GPU Heterogeneity for Efficient LLM Parallelization](https://arxiv.org/abs/2606.16907v1)** | 2026-06-15 |  |
-| **[A Unified Constant-Time Switch Rule for Constructing Edge-Disjoint Hamiltonian Cycles in Gaussian Networks](https://arxiv.org/abs/2606.16892v1)** | 2026-06-15 | <details><summary>Prepr...</summary><p>Preprint also available on Zenodo:https://doi.org/10.5281/zenodo.20690698</p></details> |
-| **[Communication-Efficient Distributed Training for Collaborative Flat Optima Recovery in Deep Learning](https://arxiv.org/abs/2507.20424v3)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted to UAI 2026 - 9 pages main body, 33 pages of supplementary material for hyperparameter configurations, full proofs of theorems and additional results</p></details> |
-| **[Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection](https://arxiv.org/abs/2606.16868v1)** | 2026-06-15 |  |
-| **[CacheWise: Understanding Workloads and Optimizing KVCache Management for Efficiently Serving LLM Coding Agents](https://arxiv.org/abs/2606.16824v1)** | 2026-06-15 |  |
-| **[From the NYU Ultracomputer to Modern Exascale: A Historical and Architectural Survey of In-Network Computing and Scalable Synchronization](https://arxiv.org/abs/2606.16819v1)** | 2026-06-15 | 19 pages, 3 figures |
-| **[Compositional Neural-Cyber-Physical System Verification in the Interactive Theorem Prover of Your Choice](https://arxiv.org/abs/2605.02790v3)** | 2026-06-15 |  |
-| **[Robust and Automated Reconfiguration of Byzantine Wide-Area Replication](https://arxiv.org/abs/2606.16740v1)** | 2026-06-15 | <details><summary>To ap...</summary><p>To appear in Proceedings of the 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026), Charlotte, USA, June 22-25, 2026</p></details> |
-| **[Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving](https://arxiv.org/abs/2512.22420v5)** | 2026-06-15 |  |
-| **[DRIFT: Risk-Constrained Diffusion with Imitation Priors for Mixed-Autonomy Traffic Generation](https://arxiv.org/abs/2606.16589v1)** | 2026-06-15 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 16 tables</p></details> |
-| **[Incentives and Evidence in Learned Service Orchestration](https://arxiv.org/abs/2606.16555v1)** | 2026-06-15 | <details><summary>To be...</summary><p>To be presented at the IEEE 2026 International Congress on Intelligent and Service Oriented Systems Engineering (CISOSE 2026)</p></details> |
-| **[Generated, Parallel, Scalable? A Study of Agentic AI-Generated Julia Code on Supercomputers](https://arxiv.org/abs/2606.16534v1)** | 2026-06-15 |  |
+| **[Gatling: Rapid-Fire Consensus from Parallel Composition](https://arxiv.org/abs/2606.18220v1)** | 2026-06-16 |  |
+| **[Regression Language Models for Code](https://arxiv.org/abs/2509.26476v3)** | 2026-06-16 | <details><summary>Publi...</summary><p>Published in International Conference on Machine Learning (ICML) 2026</p></details> |
+| **[Vulcan: Instance-specialized, Verifiable Systems Heuristics Through LLM-driven Search](https://arxiv.org/abs/2512.25065v2)** | 2026-06-16 | 19 pages |
+| **[Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold](https://arxiv.org/abs/2606.18187v1)** | 2026-06-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/group-commit-policy</p></details> |
+| **[Optimal Calibration of Quantum Network Links](https://arxiv.org/abs/2606.18167v1)** | 2026-06-16 | 23 pages, 10 figures |
+| **[Behind Python: The Languages That Power AI](https://arxiv.org/abs/2606.18141v1)** | 2026-06-16 |  |
+| **[S4oP: Operator-level Pruning of Structured State Space Models for Resource-Constrained Devices](https://arxiv.org/abs/2606.18096v1)** | 2026-06-16 |  |
+| **[Defense-in-Depth Runtime Safety in Move](https://arxiv.org/abs/2606.18064v1)** | 2026-06-16 |  |
+| **[Latency Prediction for LLM Inference on NPU Systems](https://arxiv.org/abs/2606.18042v1)** | 2026-06-16 | <details><summary>12 pa...</summary><p>12 pages, 9 figures. Submitted to IISWC 2026</p></details> |
+| **[RouteBalance: Fused Model Routing and Load Balancing for Heterogeneous LLM Serving](https://arxiv.org/abs/2606.17949v1)** | 2026-06-16 | 12 pages, 5 figures |
+| **[Blueprint First, Model Second: A Framework for Deterministic LLM Workflow](https://arxiv.org/abs/2508.02721v2)** | 2026-06-16 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 6 tables</p></details> |
+| **[An Epistemic Analysis of Random Coordinated Attack](https://arxiv.org/abs/2606.17860v1)** | 2026-06-16 |  |
+| **[Free Doubly-Infinitary Distributive Categories are Cartesian Closed](https://arxiv.org/abs/2403.10447v8)** | 2026-06-16 | <details><summary>35 pa...</summary><p>35 pages, changed presentation</p></details> |
+| **[LUMEN: Coordinated Failure Recovery for Distributed LLM Serving](https://arxiv.org/abs/2606.17787v1)** | 2026-06-16 |  |
+| **[Parallelizing Tool Execution and LLM Generation for Low-Latency Agent Serving](https://arxiv.org/abs/2603.18897v3)** | 2026-06-16 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diagonal-Budgeted Trotterization for Efficient Quantum Hamiltonian Simulation](https://arxiv.org/abs/2606.16959v1)** | 2026-06-15 | <details><summary>Exten...</summary><p>Extended version including appendix. Accepted to ACM ICS 2026</p></details> |
-| **[Re-Rooting-Based Fault-Tolerant Broadcasting in Dense Gaussian Networks](https://arxiv.org/abs/2606.16954v1)** | 2026-06-15 | <details><summary>Submi...</summary><p>Submitted to IEEE Access. Preprint also available on Zenodo:https://doi.org/10.5281/zenodo.20690481</p></details> |
-| **[Single-Connection Mixed-Criticality Transport with CATS: Bounded Guarantees, Three Structural Limits, and a QUIC Escape](https://arxiv.org/abs/2606.16924v1)** | 2026-06-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 1 table</p></details> |
-| **[Tangram: Hiding GPU Heterogeneity for Efficient LLM Parallelization](https://arxiv.org/abs/2606.16907v1)** | 2026-06-15 |  |
-| **[A Unified Constant-Time Switch Rule for Constructing Edge-Disjoint Hamiltonian Cycles in Gaussian Networks](https://arxiv.org/abs/2606.16892v1)** | 2026-06-15 | <details><summary>Prepr...</summary><p>Preprint also available on Zenodo:https://doi.org/10.5281/zenodo.20690698</p></details> |
-| **[Communication-Efficient Distributed Training for Collaborative Flat Optima Recovery in Deep Learning](https://arxiv.org/abs/2507.20424v3)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted to UAI 2026 - 9 pages main body, 33 pages of supplementary material for hyperparameter configurations, full proofs of theorems and additional results</p></details> |
-| **[Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection](https://arxiv.org/abs/2606.16868v1)** | 2026-06-15 |  |
-| **[CacheWise: Understanding Workloads and Optimizing KVCache Management for Efficiently Serving LLM Coding Agents](https://arxiv.org/abs/2606.16824v1)** | 2026-06-15 |  |
-| **[From the NYU Ultracomputer to Modern Exascale: A Historical and Architectural Survey of In-Network Computing and Scalable Synchronization](https://arxiv.org/abs/2606.16819v1)** | 2026-06-15 | 19 pages, 3 figures |
-| **[Compositional Neural-Cyber-Physical System Verification in the Interactive Theorem Prover of Your Choice](https://arxiv.org/abs/2605.02790v3)** | 2026-06-15 |  |
-| **[Robust and Automated Reconfiguration of Byzantine Wide-Area Replication](https://arxiv.org/abs/2606.16740v1)** | 2026-06-15 | <details><summary>To ap...</summary><p>To appear in Proceedings of the 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026), Charlotte, USA, June 22-25, 2026</p></details> |
-| **[Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving](https://arxiv.org/abs/2512.22420v5)** | 2026-06-15 |  |
-| **[DRIFT: Risk-Constrained Diffusion with Imitation Priors for Mixed-Autonomy Traffic Generation](https://arxiv.org/abs/2606.16589v1)** | 2026-06-15 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 16 tables</p></details> |
-| **[Incentives and Evidence in Learned Service Orchestration](https://arxiv.org/abs/2606.16555v1)** | 2026-06-15 | <details><summary>To be...</summary><p>To be presented at the IEEE 2026 International Congress on Intelligent and Service Oriented Systems Engineering (CISOSE 2026)</p></details> |
-| **[Generated, Parallel, Scalable? A Study of Agentic AI-Generated Julia Code on Supercomputers](https://arxiv.org/abs/2606.16534v1)** | 2026-06-15 |  |
+| **[Gatling: Rapid-Fire Consensus from Parallel Composition](https://arxiv.org/abs/2606.18220v1)** | 2026-06-16 |  |
+| **[Regression Language Models for Code](https://arxiv.org/abs/2509.26476v3)** | 2026-06-16 | <details><summary>Publi...</summary><p>Published in International Conference on Machine Learning (ICML) 2026</p></details> |
+| **[Vulcan: Instance-specialized, Verifiable Systems Heuristics Through LLM-driven Search](https://arxiv.org/abs/2512.25065v2)** | 2026-06-16 | 19 pages |
+| **[Group Commit Self-Clocks: Why Tuning Is Unnecessary Above a Device-Set Load Threshold](https://arxiv.org/abs/2606.18187v1)** | 2026-06-16 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Code, benchmarks, and full pre-registration: https://github.com/samyama-ai/group-commit-policy</p></details> |
+| **[Optimal Calibration of Quantum Network Links](https://arxiv.org/abs/2606.18167v1)** | 2026-06-16 | 23 pages, 10 figures |
+| **[Behind Python: The Languages That Power AI](https://arxiv.org/abs/2606.18141v1)** | 2026-06-16 |  |
+| **[S4oP: Operator-level Pruning of Structured State Space Models for Resource-Constrained Devices](https://arxiv.org/abs/2606.18096v1)** | 2026-06-16 |  |
+| **[Defense-in-Depth Runtime Safety in Move](https://arxiv.org/abs/2606.18064v1)** | 2026-06-16 |  |
+| **[Latency Prediction for LLM Inference on NPU Systems](https://arxiv.org/abs/2606.18042v1)** | 2026-06-16 | <details><summary>12 pa...</summary><p>12 pages, 9 figures. Submitted to IISWC 2026</p></details> |
+| **[RouteBalance: Fused Model Routing and Load Balancing for Heterogeneous LLM Serving](https://arxiv.org/abs/2606.17949v1)** | 2026-06-16 | 12 pages, 5 figures |
+| **[Blueprint First, Model Second: A Framework for Deterministic LLM Workflow](https://arxiv.org/abs/2508.02721v2)** | 2026-06-16 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 6 tables</p></details> |
+| **[An Epistemic Analysis of Random Coordinated Attack](https://arxiv.org/abs/2606.17860v1)** | 2026-06-16 |  |
+| **[Free Doubly-Infinitary Distributive Categories are Cartesian Closed](https://arxiv.org/abs/2403.10447v8)** | 2026-06-16 | <details><summary>35 pa...</summary><p>35 pages, changed presentation</p></details> |
+| **[LUMEN: Coordinated Failure Recovery for Distributed LLM Serving](https://arxiv.org/abs/2606.17787v1)** | 2026-06-16 |  |
+| **[Parallelizing Tool Execution and LLM Generation for Low-Latency Agent Serving](https://arxiv.org/abs/2603.18897v3)** | 2026-06-16 |  |
 
