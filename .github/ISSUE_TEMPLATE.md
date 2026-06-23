@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2026
+title: Latest 15 Papers - June 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving](https://arxiv.org/abs/2606.20537v1)** | 2026-06-18 | 27 pages, 9 figures |
-| **[Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes](https://arxiv.org/abs/2606.20520v1)** | 2026-06-18 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 10 tables</p></details> |
-| **[Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages](https://arxiv.org/abs/2606.20517v1)** | 2026-06-18 | ICLR 2026 |
-| **[CoarseSolvers for Exascale Solution of Poisson Problems](https://arxiv.org/abs/2606.20496v1)** | 2026-06-18 |  |
-| **[UltraQuant: 4-bit KV Caching for Context-Heavy Agents](https://arxiv.org/abs/2606.20474v1)** | 2026-06-18 | 11 pages, 9 figures |
-| **[ARGUS: Production-Scale Tracing and Performance Diagnosis for over 10,000-GPU Clusters](https://arxiv.org/abs/2606.20374v1)** | 2026-06-18 |  |
-| **[A cubical formalisation of conditional independence, Bayesian conditioning, and Pearl's d-separation soundness](https://arxiv.org/abs/2606.20351v1)** | 2026-06-18 |  |
-| **[Quantum ring all-reduce: communication and privacy advantages for distributed learning](https://arxiv.org/abs/2606.20344v1)** | 2026-06-18 | 23 pages, 1 figure |
-| **[Randomized Sketching is Robust to Low-Precision Rounding on GPUs](https://arxiv.org/abs/2606.20195v1)** | 2026-06-18 | 14 pages, 3 figures |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v4)** | 2026-06-18 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 7 tables</p></details> |
-| **[An MSO Framework for Weak-Memory Verification and Robustness](https://arxiv.org/abs/2606.20134v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted at CONCUR 2026</p></details> |
-| **[Triosecuris: Formally Verified Protection Against Speculative Control-Flow Hijacking](https://arxiv.org/abs/2601.22978v3)** | 2026-06-18 | <details><summary>To ap...</summary><p>To appear at CSF'26; extended version with appendices. W.r.t. first revision: extended with concrete protection against Spectre RSB and renamed to Triosecuris</p></details> |
-| **[The Correctness Illusion in LLM-Generated GPU Kernels](https://arxiv.org/abs/2606.20128v1)** | 2026-06-18 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, LNCS format. Companion papers to follow on arXiv next week; IDs will be added in a v2 replace</p></details> |
-| **[ESBMC-GraphPLC: Formal Verification of Graphical PLCopen XML Ladder Diagram Programs Using SMT-Based Model Checking](https://arxiv.org/abs/2606.18941v2)** | 2026-06-18 | 18 pages |
-| **[Edge-Inference Governors Need Memory-Clock State](https://arxiv.org/abs/2606.16106v2)** | 2026-06-18 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 11 tables. Code and data: https://github.com/dankang21/jetson-latency-lab ; traces: https://doi.org/10.5281/zenodo.20745228</p></details> |
+| **[Load Balancing Policies in Heterogeneous Systems: Non-Monotone Stability and Heavy-Traffic Optimality](https://arxiv.org/abs/2510.14284v2)** | 2026-06-22 |  |
+| **[Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse](https://arxiv.org/abs/2606.23581v1)** | 2026-06-22 |  |
+| **[The Energy Consumption of Transformer Fine-Tuning: A Roofline-Inspired Scaling Model](https://arxiv.org/abs/2606.23546v1)** | 2026-06-22 |  |
+| **[Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference](https://arxiv.org/abs/2606.23521v1)** | 2026-06-22 |  |
+| **[Development and Design of FLKit: A Structured Onboarding Toolkit for Federated Learning in Health and Life Sciences](https://arxiv.org/abs/2606.23500v1)** | 2026-06-22 | 18 pages, 2 figures |
+| **[A Compositional Language for Property Graphs](https://arxiv.org/abs/2606.23399v1)** | 2026-06-22 |  |
+| **[Asymmetry PRISM: A CPU/GPU Portfolio Optimization Engine for Deadline-Bounded Institutional Rebalancing](https://arxiv.org/abs/2606.23367v1)** | 2026-06-22 | 22 pages, 8 figures |
+| **[When Staking Rewards Compound: Measuring the Impact of Ethereum's Pectra Upgrade](https://arxiv.org/abs/2606.23337v1)** | 2026-06-22 | <details><summary>13 pa...</summary><p>13 pages, 15 figures. Accepted in the 5th International Conference on Blockchain (NBC 2026); non-archival submission</p></details> |
+| **[Node-Level Performance and Energy Characterization of Flagship Science Applications on SuperMUC-NG Phase 2](https://arxiv.org/abs/2606.23265v1)** | 2026-06-22 | <details><summary>Prese...</summary><p>Presented at ISC 2026 IXPUG Workshop</p></details> |
+| **[Solving Approximate Agreement on continuous and discrete spaces](https://arxiv.org/abs/2606.23260v1)** | 2026-06-22 | 24 pages, 5 figures |
+| **[An 83-Format Numeric Catalog with Bit-Exact Conformance Vectors: A Vendor-Neutral Reference for FP8, BF16, MXFP4, and Microscaling Formats](https://arxiv.org/abs/2606.09686v2)** | 2026-06-22 | <details><summary>17 pa...</summary><p>17 pages. Source repository: https://github.com/gHashTag/paper3-methodology tag v4.0-trinity. Paper CC BY 4.0; code MIT. ORCID 0009-0008-4294-6159</p></details> |
+| **[Efficient Network Inference via Hardware-Aware Architecture Search, Model Pruning & Quantization](https://arxiv.org/abs/2606.23210v1)** | 2026-06-22 | 7 pages, 7 figures |
+| **[Executing as You Generate: Hiding Execution Latency in LLM Code Interpreters](https://arxiv.org/abs/2604.00491v2)** | 2026-06-22 | 10 pages |
+| **[Committee Configuration Optimization for Parallel Byzantine Consensus in a Trusted Execution Environment](https://arxiv.org/abs/2603.14445v2)** | 2026-06-22 |  |
+| **[Types, equations, dimensions and the Pi theorem](https://arxiv.org/abs/2308.09481v6)** | 2026-06-22 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving](https://arxiv.org/abs/2606.20537v1)** | 2026-06-18 | 27 pages, 9 figures |
-| **[Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes](https://arxiv.org/abs/2606.20520v1)** | 2026-06-18 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 10 tables</p></details> |
-| **[Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages](https://arxiv.org/abs/2606.20517v1)** | 2026-06-18 | ICLR 2026 |
-| **[CoarseSolvers for Exascale Solution of Poisson Problems](https://arxiv.org/abs/2606.20496v1)** | 2026-06-18 |  |
-| **[UltraQuant: 4-bit KV Caching for Context-Heavy Agents](https://arxiv.org/abs/2606.20474v1)** | 2026-06-18 | 11 pages, 9 figures |
-| **[ARGUS: Production-Scale Tracing and Performance Diagnosis for over 10,000-GPU Clusters](https://arxiv.org/abs/2606.20374v1)** | 2026-06-18 |  |
-| **[A cubical formalisation of conditional independence, Bayesian conditioning, and Pearl's d-separation soundness](https://arxiv.org/abs/2606.20351v1)** | 2026-06-18 |  |
-| **[Quantum ring all-reduce: communication and privacy advantages for distributed learning](https://arxiv.org/abs/2606.20344v1)** | 2026-06-18 | 23 pages, 1 figure |
-| **[Randomized Sketching is Robust to Low-Precision Rounding on GPUs](https://arxiv.org/abs/2606.20195v1)** | 2026-06-18 | 14 pages, 3 figures |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v4)** | 2026-06-18 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 7 tables</p></details> |
-| **[An MSO Framework for Weak-Memory Verification and Robustness](https://arxiv.org/abs/2606.20134v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted at CONCUR 2026</p></details> |
-| **[Triosecuris: Formally Verified Protection Against Speculative Control-Flow Hijacking](https://arxiv.org/abs/2601.22978v3)** | 2026-06-18 | <details><summary>To ap...</summary><p>To appear at CSF'26; extended version with appendices. W.r.t. first revision: extended with concrete protection against Spectre RSB and renamed to Triosecuris</p></details> |
-| **[The Correctness Illusion in LLM-Generated GPU Kernels](https://arxiv.org/abs/2606.20128v1)** | 2026-06-18 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, LNCS format. Companion papers to follow on arXiv next week; IDs will be added in a v2 replace</p></details> |
-| **[ESBMC-GraphPLC: Formal Verification of Graphical PLCopen XML Ladder Diagram Programs Using SMT-Based Model Checking](https://arxiv.org/abs/2606.18941v2)** | 2026-06-18 | 18 pages |
-| **[Edge-Inference Governors Need Memory-Clock State](https://arxiv.org/abs/2606.16106v2)** | 2026-06-18 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 11 tables. Code and data: https://github.com/dankang21/jetson-latency-lab ; traces: https://doi.org/10.5281/zenodo.20745228</p></details> |
+| **[Load Balancing Policies in Heterogeneous Systems: Non-Monotone Stability and Heavy-Traffic Optimality](https://arxiv.org/abs/2510.14284v2)** | 2026-06-22 |  |
+| **[Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse](https://arxiv.org/abs/2606.23581v1)** | 2026-06-22 |  |
+| **[The Energy Consumption of Transformer Fine-Tuning: A Roofline-Inspired Scaling Model](https://arxiv.org/abs/2606.23546v1)** | 2026-06-22 |  |
+| **[Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference](https://arxiv.org/abs/2606.23521v1)** | 2026-06-22 |  |
+| **[Development and Design of FLKit: A Structured Onboarding Toolkit for Federated Learning in Health and Life Sciences](https://arxiv.org/abs/2606.23500v1)** | 2026-06-22 | 18 pages, 2 figures |
+| **[A Compositional Language for Property Graphs](https://arxiv.org/abs/2606.23399v1)** | 2026-06-22 |  |
+| **[Asymmetry PRISM: A CPU/GPU Portfolio Optimization Engine for Deadline-Bounded Institutional Rebalancing](https://arxiv.org/abs/2606.23367v1)** | 2026-06-22 | 22 pages, 8 figures |
+| **[When Staking Rewards Compound: Measuring the Impact of Ethereum's Pectra Upgrade](https://arxiv.org/abs/2606.23337v1)** | 2026-06-22 | <details><summary>13 pa...</summary><p>13 pages, 15 figures. Accepted in the 5th International Conference on Blockchain (NBC 2026); non-archival submission</p></details> |
+| **[Node-Level Performance and Energy Characterization of Flagship Science Applications on SuperMUC-NG Phase 2](https://arxiv.org/abs/2606.23265v1)** | 2026-06-22 | <details><summary>Prese...</summary><p>Presented at ISC 2026 IXPUG Workshop</p></details> |
+| **[Solving Approximate Agreement on continuous and discrete spaces](https://arxiv.org/abs/2606.23260v1)** | 2026-06-22 | 24 pages, 5 figures |
+| **[An 83-Format Numeric Catalog with Bit-Exact Conformance Vectors: A Vendor-Neutral Reference for FP8, BF16, MXFP4, and Microscaling Formats](https://arxiv.org/abs/2606.09686v2)** | 2026-06-22 | <details><summary>17 pa...</summary><p>17 pages. Source repository: https://github.com/gHashTag/paper3-methodology tag v4.0-trinity. Paper CC BY 4.0; code MIT. ORCID 0009-0008-4294-6159</p></details> |
+| **[Efficient Network Inference via Hardware-Aware Architecture Search, Model Pruning & Quantization](https://arxiv.org/abs/2606.23210v1)** | 2026-06-22 | 7 pages, 7 figures |
+| **[Executing as You Generate: Hiding Execution Latency in LLM Code Interpreters](https://arxiv.org/abs/2604.00491v2)** | 2026-06-22 | 10 pages |
+| **[Committee Configuration Optimization for Parallel Byzantine Consensus in a Trusted Execution Environment](https://arxiv.org/abs/2603.14445v2)** | 2026-06-22 |  |
+| **[Types, equations, dimensions and the Pi theorem](https://arxiv.org/abs/2308.09481v6)** | 2026-06-22 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving](https://arxiv.org/abs/2606.20537v1)** | 2026-06-18 | 27 pages, 9 figures |
-| **[Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes](https://arxiv.org/abs/2606.20520v1)** | 2026-06-18 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 10 tables</p></details> |
-| **[Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages](https://arxiv.org/abs/2606.20517v1)** | 2026-06-18 | ICLR 2026 |
-| **[CoarseSolvers for Exascale Solution of Poisson Problems](https://arxiv.org/abs/2606.20496v1)** | 2026-06-18 |  |
-| **[UltraQuant: 4-bit KV Caching for Context-Heavy Agents](https://arxiv.org/abs/2606.20474v1)** | 2026-06-18 | 11 pages, 9 figures |
-| **[ARGUS: Production-Scale Tracing and Performance Diagnosis for over 10,000-GPU Clusters](https://arxiv.org/abs/2606.20374v1)** | 2026-06-18 |  |
-| **[A cubical formalisation of conditional independence, Bayesian conditioning, and Pearl's d-separation soundness](https://arxiv.org/abs/2606.20351v1)** | 2026-06-18 |  |
-| **[Quantum ring all-reduce: communication and privacy advantages for distributed learning](https://arxiv.org/abs/2606.20344v1)** | 2026-06-18 | 23 pages, 1 figure |
-| **[Randomized Sketching is Robust to Low-Precision Rounding on GPUs](https://arxiv.org/abs/2606.20195v1)** | 2026-06-18 | 14 pages, 3 figures |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v4)** | 2026-06-18 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 7 tables</p></details> |
-| **[An MSO Framework for Weak-Memory Verification and Robustness](https://arxiv.org/abs/2606.20134v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted at CONCUR 2026</p></details> |
-| **[Triosecuris: Formally Verified Protection Against Speculative Control-Flow Hijacking](https://arxiv.org/abs/2601.22978v3)** | 2026-06-18 | <details><summary>To ap...</summary><p>To appear at CSF'26; extended version with appendices. W.r.t. first revision: extended with concrete protection against Spectre RSB and renamed to Triosecuris</p></details> |
-| **[The Correctness Illusion in LLM-Generated GPU Kernels](https://arxiv.org/abs/2606.20128v1)** | 2026-06-18 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, LNCS format. Companion papers to follow on arXiv next week; IDs will be added in a v2 replace</p></details> |
-| **[ESBMC-GraphPLC: Formal Verification of Graphical PLCopen XML Ladder Diagram Programs Using SMT-Based Model Checking](https://arxiv.org/abs/2606.18941v2)** | 2026-06-18 | 18 pages |
-| **[Edge-Inference Governors Need Memory-Clock State](https://arxiv.org/abs/2606.16106v2)** | 2026-06-18 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 11 tables. Code and data: https://github.com/dankang21/jetson-latency-lab ; traces: https://doi.org/10.5281/zenodo.20745228</p></details> |
+| **[Load Balancing Policies in Heterogeneous Systems: Non-Monotone Stability and Heavy-Traffic Optimality](https://arxiv.org/abs/2510.14284v2)** | 2026-06-22 |  |
+| **[Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse](https://arxiv.org/abs/2606.23581v1)** | 2026-06-22 |  |
+| **[The Energy Consumption of Transformer Fine-Tuning: A Roofline-Inspired Scaling Model](https://arxiv.org/abs/2606.23546v1)** | 2026-06-22 |  |
+| **[Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference](https://arxiv.org/abs/2606.23521v1)** | 2026-06-22 |  |
+| **[Development and Design of FLKit: A Structured Onboarding Toolkit for Federated Learning in Health and Life Sciences](https://arxiv.org/abs/2606.23500v1)** | 2026-06-22 | 18 pages, 2 figures |
+| **[A Compositional Language for Property Graphs](https://arxiv.org/abs/2606.23399v1)** | 2026-06-22 |  |
+| **[Asymmetry PRISM: A CPU/GPU Portfolio Optimization Engine for Deadline-Bounded Institutional Rebalancing](https://arxiv.org/abs/2606.23367v1)** | 2026-06-22 | 22 pages, 8 figures |
+| **[When Staking Rewards Compound: Measuring the Impact of Ethereum's Pectra Upgrade](https://arxiv.org/abs/2606.23337v1)** | 2026-06-22 | <details><summary>13 pa...</summary><p>13 pages, 15 figures. Accepted in the 5th International Conference on Blockchain (NBC 2026); non-archival submission</p></details> |
+| **[Node-Level Performance and Energy Characterization of Flagship Science Applications on SuperMUC-NG Phase 2](https://arxiv.org/abs/2606.23265v1)** | 2026-06-22 | <details><summary>Prese...</summary><p>Presented at ISC 2026 IXPUG Workshop</p></details> |
+| **[Solving Approximate Agreement on continuous and discrete spaces](https://arxiv.org/abs/2606.23260v1)** | 2026-06-22 | 24 pages, 5 figures |
+| **[An 83-Format Numeric Catalog with Bit-Exact Conformance Vectors: A Vendor-Neutral Reference for FP8, BF16, MXFP4, and Microscaling Formats](https://arxiv.org/abs/2606.09686v2)** | 2026-06-22 | <details><summary>17 pa...</summary><p>17 pages. Source repository: https://github.com/gHashTag/paper3-methodology tag v4.0-trinity. Paper CC BY 4.0; code MIT. ORCID 0009-0008-4294-6159</p></details> |
+| **[Efficient Network Inference via Hardware-Aware Architecture Search, Model Pruning & Quantization](https://arxiv.org/abs/2606.23210v1)** | 2026-06-22 | 7 pages, 7 figures |
+| **[Executing as You Generate: Hiding Execution Latency in LLM Code Interpreters](https://arxiv.org/abs/2604.00491v2)** | 2026-06-22 | 10 pages |
+| **[Committee Configuration Optimization for Parallel Byzantine Consensus in a Trusted Execution Environment](https://arxiv.org/abs/2603.14445v2)** | 2026-06-22 |  |
+| **[Types, equations, dimensions and the Pi theorem](https://arxiv.org/abs/2308.09481v6)** | 2026-06-22 |  |
 
