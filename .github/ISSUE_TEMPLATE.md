@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 24, 2026
+title: Latest 15 Papers - June 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Load Balancing Policies in Heterogeneous Systems: Non-Monotone Stability and Heavy-Traffic Optimality](https://arxiv.org/abs/2510.14284v2)** | 2026-06-22 |  |
-| **[Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse](https://arxiv.org/abs/2606.23581v1)** | 2026-06-22 |  |
-| **[The Energy Consumption of Transformer Fine-Tuning: A Roofline-Inspired Scaling Model](https://arxiv.org/abs/2606.23546v1)** | 2026-06-22 |  |
-| **[Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference](https://arxiv.org/abs/2606.23521v1)** | 2026-06-22 |  |
-| **[Development and Design of FLKit: A Structured Onboarding Toolkit for Federated Learning in Health and Life Sciences](https://arxiv.org/abs/2606.23500v1)** | 2026-06-22 | 18 pages, 2 figures |
-| **[A Compositional Language for Property Graphs](https://arxiv.org/abs/2606.23399v1)** | 2026-06-22 |  |
-| **[Asymmetry PRISM: A CPU/GPU Portfolio Optimization Engine for Deadline-Bounded Institutional Rebalancing](https://arxiv.org/abs/2606.23367v1)** | 2026-06-22 | 22 pages, 8 figures |
-| **[When Staking Rewards Compound: Measuring the Impact of Ethereum's Pectra Upgrade](https://arxiv.org/abs/2606.23337v1)** | 2026-06-22 | <details><summary>13 pa...</summary><p>13 pages, 15 figures. Accepted in the 5th International Conference on Blockchain (NBC 2026); non-archival submission</p></details> |
-| **[Node-Level Performance and Energy Characterization of Flagship Science Applications on SuperMUC-NG Phase 2](https://arxiv.org/abs/2606.23265v1)** | 2026-06-22 | <details><summary>Prese...</summary><p>Presented at ISC 2026 IXPUG Workshop</p></details> |
-| **[Solving Approximate Agreement on continuous and discrete spaces](https://arxiv.org/abs/2606.23260v1)** | 2026-06-22 | 24 pages, 5 figures |
-| **[An 83-Format Numeric Catalog with Bit-Exact Conformance Vectors: A Vendor-Neutral Reference for FP8, BF16, MXFP4, and Microscaling Formats](https://arxiv.org/abs/2606.09686v2)** | 2026-06-22 | <details><summary>17 pa...</summary><p>17 pages. Source repository: https://github.com/gHashTag/paper3-methodology tag v4.0-trinity. Paper CC BY 4.0; code MIT. ORCID 0009-0008-4294-6159</p></details> |
-| **[Efficient Network Inference via Hardware-Aware Architecture Search, Model Pruning & Quantization](https://arxiv.org/abs/2606.23210v1)** | 2026-06-22 | 7 pages, 7 figures |
-| **[Executing as You Generate: Hiding Execution Latency in LLM Code Interpreters](https://arxiv.org/abs/2604.00491v2)** | 2026-06-22 | 10 pages |
-| **[Committee Configuration Optimization for Parallel Byzantine Consensus in a Trusted Execution Environment](https://arxiv.org/abs/2603.14445v2)** | 2026-06-22 |  |
-| **[Types, equations, dimensions and the Pi theorem](https://arxiv.org/abs/2308.09481v6)** | 2026-06-22 |  |
+| **[A Natively Blocked, Device-Resident Algebraic Multigrid GPU Path in PETSc](https://arxiv.org/abs/2606.24748v1)** | 2026-06-23 |  |
+| **[Scheduling jobs with unknown size distribution in a M/G/1 queue: the shifted empirical Gittins](https://arxiv.org/abs/2606.24703v1)** | 2026-06-23 |  |
+| **[Does Mixture-of-Experts Actually Help Inference on Consumer and Edge Hardware? An Empirical Study](https://arxiv.org/abs/2606.21428v2)** | 2026-06-23 | <details><summary>18 pa...</summary><p>18 pages, 7 tables, 4 figures. Submitted to FAIEMA 2026. Code available at https://github.com/Analytics-Everywhere-Lab/edge-moe</p></details> |
+| **[Nautilus: A Verifiable Hierarchical Federated Learning Framework for Vehicular-Edge-Cloud Systems](https://arxiv.org/abs/2606.23017v2)** | 2026-06-23 | <details><summary>Prepr...</summary><p>Preprint. 14 pages main paper; Accepted by BlockSys'2026 conference (URL: https://www.aischolar.com/conference/blocksys2026)</p></details> |
+| **[Solvability of Approximate Agreement on Graphs and Simplicial Complexes](https://arxiv.org/abs/2606.24666v1)** | 2026-06-23 | 25 pages |
+| **[AI-PAVE-Br: Leveraging Large Language Models for Enhanced Product Attribute Value Extraction through a Golden Set Approach](https://arxiv.org/abs/2606.24655v1)** | 2026-06-23 |  |
+| **[Decentralized SGD with Controlled Disagreement Finds Flatter Minima](https://arxiv.org/abs/2602.02899v2)** | 2026-06-23 |  |
+| **[Unified Position-Invariant Random Access Through Two Compression Layers via Absolute-Offset Coordinates: A Bit-Perfect Device-Resident Proof](https://arxiv.org/abs/2606.24531v1)** | 2026-06-23 | <details><summary>5 pag...</summary><p>5 pages, 3 tables. Code and harness at https://github.com/yasha1971-coder/aceapex</p></details> |
+| **[CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation](https://arxiv.org/abs/2606.24506v1)** | 2026-06-23 |  |
+| **[Verifiable Auto-Formalization of Mathematics Using a Relaxed Natural Formal Language](https://arxiv.org/abs/2606.24443v1)** | 2026-06-23 |  |
+| **[cuSBF: A Minimizer-Aware Bloom Filter for Genomic Sequence Data on Modern GPUs](https://arxiv.org/abs/2606.24417v1)** | 2026-06-23 |  |
+| **[BiJuTy: An Interactive HPC-Aware Big Data Cluster Lifecycle Manager and Performance Assessment Utility for JupyterHub](https://arxiv.org/abs/2606.24412v1)** | 2026-06-23 | 12 Pages, 7 Figures |
+| **[Accelerating Disaggregated RL for Visual Generative LLMs with Diffusion-Based Parallelism and Trainer-Assisted Generation](https://arxiv.org/abs/2606.24369v1)** | 2026-06-23 | <details><summary>14 pa...</summary><p>14 pages, 18 figures, 1 table</p></details> |
+| **[OpenMP GPU Acceleration and Portability of TRIMEG-C1 for Electromagnetic Gyrokinetic Simulations in Tokamak Plasmas](https://arxiv.org/abs/2606.24327v1)** | 2026-06-23 | <details><summary>19 pa...</summary><p>19 pages, 11 figures, to tables, 6th Fusion HPC Workshop</p></details> |
+| **[Holoscope: Open and Lightweight Telescope & Honeypot Platform](https://arxiv.org/abs/2512.19842v2)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Communications Magazine</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Load Balancing Policies in Heterogeneous Systems: Non-Monotone Stability and Heavy-Traffic Optimality](https://arxiv.org/abs/2510.14284v2)** | 2026-06-22 |  |
-| **[Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse](https://arxiv.org/abs/2606.23581v1)** | 2026-06-22 |  |
-| **[The Energy Consumption of Transformer Fine-Tuning: A Roofline-Inspired Scaling Model](https://arxiv.org/abs/2606.23546v1)** | 2026-06-22 |  |
-| **[Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference](https://arxiv.org/abs/2606.23521v1)** | 2026-06-22 |  |
-| **[Development and Design of FLKit: A Structured Onboarding Toolkit for Federated Learning in Health and Life Sciences](https://arxiv.org/abs/2606.23500v1)** | 2026-06-22 | 18 pages, 2 figures |
-| **[A Compositional Language for Property Graphs](https://arxiv.org/abs/2606.23399v1)** | 2026-06-22 |  |
-| **[Asymmetry PRISM: A CPU/GPU Portfolio Optimization Engine for Deadline-Bounded Institutional Rebalancing](https://arxiv.org/abs/2606.23367v1)** | 2026-06-22 | 22 pages, 8 figures |
-| **[When Staking Rewards Compound: Measuring the Impact of Ethereum's Pectra Upgrade](https://arxiv.org/abs/2606.23337v1)** | 2026-06-22 | <details><summary>13 pa...</summary><p>13 pages, 15 figures. Accepted in the 5th International Conference on Blockchain (NBC 2026); non-archival submission</p></details> |
-| **[Node-Level Performance and Energy Characterization of Flagship Science Applications on SuperMUC-NG Phase 2](https://arxiv.org/abs/2606.23265v1)** | 2026-06-22 | <details><summary>Prese...</summary><p>Presented at ISC 2026 IXPUG Workshop</p></details> |
-| **[Solving Approximate Agreement on continuous and discrete spaces](https://arxiv.org/abs/2606.23260v1)** | 2026-06-22 | 24 pages, 5 figures |
-| **[An 83-Format Numeric Catalog with Bit-Exact Conformance Vectors: A Vendor-Neutral Reference for FP8, BF16, MXFP4, and Microscaling Formats](https://arxiv.org/abs/2606.09686v2)** | 2026-06-22 | <details><summary>17 pa...</summary><p>17 pages. Source repository: https://github.com/gHashTag/paper3-methodology tag v4.0-trinity. Paper CC BY 4.0; code MIT. ORCID 0009-0008-4294-6159</p></details> |
-| **[Efficient Network Inference via Hardware-Aware Architecture Search, Model Pruning & Quantization](https://arxiv.org/abs/2606.23210v1)** | 2026-06-22 | 7 pages, 7 figures |
-| **[Executing as You Generate: Hiding Execution Latency in LLM Code Interpreters](https://arxiv.org/abs/2604.00491v2)** | 2026-06-22 | 10 pages |
-| **[Committee Configuration Optimization for Parallel Byzantine Consensus in a Trusted Execution Environment](https://arxiv.org/abs/2603.14445v2)** | 2026-06-22 |  |
-| **[Types, equations, dimensions and the Pi theorem](https://arxiv.org/abs/2308.09481v6)** | 2026-06-22 |  |
+| **[A Natively Blocked, Device-Resident Algebraic Multigrid GPU Path in PETSc](https://arxiv.org/abs/2606.24748v1)** | 2026-06-23 |  |
+| **[Scheduling jobs with unknown size distribution in a M/G/1 queue: the shifted empirical Gittins](https://arxiv.org/abs/2606.24703v1)** | 2026-06-23 |  |
+| **[Does Mixture-of-Experts Actually Help Inference on Consumer and Edge Hardware? An Empirical Study](https://arxiv.org/abs/2606.21428v2)** | 2026-06-23 | <details><summary>18 pa...</summary><p>18 pages, 7 tables, 4 figures. Submitted to FAIEMA 2026. Code available at https://github.com/Analytics-Everywhere-Lab/edge-moe</p></details> |
+| **[Nautilus: A Verifiable Hierarchical Federated Learning Framework for Vehicular-Edge-Cloud Systems](https://arxiv.org/abs/2606.23017v2)** | 2026-06-23 | <details><summary>Prepr...</summary><p>Preprint. 14 pages main paper; Accepted by BlockSys'2026 conference (URL: https://www.aischolar.com/conference/blocksys2026)</p></details> |
+| **[Solvability of Approximate Agreement on Graphs and Simplicial Complexes](https://arxiv.org/abs/2606.24666v1)** | 2026-06-23 | 25 pages |
+| **[AI-PAVE-Br: Leveraging Large Language Models for Enhanced Product Attribute Value Extraction through a Golden Set Approach](https://arxiv.org/abs/2606.24655v1)** | 2026-06-23 |  |
+| **[Decentralized SGD with Controlled Disagreement Finds Flatter Minima](https://arxiv.org/abs/2602.02899v2)** | 2026-06-23 |  |
+| **[Unified Position-Invariant Random Access Through Two Compression Layers via Absolute-Offset Coordinates: A Bit-Perfect Device-Resident Proof](https://arxiv.org/abs/2606.24531v1)** | 2026-06-23 | <details><summary>5 pag...</summary><p>5 pages, 3 tables. Code and harness at https://github.com/yasha1971-coder/aceapex</p></details> |
+| **[CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation](https://arxiv.org/abs/2606.24506v1)** | 2026-06-23 |  |
+| **[Verifiable Auto-Formalization of Mathematics Using a Relaxed Natural Formal Language](https://arxiv.org/abs/2606.24443v1)** | 2026-06-23 |  |
+| **[cuSBF: A Minimizer-Aware Bloom Filter for Genomic Sequence Data on Modern GPUs](https://arxiv.org/abs/2606.24417v1)** | 2026-06-23 |  |
+| **[BiJuTy: An Interactive HPC-Aware Big Data Cluster Lifecycle Manager and Performance Assessment Utility for JupyterHub](https://arxiv.org/abs/2606.24412v1)** | 2026-06-23 | 12 Pages, 7 Figures |
+| **[Accelerating Disaggregated RL for Visual Generative LLMs with Diffusion-Based Parallelism and Trainer-Assisted Generation](https://arxiv.org/abs/2606.24369v1)** | 2026-06-23 | <details><summary>14 pa...</summary><p>14 pages, 18 figures, 1 table</p></details> |
+| **[OpenMP GPU Acceleration and Portability of TRIMEG-C1 for Electromagnetic Gyrokinetic Simulations in Tokamak Plasmas](https://arxiv.org/abs/2606.24327v1)** | 2026-06-23 | <details><summary>19 pa...</summary><p>19 pages, 11 figures, to tables, 6th Fusion HPC Workshop</p></details> |
+| **[Holoscope: Open and Lightweight Telescope & Honeypot Platform](https://arxiv.org/abs/2512.19842v2)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Communications Magazine</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Load Balancing Policies in Heterogeneous Systems: Non-Monotone Stability and Heavy-Traffic Optimality](https://arxiv.org/abs/2510.14284v2)** | 2026-06-22 |  |
-| **[Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse](https://arxiv.org/abs/2606.23581v1)** | 2026-06-22 |  |
-| **[The Energy Consumption of Transformer Fine-Tuning: A Roofline-Inspired Scaling Model](https://arxiv.org/abs/2606.23546v1)** | 2026-06-22 |  |
-| **[Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference](https://arxiv.org/abs/2606.23521v1)** | 2026-06-22 |  |
-| **[Development and Design of FLKit: A Structured Onboarding Toolkit for Federated Learning in Health and Life Sciences](https://arxiv.org/abs/2606.23500v1)** | 2026-06-22 | 18 pages, 2 figures |
-| **[A Compositional Language for Property Graphs](https://arxiv.org/abs/2606.23399v1)** | 2026-06-22 |  |
-| **[Asymmetry PRISM: A CPU/GPU Portfolio Optimization Engine for Deadline-Bounded Institutional Rebalancing](https://arxiv.org/abs/2606.23367v1)** | 2026-06-22 | 22 pages, 8 figures |
-| **[When Staking Rewards Compound: Measuring the Impact of Ethereum's Pectra Upgrade](https://arxiv.org/abs/2606.23337v1)** | 2026-06-22 | <details><summary>13 pa...</summary><p>13 pages, 15 figures. Accepted in the 5th International Conference on Blockchain (NBC 2026); non-archival submission</p></details> |
-| **[Node-Level Performance and Energy Characterization of Flagship Science Applications on SuperMUC-NG Phase 2](https://arxiv.org/abs/2606.23265v1)** | 2026-06-22 | <details><summary>Prese...</summary><p>Presented at ISC 2026 IXPUG Workshop</p></details> |
-| **[Solving Approximate Agreement on continuous and discrete spaces](https://arxiv.org/abs/2606.23260v1)** | 2026-06-22 | 24 pages, 5 figures |
-| **[An 83-Format Numeric Catalog with Bit-Exact Conformance Vectors: A Vendor-Neutral Reference for FP8, BF16, MXFP4, and Microscaling Formats](https://arxiv.org/abs/2606.09686v2)** | 2026-06-22 | <details><summary>17 pa...</summary><p>17 pages. Source repository: https://github.com/gHashTag/paper3-methodology tag v4.0-trinity. Paper CC BY 4.0; code MIT. ORCID 0009-0008-4294-6159</p></details> |
-| **[Efficient Network Inference via Hardware-Aware Architecture Search, Model Pruning & Quantization](https://arxiv.org/abs/2606.23210v1)** | 2026-06-22 | 7 pages, 7 figures |
-| **[Executing as You Generate: Hiding Execution Latency in LLM Code Interpreters](https://arxiv.org/abs/2604.00491v2)** | 2026-06-22 | 10 pages |
-| **[Committee Configuration Optimization for Parallel Byzantine Consensus in a Trusted Execution Environment](https://arxiv.org/abs/2603.14445v2)** | 2026-06-22 |  |
-| **[Types, equations, dimensions and the Pi theorem](https://arxiv.org/abs/2308.09481v6)** | 2026-06-22 |  |
+| **[A Natively Blocked, Device-Resident Algebraic Multigrid GPU Path in PETSc](https://arxiv.org/abs/2606.24748v1)** | 2026-06-23 |  |
+| **[Scheduling jobs with unknown size distribution in a M/G/1 queue: the shifted empirical Gittins](https://arxiv.org/abs/2606.24703v1)** | 2026-06-23 |  |
+| **[Does Mixture-of-Experts Actually Help Inference on Consumer and Edge Hardware? An Empirical Study](https://arxiv.org/abs/2606.21428v2)** | 2026-06-23 | <details><summary>18 pa...</summary><p>18 pages, 7 tables, 4 figures. Submitted to FAIEMA 2026. Code available at https://github.com/Analytics-Everywhere-Lab/edge-moe</p></details> |
+| **[Nautilus: A Verifiable Hierarchical Federated Learning Framework for Vehicular-Edge-Cloud Systems](https://arxiv.org/abs/2606.23017v2)** | 2026-06-23 | <details><summary>Prepr...</summary><p>Preprint. 14 pages main paper; Accepted by BlockSys'2026 conference (URL: https://www.aischolar.com/conference/blocksys2026)</p></details> |
+| **[Solvability of Approximate Agreement on Graphs and Simplicial Complexes](https://arxiv.org/abs/2606.24666v1)** | 2026-06-23 | 25 pages |
+| **[AI-PAVE-Br: Leveraging Large Language Models for Enhanced Product Attribute Value Extraction through a Golden Set Approach](https://arxiv.org/abs/2606.24655v1)** | 2026-06-23 |  |
+| **[Decentralized SGD with Controlled Disagreement Finds Flatter Minima](https://arxiv.org/abs/2602.02899v2)** | 2026-06-23 |  |
+| **[Unified Position-Invariant Random Access Through Two Compression Layers via Absolute-Offset Coordinates: A Bit-Perfect Device-Resident Proof](https://arxiv.org/abs/2606.24531v1)** | 2026-06-23 | <details><summary>5 pag...</summary><p>5 pages, 3 tables. Code and harness at https://github.com/yasha1971-coder/aceapex</p></details> |
+| **[CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation](https://arxiv.org/abs/2606.24506v1)** | 2026-06-23 |  |
+| **[Verifiable Auto-Formalization of Mathematics Using a Relaxed Natural Formal Language](https://arxiv.org/abs/2606.24443v1)** | 2026-06-23 |  |
+| **[cuSBF: A Minimizer-Aware Bloom Filter for Genomic Sequence Data on Modern GPUs](https://arxiv.org/abs/2606.24417v1)** | 2026-06-23 |  |
+| **[BiJuTy: An Interactive HPC-Aware Big Data Cluster Lifecycle Manager and Performance Assessment Utility for JupyterHub](https://arxiv.org/abs/2606.24412v1)** | 2026-06-23 | 12 Pages, 7 Figures |
+| **[Accelerating Disaggregated RL for Visual Generative LLMs with Diffusion-Based Parallelism and Trainer-Assisted Generation](https://arxiv.org/abs/2606.24369v1)** | 2026-06-23 | <details><summary>14 pa...</summary><p>14 pages, 18 figures, 1 table</p></details> |
+| **[OpenMP GPU Acceleration and Portability of TRIMEG-C1 for Electromagnetic Gyrokinetic Simulations in Tokamak Plasmas](https://arxiv.org/abs/2606.24327v1)** | 2026-06-23 | <details><summary>19 pa...</summary><p>19 pages, 11 figures, to tables, 6th Fusion HPC Workshop</p></details> |
+| **[Holoscope: Open and Lightweight Telescope & Honeypot Platform](https://arxiv.org/abs/2512.19842v2)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Communications Magazine</p></details> |
 
