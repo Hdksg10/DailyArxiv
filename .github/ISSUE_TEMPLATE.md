@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 26, 2026
+title: Latest 15 Papers - June 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces](https://arxiv.org/abs/2605.10913v3)** | 2026-06-24 | <details><summary>50 pa...</summary><p>50 pages, 22 figures, 14 tables</p></details> |
-| **[Six Times to Spare: Characterizing GPU-Accelerated 5G LDPC Decoding for Edge-RSU Communications](https://arxiv.org/abs/2602.04652v3)** | 2026-06-24 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables</p></details> |
-| **[Interference-Aware Cross-Application Placement: A Multi-Objective Optimization Approach for Microservice Clusters](https://arxiv.org/abs/2606.25922v1)** | 2026-06-24 | 11 pages, 4 figures |
-| **[AI-Assisted Computational Reproducibility on the FABRIC Testbed](https://arxiv.org/abs/2606.25879v1)** | 2026-06-24 |  |
-| **[NEURON-Fabric: Architecture-Runtime Co-Design for Controlled Low-Bit Gradient Communication](https://arxiv.org/abs/2606.25759v1)** | 2026-06-24 |  |
-| **[Endeavor: Efficient PairHMM for Detection of DNA Variants in Genome-Scale Datasets](https://arxiv.org/abs/2606.25738v1)** | 2026-06-24 | <details><summary>publi...</summary><p>published on HPDC '26 (2026 International Symposium on High-Performance Parallel and Distributed Computing)</p></details> |
-| **[A Natively Blocked, Device-Resident Algebraic Multigrid GPU Path in PETSc](https://arxiv.org/abs/2606.24748v2)** | 2026-06-24 |  |
-| **[Dynamic Load Balancing for Uncertainty Quantification with Applications in Bayesian Inversion](https://arxiv.org/abs/2606.25693v1)** | 2026-06-24 |  |
-| **[ESBMC-PLC+: A Unified IEC 61131-3 Formal Verification Framework as a PLCverif Successor](https://arxiv.org/abs/2606.23870v2)** | 2026-06-24 | 21pages |
-| **[TL++: Accuracy and Privacy Preserving Traversal Learning for Distributed Intelligent Systems](https://arxiv.org/abs/2606.25627v1)** | 2026-06-24 | 25 pages, 3 figures |
-| **[Consensus Time in 3-Majority and 2-Choices Is Determined by the Maximum Initial Opinion Density](https://arxiv.org/abs/2606.11778v2)** | 2026-06-24 |  |
-| **[Optimizing Semiconductor Device Simulations through Low-Precision Arithmetic](https://arxiv.org/abs/2606.25595v1)** | 2026-06-24 | 12 pages, 7 figures |
-| **[TwoStepDemocracy: Prototyping of self-evolving, democratic, and decentralized systems](https://arxiv.org/abs/2606.25559v1)** | 2026-06-24 |  |
-| **[Latency-Aware Service Placement using Neural Combinatorial Optimisers for Edge--Cloud Systems](https://arxiv.org/abs/2606.25553v1)** | 2026-06-24 |  |
-| **[Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus](https://arxiv.org/abs/2501.02970v3)** | 2026-06-24 |  |
+| **[Beyond Objects](https://arxiv.org/abs/2606.27258v1)** | 2026-06-25 |  |
+| **[Tilikum: Transaction Fair Ordering on a DAG without Weak Edges](https://arxiv.org/abs/2606.27250v1)** | 2026-06-25 |  |
+| **[Sutra: Tensor-Op RNNs as a Compilation Target for Vector Symbolic Architectures](https://arxiv.org/abs/2605.20919v3)** | 2026-06-25 | <details><summary>Modif...</summary><p>Modified NeurIPS submission, see AI declaration and replication materials at end of paper</p></details> |
+| **[CHAMB-GA: A Containerized HPC Scalable Microservice-Based Framework for Genetic Algorithms](https://arxiv.org/abs/2606.27217v1)** | 2026-06-25 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 4 tables</p></details> |
+| **[DMuon: Efficient Distributed Muon Training with Near-Adam Overhead](https://arxiv.org/abs/2606.27153v1)** | 2026-06-25 |  |
+| **[Welterweight Go: Boxing, Structural Subtyping, and Generics (Extended Version)](https://arxiv.org/abs/2606.27138v1)** | 2026-06-25 |  |
+| **[Mostly Automatic Translation of Language Interpreters from C to Safe Rust](https://arxiv.org/abs/2606.27122v1)** | 2026-06-25 |  |
+| **[Communication-Efficient, 2D Parallel Stochastic Gradient Descent for Distributed-Memory Optimization](https://arxiv.org/abs/2501.07526v2)** | 2026-06-25 |  |
+| **[BtrLog: Low-Latency Logging for Cloud Database Systems](https://arxiv.org/abs/2606.27051v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to VLDB'26 (Boston)</p></details> |
+| **[Formalizing a Many-Sorted Hybrid Polyadic Modal Logic in Lean](https://arxiv.org/abs/2606.27041v1)** | 2026-06-25 |  |
+| **[Type-Error Ablation and AI Coding Agents](https://arxiv.org/abs/2606.01522v2)** | 2026-06-25 |  |
+| **[RolloutPipe: Overlapping Pipelined Rollout and Training in Disaggregated On-Policy LLM Reinforcement Learning](https://arxiv.org/abs/2606.26997v1)** | 2026-06-25 | 15 pages |
+| **[Scalable AI-assisted Workflow Management for Detector Design Optimization Using Distributed Computing](https://arxiv.org/abs/2603.30014v2)** | 2026-06-25 |  |
+| **[On-Demand Service Zone Design for Energy-Constrained Spatial Queueing Systems](https://arxiv.org/abs/2606.26765v1)** | 2026-06-25 |  |
+| **[Simulating Unified Tensor Resharding in heterogeneous AI systems](https://arxiv.org/abs/2606.26633v1)** | 2026-06-25 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces](https://arxiv.org/abs/2605.10913v3)** | 2026-06-24 | <details><summary>50 pa...</summary><p>50 pages, 22 figures, 14 tables</p></details> |
-| **[Six Times to Spare: Characterizing GPU-Accelerated 5G LDPC Decoding for Edge-RSU Communications](https://arxiv.org/abs/2602.04652v3)** | 2026-06-24 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables</p></details> |
-| **[Interference-Aware Cross-Application Placement: A Multi-Objective Optimization Approach for Microservice Clusters](https://arxiv.org/abs/2606.25922v1)** | 2026-06-24 | 11 pages, 4 figures |
-| **[AI-Assisted Computational Reproducibility on the FABRIC Testbed](https://arxiv.org/abs/2606.25879v1)** | 2026-06-24 |  |
-| **[NEURON-Fabric: Architecture-Runtime Co-Design for Controlled Low-Bit Gradient Communication](https://arxiv.org/abs/2606.25759v1)** | 2026-06-24 |  |
-| **[Endeavor: Efficient PairHMM for Detection of DNA Variants in Genome-Scale Datasets](https://arxiv.org/abs/2606.25738v1)** | 2026-06-24 | <details><summary>publi...</summary><p>published on HPDC '26 (2026 International Symposium on High-Performance Parallel and Distributed Computing)</p></details> |
-| **[A Natively Blocked, Device-Resident Algebraic Multigrid GPU Path in PETSc](https://arxiv.org/abs/2606.24748v2)** | 2026-06-24 |  |
-| **[Dynamic Load Balancing for Uncertainty Quantification with Applications in Bayesian Inversion](https://arxiv.org/abs/2606.25693v1)** | 2026-06-24 |  |
-| **[ESBMC-PLC+: A Unified IEC 61131-3 Formal Verification Framework as a PLCverif Successor](https://arxiv.org/abs/2606.23870v2)** | 2026-06-24 | 21pages |
-| **[TL++: Accuracy and Privacy Preserving Traversal Learning for Distributed Intelligent Systems](https://arxiv.org/abs/2606.25627v1)** | 2026-06-24 | 25 pages, 3 figures |
-| **[Consensus Time in 3-Majority and 2-Choices Is Determined by the Maximum Initial Opinion Density](https://arxiv.org/abs/2606.11778v2)** | 2026-06-24 |  |
-| **[Optimizing Semiconductor Device Simulations through Low-Precision Arithmetic](https://arxiv.org/abs/2606.25595v1)** | 2026-06-24 | 12 pages, 7 figures |
-| **[TwoStepDemocracy: Prototyping of self-evolving, democratic, and decentralized systems](https://arxiv.org/abs/2606.25559v1)** | 2026-06-24 |  |
-| **[Latency-Aware Service Placement using Neural Combinatorial Optimisers for Edge--Cloud Systems](https://arxiv.org/abs/2606.25553v1)** | 2026-06-24 |  |
-| **[Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus](https://arxiv.org/abs/2501.02970v3)** | 2026-06-24 |  |
+| **[Beyond Objects](https://arxiv.org/abs/2606.27258v1)** | 2026-06-25 |  |
+| **[Tilikum: Transaction Fair Ordering on a DAG without Weak Edges](https://arxiv.org/abs/2606.27250v1)** | 2026-06-25 |  |
+| **[Sutra: Tensor-Op RNNs as a Compilation Target for Vector Symbolic Architectures](https://arxiv.org/abs/2605.20919v3)** | 2026-06-25 | <details><summary>Modif...</summary><p>Modified NeurIPS submission, see AI declaration and replication materials at end of paper</p></details> |
+| **[CHAMB-GA: A Containerized HPC Scalable Microservice-Based Framework for Genetic Algorithms](https://arxiv.org/abs/2606.27217v1)** | 2026-06-25 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 4 tables</p></details> |
+| **[DMuon: Efficient Distributed Muon Training with Near-Adam Overhead](https://arxiv.org/abs/2606.27153v1)** | 2026-06-25 |  |
+| **[Welterweight Go: Boxing, Structural Subtyping, and Generics (Extended Version)](https://arxiv.org/abs/2606.27138v1)** | 2026-06-25 |  |
+| **[Mostly Automatic Translation of Language Interpreters from C to Safe Rust](https://arxiv.org/abs/2606.27122v1)** | 2026-06-25 |  |
+| **[Communication-Efficient, 2D Parallel Stochastic Gradient Descent for Distributed-Memory Optimization](https://arxiv.org/abs/2501.07526v2)** | 2026-06-25 |  |
+| **[BtrLog: Low-Latency Logging for Cloud Database Systems](https://arxiv.org/abs/2606.27051v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to VLDB'26 (Boston)</p></details> |
+| **[Formalizing a Many-Sorted Hybrid Polyadic Modal Logic in Lean](https://arxiv.org/abs/2606.27041v1)** | 2026-06-25 |  |
+| **[Type-Error Ablation and AI Coding Agents](https://arxiv.org/abs/2606.01522v2)** | 2026-06-25 |  |
+| **[RolloutPipe: Overlapping Pipelined Rollout and Training in Disaggregated On-Policy LLM Reinforcement Learning](https://arxiv.org/abs/2606.26997v1)** | 2026-06-25 | 15 pages |
+| **[Scalable AI-assisted Workflow Management for Detector Design Optimization Using Distributed Computing](https://arxiv.org/abs/2603.30014v2)** | 2026-06-25 |  |
+| **[On-Demand Service Zone Design for Energy-Constrained Spatial Queueing Systems](https://arxiv.org/abs/2606.26765v1)** | 2026-06-25 |  |
+| **[Simulating Unified Tensor Resharding in heterogeneous AI systems](https://arxiv.org/abs/2606.26633v1)** | 2026-06-25 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces](https://arxiv.org/abs/2605.10913v3)** | 2026-06-24 | <details><summary>50 pa...</summary><p>50 pages, 22 figures, 14 tables</p></details> |
-| **[Six Times to Spare: Characterizing GPU-Accelerated 5G LDPC Decoding for Edge-RSU Communications](https://arxiv.org/abs/2602.04652v3)** | 2026-06-24 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables</p></details> |
-| **[Interference-Aware Cross-Application Placement: A Multi-Objective Optimization Approach for Microservice Clusters](https://arxiv.org/abs/2606.25922v1)** | 2026-06-24 | 11 pages, 4 figures |
-| **[AI-Assisted Computational Reproducibility on the FABRIC Testbed](https://arxiv.org/abs/2606.25879v1)** | 2026-06-24 |  |
-| **[NEURON-Fabric: Architecture-Runtime Co-Design for Controlled Low-Bit Gradient Communication](https://arxiv.org/abs/2606.25759v1)** | 2026-06-24 |  |
-| **[Endeavor: Efficient PairHMM for Detection of DNA Variants in Genome-Scale Datasets](https://arxiv.org/abs/2606.25738v1)** | 2026-06-24 | <details><summary>publi...</summary><p>published on HPDC '26 (2026 International Symposium on High-Performance Parallel and Distributed Computing)</p></details> |
-| **[A Natively Blocked, Device-Resident Algebraic Multigrid GPU Path in PETSc](https://arxiv.org/abs/2606.24748v2)** | 2026-06-24 |  |
-| **[Dynamic Load Balancing for Uncertainty Quantification with Applications in Bayesian Inversion](https://arxiv.org/abs/2606.25693v1)** | 2026-06-24 |  |
-| **[ESBMC-PLC+: A Unified IEC 61131-3 Formal Verification Framework as a PLCverif Successor](https://arxiv.org/abs/2606.23870v2)** | 2026-06-24 | 21pages |
-| **[TL++: Accuracy and Privacy Preserving Traversal Learning for Distributed Intelligent Systems](https://arxiv.org/abs/2606.25627v1)** | 2026-06-24 | 25 pages, 3 figures |
-| **[Consensus Time in 3-Majority and 2-Choices Is Determined by the Maximum Initial Opinion Density](https://arxiv.org/abs/2606.11778v2)** | 2026-06-24 |  |
-| **[Optimizing Semiconductor Device Simulations through Low-Precision Arithmetic](https://arxiv.org/abs/2606.25595v1)** | 2026-06-24 | 12 pages, 7 figures |
-| **[TwoStepDemocracy: Prototyping of self-evolving, democratic, and decentralized systems](https://arxiv.org/abs/2606.25559v1)** | 2026-06-24 |  |
-| **[Latency-Aware Service Placement using Neural Combinatorial Optimisers for Edge--Cloud Systems](https://arxiv.org/abs/2606.25553v1)** | 2026-06-24 |  |
-| **[Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus](https://arxiv.org/abs/2501.02970v3)** | 2026-06-24 |  |
+| **[Beyond Objects](https://arxiv.org/abs/2606.27258v1)** | 2026-06-25 |  |
+| **[Tilikum: Transaction Fair Ordering on a DAG without Weak Edges](https://arxiv.org/abs/2606.27250v1)** | 2026-06-25 |  |
+| **[Sutra: Tensor-Op RNNs as a Compilation Target for Vector Symbolic Architectures](https://arxiv.org/abs/2605.20919v3)** | 2026-06-25 | <details><summary>Modif...</summary><p>Modified NeurIPS submission, see AI declaration and replication materials at end of paper</p></details> |
+| **[CHAMB-GA: A Containerized HPC Scalable Microservice-Based Framework for Genetic Algorithms](https://arxiv.org/abs/2606.27217v1)** | 2026-06-25 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 4 tables</p></details> |
+| **[DMuon: Efficient Distributed Muon Training with Near-Adam Overhead](https://arxiv.org/abs/2606.27153v1)** | 2026-06-25 |  |
+| **[Welterweight Go: Boxing, Structural Subtyping, and Generics (Extended Version)](https://arxiv.org/abs/2606.27138v1)** | 2026-06-25 |  |
+| **[Mostly Automatic Translation of Language Interpreters from C to Safe Rust](https://arxiv.org/abs/2606.27122v1)** | 2026-06-25 |  |
+| **[Communication-Efficient, 2D Parallel Stochastic Gradient Descent for Distributed-Memory Optimization](https://arxiv.org/abs/2501.07526v2)** | 2026-06-25 |  |
+| **[BtrLog: Low-Latency Logging for Cloud Database Systems](https://arxiv.org/abs/2606.27051v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to VLDB'26 (Boston)</p></details> |
+| **[Formalizing a Many-Sorted Hybrid Polyadic Modal Logic in Lean](https://arxiv.org/abs/2606.27041v1)** | 2026-06-25 |  |
+| **[Type-Error Ablation and AI Coding Agents](https://arxiv.org/abs/2606.01522v2)** | 2026-06-25 |  |
+| **[RolloutPipe: Overlapping Pipelined Rollout and Training in Disaggregated On-Policy LLM Reinforcement Learning](https://arxiv.org/abs/2606.26997v1)** | 2026-06-25 | 15 pages |
+| **[Scalable AI-assisted Workflow Management for Detector Design Optimization Using Distributed Computing](https://arxiv.org/abs/2603.30014v2)** | 2026-06-25 |  |
+| **[On-Demand Service Zone Design for Energy-Constrained Spatial Queueing Systems](https://arxiv.org/abs/2606.26765v1)** | 2026-06-25 |  |
+| **[Simulating Unified Tensor Resharding in heterogeneous AI systems](https://arxiv.org/abs/2606.26633v1)** | 2026-06-25 |  |
 
