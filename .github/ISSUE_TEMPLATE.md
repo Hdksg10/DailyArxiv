@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2026
+title: Latest 15 Papers - July 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Decentralized Orchestration Architecture for Fluid Computing: A Secure Distributed AI Use Case](https://arxiv.org/abs/2603.12001v2)** | 2026-06-26 | <details><summary>19 pa...</summary><p>19 pages, 9 figures and 1 table</p></details> |
-| **[Towards Value-Constrained Credit Assignment in Fully Delegated AI Cooperatives](https://arxiv.org/abs/2606.28217v1)** | 2026-06-26 |  |
-| **[DDSA: Dual-Domain Strategic Attack for Spatial-Temporal Efficiency in Adversarial Robustness Testing](https://arxiv.org/abs/2601.14302v2)** | 2026-06-26 | <details><summary>Prepr...</summary><p>Preprint accepted by ICASSP 2026</p></details> |
-| **[Prophecy-Based Automated Verification of Message-Passing Programs](https://arxiv.org/abs/2606.28066v1)** | 2026-06-26 |  |
-| **[Automated Repeatable Adversary Threat Emulation with Effects Language (EL)](https://arxiv.org/abs/2510.06420v2)** | 2026-06-26 |  |
-| **[Same Coeffect, Different Base: Connecting Two Dominant Approaches to Graded Types](https://arxiv.org/abs/2606.28042v1)** | 2026-06-26 | <details><summary>75 pa...</summary><p>75 pages, 7 figures. The official version of this paper appears in the proceedings of the 2026 ACM SIGPLAN International Conference on Functional Programming (ICFP 2026). The appendices included herein provide proofs and definitions omitted due to space constraints</p></details> |
-| **[Exploiting network topology in brain-scale simulations of spiking neural networks](https://arxiv.org/abs/2602.23274v2)** | 2026-06-26 |  |
-| **[DiStash: A Disaggregated Multi-Stash Transactional Key-Value Store](https://arxiv.org/abs/2606.27979v1)** | 2026-06-26 | <details><summary>A sho...</summary><p>A shorter version of this paper appeared In the Seventeenth TPC Technology Conference on Performance Evaluation and Benchmarking, Pages 115 - 133, co-located with VLDB 2025, London, UK, September 1, 2025</p></details> |
-| **[Mixed-Precision For Energy Efficient Computations](https://arxiv.org/abs/2606.27949v1)** | 2026-06-26 |  |
-| **[Designing Local Distributed Mechanisms](https://arxiv.org/abs/2411.06788v2)** | 2026-06-26 |  |
-| **[RAMSES: Secure high-performance computing for sensitive data](https://arxiv.org/abs/2606.27919v1)** | 2026-06-26 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 2 tables</p></details> |
-| **[Ranking Before Serving: Low-Latency LLM Serving via Pairwise Learning-to-Rank](https://arxiv.org/abs/2510.03243v3)** | 2026-06-26 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Published in ISC High Performance 2026 Research Paper Proceedings (41st International Conference)</p></details> |
-| **[A Complete Theory of Sequential Digital Circuits: Denotational, Operational and Algebraic Semantics](https://arxiv.org/abs/2201.10456v10)** | 2026-06-26 |  |
-| **[CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation](https://arxiv.org/abs/2606.24506v2)** | 2026-06-26 |  |
-| **[Stabilizing Logs for Eventually Linearizable Shared Objects](https://arxiv.org/abs/1512.08258v2)** | 2026-06-26 |  |
+| **[Sei Giga](https://arxiv.org/abs/2505.14914v3)** | 2026-06-29 |  |
+| **[Data Replication Meets Function Scheduling in the Edge-Cloud Continuum](https://arxiv.org/abs/2606.30563v1)** | 2026-06-29 | <details><summary>To be...</summary><p>To be submitted to Journal of Parallel and Distributed Computing</p></details> |
+| **[TraceLab: Characterizing Coding Agent Workloads for LLM Serving](https://arxiv.org/abs/2606.30560v1)** | 2026-06-29 |  |
+| **[SubEdge: A Subscriber-Centric Edge Computing Subsystem in 6G Networks for AI](https://arxiv.org/abs/2606.30554v1)** | 2026-06-29 | 6 pages, 5 figures |
+| **[COSM: A Cooperative Scheduling Framework for Concurrent PIM and CPU Execution on Mobile Devices](https://arxiv.org/abs/2606.30553v1)** | 2026-06-29 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, ISCA'26</p></details> |
+| **[Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations](https://arxiv.org/abs/2606.30533v1)** | 2026-06-29 |  |
+| **[GPU Parallelization Strategies for Forward and Backward Propagation in Shallow Neural Networks: A CUDA-Based Comparative Study](https://arxiv.org/abs/2606.30497v1)** | 2026-06-29 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Technical report, ESI Algiers, 2025--2026</p></details> |
+| **[HSAP: A Hierachical Sequence-aware Parallelism for Hybrid-Context Generative Models](https://arxiv.org/abs/2606.30460v1)** | 2026-06-29 | <details><summary>10 pa...</summary><p>10 pages, ACL preprint style</p></details> |
+| **[Analyzing Linearizability in Relativistic Distributed Systems](https://arxiv.org/abs/2606.30419v1)** | 2026-06-29 |  |
+| **[Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs](https://arxiv.org/abs/2606.30391v1)** | 2026-06-29 | <details><summary>13 pa...</summary><p>13 pages body and 5 pages appendix, 19 pages total</p></details> |
+| **[Know Your Contract: eIDAS-Based Verifiable Legal Identities for Smart Contracts, Enabling Regulatory-Compliant On-Chain Operations](https://arxiv.org/abs/2601.13903v2)** | 2026-06-29 |  |
+| **[FBench: A Flexible Benchmark for CFG-Based What-If Exploration of HPC I/O Patterns](https://arxiv.org/abs/2606.30197v1)** | 2026-06-29 |  |
+| **[Beluga: Block Synchronization for BFT Consensus Protocols](https://arxiv.org/abs/2511.15517v2)** | 2026-06-29 |  |
+| **[Reactive Graphs for Efficient Markov Chain Monte Carlo Inference in Probabilistic Programming Languages](https://arxiv.org/abs/2606.30137v1)** | 2026-06-29 | 12 pages, 7 figures |
+| **[HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators](https://arxiv.org/abs/2606.29986v1)** | 2026-06-29 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Decentralized Orchestration Architecture for Fluid Computing: A Secure Distributed AI Use Case](https://arxiv.org/abs/2603.12001v2)** | 2026-06-26 | <details><summary>19 pa...</summary><p>19 pages, 9 figures and 1 table</p></details> |
-| **[Towards Value-Constrained Credit Assignment in Fully Delegated AI Cooperatives](https://arxiv.org/abs/2606.28217v1)** | 2026-06-26 |  |
-| **[DDSA: Dual-Domain Strategic Attack for Spatial-Temporal Efficiency in Adversarial Robustness Testing](https://arxiv.org/abs/2601.14302v2)** | 2026-06-26 | <details><summary>Prepr...</summary><p>Preprint accepted by ICASSP 2026</p></details> |
-| **[Prophecy-Based Automated Verification of Message-Passing Programs](https://arxiv.org/abs/2606.28066v1)** | 2026-06-26 |  |
-| **[Automated Repeatable Adversary Threat Emulation with Effects Language (EL)](https://arxiv.org/abs/2510.06420v2)** | 2026-06-26 |  |
-| **[Same Coeffect, Different Base: Connecting Two Dominant Approaches to Graded Types](https://arxiv.org/abs/2606.28042v1)** | 2026-06-26 | <details><summary>75 pa...</summary><p>75 pages, 7 figures. The official version of this paper appears in the proceedings of the 2026 ACM SIGPLAN International Conference on Functional Programming (ICFP 2026). The appendices included herein provide proofs and definitions omitted due to space constraints</p></details> |
-| **[Exploiting network topology in brain-scale simulations of spiking neural networks](https://arxiv.org/abs/2602.23274v2)** | 2026-06-26 |  |
-| **[DiStash: A Disaggregated Multi-Stash Transactional Key-Value Store](https://arxiv.org/abs/2606.27979v1)** | 2026-06-26 | <details><summary>A sho...</summary><p>A shorter version of this paper appeared In the Seventeenth TPC Technology Conference on Performance Evaluation and Benchmarking, Pages 115 - 133, co-located with VLDB 2025, London, UK, September 1, 2025</p></details> |
-| **[Mixed-Precision For Energy Efficient Computations](https://arxiv.org/abs/2606.27949v1)** | 2026-06-26 |  |
-| **[Designing Local Distributed Mechanisms](https://arxiv.org/abs/2411.06788v2)** | 2026-06-26 |  |
-| **[RAMSES: Secure high-performance computing for sensitive data](https://arxiv.org/abs/2606.27919v1)** | 2026-06-26 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 2 tables</p></details> |
-| **[Ranking Before Serving: Low-Latency LLM Serving via Pairwise Learning-to-Rank](https://arxiv.org/abs/2510.03243v3)** | 2026-06-26 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Published in ISC High Performance 2026 Research Paper Proceedings (41st International Conference)</p></details> |
-| **[A Complete Theory of Sequential Digital Circuits: Denotational, Operational and Algebraic Semantics](https://arxiv.org/abs/2201.10456v10)** | 2026-06-26 |  |
-| **[CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation](https://arxiv.org/abs/2606.24506v2)** | 2026-06-26 |  |
-| **[Stabilizing Logs for Eventually Linearizable Shared Objects](https://arxiv.org/abs/1512.08258v2)** | 2026-06-26 |  |
+| **[Sei Giga](https://arxiv.org/abs/2505.14914v3)** | 2026-06-29 |  |
+| **[Data Replication Meets Function Scheduling in the Edge-Cloud Continuum](https://arxiv.org/abs/2606.30563v1)** | 2026-06-29 | <details><summary>To be...</summary><p>To be submitted to Journal of Parallel and Distributed Computing</p></details> |
+| **[TraceLab: Characterizing Coding Agent Workloads for LLM Serving](https://arxiv.org/abs/2606.30560v1)** | 2026-06-29 |  |
+| **[SubEdge: A Subscriber-Centric Edge Computing Subsystem in 6G Networks for AI](https://arxiv.org/abs/2606.30554v1)** | 2026-06-29 | 6 pages, 5 figures |
+| **[COSM: A Cooperative Scheduling Framework for Concurrent PIM and CPU Execution on Mobile Devices](https://arxiv.org/abs/2606.30553v1)** | 2026-06-29 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, ISCA'26</p></details> |
+| **[Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations](https://arxiv.org/abs/2606.30533v1)** | 2026-06-29 |  |
+| **[GPU Parallelization Strategies for Forward and Backward Propagation in Shallow Neural Networks: A CUDA-Based Comparative Study](https://arxiv.org/abs/2606.30497v1)** | 2026-06-29 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Technical report, ESI Algiers, 2025--2026</p></details> |
+| **[HSAP: A Hierachical Sequence-aware Parallelism for Hybrid-Context Generative Models](https://arxiv.org/abs/2606.30460v1)** | 2026-06-29 | <details><summary>10 pa...</summary><p>10 pages, ACL preprint style</p></details> |
+| **[Analyzing Linearizability in Relativistic Distributed Systems](https://arxiv.org/abs/2606.30419v1)** | 2026-06-29 |  |
+| **[Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs](https://arxiv.org/abs/2606.30391v1)** | 2026-06-29 | <details><summary>13 pa...</summary><p>13 pages body and 5 pages appendix, 19 pages total</p></details> |
+| **[Know Your Contract: eIDAS-Based Verifiable Legal Identities for Smart Contracts, Enabling Regulatory-Compliant On-Chain Operations](https://arxiv.org/abs/2601.13903v2)** | 2026-06-29 |  |
+| **[FBench: A Flexible Benchmark for CFG-Based What-If Exploration of HPC I/O Patterns](https://arxiv.org/abs/2606.30197v1)** | 2026-06-29 |  |
+| **[Beluga: Block Synchronization for BFT Consensus Protocols](https://arxiv.org/abs/2511.15517v2)** | 2026-06-29 |  |
+| **[Reactive Graphs for Efficient Markov Chain Monte Carlo Inference in Probabilistic Programming Languages](https://arxiv.org/abs/2606.30137v1)** | 2026-06-29 | 12 pages, 7 figures |
+| **[HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators](https://arxiv.org/abs/2606.29986v1)** | 2026-06-29 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Decentralized Orchestration Architecture for Fluid Computing: A Secure Distributed AI Use Case](https://arxiv.org/abs/2603.12001v2)** | 2026-06-26 | <details><summary>19 pa...</summary><p>19 pages, 9 figures and 1 table</p></details> |
-| **[Towards Value-Constrained Credit Assignment in Fully Delegated AI Cooperatives](https://arxiv.org/abs/2606.28217v1)** | 2026-06-26 |  |
-| **[DDSA: Dual-Domain Strategic Attack for Spatial-Temporal Efficiency in Adversarial Robustness Testing](https://arxiv.org/abs/2601.14302v2)** | 2026-06-26 | <details><summary>Prepr...</summary><p>Preprint accepted by ICASSP 2026</p></details> |
-| **[Prophecy-Based Automated Verification of Message-Passing Programs](https://arxiv.org/abs/2606.28066v1)** | 2026-06-26 |  |
-| **[Automated Repeatable Adversary Threat Emulation with Effects Language (EL)](https://arxiv.org/abs/2510.06420v2)** | 2026-06-26 |  |
-| **[Same Coeffect, Different Base: Connecting Two Dominant Approaches to Graded Types](https://arxiv.org/abs/2606.28042v1)** | 2026-06-26 | <details><summary>75 pa...</summary><p>75 pages, 7 figures. The official version of this paper appears in the proceedings of the 2026 ACM SIGPLAN International Conference on Functional Programming (ICFP 2026). The appendices included herein provide proofs and definitions omitted due to space constraints</p></details> |
-| **[Exploiting network topology in brain-scale simulations of spiking neural networks](https://arxiv.org/abs/2602.23274v2)** | 2026-06-26 |  |
-| **[DiStash: A Disaggregated Multi-Stash Transactional Key-Value Store](https://arxiv.org/abs/2606.27979v1)** | 2026-06-26 | <details><summary>A sho...</summary><p>A shorter version of this paper appeared In the Seventeenth TPC Technology Conference on Performance Evaluation and Benchmarking, Pages 115 - 133, co-located with VLDB 2025, London, UK, September 1, 2025</p></details> |
-| **[Mixed-Precision For Energy Efficient Computations](https://arxiv.org/abs/2606.27949v1)** | 2026-06-26 |  |
-| **[Designing Local Distributed Mechanisms](https://arxiv.org/abs/2411.06788v2)** | 2026-06-26 |  |
-| **[RAMSES: Secure high-performance computing for sensitive data](https://arxiv.org/abs/2606.27919v1)** | 2026-06-26 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 2 tables</p></details> |
-| **[Ranking Before Serving: Low-Latency LLM Serving via Pairwise Learning-to-Rank](https://arxiv.org/abs/2510.03243v3)** | 2026-06-26 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Published in ISC High Performance 2026 Research Paper Proceedings (41st International Conference)</p></details> |
-| **[A Complete Theory of Sequential Digital Circuits: Denotational, Operational and Algebraic Semantics](https://arxiv.org/abs/2201.10456v10)** | 2026-06-26 |  |
-| **[CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation](https://arxiv.org/abs/2606.24506v2)** | 2026-06-26 |  |
-| **[Stabilizing Logs for Eventually Linearizable Shared Objects](https://arxiv.org/abs/1512.08258v2)** | 2026-06-26 |  |
+| **[Sei Giga](https://arxiv.org/abs/2505.14914v3)** | 2026-06-29 |  |
+| **[Data Replication Meets Function Scheduling in the Edge-Cloud Continuum](https://arxiv.org/abs/2606.30563v1)** | 2026-06-29 | <details><summary>To be...</summary><p>To be submitted to Journal of Parallel and Distributed Computing</p></details> |
+| **[TraceLab: Characterizing Coding Agent Workloads for LLM Serving](https://arxiv.org/abs/2606.30560v1)** | 2026-06-29 |  |
+| **[SubEdge: A Subscriber-Centric Edge Computing Subsystem in 6G Networks for AI](https://arxiv.org/abs/2606.30554v1)** | 2026-06-29 | 6 pages, 5 figures |
+| **[COSM: A Cooperative Scheduling Framework for Concurrent PIM and CPU Execution on Mobile Devices](https://arxiv.org/abs/2606.30553v1)** | 2026-06-29 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, ISCA'26</p></details> |
+| **[Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations](https://arxiv.org/abs/2606.30533v1)** | 2026-06-29 |  |
+| **[GPU Parallelization Strategies for Forward and Backward Propagation in Shallow Neural Networks: A CUDA-Based Comparative Study](https://arxiv.org/abs/2606.30497v1)** | 2026-06-29 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Technical report, ESI Algiers, 2025--2026</p></details> |
+| **[HSAP: A Hierachical Sequence-aware Parallelism for Hybrid-Context Generative Models](https://arxiv.org/abs/2606.30460v1)** | 2026-06-29 | <details><summary>10 pa...</summary><p>10 pages, ACL preprint style</p></details> |
+| **[Analyzing Linearizability in Relativistic Distributed Systems](https://arxiv.org/abs/2606.30419v1)** | 2026-06-29 |  |
+| **[Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs](https://arxiv.org/abs/2606.30391v1)** | 2026-06-29 | <details><summary>13 pa...</summary><p>13 pages body and 5 pages appendix, 19 pages total</p></details> |
+| **[Know Your Contract: eIDAS-Based Verifiable Legal Identities for Smart Contracts, Enabling Regulatory-Compliant On-Chain Operations](https://arxiv.org/abs/2601.13903v2)** | 2026-06-29 |  |
+| **[FBench: A Flexible Benchmark for CFG-Based What-If Exploration of HPC I/O Patterns](https://arxiv.org/abs/2606.30197v1)** | 2026-06-29 |  |
+| **[Beluga: Block Synchronization for BFT Consensus Protocols](https://arxiv.org/abs/2511.15517v2)** | 2026-06-29 |  |
+| **[Reactive Graphs for Efficient Markov Chain Monte Carlo Inference in Probabilistic Programming Languages](https://arxiv.org/abs/2606.30137v1)** | 2026-06-29 | 12 pages, 7 figures |
+| **[HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators](https://arxiv.org/abs/2606.29986v1)** | 2026-06-29 |  |
 
