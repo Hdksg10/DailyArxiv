@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2026
+title: Latest 15 Papers - July 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Non-Cartesian Guarded Recursion with Daggers](https://arxiv.org/abs/2409.14591v4)** | 2026-06-30 | MFPS'26 Proceedings |
-| **[FlexViT: A Flexible FPGA-based Accelerator for Edge Vision Transformers](https://arxiv.org/abs/2606.31938v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to 36th International Conference on Field-Programmable Logic and Applications (FPL) 2026</p></details> |
-| **[A Distributed Quantum Approximate Optimization Algorithm Simulator for Engineering Design Optimization](https://arxiv.org/abs/2606.26297v3)** | 2026-06-30 | <details><summary>37 pa...</summary><p>37 pages, 7 figures, 5 tables</p></details> |
-| **[Energy-Efficient Multimodal Inference Serving with Tri-serve](https://arxiv.org/abs/2606.29629v2)** | 2026-06-30 |  |
-| **[Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs](https://arxiv.org/abs/2605.21115v3)** | 2026-06-30 | 15 pages, 8 figures |
-| **[COSM: A Cooperative Scheduling Framework for Concurrent PIM and CPU Execution on Mobile Devices](https://arxiv.org/abs/2606.30553v2)** | 2026-06-30 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, ISCA'26</p></details> |
-| **[TraceLab: Characterizing Coding Agent Workloads for LLM Serving](https://arxiv.org/abs/2606.30560v2)** | 2026-06-30 |  |
-| **[Interface-Variant Dynamics in Software Ecosystems: Resolver-Induced Selection and Adoption in Package Graphs](https://arxiv.org/abs/2606.31817v1)** | 2026-06-30 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 15 tables; ancillary files include source code and recorded CSV/JSON outputs</p></details> |
-| **[Hot AI in Cold Space: Thermal-Crosstalk-Aware Scheduling for Sustainable Orbital AI Clusters](https://arxiv.org/abs/2606.26150v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at HotCarbon'26, camera ready version. Code: https://github.com/Sukiiichan/sdc-sim</p></details> |
-| **[Decoupling Trust in Byzantine CRDTs: Fine-grained Post-Compromise Handling without Breaking Causality](https://arxiv.org/abs/2606.31759v1)** | 2026-06-30 |  |
-| **[On the Operational Resilience of CBDC: Threats and Prospects of Formal Validation for Offline Payments](https://arxiv.org/abs/2508.08064v7)** | 2026-06-30 |  |
-| **[Towards a Higher-Order Bialgebraic Denotational Semantics](https://arxiv.org/abs/2602.18295v2)** | 2026-06-30 |  |
-| **[LASER: Load-Aware Serving with Early-Exit for Reasoning LLMs at the Edge](https://arxiv.org/abs/2606.31580v1)** | 2026-06-30 | <details><summary>to be...</summary><p>to be published in WASA 2026</p></details> |
-| **[PEERS: A Parallel and Exact Effective Resistance Solver via Implicit Inversion and Augmented Symbolic Analysis](https://arxiv.org/abs/2606.31535v1)** | 2026-06-30 | <details><summary>14 pa...</summary><p>14 pages, submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</p></details> |
-| **[Performance Analysis in Parallel Programming Education: A Comparative Usability Study](https://arxiv.org/abs/2606.31458v1)** | 2026-06-30 | <details><summary>PARS ...</summary><p>PARS Workshop 2025, Preprint</p></details> |
+| **[Coordinate-View Confusability Graphs and Matroid Rank Certificates](https://arxiv.org/abs/2602.23520v10)** | 2026-07-01 | <details><summary>Main ...</summary><p>Main PDF: 39 pages, 1 figure. Supplementary: 41 pages, 2 tables. Lean 4 artifact available at https://doi.org/10.5281/zenodo.20561409</p></details> |
+| **[All-out Attack: Optimal Block Withholding Under Pay-Per-Share Scheme](https://arxiv.org/abs/2607.01209v1)** | 2026-07-01 |  |
+| **[Survey: On the Landscape of Graph Databases](https://arxiv.org/abs/2505.24758v4)** | 2026-07-01 | <details><summary>66 pa...</summary><p>66 pages, 4 figures, 21 tables</p></details> |
+| **[Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](https://arxiv.org/abs/2607.01120v1)** | 2026-07-01 |  |
+| **[ROSA: A Robotics Foundation Model Serving System for Robot Factories](https://arxiv.org/abs/2607.01088v1)** | 2026-07-01 |  |
+| **[Hetu v2: A General and Scalable Deep Learning System with Hierarchical and Heterogeneous Single Program Multiple Data Annotations](https://arxiv.org/abs/2504.20490v2)** | 2026-07-01 | OSDI 2026 |
+| **[Don't exhaust, don't waste: Resource-aware soundness for big-step semantics](https://arxiv.org/abs/2507.13792v5)** | 2026-07-01 | <details><summary>Prepr...</summary><p>Preprint submitted to JFP (Journal of Functional Programming)</p></details> |
+| **[FeLoG: Scalable and Efficient Distributed Graph Embedding with Feedback Loop Mechanism](https://arxiv.org/abs/2606.22180v2)** | 2026-07-01 |  |
+| **[FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel](https://arxiv.org/abs/2508.18224v3)** | 2026-07-01 |  |
+| **[Hoare meets Heisenberg: A Lightweight Logic for Quantum Programs](https://arxiv.org/abs/2101.08939v6)** | 2026-07-01 | 52 pages, 3 figures |
+| **[Practical Range Refinement Types with Inference](https://arxiv.org/abs/2607.00824v1)** | 2026-07-01 |  |
+| **[Modeling and Chasing the Energy-Efficiency Sweet Spots in Modern GPUs](https://arxiv.org/abs/2607.00819v1)** | 2026-07-01 |  |
+| **[Leveraging High-Level Synthesis and Large Language Models to Generate, Simulate, and Deploy a Uniform Random Number Generator Hardware Design](https://arxiv.org/abs/2311.03489v6)** | 2026-07-01 | <details><summary>The t...</summary><p>The taped out chip didn't work and AI tools have evolved significantly since produced this design was produced</p></details> |
+| **[Accelerating Discrete Diffusion Models with Parallel-In-Time Sampling](https://arxiv.org/abs/2607.00773v1)** | 2026-07-01 | 33 pages, 10 figures |
+| **[MosaicKV: Serving Long-Context LLM with Dynamic Two-D KV Cache Compression](https://arxiv.org/abs/2607.00760v1)** | 2026-07-01 | 15 pages, 10 figures |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Non-Cartesian Guarded Recursion with Daggers](https://arxiv.org/abs/2409.14591v4)** | 2026-06-30 | MFPS'26 Proceedings |
-| **[FlexViT: A Flexible FPGA-based Accelerator for Edge Vision Transformers](https://arxiv.org/abs/2606.31938v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to 36th International Conference on Field-Programmable Logic and Applications (FPL) 2026</p></details> |
-| **[A Distributed Quantum Approximate Optimization Algorithm Simulator for Engineering Design Optimization](https://arxiv.org/abs/2606.26297v3)** | 2026-06-30 | <details><summary>37 pa...</summary><p>37 pages, 7 figures, 5 tables</p></details> |
-| **[Energy-Efficient Multimodal Inference Serving with Tri-serve](https://arxiv.org/abs/2606.29629v2)** | 2026-06-30 |  |
-| **[Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs](https://arxiv.org/abs/2605.21115v3)** | 2026-06-30 | 15 pages, 8 figures |
-| **[COSM: A Cooperative Scheduling Framework for Concurrent PIM and CPU Execution on Mobile Devices](https://arxiv.org/abs/2606.30553v2)** | 2026-06-30 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, ISCA'26</p></details> |
-| **[TraceLab: Characterizing Coding Agent Workloads for LLM Serving](https://arxiv.org/abs/2606.30560v2)** | 2026-06-30 |  |
-| **[Interface-Variant Dynamics in Software Ecosystems: Resolver-Induced Selection and Adoption in Package Graphs](https://arxiv.org/abs/2606.31817v1)** | 2026-06-30 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 15 tables; ancillary files include source code and recorded CSV/JSON outputs</p></details> |
-| **[Hot AI in Cold Space: Thermal-Crosstalk-Aware Scheduling for Sustainable Orbital AI Clusters](https://arxiv.org/abs/2606.26150v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at HotCarbon'26, camera ready version. Code: https://github.com/Sukiiichan/sdc-sim</p></details> |
-| **[Decoupling Trust in Byzantine CRDTs: Fine-grained Post-Compromise Handling without Breaking Causality](https://arxiv.org/abs/2606.31759v1)** | 2026-06-30 |  |
-| **[On the Operational Resilience of CBDC: Threats and Prospects of Formal Validation for Offline Payments](https://arxiv.org/abs/2508.08064v7)** | 2026-06-30 |  |
-| **[Towards a Higher-Order Bialgebraic Denotational Semantics](https://arxiv.org/abs/2602.18295v2)** | 2026-06-30 |  |
-| **[LASER: Load-Aware Serving with Early-Exit for Reasoning LLMs at the Edge](https://arxiv.org/abs/2606.31580v1)** | 2026-06-30 | <details><summary>to be...</summary><p>to be published in WASA 2026</p></details> |
-| **[PEERS: A Parallel and Exact Effective Resistance Solver via Implicit Inversion and Augmented Symbolic Analysis](https://arxiv.org/abs/2606.31535v1)** | 2026-06-30 | <details><summary>14 pa...</summary><p>14 pages, submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</p></details> |
-| **[Performance Analysis in Parallel Programming Education: A Comparative Usability Study](https://arxiv.org/abs/2606.31458v1)** | 2026-06-30 | <details><summary>PARS ...</summary><p>PARS Workshop 2025, Preprint</p></details> |
+| **[Coordinate-View Confusability Graphs and Matroid Rank Certificates](https://arxiv.org/abs/2602.23520v10)** | 2026-07-01 | <details><summary>Main ...</summary><p>Main PDF: 39 pages, 1 figure. Supplementary: 41 pages, 2 tables. Lean 4 artifact available at https://doi.org/10.5281/zenodo.20561409</p></details> |
+| **[All-out Attack: Optimal Block Withholding Under Pay-Per-Share Scheme](https://arxiv.org/abs/2607.01209v1)** | 2026-07-01 |  |
+| **[Survey: On the Landscape of Graph Databases](https://arxiv.org/abs/2505.24758v4)** | 2026-07-01 | <details><summary>66 pa...</summary><p>66 pages, 4 figures, 21 tables</p></details> |
+| **[Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](https://arxiv.org/abs/2607.01120v1)** | 2026-07-01 |  |
+| **[ROSA: A Robotics Foundation Model Serving System for Robot Factories](https://arxiv.org/abs/2607.01088v1)** | 2026-07-01 |  |
+| **[Hetu v2: A General and Scalable Deep Learning System with Hierarchical and Heterogeneous Single Program Multiple Data Annotations](https://arxiv.org/abs/2504.20490v2)** | 2026-07-01 | OSDI 2026 |
+| **[Don't exhaust, don't waste: Resource-aware soundness for big-step semantics](https://arxiv.org/abs/2507.13792v5)** | 2026-07-01 | <details><summary>Prepr...</summary><p>Preprint submitted to JFP (Journal of Functional Programming)</p></details> |
+| **[FeLoG: Scalable and Efficient Distributed Graph Embedding with Feedback Loop Mechanism](https://arxiv.org/abs/2606.22180v2)** | 2026-07-01 |  |
+| **[FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel](https://arxiv.org/abs/2508.18224v3)** | 2026-07-01 |  |
+| **[Hoare meets Heisenberg: A Lightweight Logic for Quantum Programs](https://arxiv.org/abs/2101.08939v6)** | 2026-07-01 | 52 pages, 3 figures |
+| **[Practical Range Refinement Types with Inference](https://arxiv.org/abs/2607.00824v1)** | 2026-07-01 |  |
+| **[Modeling and Chasing the Energy-Efficiency Sweet Spots in Modern GPUs](https://arxiv.org/abs/2607.00819v1)** | 2026-07-01 |  |
+| **[Leveraging High-Level Synthesis and Large Language Models to Generate, Simulate, and Deploy a Uniform Random Number Generator Hardware Design](https://arxiv.org/abs/2311.03489v6)** | 2026-07-01 | <details><summary>The t...</summary><p>The taped out chip didn't work and AI tools have evolved significantly since produced this design was produced</p></details> |
+| **[Accelerating Discrete Diffusion Models with Parallel-In-Time Sampling](https://arxiv.org/abs/2607.00773v1)** | 2026-07-01 | 33 pages, 10 figures |
+| **[MosaicKV: Serving Long-Context LLM with Dynamic Two-D KV Cache Compression](https://arxiv.org/abs/2607.00760v1)** | 2026-07-01 | 15 pages, 10 figures |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Non-Cartesian Guarded Recursion with Daggers](https://arxiv.org/abs/2409.14591v4)** | 2026-06-30 | MFPS'26 Proceedings |
-| **[FlexViT: A Flexible FPGA-based Accelerator for Edge Vision Transformers](https://arxiv.org/abs/2606.31938v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to 36th International Conference on Field-Programmable Logic and Applications (FPL) 2026</p></details> |
-| **[A Distributed Quantum Approximate Optimization Algorithm Simulator for Engineering Design Optimization](https://arxiv.org/abs/2606.26297v3)** | 2026-06-30 | <details><summary>37 pa...</summary><p>37 pages, 7 figures, 5 tables</p></details> |
-| **[Energy-Efficient Multimodal Inference Serving with Tri-serve](https://arxiv.org/abs/2606.29629v2)** | 2026-06-30 |  |
-| **[Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs](https://arxiv.org/abs/2605.21115v3)** | 2026-06-30 | 15 pages, 8 figures |
-| **[COSM: A Cooperative Scheduling Framework for Concurrent PIM and CPU Execution on Mobile Devices](https://arxiv.org/abs/2606.30553v2)** | 2026-06-30 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, ISCA'26</p></details> |
-| **[TraceLab: Characterizing Coding Agent Workloads for LLM Serving](https://arxiv.org/abs/2606.30560v2)** | 2026-06-30 |  |
-| **[Interface-Variant Dynamics in Software Ecosystems: Resolver-Induced Selection and Adoption in Package Graphs](https://arxiv.org/abs/2606.31817v1)** | 2026-06-30 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 15 tables; ancillary files include source code and recorded CSV/JSON outputs</p></details> |
-| **[Hot AI in Cold Space: Thermal-Crosstalk-Aware Scheduling for Sustainable Orbital AI Clusters](https://arxiv.org/abs/2606.26150v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at HotCarbon'26, camera ready version. Code: https://github.com/Sukiiichan/sdc-sim</p></details> |
-| **[Decoupling Trust in Byzantine CRDTs: Fine-grained Post-Compromise Handling without Breaking Causality](https://arxiv.org/abs/2606.31759v1)** | 2026-06-30 |  |
-| **[On the Operational Resilience of CBDC: Threats and Prospects of Formal Validation for Offline Payments](https://arxiv.org/abs/2508.08064v7)** | 2026-06-30 |  |
-| **[Towards a Higher-Order Bialgebraic Denotational Semantics](https://arxiv.org/abs/2602.18295v2)** | 2026-06-30 |  |
-| **[LASER: Load-Aware Serving with Early-Exit for Reasoning LLMs at the Edge](https://arxiv.org/abs/2606.31580v1)** | 2026-06-30 | <details><summary>to be...</summary><p>to be published in WASA 2026</p></details> |
-| **[PEERS: A Parallel and Exact Effective Resistance Solver via Implicit Inversion and Augmented Symbolic Analysis](https://arxiv.org/abs/2606.31535v1)** | 2026-06-30 | <details><summary>14 pa...</summary><p>14 pages, submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</p></details> |
-| **[Performance Analysis in Parallel Programming Education: A Comparative Usability Study](https://arxiv.org/abs/2606.31458v1)** | 2026-06-30 | <details><summary>PARS ...</summary><p>PARS Workshop 2025, Preprint</p></details> |
+| **[Coordinate-View Confusability Graphs and Matroid Rank Certificates](https://arxiv.org/abs/2602.23520v10)** | 2026-07-01 | <details><summary>Main ...</summary><p>Main PDF: 39 pages, 1 figure. Supplementary: 41 pages, 2 tables. Lean 4 artifact available at https://doi.org/10.5281/zenodo.20561409</p></details> |
+| **[All-out Attack: Optimal Block Withholding Under Pay-Per-Share Scheme](https://arxiv.org/abs/2607.01209v1)** | 2026-07-01 |  |
+| **[Survey: On the Landscape of Graph Databases](https://arxiv.org/abs/2505.24758v4)** | 2026-07-01 | <details><summary>66 pa...</summary><p>66 pages, 4 figures, 21 tables</p></details> |
+| **[Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](https://arxiv.org/abs/2607.01120v1)** | 2026-07-01 |  |
+| **[ROSA: A Robotics Foundation Model Serving System for Robot Factories](https://arxiv.org/abs/2607.01088v1)** | 2026-07-01 |  |
+| **[Hetu v2: A General and Scalable Deep Learning System with Hierarchical and Heterogeneous Single Program Multiple Data Annotations](https://arxiv.org/abs/2504.20490v2)** | 2026-07-01 | OSDI 2026 |
+| **[Don't exhaust, don't waste: Resource-aware soundness for big-step semantics](https://arxiv.org/abs/2507.13792v5)** | 2026-07-01 | <details><summary>Prepr...</summary><p>Preprint submitted to JFP (Journal of Functional Programming)</p></details> |
+| **[FeLoG: Scalable and Efficient Distributed Graph Embedding with Feedback Loop Mechanism](https://arxiv.org/abs/2606.22180v2)** | 2026-07-01 |  |
+| **[FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel](https://arxiv.org/abs/2508.18224v3)** | 2026-07-01 |  |
+| **[Hoare meets Heisenberg: A Lightweight Logic for Quantum Programs](https://arxiv.org/abs/2101.08939v6)** | 2026-07-01 | 52 pages, 3 figures |
+| **[Practical Range Refinement Types with Inference](https://arxiv.org/abs/2607.00824v1)** | 2026-07-01 |  |
+| **[Modeling and Chasing the Energy-Efficiency Sweet Spots in Modern GPUs](https://arxiv.org/abs/2607.00819v1)** | 2026-07-01 |  |
+| **[Leveraging High-Level Synthesis and Large Language Models to Generate, Simulate, and Deploy a Uniform Random Number Generator Hardware Design](https://arxiv.org/abs/2311.03489v6)** | 2026-07-01 | <details><summary>The t...</summary><p>The taped out chip didn't work and AI tools have evolved significantly since produced this design was produced</p></details> |
+| **[Accelerating Discrete Diffusion Models with Parallel-In-Time Sampling](https://arxiv.org/abs/2607.00773v1)** | 2026-07-01 | 33 pages, 10 figures |
+| **[MosaicKV: Serving Long-Context LLM with Dynamic Two-D KV Cache Compression](https://arxiv.org/abs/2607.00760v1)** | 2026-07-01 | 15 pages, 10 figures |
 
