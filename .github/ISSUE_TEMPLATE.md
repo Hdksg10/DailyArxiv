@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 03, 2026
+title: Latest 15 Papers - July 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Coordinate-View Confusability Graphs and Matroid Rank Certificates](https://arxiv.org/abs/2602.23520v10)** | 2026-07-01 | <details><summary>Main ...</summary><p>Main PDF: 39 pages, 1 figure. Supplementary: 41 pages, 2 tables. Lean 4 artifact available at https://doi.org/10.5281/zenodo.20561409</p></details> |
-| **[All-out Attack: Optimal Block Withholding Under Pay-Per-Share Scheme](https://arxiv.org/abs/2607.01209v1)** | 2026-07-01 |  |
-| **[Survey: On the Landscape of Graph Databases](https://arxiv.org/abs/2505.24758v4)** | 2026-07-01 | <details><summary>66 pa...</summary><p>66 pages, 4 figures, 21 tables</p></details> |
-| **[Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](https://arxiv.org/abs/2607.01120v1)** | 2026-07-01 |  |
-| **[ROSA: A Robotics Foundation Model Serving System for Robot Factories](https://arxiv.org/abs/2607.01088v1)** | 2026-07-01 |  |
-| **[Hetu v2: A General and Scalable Deep Learning System with Hierarchical and Heterogeneous Single Program Multiple Data Annotations](https://arxiv.org/abs/2504.20490v2)** | 2026-07-01 | OSDI 2026 |
-| **[Don't exhaust, don't waste: Resource-aware soundness for big-step semantics](https://arxiv.org/abs/2507.13792v5)** | 2026-07-01 | <details><summary>Prepr...</summary><p>Preprint submitted to JFP (Journal of Functional Programming)</p></details> |
-| **[FeLoG: Scalable and Efficient Distributed Graph Embedding with Feedback Loop Mechanism](https://arxiv.org/abs/2606.22180v2)** | 2026-07-01 |  |
-| **[FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel](https://arxiv.org/abs/2508.18224v3)** | 2026-07-01 |  |
-| **[Hoare meets Heisenberg: A Lightweight Logic for Quantum Programs](https://arxiv.org/abs/2101.08939v6)** | 2026-07-01 | 52 pages, 3 figures |
-| **[Practical Range Refinement Types with Inference](https://arxiv.org/abs/2607.00824v1)** | 2026-07-01 |  |
-| **[Modeling and Chasing the Energy-Efficiency Sweet Spots in Modern GPUs](https://arxiv.org/abs/2607.00819v1)** | 2026-07-01 |  |
-| **[Leveraging High-Level Synthesis and Large Language Models to Generate, Simulate, and Deploy a Uniform Random Number Generator Hardware Design](https://arxiv.org/abs/2311.03489v6)** | 2026-07-01 | <details><summary>The t...</summary><p>The taped out chip didn't work and AI tools have evolved significantly since produced this design was produced</p></details> |
-| **[Accelerating Discrete Diffusion Models with Parallel-In-Time Sampling](https://arxiv.org/abs/2607.00773v1)** | 2026-07-01 | 33 pages, 10 figures |
-| **[MosaicKV: Serving Long-Context LLM with Dynamic Two-D KV Cache Compression](https://arxiv.org/abs/2607.00760v1)** | 2026-07-01 | 15 pages, 10 figures |
+| **[A Distributed Quantum Approximate Optimization Algorithm Simulator for Engineering Design Optimization](https://arxiv.org/abs/2606.26297v4)** | 2026-07-02 | <details><summary>37 pa...</summary><p>37 pages, 7 figures, 5 tables</p></details> |
+| **[Practical One-Round-Trip BFT Replication](https://arxiv.org/abs/2601.03390v2)** | 2026-07-02 |  |
+| **[FlintKV: A Fast Durable Storage Engine for Modern Databases](https://arxiv.org/abs/2607.02401v1)** | 2026-07-02 |  |
+| **[WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs](https://arxiv.org/abs/2607.02391v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at 1st Workshop on Sustainability and Resource-Efficiency of Artificial Intelligence @ IJCAI 2026</p></details> |
+| **[Guiding Human Validation of LLM-Generated Code via Verifiable Literate Programming](https://arxiv.org/abs/2607.02333v1)** | 2026-07-02 | 12 pages |
+| **[Elasticity in Parallel Sparse Triangular Solve](https://arxiv.org/abs/2607.02324v1)** | 2026-07-02 | 23 pages |
+| **[Securing People and their Machines Against Major Faults](https://arxiv.org/abs/2607.02304v1)** | 2026-07-02 |  |
+| **[Cadence: Extreme Pipelining with Multiple Concurrent Proposers](https://arxiv.org/abs/2607.02275v1)** | 2026-07-02 |  |
+| **[Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](https://arxiv.org/abs/2607.01120v2)** | 2026-07-02 |  |
+| **[GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving](https://arxiv.org/abs/2606.13501v2)** | 2026-07-02 |  |
+| **[ReinFog: A Deep Reinforcement Learning Empowered Framework for Resource Management in Edge and Cloud Computing Environments](https://arxiv.org/abs/2411.13121v3)** | 2026-07-02 |  |
+| **[Towards Load-Aware Prefill Deflection for Disaggregated LLM Serving](https://arxiv.org/abs/2607.02043v1)** | 2026-07-02 |  |
+| **[Scalable and Distributed Silhouette Approximation](https://arxiv.org/abs/2607.01993v1)** | 2026-07-02 | <details><summary>50 pa...</summary><p>50 pages, 12 figures, extension of a previously appeared conference paper: https://doi.org/10.1137/1.9781611976700.73 featuring substantial new contributions</p></details> |
+| **[KernelSight-LM: A Kernel-Level LLM Inference Simulator](https://arxiv.org/abs/2606.28565v2)** | 2026-07-02 |  |
+| **[Markovian Arrival Process Parameter Estimation of Quasi-birth-death Queueing Systems with Utilization Data](https://arxiv.org/abs/2607.01914v1)** | 2026-07-02 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Coordinate-View Confusability Graphs and Matroid Rank Certificates](https://arxiv.org/abs/2602.23520v10)** | 2026-07-01 | <details><summary>Main ...</summary><p>Main PDF: 39 pages, 1 figure. Supplementary: 41 pages, 2 tables. Lean 4 artifact available at https://doi.org/10.5281/zenodo.20561409</p></details> |
-| **[All-out Attack: Optimal Block Withholding Under Pay-Per-Share Scheme](https://arxiv.org/abs/2607.01209v1)** | 2026-07-01 |  |
-| **[Survey: On the Landscape of Graph Databases](https://arxiv.org/abs/2505.24758v4)** | 2026-07-01 | <details><summary>66 pa...</summary><p>66 pages, 4 figures, 21 tables</p></details> |
-| **[Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](https://arxiv.org/abs/2607.01120v1)** | 2026-07-01 |  |
-| **[ROSA: A Robotics Foundation Model Serving System for Robot Factories](https://arxiv.org/abs/2607.01088v1)** | 2026-07-01 |  |
-| **[Hetu v2: A General and Scalable Deep Learning System with Hierarchical and Heterogeneous Single Program Multiple Data Annotations](https://arxiv.org/abs/2504.20490v2)** | 2026-07-01 | OSDI 2026 |
-| **[Don't exhaust, don't waste: Resource-aware soundness for big-step semantics](https://arxiv.org/abs/2507.13792v5)** | 2026-07-01 | <details><summary>Prepr...</summary><p>Preprint submitted to JFP (Journal of Functional Programming)</p></details> |
-| **[FeLoG: Scalable and Efficient Distributed Graph Embedding with Feedback Loop Mechanism](https://arxiv.org/abs/2606.22180v2)** | 2026-07-01 |  |
-| **[FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel](https://arxiv.org/abs/2508.18224v3)** | 2026-07-01 |  |
-| **[Hoare meets Heisenberg: A Lightweight Logic for Quantum Programs](https://arxiv.org/abs/2101.08939v6)** | 2026-07-01 | 52 pages, 3 figures |
-| **[Practical Range Refinement Types with Inference](https://arxiv.org/abs/2607.00824v1)** | 2026-07-01 |  |
-| **[Modeling and Chasing the Energy-Efficiency Sweet Spots in Modern GPUs](https://arxiv.org/abs/2607.00819v1)** | 2026-07-01 |  |
-| **[Leveraging High-Level Synthesis and Large Language Models to Generate, Simulate, and Deploy a Uniform Random Number Generator Hardware Design](https://arxiv.org/abs/2311.03489v6)** | 2026-07-01 | <details><summary>The t...</summary><p>The taped out chip didn't work and AI tools have evolved significantly since produced this design was produced</p></details> |
-| **[Accelerating Discrete Diffusion Models with Parallel-In-Time Sampling](https://arxiv.org/abs/2607.00773v1)** | 2026-07-01 | 33 pages, 10 figures |
-| **[MosaicKV: Serving Long-Context LLM with Dynamic Two-D KV Cache Compression](https://arxiv.org/abs/2607.00760v1)** | 2026-07-01 | 15 pages, 10 figures |
+| **[A Distributed Quantum Approximate Optimization Algorithm Simulator for Engineering Design Optimization](https://arxiv.org/abs/2606.26297v4)** | 2026-07-02 | <details><summary>37 pa...</summary><p>37 pages, 7 figures, 5 tables</p></details> |
+| **[Practical One-Round-Trip BFT Replication](https://arxiv.org/abs/2601.03390v2)** | 2026-07-02 |  |
+| **[FlintKV: A Fast Durable Storage Engine for Modern Databases](https://arxiv.org/abs/2607.02401v1)** | 2026-07-02 |  |
+| **[WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs](https://arxiv.org/abs/2607.02391v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at 1st Workshop on Sustainability and Resource-Efficiency of Artificial Intelligence @ IJCAI 2026</p></details> |
+| **[Guiding Human Validation of LLM-Generated Code via Verifiable Literate Programming](https://arxiv.org/abs/2607.02333v1)** | 2026-07-02 | 12 pages |
+| **[Elasticity in Parallel Sparse Triangular Solve](https://arxiv.org/abs/2607.02324v1)** | 2026-07-02 | 23 pages |
+| **[Securing People and their Machines Against Major Faults](https://arxiv.org/abs/2607.02304v1)** | 2026-07-02 |  |
+| **[Cadence: Extreme Pipelining with Multiple Concurrent Proposers](https://arxiv.org/abs/2607.02275v1)** | 2026-07-02 |  |
+| **[Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](https://arxiv.org/abs/2607.01120v2)** | 2026-07-02 |  |
+| **[GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving](https://arxiv.org/abs/2606.13501v2)** | 2026-07-02 |  |
+| **[ReinFog: A Deep Reinforcement Learning Empowered Framework for Resource Management in Edge and Cloud Computing Environments](https://arxiv.org/abs/2411.13121v3)** | 2026-07-02 |  |
+| **[Towards Load-Aware Prefill Deflection for Disaggregated LLM Serving](https://arxiv.org/abs/2607.02043v1)** | 2026-07-02 |  |
+| **[Scalable and Distributed Silhouette Approximation](https://arxiv.org/abs/2607.01993v1)** | 2026-07-02 | <details><summary>50 pa...</summary><p>50 pages, 12 figures, extension of a previously appeared conference paper: https://doi.org/10.1137/1.9781611976700.73 featuring substantial new contributions</p></details> |
+| **[KernelSight-LM: A Kernel-Level LLM Inference Simulator](https://arxiv.org/abs/2606.28565v2)** | 2026-07-02 |  |
+| **[Markovian Arrival Process Parameter Estimation of Quasi-birth-death Queueing Systems with Utilization Data](https://arxiv.org/abs/2607.01914v1)** | 2026-07-02 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Coordinate-View Confusability Graphs and Matroid Rank Certificates](https://arxiv.org/abs/2602.23520v10)** | 2026-07-01 | <details><summary>Main ...</summary><p>Main PDF: 39 pages, 1 figure. Supplementary: 41 pages, 2 tables. Lean 4 artifact available at https://doi.org/10.5281/zenodo.20561409</p></details> |
-| **[All-out Attack: Optimal Block Withholding Under Pay-Per-Share Scheme](https://arxiv.org/abs/2607.01209v1)** | 2026-07-01 |  |
-| **[Survey: On the Landscape of Graph Databases](https://arxiv.org/abs/2505.24758v4)** | 2026-07-01 | <details><summary>66 pa...</summary><p>66 pages, 4 figures, 21 tables</p></details> |
-| **[Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](https://arxiv.org/abs/2607.01120v1)** | 2026-07-01 |  |
-| **[ROSA: A Robotics Foundation Model Serving System for Robot Factories](https://arxiv.org/abs/2607.01088v1)** | 2026-07-01 |  |
-| **[Hetu v2: A General and Scalable Deep Learning System with Hierarchical and Heterogeneous Single Program Multiple Data Annotations](https://arxiv.org/abs/2504.20490v2)** | 2026-07-01 | OSDI 2026 |
-| **[Don't exhaust, don't waste: Resource-aware soundness for big-step semantics](https://arxiv.org/abs/2507.13792v5)** | 2026-07-01 | <details><summary>Prepr...</summary><p>Preprint submitted to JFP (Journal of Functional Programming)</p></details> |
-| **[FeLoG: Scalable and Efficient Distributed Graph Embedding with Feedback Loop Mechanism](https://arxiv.org/abs/2606.22180v2)** | 2026-07-01 |  |
-| **[FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel](https://arxiv.org/abs/2508.18224v3)** | 2026-07-01 |  |
-| **[Hoare meets Heisenberg: A Lightweight Logic for Quantum Programs](https://arxiv.org/abs/2101.08939v6)** | 2026-07-01 | 52 pages, 3 figures |
-| **[Practical Range Refinement Types with Inference](https://arxiv.org/abs/2607.00824v1)** | 2026-07-01 |  |
-| **[Modeling and Chasing the Energy-Efficiency Sweet Spots in Modern GPUs](https://arxiv.org/abs/2607.00819v1)** | 2026-07-01 |  |
-| **[Leveraging High-Level Synthesis and Large Language Models to Generate, Simulate, and Deploy a Uniform Random Number Generator Hardware Design](https://arxiv.org/abs/2311.03489v6)** | 2026-07-01 | <details><summary>The t...</summary><p>The taped out chip didn't work and AI tools have evolved significantly since produced this design was produced</p></details> |
-| **[Accelerating Discrete Diffusion Models with Parallel-In-Time Sampling](https://arxiv.org/abs/2607.00773v1)** | 2026-07-01 | 33 pages, 10 figures |
-| **[MosaicKV: Serving Long-Context LLM with Dynamic Two-D KV Cache Compression](https://arxiv.org/abs/2607.00760v1)** | 2026-07-01 | 15 pages, 10 figures |
+| **[A Distributed Quantum Approximate Optimization Algorithm Simulator for Engineering Design Optimization](https://arxiv.org/abs/2606.26297v4)** | 2026-07-02 | <details><summary>37 pa...</summary><p>37 pages, 7 figures, 5 tables</p></details> |
+| **[Practical One-Round-Trip BFT Replication](https://arxiv.org/abs/2601.03390v2)** | 2026-07-02 |  |
+| **[FlintKV: A Fast Durable Storage Engine for Modern Databases](https://arxiv.org/abs/2607.02401v1)** | 2026-07-02 |  |
+| **[WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs](https://arxiv.org/abs/2607.02391v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at 1st Workshop on Sustainability and Resource-Efficiency of Artificial Intelligence @ IJCAI 2026</p></details> |
+| **[Guiding Human Validation of LLM-Generated Code via Verifiable Literate Programming](https://arxiv.org/abs/2607.02333v1)** | 2026-07-02 | 12 pages |
+| **[Elasticity in Parallel Sparse Triangular Solve](https://arxiv.org/abs/2607.02324v1)** | 2026-07-02 | 23 pages |
+| **[Securing People and their Machines Against Major Faults](https://arxiv.org/abs/2607.02304v1)** | 2026-07-02 |  |
+| **[Cadence: Extreme Pipelining with Multiple Concurrent Proposers](https://arxiv.org/abs/2607.02275v1)** | 2026-07-02 |  |
+| **[Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](https://arxiv.org/abs/2607.01120v2)** | 2026-07-02 |  |
+| **[GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving](https://arxiv.org/abs/2606.13501v2)** | 2026-07-02 |  |
+| **[ReinFog: A Deep Reinforcement Learning Empowered Framework for Resource Management in Edge and Cloud Computing Environments](https://arxiv.org/abs/2411.13121v3)** | 2026-07-02 |  |
+| **[Towards Load-Aware Prefill Deflection for Disaggregated LLM Serving](https://arxiv.org/abs/2607.02043v1)** | 2026-07-02 |  |
+| **[Scalable and Distributed Silhouette Approximation](https://arxiv.org/abs/2607.01993v1)** | 2026-07-02 | <details><summary>50 pa...</summary><p>50 pages, 12 figures, extension of a previously appeared conference paper: https://doi.org/10.1137/1.9781611976700.73 featuring substantial new contributions</p></details> |
+| **[KernelSight-LM: A Kernel-Level LLM Inference Simulator](https://arxiv.org/abs/2606.28565v2)** | 2026-07-02 |  |
+| **[Markovian Arrival Process Parameter Estimation of Quasi-birth-death Queueing Systems with Utilization Data](https://arxiv.org/abs/2607.01914v1)** | 2026-07-02 |  |
 
