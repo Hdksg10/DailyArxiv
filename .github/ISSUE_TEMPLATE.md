@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 17, 2026
+title: Latest 15 Papers - July 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HeteroMosaic: Exposing and Exploiting Heterogeneous Execution Opportunities for Energy-Efficient Edge LLM Inference](https://arxiv.org/abs/2607.12839v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted at the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
-| **[Backpropagation for Effectful Languages I: Finite Probability and Discrete Output Algebraic Effects](https://arxiv.org/abs/2607.13935v1)** | 2026-07-15 | <details><summary>71 pa...</summary><p>71 pages, submitted to POPL 2027</p></details> |
-| **[Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code](https://arxiv.org/abs/2607.13921v1)** | 2026-07-15 |  |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v6)** | 2026-07-15 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 6 tables</p></details> |
-| **[SmartSwap: Swap-Based Memory Optimization for LLM Training under Varying Operator Sequences](https://arxiv.org/abs/2509.11076v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted to DAC 2026. Previously titled "Chameleon: Taming Dynamic Operator Sequences for Memory-Intensive LLM Training."</p></details> |
-| **[Package Managers à la Carte: A Formal Model of Dependency Resolution](https://arxiv.org/abs/2602.18602v4)** | 2026-07-15 | <details><summary>35 pa...</summary><p>35 pages, 12 figures. To appear in Proc. ACM Program. Lang. 10, ICFP, Article 301, August 2026</p></details> |
-| **[High-Quality Multi-Constraint Hypergraph Partitioning via Greedy Rebalancing](https://arxiv.org/abs/2605.28333v2)** | 2026-07-15 | ESA 2026 |
-| **[RepliCore: Reproducible Parallel Simulation under Asynchronous Browser Runtimes](https://arxiv.org/abs/2607.02529v2)** | 2026-07-15 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 5 tables</p></details> |
-| **[Architectural Trade-offs in the Energy-Efficient Era: A Comparative Study of power-capping NVIDIA H100 and H200](https://arxiv.org/abs/2604.11391v2)** | 2026-07-15 |  |
-| **[Decomposable Type Highlighting for Bidirectional Type and Cast System](https://arxiv.org/abs/2607.13727v1)** | 2026-07-15 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, presented at HATRA 2025</p></details> |
-| **[Local Certification of Vertex and Edge Connectivity](https://arxiv.org/abs/2607.13677v1)** | 2026-07-15 | <details><summary>Abstr...</summary><p>Abstract shortened to meet arXiv requirements</p></details> |
-| **[Definitional Inversion, Without Normalisation](https://arxiv.org/abs/2607.13662v1)** | 2026-07-15 |  |
-| **[A Distributed Framework for Compiling and Reasoning with d-DNNF](https://arxiv.org/abs/2607.13642v1)** | 2026-07-15 |  |
-| **[gDMC: A Generic Distributed Model Counting Framework via Work-Stealing](https://arxiv.org/abs/2607.13634v1)** | 2026-07-15 |  |
-| **[A Telemetry-Driven Model for Quantifying Upgrade Risk in Durable Workflow Execution](https://arxiv.org/abs/2607.13617v1)** | 2026-07-15 | 29 pages, 3 figures |
+| **[Campaign Diagrams: Visualizing the March Through the Phases of a Workload](https://arxiv.org/abs/2607.15225v1)** | 2026-07-16 | 12 pages, 13 figures |
+| **[Memory-Exhaustion Attack on the Blocklace Byzantine-Repelling Conflict-Free Replicated Data Type](https://arxiv.org/abs/2607.15185v1)** | 2026-07-16 | 2 pages |
+| **[Mech: Mechanised Choreographic Programming](https://arxiv.org/abs/2607.15174v1)** | 2026-07-16 |  |
+| **[Ordering by Unanimity: Giving Applications Sequencing Rights Without Breaking Composability](https://arxiv.org/abs/2607.06144v2)** | 2026-07-16 |  |
+| **[Don't Predict, Prioritize: Rethinking GPU Reliability Assessment](https://arxiv.org/abs/2607.15115v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at ACM SIGKDD 2026; 13 pages, 13 figures</p></details> |
+| **[Energy-Efficient Federated Learning via Adaptive Encoder Freezing for MRI-to-CT Conversion: A Green AI-Guided Research](https://arxiv.org/abs/2512.03054v2)** | 2026-07-16 | 22 pages, 13 figures |
+| **[A Fast Confirmation Rule for the Ethereum Consensus Protocol](https://arxiv.org/abs/2405.00549v4)** | 2026-07-16 |  |
+| **[LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](https://arxiv.org/abs/2607.14952v1)** | 2026-07-16 | <details><summary>41 pa...</summary><p>41 pages, 10 figures, 11 tables. Code: https://github.com/MindLab-Research/longstraw</p></details> |
+| **[CODA: Algorithm-Hardware Co-design for Edge Video Diffusion via NMP-Enabled Compute-Cache Operator Disaggregation](https://arxiv.org/abs/2607.14908v1)** | 2026-07-16 | <details><summary>15 pa...</summary><p>15 pages, 14 figures, accepted to the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
+| **[What does it take to certify a conversion checker?](https://arxiv.org/abs/2502.15500v3)** | 2026-07-16 |  |
+| **[Bidirectional Interpolation for the Lambda-Calculus: Revisiting and Formalising Craig-Čubrić Interpolation](https://arxiv.org/abs/2603.03083v2)** | 2026-07-16 |  |
+| **[Knowledge-Aware Evolution for Task-Free Streaming Federated Continual Learning with Arbitrary Class Overlap](https://arxiv.org/abs/2601.19788v2)** | 2026-07-16 |  |
+| **[Enhancing a Hierarchical Graph Rewriting Language based on MELL Cut Elimination](https://arxiv.org/abs/2411.14802v4)** | 2026-07-16 | <details><summary>Exten...</summary><p>Extended version of the PADL 2025 paper (LNCS, Springer, 2025). This version incorporates into the main text details omitted from the conference version and includes some additional material</p></details> |
+| **[Ground-Side Mission Plan Compilation with Policy-as-Code Guardrails for Cloud-Native Satellite Platforms](https://arxiv.org/abs/2607.14798v1)** | 2026-07-16 | <details><summary>13 pa...</summary><p>13 pages. Extended version of the paper accepted at IEEE SMC-IT/SCC 2026 (Space Mission Challenges for Information Technology / Space Computing Conference); adds a unified GPU+CPU DRA quota and a scheduler-level accelerator fallback re-validated on Kueue v0.18.3</p></details> |
+| **[Toward Energy-Efficient and Low-Power Arrhythmia Detection for Wearable Devices](https://arxiv.org/abs/2607.14747v1)** | 2026-07-16 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HeteroMosaic: Exposing and Exploiting Heterogeneous Execution Opportunities for Energy-Efficient Edge LLM Inference](https://arxiv.org/abs/2607.12839v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted at the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
-| **[Backpropagation for Effectful Languages I: Finite Probability and Discrete Output Algebraic Effects](https://arxiv.org/abs/2607.13935v1)** | 2026-07-15 | <details><summary>71 pa...</summary><p>71 pages, submitted to POPL 2027</p></details> |
-| **[Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code](https://arxiv.org/abs/2607.13921v1)** | 2026-07-15 |  |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v6)** | 2026-07-15 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 6 tables</p></details> |
-| **[SmartSwap: Swap-Based Memory Optimization for LLM Training under Varying Operator Sequences](https://arxiv.org/abs/2509.11076v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted to DAC 2026. Previously titled "Chameleon: Taming Dynamic Operator Sequences for Memory-Intensive LLM Training."</p></details> |
-| **[Package Managers à la Carte: A Formal Model of Dependency Resolution](https://arxiv.org/abs/2602.18602v4)** | 2026-07-15 | <details><summary>35 pa...</summary><p>35 pages, 12 figures. To appear in Proc. ACM Program. Lang. 10, ICFP, Article 301, August 2026</p></details> |
-| **[High-Quality Multi-Constraint Hypergraph Partitioning via Greedy Rebalancing](https://arxiv.org/abs/2605.28333v2)** | 2026-07-15 | ESA 2026 |
-| **[RepliCore: Reproducible Parallel Simulation under Asynchronous Browser Runtimes](https://arxiv.org/abs/2607.02529v2)** | 2026-07-15 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 5 tables</p></details> |
-| **[Architectural Trade-offs in the Energy-Efficient Era: A Comparative Study of power-capping NVIDIA H100 and H200](https://arxiv.org/abs/2604.11391v2)** | 2026-07-15 |  |
-| **[Decomposable Type Highlighting for Bidirectional Type and Cast System](https://arxiv.org/abs/2607.13727v1)** | 2026-07-15 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, presented at HATRA 2025</p></details> |
-| **[Local Certification of Vertex and Edge Connectivity](https://arxiv.org/abs/2607.13677v1)** | 2026-07-15 | <details><summary>Abstr...</summary><p>Abstract shortened to meet arXiv requirements</p></details> |
-| **[Definitional Inversion, Without Normalisation](https://arxiv.org/abs/2607.13662v1)** | 2026-07-15 |  |
-| **[A Distributed Framework for Compiling and Reasoning with d-DNNF](https://arxiv.org/abs/2607.13642v1)** | 2026-07-15 |  |
-| **[gDMC: A Generic Distributed Model Counting Framework via Work-Stealing](https://arxiv.org/abs/2607.13634v1)** | 2026-07-15 |  |
-| **[A Telemetry-Driven Model for Quantifying Upgrade Risk in Durable Workflow Execution](https://arxiv.org/abs/2607.13617v1)** | 2026-07-15 | 29 pages, 3 figures |
+| **[Campaign Diagrams: Visualizing the March Through the Phases of a Workload](https://arxiv.org/abs/2607.15225v1)** | 2026-07-16 | 12 pages, 13 figures |
+| **[Memory-Exhaustion Attack on the Blocklace Byzantine-Repelling Conflict-Free Replicated Data Type](https://arxiv.org/abs/2607.15185v1)** | 2026-07-16 | 2 pages |
+| **[Mech: Mechanised Choreographic Programming](https://arxiv.org/abs/2607.15174v1)** | 2026-07-16 |  |
+| **[Ordering by Unanimity: Giving Applications Sequencing Rights Without Breaking Composability](https://arxiv.org/abs/2607.06144v2)** | 2026-07-16 |  |
+| **[Don't Predict, Prioritize: Rethinking GPU Reliability Assessment](https://arxiv.org/abs/2607.15115v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at ACM SIGKDD 2026; 13 pages, 13 figures</p></details> |
+| **[Energy-Efficient Federated Learning via Adaptive Encoder Freezing for MRI-to-CT Conversion: A Green AI-Guided Research](https://arxiv.org/abs/2512.03054v2)** | 2026-07-16 | 22 pages, 13 figures |
+| **[A Fast Confirmation Rule for the Ethereum Consensus Protocol](https://arxiv.org/abs/2405.00549v4)** | 2026-07-16 |  |
+| **[LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](https://arxiv.org/abs/2607.14952v1)** | 2026-07-16 | <details><summary>41 pa...</summary><p>41 pages, 10 figures, 11 tables. Code: https://github.com/MindLab-Research/longstraw</p></details> |
+| **[CODA: Algorithm-Hardware Co-design for Edge Video Diffusion via NMP-Enabled Compute-Cache Operator Disaggregation](https://arxiv.org/abs/2607.14908v1)** | 2026-07-16 | <details><summary>15 pa...</summary><p>15 pages, 14 figures, accepted to the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
+| **[What does it take to certify a conversion checker?](https://arxiv.org/abs/2502.15500v3)** | 2026-07-16 |  |
+| **[Bidirectional Interpolation for the Lambda-Calculus: Revisiting and Formalising Craig-Čubrić Interpolation](https://arxiv.org/abs/2603.03083v2)** | 2026-07-16 |  |
+| **[Knowledge-Aware Evolution for Task-Free Streaming Federated Continual Learning with Arbitrary Class Overlap](https://arxiv.org/abs/2601.19788v2)** | 2026-07-16 |  |
+| **[Enhancing a Hierarchical Graph Rewriting Language based on MELL Cut Elimination](https://arxiv.org/abs/2411.14802v4)** | 2026-07-16 | <details><summary>Exten...</summary><p>Extended version of the PADL 2025 paper (LNCS, Springer, 2025). This version incorporates into the main text details omitted from the conference version and includes some additional material</p></details> |
+| **[Ground-Side Mission Plan Compilation with Policy-as-Code Guardrails for Cloud-Native Satellite Platforms](https://arxiv.org/abs/2607.14798v1)** | 2026-07-16 | <details><summary>13 pa...</summary><p>13 pages. Extended version of the paper accepted at IEEE SMC-IT/SCC 2026 (Space Mission Challenges for Information Technology / Space Computing Conference); adds a unified GPU+CPU DRA quota and a scheduler-level accelerator fallback re-validated on Kueue v0.18.3</p></details> |
+| **[Toward Energy-Efficient and Low-Power Arrhythmia Detection for Wearable Devices](https://arxiv.org/abs/2607.14747v1)** | 2026-07-16 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HeteroMosaic: Exposing and Exploiting Heterogeneous Execution Opportunities for Energy-Efficient Edge LLM Inference](https://arxiv.org/abs/2607.12839v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted at the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
-| **[Backpropagation for Effectful Languages I: Finite Probability and Discrete Output Algebraic Effects](https://arxiv.org/abs/2607.13935v1)** | 2026-07-15 | <details><summary>71 pa...</summary><p>71 pages, submitted to POPL 2027</p></details> |
-| **[Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code](https://arxiv.org/abs/2607.13921v1)** | 2026-07-15 |  |
-| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v6)** | 2026-07-15 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 6 tables</p></details> |
-| **[SmartSwap: Swap-Based Memory Optimization for LLM Training under Varying Operator Sequences](https://arxiv.org/abs/2509.11076v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted to DAC 2026. Previously titled "Chameleon: Taming Dynamic Operator Sequences for Memory-Intensive LLM Training."</p></details> |
-| **[Package Managers à la Carte: A Formal Model of Dependency Resolution](https://arxiv.org/abs/2602.18602v4)** | 2026-07-15 | <details><summary>35 pa...</summary><p>35 pages, 12 figures. To appear in Proc. ACM Program. Lang. 10, ICFP, Article 301, August 2026</p></details> |
-| **[High-Quality Multi-Constraint Hypergraph Partitioning via Greedy Rebalancing](https://arxiv.org/abs/2605.28333v2)** | 2026-07-15 | ESA 2026 |
-| **[RepliCore: Reproducible Parallel Simulation under Asynchronous Browser Runtimes](https://arxiv.org/abs/2607.02529v2)** | 2026-07-15 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 5 tables</p></details> |
-| **[Architectural Trade-offs in the Energy-Efficient Era: A Comparative Study of power-capping NVIDIA H100 and H200](https://arxiv.org/abs/2604.11391v2)** | 2026-07-15 |  |
-| **[Decomposable Type Highlighting for Bidirectional Type and Cast System](https://arxiv.org/abs/2607.13727v1)** | 2026-07-15 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, presented at HATRA 2025</p></details> |
-| **[Local Certification of Vertex and Edge Connectivity](https://arxiv.org/abs/2607.13677v1)** | 2026-07-15 | <details><summary>Abstr...</summary><p>Abstract shortened to meet arXiv requirements</p></details> |
-| **[Definitional Inversion, Without Normalisation](https://arxiv.org/abs/2607.13662v1)** | 2026-07-15 |  |
-| **[A Distributed Framework for Compiling and Reasoning with d-DNNF](https://arxiv.org/abs/2607.13642v1)** | 2026-07-15 |  |
-| **[gDMC: A Generic Distributed Model Counting Framework via Work-Stealing](https://arxiv.org/abs/2607.13634v1)** | 2026-07-15 |  |
-| **[A Telemetry-Driven Model for Quantifying Upgrade Risk in Durable Workflow Execution](https://arxiv.org/abs/2607.13617v1)** | 2026-07-15 | 29 pages, 3 figures |
+| **[Campaign Diagrams: Visualizing the March Through the Phases of a Workload](https://arxiv.org/abs/2607.15225v1)** | 2026-07-16 | 12 pages, 13 figures |
+| **[Memory-Exhaustion Attack on the Blocklace Byzantine-Repelling Conflict-Free Replicated Data Type](https://arxiv.org/abs/2607.15185v1)** | 2026-07-16 | 2 pages |
+| **[Mech: Mechanised Choreographic Programming](https://arxiv.org/abs/2607.15174v1)** | 2026-07-16 |  |
+| **[Ordering by Unanimity: Giving Applications Sequencing Rights Without Breaking Composability](https://arxiv.org/abs/2607.06144v2)** | 2026-07-16 |  |
+| **[Don't Predict, Prioritize: Rethinking GPU Reliability Assessment](https://arxiv.org/abs/2607.15115v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at ACM SIGKDD 2026; 13 pages, 13 figures</p></details> |
+| **[Energy-Efficient Federated Learning via Adaptive Encoder Freezing for MRI-to-CT Conversion: A Green AI-Guided Research](https://arxiv.org/abs/2512.03054v2)** | 2026-07-16 | 22 pages, 13 figures |
+| **[A Fast Confirmation Rule for the Ethereum Consensus Protocol](https://arxiv.org/abs/2405.00549v4)** | 2026-07-16 |  |
+| **[LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](https://arxiv.org/abs/2607.14952v1)** | 2026-07-16 | <details><summary>41 pa...</summary><p>41 pages, 10 figures, 11 tables. Code: https://github.com/MindLab-Research/longstraw</p></details> |
+| **[CODA: Algorithm-Hardware Co-design for Edge Video Diffusion via NMP-Enabled Compute-Cache Operator Disaggregation](https://arxiv.org/abs/2607.14908v1)** | 2026-07-16 | <details><summary>15 pa...</summary><p>15 pages, 14 figures, accepted to the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
+| **[What does it take to certify a conversion checker?](https://arxiv.org/abs/2502.15500v3)** | 2026-07-16 |  |
+| **[Bidirectional Interpolation for the Lambda-Calculus: Revisiting and Formalising Craig-Čubrić Interpolation](https://arxiv.org/abs/2603.03083v2)** | 2026-07-16 |  |
+| **[Knowledge-Aware Evolution for Task-Free Streaming Federated Continual Learning with Arbitrary Class Overlap](https://arxiv.org/abs/2601.19788v2)** | 2026-07-16 |  |
+| **[Enhancing a Hierarchical Graph Rewriting Language based on MELL Cut Elimination](https://arxiv.org/abs/2411.14802v4)** | 2026-07-16 | <details><summary>Exten...</summary><p>Extended version of the PADL 2025 paper (LNCS, Springer, 2025). This version incorporates into the main text details omitted from the conference version and includes some additional material</p></details> |
+| **[Ground-Side Mission Plan Compilation with Policy-as-Code Guardrails for Cloud-Native Satellite Platforms](https://arxiv.org/abs/2607.14798v1)** | 2026-07-16 | <details><summary>13 pa...</summary><p>13 pages. Extended version of the paper accepted at IEEE SMC-IT/SCC 2026 (Space Mission Challenges for Information Technology / Space Computing Conference); adds a unified GPU+CPU DRA quota and a scheduler-level accelerator fallback re-validated on Kueue v0.18.3</p></details> |
+| **[Toward Energy-Efficient and Low-Power Arrhythmia Detection for Wearable Devices](https://arxiv.org/abs/2607.14747v1)** | 2026-07-16 |  |
 
