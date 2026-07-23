@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 23, 2026
+title: Latest 15 Papers - July 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Complete Local Reasoning About Parameterized Programs Over Topologies (Extended Version)](https://arxiv.org/abs/2605.15143v2)** | 2026-07-21 | <details><summary>Exten...</summary><p>Extended version of the paper "Complete Local Reasoning About Parameterized Programs Over Topologies" accepted to CAV 2026</p></details> |
-| **[MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus](https://arxiv.org/abs/2502.20692v4)** | 2026-07-21 |  |
-| **[Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI (Full Version)](https://arxiv.org/abs/2602.06934v6)** | 2026-07-21 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2510.15747</p></details> |
-| **[The Correctness Illusion in LLM-Generated GPU Kernels](https://arxiv.org/abs/2606.20128v2)** | 2026-07-21 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, LNCS format. Companion papers to follow on arXiv next week; IDs will be added in a v2 replace</p></details> |
-| **[Squeezing the Most Out of Preemption for AoI Minimization: Single-source Case](https://arxiv.org/abs/2607.19216v1)** | 2026-07-21 | 6 pages, 4 figures |
-| **[Keeping the Cache Warm Pays: Keepalive Economics for Agentic Workloads](https://arxiv.org/abs/2607.19214v1)** | 2026-07-21 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables. Measurement data and harness: https://github.com/mempko/pi (scripts/cache-research)</p></details> |
-| **[ARBITER: Guarded Agentic Control for SLO-Oriented Kubernetes Remediation](https://arxiv.org/abs/2607.19182v1)** | 2026-07-21 |  |
-| **[Coherence in Control: Bridging Many-Core Mapping and Routing through Cost Unification](https://arxiv.org/abs/2607.19158v1)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted by EMSOFT 2026</p></details> |
-| **[Job-level Carbon and Water Footprint Estimation for HPC: Bias Assessment from Runtime to Full Life Cycle](https://arxiv.org/abs/2607.19150v1)** | 2026-07-21 |  |
-| **[A Scalable Pattern Mining Workflow for Interpretable Machine Log Analysis in High-Performance Computing Environments](https://arxiv.org/abs/2607.19143v1)** | 2026-07-21 |  |
-| **[Enabling Multi-Dimensional Distributed Trace Comparison with Contrast](https://arxiv.org/abs/2607.19102v1)** | 2026-07-21 |  |
-| **[Remora: Scale-out Deterministic Execution for Smart Contracts](https://arxiv.org/abs/2607.02817v2)** | 2026-07-21 |  |
-| **[CWind: A Cross-site Router for Large Language Model Inference Serving at Renewable Energy Farms](https://arxiv.org/abs/2605.23348v2)** | 2026-07-21 |  |
-| **[InstantInfer: Enabling Fast LLM Cold Start with Communicating Finite Automata](https://arxiv.org/abs/2607.18957v1)** | 2026-07-21 | 15 pages, 18 figures |
-| **[Build-Authorized Evidence for Opaque Calls: A Fail-Closed Rewrite-Authority Boundary](https://arxiv.org/abs/2607.18949v1)** | 2026-07-21 | <details><summary>38 pa...</summary><p>38 pages, 1 figure, 16 tables; includes a public appendix</p></details> |
+| **[Qoreo: Choreographic Programming for Quantum Distributed Systems](https://arxiv.org/abs/2607.20391v1)** | 2026-07-22 |  |
+| **[Black-Box Performance Evaluation of Elastic Block Storage: Contract, Rate-Limiting Model, and Software Exploration](https://arxiv.org/abs/2607.20319v1)** | 2026-07-22 |  |
+| **[Secret Quorums: Protecting Byzantine Protocols Against Adaptive Adversaries](https://arxiv.org/abs/2412.16648v3)** | 2026-07-22 |  |
+| **[Towards Relating Ciao Assertions and LPTP Theorems](https://arxiv.org/abs/2607.20249v1)** | 2026-07-22 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2026, arXiv:2607.17707</p></details> |
+| **[Computer Science as Infrastructure: the Spine of the Lean Computer Science Library (CSLib)](https://arxiv.org/abs/2602.15078v2)** | 2026-07-22 | <details><summary>In Pr...</summary><p>In Proceedings LSFA 2026, arXiv:2607.15904</p></details> |
+| **[DQAOA-GPT: AI-Accelerated Distributed Quantum Optimization for Combinatorial Problems](https://arxiv.org/abs/2607.20225v1)** | 2026-07-22 |  |
+| **[Fully Dynamic Rooted Spanning Tree on GPU](https://arxiv.org/abs/2607.20211v1)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted in IPDPSW(APDCM 2026)</p></details> |
+| **[Linearising Explicit Substitutions using Intersection Types](https://arxiv.org/abs/2607.20179v1)** | 2026-07-22 | <details><summary>In Pr...</summary><p>In Proceedings LSFA 2026, arXiv:2607.15904</p></details> |
+| **[Advancing Scientific Discovery and Complex Optimization through Distributed Quantum Neural Networks](https://arxiv.org/abs/2503.00221v2)** | 2026-07-22 | <details><summary>This ...</summary><p>This manuscript is published in ACS Energy Letters at: https://www.nature.com/articles/s41524-026-02203-w</p></details> |
+| **[Distributed Quantum Approximate Optimization Algorithm on a Quantum-Centric Supercomputing Architecture](https://arxiv.org/abs/2407.20212v3)** | 2026-07-22 | <details><summary>This ...</summary><p>This manuscript is published in npj Quantum Information at: https://www.nature.com/articles/s41534-026-01283-2</p></details> |
+| **[Ascend to Science: Exploration of AI Chips for Scientific Computing](https://arxiv.org/abs/2607.20120v1)** | 2026-07-22 |  |
+| **[Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models](https://arxiv.org/abs/2607.12583v2)** | 2026-07-22 | <details><summary>This ...</summary><p>This paper has been accepted by International Conference on Parallel Processing (ICPP 2026)</p></details> |
+| **[Ordering by Unanimity: Giving Applications Sequencing Rights Without Breaking Composability](https://arxiv.org/abs/2607.06144v3)** | 2026-07-22 |  |
+| **[Pre-Deployment Complexity Estimation for Federated Perception Systems](https://arxiv.org/abs/2603.28282v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted and presented at Edge AI Research Symposium 2026 (EdgeAI2026), San Diego, CA</p></details> |
+| **[Single-Connection Mixed-Criticality Transport with CATS: Bounded Guarantees, Three Structural Limits, and a QUIC Escape](https://arxiv.org/abs/2606.16924v3)** | 2026-07-22 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 1 table</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Complete Local Reasoning About Parameterized Programs Over Topologies (Extended Version)](https://arxiv.org/abs/2605.15143v2)** | 2026-07-21 | <details><summary>Exten...</summary><p>Extended version of the paper "Complete Local Reasoning About Parameterized Programs Over Topologies" accepted to CAV 2026</p></details> |
-| **[MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus](https://arxiv.org/abs/2502.20692v4)** | 2026-07-21 |  |
-| **[Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI (Full Version)](https://arxiv.org/abs/2602.06934v6)** | 2026-07-21 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2510.15747</p></details> |
-| **[The Correctness Illusion in LLM-Generated GPU Kernels](https://arxiv.org/abs/2606.20128v2)** | 2026-07-21 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, LNCS format. Companion papers to follow on arXiv next week; IDs will be added in a v2 replace</p></details> |
-| **[Squeezing the Most Out of Preemption for AoI Minimization: Single-source Case](https://arxiv.org/abs/2607.19216v1)** | 2026-07-21 | 6 pages, 4 figures |
-| **[Keeping the Cache Warm Pays: Keepalive Economics for Agentic Workloads](https://arxiv.org/abs/2607.19214v1)** | 2026-07-21 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables. Measurement data and harness: https://github.com/mempko/pi (scripts/cache-research)</p></details> |
-| **[ARBITER: Guarded Agentic Control for SLO-Oriented Kubernetes Remediation](https://arxiv.org/abs/2607.19182v1)** | 2026-07-21 |  |
-| **[Coherence in Control: Bridging Many-Core Mapping and Routing through Cost Unification](https://arxiv.org/abs/2607.19158v1)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted by EMSOFT 2026</p></details> |
-| **[Job-level Carbon and Water Footprint Estimation for HPC: Bias Assessment from Runtime to Full Life Cycle](https://arxiv.org/abs/2607.19150v1)** | 2026-07-21 |  |
-| **[A Scalable Pattern Mining Workflow for Interpretable Machine Log Analysis in High-Performance Computing Environments](https://arxiv.org/abs/2607.19143v1)** | 2026-07-21 |  |
-| **[Enabling Multi-Dimensional Distributed Trace Comparison with Contrast](https://arxiv.org/abs/2607.19102v1)** | 2026-07-21 |  |
-| **[Remora: Scale-out Deterministic Execution for Smart Contracts](https://arxiv.org/abs/2607.02817v2)** | 2026-07-21 |  |
-| **[CWind: A Cross-site Router for Large Language Model Inference Serving at Renewable Energy Farms](https://arxiv.org/abs/2605.23348v2)** | 2026-07-21 |  |
-| **[InstantInfer: Enabling Fast LLM Cold Start with Communicating Finite Automata](https://arxiv.org/abs/2607.18957v1)** | 2026-07-21 | 15 pages, 18 figures |
-| **[Build-Authorized Evidence for Opaque Calls: A Fail-Closed Rewrite-Authority Boundary](https://arxiv.org/abs/2607.18949v1)** | 2026-07-21 | <details><summary>38 pa...</summary><p>38 pages, 1 figure, 16 tables; includes a public appendix</p></details> |
+| **[Qoreo: Choreographic Programming for Quantum Distributed Systems](https://arxiv.org/abs/2607.20391v1)** | 2026-07-22 |  |
+| **[Black-Box Performance Evaluation of Elastic Block Storage: Contract, Rate-Limiting Model, and Software Exploration](https://arxiv.org/abs/2607.20319v1)** | 2026-07-22 |  |
+| **[Secret Quorums: Protecting Byzantine Protocols Against Adaptive Adversaries](https://arxiv.org/abs/2412.16648v3)** | 2026-07-22 |  |
+| **[Towards Relating Ciao Assertions and LPTP Theorems](https://arxiv.org/abs/2607.20249v1)** | 2026-07-22 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2026, arXiv:2607.17707</p></details> |
+| **[Computer Science as Infrastructure: the Spine of the Lean Computer Science Library (CSLib)](https://arxiv.org/abs/2602.15078v2)** | 2026-07-22 | <details><summary>In Pr...</summary><p>In Proceedings LSFA 2026, arXiv:2607.15904</p></details> |
+| **[DQAOA-GPT: AI-Accelerated Distributed Quantum Optimization for Combinatorial Problems](https://arxiv.org/abs/2607.20225v1)** | 2026-07-22 |  |
+| **[Fully Dynamic Rooted Spanning Tree on GPU](https://arxiv.org/abs/2607.20211v1)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted in IPDPSW(APDCM 2026)</p></details> |
+| **[Linearising Explicit Substitutions using Intersection Types](https://arxiv.org/abs/2607.20179v1)** | 2026-07-22 | <details><summary>In Pr...</summary><p>In Proceedings LSFA 2026, arXiv:2607.15904</p></details> |
+| **[Advancing Scientific Discovery and Complex Optimization through Distributed Quantum Neural Networks](https://arxiv.org/abs/2503.00221v2)** | 2026-07-22 | <details><summary>This ...</summary><p>This manuscript is published in ACS Energy Letters at: https://www.nature.com/articles/s41524-026-02203-w</p></details> |
+| **[Distributed Quantum Approximate Optimization Algorithm on a Quantum-Centric Supercomputing Architecture](https://arxiv.org/abs/2407.20212v3)** | 2026-07-22 | <details><summary>This ...</summary><p>This manuscript is published in npj Quantum Information at: https://www.nature.com/articles/s41534-026-01283-2</p></details> |
+| **[Ascend to Science: Exploration of AI Chips for Scientific Computing](https://arxiv.org/abs/2607.20120v1)** | 2026-07-22 |  |
+| **[Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models](https://arxiv.org/abs/2607.12583v2)** | 2026-07-22 | <details><summary>This ...</summary><p>This paper has been accepted by International Conference on Parallel Processing (ICPP 2026)</p></details> |
+| **[Ordering by Unanimity: Giving Applications Sequencing Rights Without Breaking Composability](https://arxiv.org/abs/2607.06144v3)** | 2026-07-22 |  |
+| **[Pre-Deployment Complexity Estimation for Federated Perception Systems](https://arxiv.org/abs/2603.28282v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted and presented at Edge AI Research Symposium 2026 (EdgeAI2026), San Diego, CA</p></details> |
+| **[Single-Connection Mixed-Criticality Transport with CATS: Bounded Guarantees, Three Structural Limits, and a QUIC Escape](https://arxiv.org/abs/2606.16924v3)** | 2026-07-22 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 1 table</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Complete Local Reasoning About Parameterized Programs Over Topologies (Extended Version)](https://arxiv.org/abs/2605.15143v2)** | 2026-07-21 | <details><summary>Exten...</summary><p>Extended version of the paper "Complete Local Reasoning About Parameterized Programs Over Topologies" accepted to CAV 2026</p></details> |
-| **[MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus](https://arxiv.org/abs/2502.20692v4)** | 2026-07-21 |  |
-| **[Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI (Full Version)](https://arxiv.org/abs/2602.06934v6)** | 2026-07-21 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2510.15747</p></details> |
-| **[The Correctness Illusion in LLM-Generated GPU Kernels](https://arxiv.org/abs/2606.20128v2)** | 2026-07-21 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, LNCS format. Companion papers to follow on arXiv next week; IDs will be added in a v2 replace</p></details> |
-| **[Squeezing the Most Out of Preemption for AoI Minimization: Single-source Case](https://arxiv.org/abs/2607.19216v1)** | 2026-07-21 | 6 pages, 4 figures |
-| **[Keeping the Cache Warm Pays: Keepalive Economics for Agentic Workloads](https://arxiv.org/abs/2607.19214v1)** | 2026-07-21 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables. Measurement data and harness: https://github.com/mempko/pi (scripts/cache-research)</p></details> |
-| **[ARBITER: Guarded Agentic Control for SLO-Oriented Kubernetes Remediation](https://arxiv.org/abs/2607.19182v1)** | 2026-07-21 |  |
-| **[Coherence in Control: Bridging Many-Core Mapping and Routing through Cost Unification](https://arxiv.org/abs/2607.19158v1)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted by EMSOFT 2026</p></details> |
-| **[Job-level Carbon and Water Footprint Estimation for HPC: Bias Assessment from Runtime to Full Life Cycle](https://arxiv.org/abs/2607.19150v1)** | 2026-07-21 |  |
-| **[A Scalable Pattern Mining Workflow for Interpretable Machine Log Analysis in High-Performance Computing Environments](https://arxiv.org/abs/2607.19143v1)** | 2026-07-21 |  |
-| **[Enabling Multi-Dimensional Distributed Trace Comparison with Contrast](https://arxiv.org/abs/2607.19102v1)** | 2026-07-21 |  |
-| **[Remora: Scale-out Deterministic Execution for Smart Contracts](https://arxiv.org/abs/2607.02817v2)** | 2026-07-21 |  |
-| **[CWind: A Cross-site Router for Large Language Model Inference Serving at Renewable Energy Farms](https://arxiv.org/abs/2605.23348v2)** | 2026-07-21 |  |
-| **[InstantInfer: Enabling Fast LLM Cold Start with Communicating Finite Automata](https://arxiv.org/abs/2607.18957v1)** | 2026-07-21 | 15 pages, 18 figures |
-| **[Build-Authorized Evidence for Opaque Calls: A Fail-Closed Rewrite-Authority Boundary](https://arxiv.org/abs/2607.18949v1)** | 2026-07-21 | <details><summary>38 pa...</summary><p>38 pages, 1 figure, 16 tables; includes a public appendix</p></details> |
+| **[Qoreo: Choreographic Programming for Quantum Distributed Systems](https://arxiv.org/abs/2607.20391v1)** | 2026-07-22 |  |
+| **[Black-Box Performance Evaluation of Elastic Block Storage: Contract, Rate-Limiting Model, and Software Exploration](https://arxiv.org/abs/2607.20319v1)** | 2026-07-22 |  |
+| **[Secret Quorums: Protecting Byzantine Protocols Against Adaptive Adversaries](https://arxiv.org/abs/2412.16648v3)** | 2026-07-22 |  |
+| **[Towards Relating Ciao Assertions and LPTP Theorems](https://arxiv.org/abs/2607.20249v1)** | 2026-07-22 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2026, arXiv:2607.17707</p></details> |
+| **[Computer Science as Infrastructure: the Spine of the Lean Computer Science Library (CSLib)](https://arxiv.org/abs/2602.15078v2)** | 2026-07-22 | <details><summary>In Pr...</summary><p>In Proceedings LSFA 2026, arXiv:2607.15904</p></details> |
+| **[DQAOA-GPT: AI-Accelerated Distributed Quantum Optimization for Combinatorial Problems](https://arxiv.org/abs/2607.20225v1)** | 2026-07-22 |  |
+| **[Fully Dynamic Rooted Spanning Tree on GPU](https://arxiv.org/abs/2607.20211v1)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted in IPDPSW(APDCM 2026)</p></details> |
+| **[Linearising Explicit Substitutions using Intersection Types](https://arxiv.org/abs/2607.20179v1)** | 2026-07-22 | <details><summary>In Pr...</summary><p>In Proceedings LSFA 2026, arXiv:2607.15904</p></details> |
+| **[Advancing Scientific Discovery and Complex Optimization through Distributed Quantum Neural Networks](https://arxiv.org/abs/2503.00221v2)** | 2026-07-22 | <details><summary>This ...</summary><p>This manuscript is published in ACS Energy Letters at: https://www.nature.com/articles/s41524-026-02203-w</p></details> |
+| **[Distributed Quantum Approximate Optimization Algorithm on a Quantum-Centric Supercomputing Architecture](https://arxiv.org/abs/2407.20212v3)** | 2026-07-22 | <details><summary>This ...</summary><p>This manuscript is published in npj Quantum Information at: https://www.nature.com/articles/s41534-026-01283-2</p></details> |
+| **[Ascend to Science: Exploration of AI Chips for Scientific Computing](https://arxiv.org/abs/2607.20120v1)** | 2026-07-22 |  |
+| **[Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models](https://arxiv.org/abs/2607.12583v2)** | 2026-07-22 | <details><summary>This ...</summary><p>This paper has been accepted by International Conference on Parallel Processing (ICPP 2026)</p></details> |
+| **[Ordering by Unanimity: Giving Applications Sequencing Rights Without Breaking Composability](https://arxiv.org/abs/2607.06144v3)** | 2026-07-22 |  |
+| **[Pre-Deployment Complexity Estimation for Federated Perception Systems](https://arxiv.org/abs/2603.28282v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted and presented at Edge AI Research Symposium 2026 (EdgeAI2026), San Diego, CA</p></details> |
+| **[Single-Connection Mixed-Criticality Transport with CATS: Bounded Guarantees, Three Structural Limits, and a QUIC Escape](https://arxiv.org/abs/2606.16924v3)** | 2026-07-22 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 1 table</p></details> |
 
