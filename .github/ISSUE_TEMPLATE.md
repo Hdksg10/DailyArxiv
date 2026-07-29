@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2026
+title: Latest 15 Papers - July 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport](https://arxiv.org/abs/2607.24741v1)** | 2026-07-27 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 6 tables</p></details> |
-| **[Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines](https://arxiv.org/abs/2607.24692v1)** | 2026-07-27 |  |
-| **[ARBITER: Guarded Agentic Control for SLO-Oriented Kubernetes Remediation](https://arxiv.org/abs/2607.19182v2)** | 2026-07-27 |  |
-| **[All for one and none forall: Compiling polymorphic relations without monomorphization](https://arxiv.org/abs/2607.24678v1)** | 2026-07-27 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, submitted to miniKanren and Relational Programming Workshop 2026, for associated repo see https://github.com/sporkl/semiringkanren</p></details> |
-| **[CHAMB-GA: A Containerized HPC Scalable Microservice-Based Framework for Genetic Algorithms](https://arxiv.org/abs/2606.27217v2)** | 2026-07-27 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 4 tables</p></details> |
-| **[Fair Combinatorial Auctions: Endogenous Best Execution in Blockchain Trade-Intent Markets](https://arxiv.org/abs/2408.12225v4)** | 2026-07-27 |  |
-| **[Classifying Capabilities (Extended Version)](https://arxiv.org/abs/2607.24504v1)** | 2026-07-27 |  |
-| **[The SpiNNaker2 chip: a many-core platform for flexible and scalable brain-inspired computing](https://arxiv.org/abs/2607.24396v1)** | 2026-07-27 | 19 pages, 13 figures |
-| **[LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](https://arxiv.org/abs/2607.14952v3)** | 2026-07-27 | <details><summary>44 pa...</summary><p>44 pages, 10 figures, 11 tables. Code: https://github.com/MindLab-Research/longstraw</p></details> |
-| **[Beyond Storage: State as a Runtime Control Problem in Parallel and Distributed Systems](https://arxiv.org/abs/2607.16836v2)** | 2026-07-27 | <details><summary>53 pa...</summary><p>53 pages, 8 figures. Submitted to ACM Computing Surveys</p></details> |
-| **[Black Hole Search by Scattered Agents in Dynamic Rings](https://arxiv.org/abs/2404.15132v4)** | 2026-07-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2005.07453</p></details> |
-| **[Consensus In Asynchrony: Strictly Formal](https://arxiv.org/abs/2607.24095v1)** | 2026-07-27 | <details><summary>This ...</summary><p>This is an Accepted Manuscript of an article published by Taylor & Francis Group in the International Journal of Parallel, Emergent & Distributed Systems on 22/07/2026, available online: https://www.tandfonline.com/doi/10.1080/17445760.2026.2694348</p></details> |
-| **[Agentic Cloud Decoys: A Deception-Driven Framework for Autonomous Intrusion Investigation](https://arxiv.org/abs/2607.24006v1)** | 2026-07-27 |  |
-| **[FlowLog: Re-thinking Datalog for Fast and Extensible Static Analysis](https://arxiv.org/abs/2607.23971v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at SPLASH/ISSTA 2026 Tool Demonstrations Track</p></details> |
-| **[Generic Constraints Projection: Four-Dimensional Type Inference for Dynamic Languages](https://arxiv.org/abs/2607.19693v3)** | 2026-07-27 | <details><summary>62 pa...</summary><p>62 pages, 5 figures, 4 tables</p></details> |
+| **[MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar](https://arxiv.org/abs/2607.26016v1)** | 2026-07-28 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, 1 table</p></details> |
+| **[Proof-of-Social-Capital: A Consensus Protocol Replacing Stake for Social Capital](https://arxiv.org/abs/2505.12144v6)** | 2026-07-28 |  |
+| **[Design in Tiles: Automating GEMM Deployment on Tile-Based Many-PE Accelerators](https://arxiv.org/abs/2512.13638v2)** | 2026-07-28 |  |
+| **[Hermes: Low Tail-Latency Via Prefix Consensus](https://arxiv.org/abs/2607.25916v1)** | 2026-07-28 |  |
+| **[Massively parallel numerical simulations with Julia](https://arxiv.org/abs/2607.25866v1)** | 2026-07-28 | 8 pages, 10 figures |
+| **[Demystifying Deep Learning Compiler Frontend Bugs: An LLM-Aided Empirical Study](https://arxiv.org/abs/2607.25651v1)** | 2026-07-28 |  |
+| **[PowerScale: Energy-Efficient Geo-Distributed Model Training with Federated Datacenter Power](https://arxiv.org/abs/2607.25650v1)** | 2026-07-28 |  |
+| **[Real-Time Driver Safety Scoring Through Inverse Crash Probability Modeling](https://arxiv.org/abs/2603.14841v3)** | 2026-07-28 | <details><summary>10 pa...</summary><p>10 pages, 13 figures, and 14 tables. Submitted in EIT 2026 Conference hosted by The University of Wisconsin-La Crosse and sponsored by IEEE Region 4 (R4)</p></details> |
+| **[Computable Quantification in Reflective Grounded Arithmetic](https://arxiv.org/abs/2607.25533v1)** | 2026-07-28 |  |
+| **[Optimistic Verifiable Claims: A Blockchain Protocol for Conditionally Confidential Bidding in Decentralized Manufacturing](https://arxiv.org/abs/2607.25517v1)** | 2026-07-28 |  |
+| **[WASP: A Configurable Framework for Portable Stateful Serverless Applications](https://arxiv.org/abs/2607.25493v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted for presentation at the International Workshop on Scalable Compute Continuum (WSCC 2026)</p></details> |
+| **[The Carnot Bound: Limits and Possibilities for Bandwidth-Efficient Consensus](https://arxiv.org/abs/2603.11797v3)** | 2026-07-28 |  |
+| **[Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization](https://arxiv.org/abs/2607.25373v1)** | 2026-07-28 | <details><summary>18 pa...</summary><p>18 pages, plus appendices with full source code (60 pages total). Camera-ready for the miniKanren and Relational Programming Workshop 2026 (miniKanren'26)</p></details> |
+| **[CW-Ghost: Search-Free Granularity Selection for Helper-Thread Prefetching via Capacity Windows](https://arxiv.org/abs/2607.25363v1)** | 2026-07-28 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, submitted to ICA3PP 2026</p></details> |
+| **[The Best of Times, the Worst of Times: Moment-Based Analysis of Probabilistic Cost Structures](https://arxiv.org/abs/2607.25361v1)** | 2026-07-28 | 65 pages |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport](https://arxiv.org/abs/2607.24741v1)** | 2026-07-27 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 6 tables</p></details> |
-| **[Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines](https://arxiv.org/abs/2607.24692v1)** | 2026-07-27 |  |
-| **[ARBITER: Guarded Agentic Control for SLO-Oriented Kubernetes Remediation](https://arxiv.org/abs/2607.19182v2)** | 2026-07-27 |  |
-| **[All for one and none forall: Compiling polymorphic relations without monomorphization](https://arxiv.org/abs/2607.24678v1)** | 2026-07-27 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, submitted to miniKanren and Relational Programming Workshop 2026, for associated repo see https://github.com/sporkl/semiringkanren</p></details> |
-| **[CHAMB-GA: A Containerized HPC Scalable Microservice-Based Framework for Genetic Algorithms](https://arxiv.org/abs/2606.27217v2)** | 2026-07-27 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 4 tables</p></details> |
-| **[Fair Combinatorial Auctions: Endogenous Best Execution in Blockchain Trade-Intent Markets](https://arxiv.org/abs/2408.12225v4)** | 2026-07-27 |  |
-| **[Classifying Capabilities (Extended Version)](https://arxiv.org/abs/2607.24504v1)** | 2026-07-27 |  |
-| **[The SpiNNaker2 chip: a many-core platform for flexible and scalable brain-inspired computing](https://arxiv.org/abs/2607.24396v1)** | 2026-07-27 | 19 pages, 13 figures |
-| **[LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](https://arxiv.org/abs/2607.14952v3)** | 2026-07-27 | <details><summary>44 pa...</summary><p>44 pages, 10 figures, 11 tables. Code: https://github.com/MindLab-Research/longstraw</p></details> |
-| **[Beyond Storage: State as a Runtime Control Problem in Parallel and Distributed Systems](https://arxiv.org/abs/2607.16836v2)** | 2026-07-27 | <details><summary>53 pa...</summary><p>53 pages, 8 figures. Submitted to ACM Computing Surveys</p></details> |
-| **[Black Hole Search by Scattered Agents in Dynamic Rings](https://arxiv.org/abs/2404.15132v4)** | 2026-07-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2005.07453</p></details> |
-| **[Consensus In Asynchrony: Strictly Formal](https://arxiv.org/abs/2607.24095v1)** | 2026-07-27 | <details><summary>This ...</summary><p>This is an Accepted Manuscript of an article published by Taylor & Francis Group in the International Journal of Parallel, Emergent & Distributed Systems on 22/07/2026, available online: https://www.tandfonline.com/doi/10.1080/17445760.2026.2694348</p></details> |
-| **[Agentic Cloud Decoys: A Deception-Driven Framework for Autonomous Intrusion Investigation](https://arxiv.org/abs/2607.24006v1)** | 2026-07-27 |  |
-| **[FlowLog: Re-thinking Datalog for Fast and Extensible Static Analysis](https://arxiv.org/abs/2607.23971v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at SPLASH/ISSTA 2026 Tool Demonstrations Track</p></details> |
-| **[Generic Constraints Projection: Four-Dimensional Type Inference for Dynamic Languages](https://arxiv.org/abs/2607.19693v3)** | 2026-07-27 | <details><summary>62 pa...</summary><p>62 pages, 5 figures, 4 tables</p></details> |
+| **[MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar](https://arxiv.org/abs/2607.26016v1)** | 2026-07-28 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, 1 table</p></details> |
+| **[Proof-of-Social-Capital: A Consensus Protocol Replacing Stake for Social Capital](https://arxiv.org/abs/2505.12144v6)** | 2026-07-28 |  |
+| **[Design in Tiles: Automating GEMM Deployment on Tile-Based Many-PE Accelerators](https://arxiv.org/abs/2512.13638v2)** | 2026-07-28 |  |
+| **[Hermes: Low Tail-Latency Via Prefix Consensus](https://arxiv.org/abs/2607.25916v1)** | 2026-07-28 |  |
+| **[Massively parallel numerical simulations with Julia](https://arxiv.org/abs/2607.25866v1)** | 2026-07-28 | 8 pages, 10 figures |
+| **[Demystifying Deep Learning Compiler Frontend Bugs: An LLM-Aided Empirical Study](https://arxiv.org/abs/2607.25651v1)** | 2026-07-28 |  |
+| **[PowerScale: Energy-Efficient Geo-Distributed Model Training with Federated Datacenter Power](https://arxiv.org/abs/2607.25650v1)** | 2026-07-28 |  |
+| **[Real-Time Driver Safety Scoring Through Inverse Crash Probability Modeling](https://arxiv.org/abs/2603.14841v3)** | 2026-07-28 | <details><summary>10 pa...</summary><p>10 pages, 13 figures, and 14 tables. Submitted in EIT 2026 Conference hosted by The University of Wisconsin-La Crosse and sponsored by IEEE Region 4 (R4)</p></details> |
+| **[Computable Quantification in Reflective Grounded Arithmetic](https://arxiv.org/abs/2607.25533v1)** | 2026-07-28 |  |
+| **[Optimistic Verifiable Claims: A Blockchain Protocol for Conditionally Confidential Bidding in Decentralized Manufacturing](https://arxiv.org/abs/2607.25517v1)** | 2026-07-28 |  |
+| **[WASP: A Configurable Framework for Portable Stateful Serverless Applications](https://arxiv.org/abs/2607.25493v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted for presentation at the International Workshop on Scalable Compute Continuum (WSCC 2026)</p></details> |
+| **[The Carnot Bound: Limits and Possibilities for Bandwidth-Efficient Consensus](https://arxiv.org/abs/2603.11797v3)** | 2026-07-28 |  |
+| **[Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization](https://arxiv.org/abs/2607.25373v1)** | 2026-07-28 | <details><summary>18 pa...</summary><p>18 pages, plus appendices with full source code (60 pages total). Camera-ready for the miniKanren and Relational Programming Workshop 2026 (miniKanren'26)</p></details> |
+| **[CW-Ghost: Search-Free Granularity Selection for Helper-Thread Prefetching via Capacity Windows](https://arxiv.org/abs/2607.25363v1)** | 2026-07-28 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, submitted to ICA3PP 2026</p></details> |
+| **[The Best of Times, the Worst of Times: Moment-Based Analysis of Probabilistic Cost Structures](https://arxiv.org/abs/2607.25361v1)** | 2026-07-28 | 65 pages |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport](https://arxiv.org/abs/2607.24741v1)** | 2026-07-27 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 6 tables</p></details> |
-| **[Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines](https://arxiv.org/abs/2607.24692v1)** | 2026-07-27 |  |
-| **[ARBITER: Guarded Agentic Control for SLO-Oriented Kubernetes Remediation](https://arxiv.org/abs/2607.19182v2)** | 2026-07-27 |  |
-| **[All for one and none forall: Compiling polymorphic relations without monomorphization](https://arxiv.org/abs/2607.24678v1)** | 2026-07-27 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, submitted to miniKanren and Relational Programming Workshop 2026, for associated repo see https://github.com/sporkl/semiringkanren</p></details> |
-| **[CHAMB-GA: A Containerized HPC Scalable Microservice-Based Framework for Genetic Algorithms](https://arxiv.org/abs/2606.27217v2)** | 2026-07-27 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 4 tables</p></details> |
-| **[Fair Combinatorial Auctions: Endogenous Best Execution in Blockchain Trade-Intent Markets](https://arxiv.org/abs/2408.12225v4)** | 2026-07-27 |  |
-| **[Classifying Capabilities (Extended Version)](https://arxiv.org/abs/2607.24504v1)** | 2026-07-27 |  |
-| **[The SpiNNaker2 chip: a many-core platform for flexible and scalable brain-inspired computing](https://arxiv.org/abs/2607.24396v1)** | 2026-07-27 | 19 pages, 13 figures |
-| **[LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](https://arxiv.org/abs/2607.14952v3)** | 2026-07-27 | <details><summary>44 pa...</summary><p>44 pages, 10 figures, 11 tables. Code: https://github.com/MindLab-Research/longstraw</p></details> |
-| **[Beyond Storage: State as a Runtime Control Problem in Parallel and Distributed Systems](https://arxiv.org/abs/2607.16836v2)** | 2026-07-27 | <details><summary>53 pa...</summary><p>53 pages, 8 figures. Submitted to ACM Computing Surveys</p></details> |
-| **[Black Hole Search by Scattered Agents in Dynamic Rings](https://arxiv.org/abs/2404.15132v4)** | 2026-07-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2005.07453</p></details> |
-| **[Consensus In Asynchrony: Strictly Formal](https://arxiv.org/abs/2607.24095v1)** | 2026-07-27 | <details><summary>This ...</summary><p>This is an Accepted Manuscript of an article published by Taylor & Francis Group in the International Journal of Parallel, Emergent & Distributed Systems on 22/07/2026, available online: https://www.tandfonline.com/doi/10.1080/17445760.2026.2694348</p></details> |
-| **[Agentic Cloud Decoys: A Deception-Driven Framework for Autonomous Intrusion Investigation](https://arxiv.org/abs/2607.24006v1)** | 2026-07-27 |  |
-| **[FlowLog: Re-thinking Datalog for Fast and Extensible Static Analysis](https://arxiv.org/abs/2607.23971v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at SPLASH/ISSTA 2026 Tool Demonstrations Track</p></details> |
-| **[Generic Constraints Projection: Four-Dimensional Type Inference for Dynamic Languages](https://arxiv.org/abs/2607.19693v3)** | 2026-07-27 | <details><summary>62 pa...</summary><p>62 pages, 5 figures, 4 tables</p></details> |
+| **[MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar](https://arxiv.org/abs/2607.26016v1)** | 2026-07-28 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, 1 table</p></details> |
+| **[Proof-of-Social-Capital: A Consensus Protocol Replacing Stake for Social Capital](https://arxiv.org/abs/2505.12144v6)** | 2026-07-28 |  |
+| **[Design in Tiles: Automating GEMM Deployment on Tile-Based Many-PE Accelerators](https://arxiv.org/abs/2512.13638v2)** | 2026-07-28 |  |
+| **[Hermes: Low Tail-Latency Via Prefix Consensus](https://arxiv.org/abs/2607.25916v1)** | 2026-07-28 |  |
+| **[Massively parallel numerical simulations with Julia](https://arxiv.org/abs/2607.25866v1)** | 2026-07-28 | 8 pages, 10 figures |
+| **[Demystifying Deep Learning Compiler Frontend Bugs: An LLM-Aided Empirical Study](https://arxiv.org/abs/2607.25651v1)** | 2026-07-28 |  |
+| **[PowerScale: Energy-Efficient Geo-Distributed Model Training with Federated Datacenter Power](https://arxiv.org/abs/2607.25650v1)** | 2026-07-28 |  |
+| **[Real-Time Driver Safety Scoring Through Inverse Crash Probability Modeling](https://arxiv.org/abs/2603.14841v3)** | 2026-07-28 | <details><summary>10 pa...</summary><p>10 pages, 13 figures, and 14 tables. Submitted in EIT 2026 Conference hosted by The University of Wisconsin-La Crosse and sponsored by IEEE Region 4 (R4)</p></details> |
+| **[Computable Quantification in Reflective Grounded Arithmetic](https://arxiv.org/abs/2607.25533v1)** | 2026-07-28 |  |
+| **[Optimistic Verifiable Claims: A Blockchain Protocol for Conditionally Confidential Bidding in Decentralized Manufacturing](https://arxiv.org/abs/2607.25517v1)** | 2026-07-28 |  |
+| **[WASP: A Configurable Framework for Portable Stateful Serverless Applications](https://arxiv.org/abs/2607.25493v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted for presentation at the International Workshop on Scalable Compute Continuum (WSCC 2026)</p></details> |
+| **[The Carnot Bound: Limits and Possibilities for Bandwidth-Efficient Consensus](https://arxiv.org/abs/2603.11797v3)** | 2026-07-28 |  |
+| **[Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization](https://arxiv.org/abs/2607.25373v1)** | 2026-07-28 | <details><summary>18 pa...</summary><p>18 pages, plus appendices with full source code (60 pages total). Camera-ready for the miniKanren and Relational Programming Workshop 2026 (miniKanren'26)</p></details> |
+| **[CW-Ghost: Search-Free Granularity Selection for Helper-Thread Prefetching via Capacity Windows](https://arxiv.org/abs/2607.25363v1)** | 2026-07-28 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, submitted to ICA3PP 2026</p></details> |
+| **[The Best of Times, the Worst of Times: Moment-Based Analysis of Probabilistic Cost Structures](https://arxiv.org/abs/2607.25361v1)** | 2026-07-28 | 65 pages |
 
