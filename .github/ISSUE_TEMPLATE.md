@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 31, 2026
+title: Latest 15 Papers - August 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Photonic-CXL Memory Appliance for Scalable KV Cache Management in LLM Inference](https://arxiv.org/abs/2607.27187v1)** | 2026-07-29 |  |
-| **[InferScale: GPU-Native KV Injection for Personalized LLM Serving](https://arxiv.org/abs/2607.27090v1)** | 2026-07-29 |  |
-| **[A Type-and-Effect System for Temporal Dependency Analysis of Render-based Reactive Programs](https://arxiv.org/abs/2607.27074v1)** | 2026-07-29 | <details><summary>56 pa...</summary><p>56 pages, including appendix</p></details> |
-| **[Confluence of conditional rewriting modulo](https://arxiv.org/abs/2504.01847v4)** | 2026-07-29 | <details><summary>87 pa...</summary><p>87 pages. 17 figures. 10 tables</p></details> |
-| **[Hermes: Low Tail-Latency Via Prefix Consensus](https://arxiv.org/abs/2607.25916v2)** | 2026-07-29 |  |
-| **[Relaxed activation analysis of dataflow networks - A clock calculus for machine learning and real-time scheduling](https://arxiv.org/abs/2607.21797v2)** | 2026-07-29 | <details><summary>Exten...</summary><p>Extended version of the paper to appear in the proceedings of FDL 2026: https://www.fdl-conference.com/program.html</p></details> |
-| **[Hybrid Workflow Composition for Extreme-Scale Data Processing: A Case Study on the HL-LHC (Extended Version)](https://arxiv.org/abs/2607.26877v1)** | 2026-07-29 | <details><summary>10 pa...</summary><p>10 pages, 13 figures, 3 tables. Extended technical report of paper accepted at IEEE eScience 2026</p></details> |
-| **[Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](https://arxiv.org/abs/2606.13097v2)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Mind the Gap: The Disconnect Between Synthetic and Natural Edge Weights in Parallel Single-Source Shortest Path](https://arxiv.org/abs/2607.26821v1)** | 2026-07-29 |  |
-| **[Nix to the Rescue for a Reproducible HPC-AI Software Stack](https://arxiv.org/abs/2607.26688v1)** | 2026-07-29 |  |
-| **[Unified Shared Memory in OpenMP: Implementation, Programmability, and Performance on Intel Accelerators](https://arxiv.org/abs/2607.26584v1)** | 2026-07-29 | <details><summary>IWOMP...</summary><p>IWOMP26. 15 pages. 4 figures</p></details> |
-| **[ServerlessT2I: Efficient Text-to-Image Workflow Serving on a Serverless Platform](https://arxiv.org/abs/2607.26566v1)** | 2026-07-29 |  |
-| **[Mapping Without Graphs: Learning Coherence Traffic for Task Placement](https://arxiv.org/abs/2607.18879v2)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted by ICCAD 2026</p></details> |
-| **[Global Pass Barriers Without Per-Resource RHI Tracking: A Cross-Vendor Study with Blade](https://arxiv.org/abs/2607.26506v1)** | 2026-07-29 | 26 pages, 5 figures |
-| **[Safety-Gated Autoscaling: A Multi-Layered Defense Architecture for Kubernetes Vertical Resource Optimization](https://arxiv.org/abs/2607.26503v1)** | 2026-07-29 | 10 pages |
+| **[Quantum Fidelity-per-Cost: A Metric for Evaluation of Quantum Computing Systems](https://arxiv.org/abs/2607.28572v1)** | 2026-07-30 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 3 tables. Accepted at IEEE International Conference on Quantum Computing and Engineering (QCE) 2026</p></details> |
+| **[Formalization of security](https://arxiv.org/abs/2607.28551v1)** | 2026-07-30 | <details><summary>To ap...</summary><p>To appear as chapter19 of the book "Proof Assistants and Their Applications in Mathematics and Computer Science"</p></details> |
+| **[Safe Quotes for Retroactive Liquidity Pools](https://arxiv.org/abs/2607.28522v1)** | 2026-07-30 | 17 pages |
+| **[A Taxonomy of Performance Metrics for the Distributed Computing Continuum](https://arxiv.org/abs/2607.28407v1)** | 2026-07-30 |  |
+| **[Anonymous sharing is pairwise phase-blind](https://arxiv.org/abs/2607.28377v1)** | 2026-07-30 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 7 tables</p></details> |
+| **[Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata](https://arxiv.org/abs/2607.28338v1)** | 2026-07-30 |  |
+| **[FAIR-Compute: A Roadmap for Fair and Efficient Allocation of Federated Digital Research Infrastructure](https://arxiv.org/abs/2607.28290v1)** | 2026-07-30 | <details><summary>Final...</summary><p>Final Report to the National Federated Compute Services (NFCS) Flexible Fund</p></details> |
+| **[Queue-Theoretic Admission Control for Multi-Tenant GPU Clusters](https://arxiv.org/abs/2607.28223v1)** | 2026-07-30 | 9 pages, 4 tables |
+| **[Faster Parallel Batch-Dynamic Algorithms for Low Out-Degree Orientation](https://arxiv.org/abs/2602.17811v2)** | 2026-07-30 | <details><summary>55 pa...</summary><p>55 pages. In this version, we give a new worst-case algorithm with O(log n) work per update, which improves on the O(log^2 n) algorithm of our previous version. Abstract shortened for arXiv requirements</p></details> |
+| **[A Cloud Continuum Research Infrastructure for Distributed CPS Experimentation](https://arxiv.org/abs/2607.28193v1)** | 2026-07-30 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, to be submitted to Elsevier Future Generation Computer Systems</p></details> |
+| **[Secure Aggregation for Privacy-Preserving Federated Learning on Clinical EEG Data](https://arxiv.org/abs/2607.28191v1)** | 2026-07-30 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 7 tables. A version of this manuscript has been accepted for presentation at the International Workshop on Hot Topics at the Intersection of Distributed Machine Learning and Security (HotDiSec 2026), co-located with ESORICS 2026</p></details> |
+| **[Deep R Programming](https://arxiv.org/abs/2301.01188v5)** | 2026-07-30 | v1.0.2 (2026-07-30) |
+| **[SmartGen: Seamless Disaggregated LLM Inference with Selective KV Cache Transfer](https://arxiv.org/abs/2607.28150v1)** | 2026-07-30 |  |
+| **[Extended Depth-First Representations of $k^2$-trees](https://arxiv.org/abs/2607.28136v1)** | 2026-07-30 | <details><summary>44 pa...</summary><p>44 pages, 7 figures, 18 tables</p></details> |
+| **[ESBT: A Scalable and Deterministic Sequence CRDT for Distributed Collaborative Editing](https://arxiv.org/abs/2607.28101v1)** | 2026-07-30 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Photonic-CXL Memory Appliance for Scalable KV Cache Management in LLM Inference](https://arxiv.org/abs/2607.27187v1)** | 2026-07-29 |  |
-| **[InferScale: GPU-Native KV Injection for Personalized LLM Serving](https://arxiv.org/abs/2607.27090v1)** | 2026-07-29 |  |
-| **[A Type-and-Effect System for Temporal Dependency Analysis of Render-based Reactive Programs](https://arxiv.org/abs/2607.27074v1)** | 2026-07-29 | <details><summary>56 pa...</summary><p>56 pages, including appendix</p></details> |
-| **[Confluence of conditional rewriting modulo](https://arxiv.org/abs/2504.01847v4)** | 2026-07-29 | <details><summary>87 pa...</summary><p>87 pages. 17 figures. 10 tables</p></details> |
-| **[Hermes: Low Tail-Latency Via Prefix Consensus](https://arxiv.org/abs/2607.25916v2)** | 2026-07-29 |  |
-| **[Relaxed activation analysis of dataflow networks - A clock calculus for machine learning and real-time scheduling](https://arxiv.org/abs/2607.21797v2)** | 2026-07-29 | <details><summary>Exten...</summary><p>Extended version of the paper to appear in the proceedings of FDL 2026: https://www.fdl-conference.com/program.html</p></details> |
-| **[Hybrid Workflow Composition for Extreme-Scale Data Processing: A Case Study on the HL-LHC (Extended Version)](https://arxiv.org/abs/2607.26877v1)** | 2026-07-29 | <details><summary>10 pa...</summary><p>10 pages, 13 figures, 3 tables. Extended technical report of paper accepted at IEEE eScience 2026</p></details> |
-| **[Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](https://arxiv.org/abs/2606.13097v2)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Mind the Gap: The Disconnect Between Synthetic and Natural Edge Weights in Parallel Single-Source Shortest Path](https://arxiv.org/abs/2607.26821v1)** | 2026-07-29 |  |
-| **[Nix to the Rescue for a Reproducible HPC-AI Software Stack](https://arxiv.org/abs/2607.26688v1)** | 2026-07-29 |  |
-| **[Unified Shared Memory in OpenMP: Implementation, Programmability, and Performance on Intel Accelerators](https://arxiv.org/abs/2607.26584v1)** | 2026-07-29 | <details><summary>IWOMP...</summary><p>IWOMP26. 15 pages. 4 figures</p></details> |
-| **[ServerlessT2I: Efficient Text-to-Image Workflow Serving on a Serverless Platform](https://arxiv.org/abs/2607.26566v1)** | 2026-07-29 |  |
-| **[Mapping Without Graphs: Learning Coherence Traffic for Task Placement](https://arxiv.org/abs/2607.18879v2)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted by ICCAD 2026</p></details> |
-| **[Global Pass Barriers Without Per-Resource RHI Tracking: A Cross-Vendor Study with Blade](https://arxiv.org/abs/2607.26506v1)** | 2026-07-29 | 26 pages, 5 figures |
-| **[Safety-Gated Autoscaling: A Multi-Layered Defense Architecture for Kubernetes Vertical Resource Optimization](https://arxiv.org/abs/2607.26503v1)** | 2026-07-29 | 10 pages |
+| **[Quantum Fidelity-per-Cost: A Metric for Evaluation of Quantum Computing Systems](https://arxiv.org/abs/2607.28572v1)** | 2026-07-30 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 3 tables. Accepted at IEEE International Conference on Quantum Computing and Engineering (QCE) 2026</p></details> |
+| **[Formalization of security](https://arxiv.org/abs/2607.28551v1)** | 2026-07-30 | <details><summary>To ap...</summary><p>To appear as chapter19 of the book "Proof Assistants and Their Applications in Mathematics and Computer Science"</p></details> |
+| **[Safe Quotes for Retroactive Liquidity Pools](https://arxiv.org/abs/2607.28522v1)** | 2026-07-30 | 17 pages |
+| **[A Taxonomy of Performance Metrics for the Distributed Computing Continuum](https://arxiv.org/abs/2607.28407v1)** | 2026-07-30 |  |
+| **[Anonymous sharing is pairwise phase-blind](https://arxiv.org/abs/2607.28377v1)** | 2026-07-30 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 7 tables</p></details> |
+| **[Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata](https://arxiv.org/abs/2607.28338v1)** | 2026-07-30 |  |
+| **[FAIR-Compute: A Roadmap for Fair and Efficient Allocation of Federated Digital Research Infrastructure](https://arxiv.org/abs/2607.28290v1)** | 2026-07-30 | <details><summary>Final...</summary><p>Final Report to the National Federated Compute Services (NFCS) Flexible Fund</p></details> |
+| **[Queue-Theoretic Admission Control for Multi-Tenant GPU Clusters](https://arxiv.org/abs/2607.28223v1)** | 2026-07-30 | 9 pages, 4 tables |
+| **[Faster Parallel Batch-Dynamic Algorithms for Low Out-Degree Orientation](https://arxiv.org/abs/2602.17811v2)** | 2026-07-30 | <details><summary>55 pa...</summary><p>55 pages. In this version, we give a new worst-case algorithm with O(log n) work per update, which improves on the O(log^2 n) algorithm of our previous version. Abstract shortened for arXiv requirements</p></details> |
+| **[A Cloud Continuum Research Infrastructure for Distributed CPS Experimentation](https://arxiv.org/abs/2607.28193v1)** | 2026-07-30 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, to be submitted to Elsevier Future Generation Computer Systems</p></details> |
+| **[Secure Aggregation for Privacy-Preserving Federated Learning on Clinical EEG Data](https://arxiv.org/abs/2607.28191v1)** | 2026-07-30 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 7 tables. A version of this manuscript has been accepted for presentation at the International Workshop on Hot Topics at the Intersection of Distributed Machine Learning and Security (HotDiSec 2026), co-located with ESORICS 2026</p></details> |
+| **[Deep R Programming](https://arxiv.org/abs/2301.01188v5)** | 2026-07-30 | v1.0.2 (2026-07-30) |
+| **[SmartGen: Seamless Disaggregated LLM Inference with Selective KV Cache Transfer](https://arxiv.org/abs/2607.28150v1)** | 2026-07-30 |  |
+| **[Extended Depth-First Representations of $k^2$-trees](https://arxiv.org/abs/2607.28136v1)** | 2026-07-30 | <details><summary>44 pa...</summary><p>44 pages, 7 figures, 18 tables</p></details> |
+| **[ESBT: A Scalable and Deterministic Sequence CRDT for Distributed Collaborative Editing](https://arxiv.org/abs/2607.28101v1)** | 2026-07-30 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Photonic-CXL Memory Appliance for Scalable KV Cache Management in LLM Inference](https://arxiv.org/abs/2607.27187v1)** | 2026-07-29 |  |
-| **[InferScale: GPU-Native KV Injection for Personalized LLM Serving](https://arxiv.org/abs/2607.27090v1)** | 2026-07-29 |  |
-| **[A Type-and-Effect System for Temporal Dependency Analysis of Render-based Reactive Programs](https://arxiv.org/abs/2607.27074v1)** | 2026-07-29 | <details><summary>56 pa...</summary><p>56 pages, including appendix</p></details> |
-| **[Confluence of conditional rewriting modulo](https://arxiv.org/abs/2504.01847v4)** | 2026-07-29 | <details><summary>87 pa...</summary><p>87 pages. 17 figures. 10 tables</p></details> |
-| **[Hermes: Low Tail-Latency Via Prefix Consensus](https://arxiv.org/abs/2607.25916v2)** | 2026-07-29 |  |
-| **[Relaxed activation analysis of dataflow networks - A clock calculus for machine learning and real-time scheduling](https://arxiv.org/abs/2607.21797v2)** | 2026-07-29 | <details><summary>Exten...</summary><p>Extended version of the paper to appear in the proceedings of FDL 2026: https://www.fdl-conference.com/program.html</p></details> |
-| **[Hybrid Workflow Composition for Extreme-Scale Data Processing: A Case Study on the HL-LHC (Extended Version)](https://arxiv.org/abs/2607.26877v1)** | 2026-07-29 | <details><summary>10 pa...</summary><p>10 pages, 13 figures, 3 tables. Extended technical report of paper accepted at IEEE eScience 2026</p></details> |
-| **[Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](https://arxiv.org/abs/2606.13097v2)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Mind the Gap: The Disconnect Between Synthetic and Natural Edge Weights in Parallel Single-Source Shortest Path](https://arxiv.org/abs/2607.26821v1)** | 2026-07-29 |  |
-| **[Nix to the Rescue for a Reproducible HPC-AI Software Stack](https://arxiv.org/abs/2607.26688v1)** | 2026-07-29 |  |
-| **[Unified Shared Memory in OpenMP: Implementation, Programmability, and Performance on Intel Accelerators](https://arxiv.org/abs/2607.26584v1)** | 2026-07-29 | <details><summary>IWOMP...</summary><p>IWOMP26. 15 pages. 4 figures</p></details> |
-| **[ServerlessT2I: Efficient Text-to-Image Workflow Serving on a Serverless Platform](https://arxiv.org/abs/2607.26566v1)** | 2026-07-29 |  |
-| **[Mapping Without Graphs: Learning Coherence Traffic for Task Placement](https://arxiv.org/abs/2607.18879v2)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted by ICCAD 2026</p></details> |
-| **[Global Pass Barriers Without Per-Resource RHI Tracking: A Cross-Vendor Study with Blade](https://arxiv.org/abs/2607.26506v1)** | 2026-07-29 | 26 pages, 5 figures |
-| **[Safety-Gated Autoscaling: A Multi-Layered Defense Architecture for Kubernetes Vertical Resource Optimization](https://arxiv.org/abs/2607.26503v1)** | 2026-07-29 | 10 pages |
+| **[Quantum Fidelity-per-Cost: A Metric for Evaluation of Quantum Computing Systems](https://arxiv.org/abs/2607.28572v1)** | 2026-07-30 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 3 tables. Accepted at IEEE International Conference on Quantum Computing and Engineering (QCE) 2026</p></details> |
+| **[Formalization of security](https://arxiv.org/abs/2607.28551v1)** | 2026-07-30 | <details><summary>To ap...</summary><p>To appear as chapter19 of the book "Proof Assistants and Their Applications in Mathematics and Computer Science"</p></details> |
+| **[Safe Quotes for Retroactive Liquidity Pools](https://arxiv.org/abs/2607.28522v1)** | 2026-07-30 | 17 pages |
+| **[A Taxonomy of Performance Metrics for the Distributed Computing Continuum](https://arxiv.org/abs/2607.28407v1)** | 2026-07-30 |  |
+| **[Anonymous sharing is pairwise phase-blind](https://arxiv.org/abs/2607.28377v1)** | 2026-07-30 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 7 tables</p></details> |
+| **[Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata](https://arxiv.org/abs/2607.28338v1)** | 2026-07-30 |  |
+| **[FAIR-Compute: A Roadmap for Fair and Efficient Allocation of Federated Digital Research Infrastructure](https://arxiv.org/abs/2607.28290v1)** | 2026-07-30 | <details><summary>Final...</summary><p>Final Report to the National Federated Compute Services (NFCS) Flexible Fund</p></details> |
+| **[Queue-Theoretic Admission Control for Multi-Tenant GPU Clusters](https://arxiv.org/abs/2607.28223v1)** | 2026-07-30 | 9 pages, 4 tables |
+| **[Faster Parallel Batch-Dynamic Algorithms for Low Out-Degree Orientation](https://arxiv.org/abs/2602.17811v2)** | 2026-07-30 | <details><summary>55 pa...</summary><p>55 pages. In this version, we give a new worst-case algorithm with O(log n) work per update, which improves on the O(log^2 n) algorithm of our previous version. Abstract shortened for arXiv requirements</p></details> |
+| **[A Cloud Continuum Research Infrastructure for Distributed CPS Experimentation](https://arxiv.org/abs/2607.28193v1)** | 2026-07-30 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, to be submitted to Elsevier Future Generation Computer Systems</p></details> |
+| **[Secure Aggregation for Privacy-Preserving Federated Learning on Clinical EEG Data](https://arxiv.org/abs/2607.28191v1)** | 2026-07-30 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 7 tables. A version of this manuscript has been accepted for presentation at the International Workshop on Hot Topics at the Intersection of Distributed Machine Learning and Security (HotDiSec 2026), co-located with ESORICS 2026</p></details> |
+| **[Deep R Programming](https://arxiv.org/abs/2301.01188v5)** | 2026-07-30 | v1.0.2 (2026-07-30) |
+| **[SmartGen: Seamless Disaggregated LLM Inference with Selective KV Cache Transfer](https://arxiv.org/abs/2607.28150v1)** | 2026-07-30 |  |
+| **[Extended Depth-First Representations of $k^2$-trees](https://arxiv.org/abs/2607.28136v1)** | 2026-07-30 | <details><summary>44 pa...</summary><p>44 pages, 7 figures, 18 tables</p></details> |
+| **[ESBT: A Scalable and Deterministic Sequence CRDT for Distributed Collaborative Editing](https://arxiv.org/abs/2607.28101v1)** | 2026-07-30 |  |
 
