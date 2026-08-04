@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2026
+title: Latest 15 Papers - August 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TokTier: Exact Stateful Tokenization for Agentic LLM Serving](https://arxiv.org/abs/2607.29678v1)** | 2026-07-31 | <details><summary>24 pa...</summary><p>24 pages, 18 figures, 8 tables</p></details> |
-| **[GQ-FSL: Green Quantized Federated Split Learning](https://arxiv.org/abs/2607.29659v1)** | 2026-07-31 | <details><summary>To ap...</summary><p>To appear in IEEE 27th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2026</p></details> |
-| **[Paris: A Decentralized Trained Open-Weight Diffusion Model](https://arxiv.org/abs/2510.03434v3)** | 2026-07-31 |  |
-| **[SLIM: Saturation-Aware Lightweight Performance Modeling for LLM Serving](https://arxiv.org/abs/2607.29575v1)** | 2026-07-31 | <details><summary>Pol G...</summary><p>Pol G. Recasens and Ferran Agullo contributed equally to the work</p></details> |
-| **[Beyond Black-Box Advice: Learning-Augmented Algorithms for MDPs with Q-Value Predictions](https://arxiv.org/abs/2307.10524v3)** | 2026-07-31 | <details><summary>33 pa...</summary><p>33 pages, NeurIPS 2023</p></details> |
-| **[System-Wide Termination in Distributed Betweenness Centrality Computation](https://arxiv.org/abs/2607.29474v1)** | 2026-07-31 |  |
-| **[Lightweight Neural Networks for Affordance Segmentation: Enhancement of the Decoder Module](https://arxiv.org/abs/2607.29473v1)** | 2026-07-31 |  |
-| **[CARA: Exact Local Repair with Fresh One-Action Certification for Cloud Consolidation](https://arxiv.org/abs/2607.29465v1)** | 2026-07-31 |  |
-| **[First Steps Towards Probabilistic Iris: Harmonizing Independence, Conditioning, and Dynamic Heap Allocation](https://arxiv.org/abs/2605.13765v2)** | 2026-07-31 |  |
-| **[Studying quantization trade-offs for efficient inference deployment in machine translation](https://arxiv.org/abs/2607.29397v1)** | 2026-07-31 |  |
-| **[Exploring Block Anomaly Detection In HDFS Log Data Analysis](https://arxiv.org/abs/2607.29383v1)** | 2026-07-31 | 37 pages |
-| **[Allocation Tracking and Parameter Checking for Parallel Programming Models using Contracts](https://arxiv.org/abs/2607.29303v1)** | 2026-07-31 | <details><summary>A pee...</summary><p>A peer-reviewed version is to be published by Springer as part of the EuroMPI 2026 conference proceedings. This is the originally submitted article</p></details> |
-| **[NUMA balancing hampering performance of spiking network simulations](https://arxiv.org/abs/2607.22275v2)** | 2026-07-31 |  |
-| **[Advanced Scheduling Strategies for Distributed Quantum Computing Jobs](https://arxiv.org/abs/2602.24152v3)** | 2026-07-31 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 9 tables</p></details> |
-| **[Knox: Fortifying Smart Spaces With Safety Guarantees](https://arxiv.org/abs/2607.29198v1)** | 2026-07-31 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. Extended version of the paper accepted at the 2026 IEEE International Symposium on Reliable Distributed Systems (SRDS), including full proofs of all theorems in the appendix</p></details> |
+| **[Staying Productive Under the Palm Trees. On Graded Coeffect Typing in the Tropical Semiring](https://arxiv.org/abs/2608.02596v1)** | 2026-08-03 |  |
+| **[AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies](https://arxiv.org/abs/2608.02569v1)** | 2026-08-03 |  |
+| **[TokTier: Exact Stateful CPU+GPU Tokenization for Agentic LLM Serving](https://arxiv.org/abs/2607.29678v2)** | 2026-08-03 | <details><summary>25 pa...</summary><p>25 pages, 18 figures, 8 tables. v2: title updated, presentation and citations refined</p></details> |
+| **[Multimmit: Extending Blocks for Faster Finality](https://arxiv.org/abs/2607.21021v2)** | 2026-08-03 |  |
+| **[EdgeCoInfer: Hierarchical Collaborative Inference for On-Device Multimodal Large Models](https://arxiv.org/abs/2607.17143v2)** | 2026-08-03 |  |
+| **[Fast Gossip-based Rumor Spreading using Small Messages](https://arxiv.org/abs/2605.14376v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at PODC 2026; 29 pages, 2 tables, 1 figure</p></details> |
+| **[Analyzing GPU Performance in Virtualized Environments: A~Case Study](https://arxiv.org/abs/2608.02414v1)** | 2026-08-03 | <details><summary>18 pa...</summary><p>18 pages, 12 figures, 5 tables</p></details> |
+| **[Greedy-Like Defective Coloring: Distributed Algorithms and Applications](https://arxiv.org/abs/2608.02386v1)** | 2026-08-03 |  |
+| **[Epico: Long-Lived WebAssembly Components for High-Performance Serverless Stream Processing](https://arxiv.org/abs/2608.02361v1)** | 2026-08-03 | <details><summary>Paper...</summary><p>Paper peer reviewed and accepted by the 21st Workshop on Virtualization, Containers, and Resource Isolation for Supercomputer AI Co-located with Euro-Par 2026, it will appear in the proceeding of Euro-Par 2026 conference</p></details> |
+| **[FastGFDs: Efficient Validation of Graph Functional Dependencies with Desbordante](https://arxiv.org/abs/2608.02321v1)** | 2026-08-03 | <details><summary>https...</summary><p>https://fruct.org/publications/volume-33/acm33/</p></details> |
+| **[AgentCompile: An LLM-Guided Compiler for Direct CUDA Inference](https://arxiv.org/abs/2606.07665v2)** | 2026-08-03 | 12 pages, 4 figures |
+| **[Efficiency and Cost Alignment in Batched LLM Serving via Resource-Fair Scheduling](https://arxiv.org/abs/2608.02244v1)** | 2026-08-03 |  |
+| **[Fast Discovery of Inclusion Dependencies with Desbordante](https://arxiv.org/abs/2608.02213v1)** | 2026-08-03 |  |
+| **[Cloud to Edge: Benchmarking LLM Inference On Hardware-Accelerated Single-Board Computers](https://arxiv.org/abs/2604.24785v2)** | 2026-08-03 |  |
+| **[StaleFlow: Staleness-Aware Data Management for Mitigating Data Skewness in Fully Disaggregated RL Post-Training](https://arxiv.org/abs/2601.12784v2)** | 2026-08-03 | SIGMOD 2027 |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TokTier: Exact Stateful Tokenization for Agentic LLM Serving](https://arxiv.org/abs/2607.29678v1)** | 2026-07-31 | <details><summary>24 pa...</summary><p>24 pages, 18 figures, 8 tables</p></details> |
-| **[GQ-FSL: Green Quantized Federated Split Learning](https://arxiv.org/abs/2607.29659v1)** | 2026-07-31 | <details><summary>To ap...</summary><p>To appear in IEEE 27th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2026</p></details> |
-| **[Paris: A Decentralized Trained Open-Weight Diffusion Model](https://arxiv.org/abs/2510.03434v3)** | 2026-07-31 |  |
-| **[SLIM: Saturation-Aware Lightweight Performance Modeling for LLM Serving](https://arxiv.org/abs/2607.29575v1)** | 2026-07-31 | <details><summary>Pol G...</summary><p>Pol G. Recasens and Ferran Agullo contributed equally to the work</p></details> |
-| **[Beyond Black-Box Advice: Learning-Augmented Algorithms for MDPs with Q-Value Predictions](https://arxiv.org/abs/2307.10524v3)** | 2026-07-31 | <details><summary>33 pa...</summary><p>33 pages, NeurIPS 2023</p></details> |
-| **[System-Wide Termination in Distributed Betweenness Centrality Computation](https://arxiv.org/abs/2607.29474v1)** | 2026-07-31 |  |
-| **[Lightweight Neural Networks for Affordance Segmentation: Enhancement of the Decoder Module](https://arxiv.org/abs/2607.29473v1)** | 2026-07-31 |  |
-| **[CARA: Exact Local Repair with Fresh One-Action Certification for Cloud Consolidation](https://arxiv.org/abs/2607.29465v1)** | 2026-07-31 |  |
-| **[First Steps Towards Probabilistic Iris: Harmonizing Independence, Conditioning, and Dynamic Heap Allocation](https://arxiv.org/abs/2605.13765v2)** | 2026-07-31 |  |
-| **[Studying quantization trade-offs for efficient inference deployment in machine translation](https://arxiv.org/abs/2607.29397v1)** | 2026-07-31 |  |
-| **[Exploring Block Anomaly Detection In HDFS Log Data Analysis](https://arxiv.org/abs/2607.29383v1)** | 2026-07-31 | 37 pages |
-| **[Allocation Tracking and Parameter Checking for Parallel Programming Models using Contracts](https://arxiv.org/abs/2607.29303v1)** | 2026-07-31 | <details><summary>A pee...</summary><p>A peer-reviewed version is to be published by Springer as part of the EuroMPI 2026 conference proceedings. This is the originally submitted article</p></details> |
-| **[NUMA balancing hampering performance of spiking network simulations](https://arxiv.org/abs/2607.22275v2)** | 2026-07-31 |  |
-| **[Advanced Scheduling Strategies for Distributed Quantum Computing Jobs](https://arxiv.org/abs/2602.24152v3)** | 2026-07-31 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 9 tables</p></details> |
-| **[Knox: Fortifying Smart Spaces With Safety Guarantees](https://arxiv.org/abs/2607.29198v1)** | 2026-07-31 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. Extended version of the paper accepted at the 2026 IEEE International Symposium on Reliable Distributed Systems (SRDS), including full proofs of all theorems in the appendix</p></details> |
+| **[Staying Productive Under the Palm Trees. On Graded Coeffect Typing in the Tropical Semiring](https://arxiv.org/abs/2608.02596v1)** | 2026-08-03 |  |
+| **[AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies](https://arxiv.org/abs/2608.02569v1)** | 2026-08-03 |  |
+| **[TokTier: Exact Stateful CPU+GPU Tokenization for Agentic LLM Serving](https://arxiv.org/abs/2607.29678v2)** | 2026-08-03 | <details><summary>25 pa...</summary><p>25 pages, 18 figures, 8 tables. v2: title updated, presentation and citations refined</p></details> |
+| **[Multimmit: Extending Blocks for Faster Finality](https://arxiv.org/abs/2607.21021v2)** | 2026-08-03 |  |
+| **[EdgeCoInfer: Hierarchical Collaborative Inference for On-Device Multimodal Large Models](https://arxiv.org/abs/2607.17143v2)** | 2026-08-03 |  |
+| **[Fast Gossip-based Rumor Spreading using Small Messages](https://arxiv.org/abs/2605.14376v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at PODC 2026; 29 pages, 2 tables, 1 figure</p></details> |
+| **[Analyzing GPU Performance in Virtualized Environments: A~Case Study](https://arxiv.org/abs/2608.02414v1)** | 2026-08-03 | <details><summary>18 pa...</summary><p>18 pages, 12 figures, 5 tables</p></details> |
+| **[Greedy-Like Defective Coloring: Distributed Algorithms and Applications](https://arxiv.org/abs/2608.02386v1)** | 2026-08-03 |  |
+| **[Epico: Long-Lived WebAssembly Components for High-Performance Serverless Stream Processing](https://arxiv.org/abs/2608.02361v1)** | 2026-08-03 | <details><summary>Paper...</summary><p>Paper peer reviewed and accepted by the 21st Workshop on Virtualization, Containers, and Resource Isolation for Supercomputer AI Co-located with Euro-Par 2026, it will appear in the proceeding of Euro-Par 2026 conference</p></details> |
+| **[FastGFDs: Efficient Validation of Graph Functional Dependencies with Desbordante](https://arxiv.org/abs/2608.02321v1)** | 2026-08-03 | <details><summary>https...</summary><p>https://fruct.org/publications/volume-33/acm33/</p></details> |
+| **[AgentCompile: An LLM-Guided Compiler for Direct CUDA Inference](https://arxiv.org/abs/2606.07665v2)** | 2026-08-03 | 12 pages, 4 figures |
+| **[Efficiency and Cost Alignment in Batched LLM Serving via Resource-Fair Scheduling](https://arxiv.org/abs/2608.02244v1)** | 2026-08-03 |  |
+| **[Fast Discovery of Inclusion Dependencies with Desbordante](https://arxiv.org/abs/2608.02213v1)** | 2026-08-03 |  |
+| **[Cloud to Edge: Benchmarking LLM Inference On Hardware-Accelerated Single-Board Computers](https://arxiv.org/abs/2604.24785v2)** | 2026-08-03 |  |
+| **[StaleFlow: Staleness-Aware Data Management for Mitigating Data Skewness in Fully Disaggregated RL Post-Training](https://arxiv.org/abs/2601.12784v2)** | 2026-08-03 | SIGMOD 2027 |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TokTier: Exact Stateful Tokenization for Agentic LLM Serving](https://arxiv.org/abs/2607.29678v1)** | 2026-07-31 | <details><summary>24 pa...</summary><p>24 pages, 18 figures, 8 tables</p></details> |
-| **[GQ-FSL: Green Quantized Federated Split Learning](https://arxiv.org/abs/2607.29659v1)** | 2026-07-31 | <details><summary>To ap...</summary><p>To appear in IEEE 27th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2026</p></details> |
-| **[Paris: A Decentralized Trained Open-Weight Diffusion Model](https://arxiv.org/abs/2510.03434v3)** | 2026-07-31 |  |
-| **[SLIM: Saturation-Aware Lightweight Performance Modeling for LLM Serving](https://arxiv.org/abs/2607.29575v1)** | 2026-07-31 | <details><summary>Pol G...</summary><p>Pol G. Recasens and Ferran Agullo contributed equally to the work</p></details> |
-| **[Beyond Black-Box Advice: Learning-Augmented Algorithms for MDPs with Q-Value Predictions](https://arxiv.org/abs/2307.10524v3)** | 2026-07-31 | <details><summary>33 pa...</summary><p>33 pages, NeurIPS 2023</p></details> |
-| **[System-Wide Termination in Distributed Betweenness Centrality Computation](https://arxiv.org/abs/2607.29474v1)** | 2026-07-31 |  |
-| **[Lightweight Neural Networks for Affordance Segmentation: Enhancement of the Decoder Module](https://arxiv.org/abs/2607.29473v1)** | 2026-07-31 |  |
-| **[CARA: Exact Local Repair with Fresh One-Action Certification for Cloud Consolidation](https://arxiv.org/abs/2607.29465v1)** | 2026-07-31 |  |
-| **[First Steps Towards Probabilistic Iris: Harmonizing Independence, Conditioning, and Dynamic Heap Allocation](https://arxiv.org/abs/2605.13765v2)** | 2026-07-31 |  |
-| **[Studying quantization trade-offs for efficient inference deployment in machine translation](https://arxiv.org/abs/2607.29397v1)** | 2026-07-31 |  |
-| **[Exploring Block Anomaly Detection In HDFS Log Data Analysis](https://arxiv.org/abs/2607.29383v1)** | 2026-07-31 | 37 pages |
-| **[Allocation Tracking and Parameter Checking for Parallel Programming Models using Contracts](https://arxiv.org/abs/2607.29303v1)** | 2026-07-31 | <details><summary>A pee...</summary><p>A peer-reviewed version is to be published by Springer as part of the EuroMPI 2026 conference proceedings. This is the originally submitted article</p></details> |
-| **[NUMA balancing hampering performance of spiking network simulations](https://arxiv.org/abs/2607.22275v2)** | 2026-07-31 |  |
-| **[Advanced Scheduling Strategies for Distributed Quantum Computing Jobs](https://arxiv.org/abs/2602.24152v3)** | 2026-07-31 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 9 tables</p></details> |
-| **[Knox: Fortifying Smart Spaces With Safety Guarantees](https://arxiv.org/abs/2607.29198v1)** | 2026-07-31 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. Extended version of the paper accepted at the 2026 IEEE International Symposium on Reliable Distributed Systems (SRDS), including full proofs of all theorems in the appendix</p></details> |
+| **[Staying Productive Under the Palm Trees. On Graded Coeffect Typing in the Tropical Semiring](https://arxiv.org/abs/2608.02596v1)** | 2026-08-03 |  |
+| **[AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies](https://arxiv.org/abs/2608.02569v1)** | 2026-08-03 |  |
+| **[TokTier: Exact Stateful CPU+GPU Tokenization for Agentic LLM Serving](https://arxiv.org/abs/2607.29678v2)** | 2026-08-03 | <details><summary>25 pa...</summary><p>25 pages, 18 figures, 8 tables. v2: title updated, presentation and citations refined</p></details> |
+| **[Multimmit: Extending Blocks for Faster Finality](https://arxiv.org/abs/2607.21021v2)** | 2026-08-03 |  |
+| **[EdgeCoInfer: Hierarchical Collaborative Inference for On-Device Multimodal Large Models](https://arxiv.org/abs/2607.17143v2)** | 2026-08-03 |  |
+| **[Fast Gossip-based Rumor Spreading using Small Messages](https://arxiv.org/abs/2605.14376v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at PODC 2026; 29 pages, 2 tables, 1 figure</p></details> |
+| **[Analyzing GPU Performance in Virtualized Environments: A~Case Study](https://arxiv.org/abs/2608.02414v1)** | 2026-08-03 | <details><summary>18 pa...</summary><p>18 pages, 12 figures, 5 tables</p></details> |
+| **[Greedy-Like Defective Coloring: Distributed Algorithms and Applications](https://arxiv.org/abs/2608.02386v1)** | 2026-08-03 |  |
+| **[Epico: Long-Lived WebAssembly Components for High-Performance Serverless Stream Processing](https://arxiv.org/abs/2608.02361v1)** | 2026-08-03 | <details><summary>Paper...</summary><p>Paper peer reviewed and accepted by the 21st Workshop on Virtualization, Containers, and Resource Isolation for Supercomputer AI Co-located with Euro-Par 2026, it will appear in the proceeding of Euro-Par 2026 conference</p></details> |
+| **[FastGFDs: Efficient Validation of Graph Functional Dependencies with Desbordante](https://arxiv.org/abs/2608.02321v1)** | 2026-08-03 | <details><summary>https...</summary><p>https://fruct.org/publications/volume-33/acm33/</p></details> |
+| **[AgentCompile: An LLM-Guided Compiler for Direct CUDA Inference](https://arxiv.org/abs/2606.07665v2)** | 2026-08-03 | 12 pages, 4 figures |
+| **[Efficiency and Cost Alignment in Batched LLM Serving via Resource-Fair Scheduling](https://arxiv.org/abs/2608.02244v1)** | 2026-08-03 |  |
+| **[Fast Discovery of Inclusion Dependencies with Desbordante](https://arxiv.org/abs/2608.02213v1)** | 2026-08-03 |  |
+| **[Cloud to Edge: Benchmarking LLM Inference On Hardware-Accelerated Single-Board Computers](https://arxiv.org/abs/2604.24785v2)** | 2026-08-03 |  |
+| **[StaleFlow: Staleness-Aware Data Management for Mitigating Data Skewness in Fully Disaggregated RL Post-Training](https://arxiv.org/abs/2601.12784v2)** | 2026-08-03 | SIGMOD 2027 |
 
