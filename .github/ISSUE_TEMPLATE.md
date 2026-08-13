@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2026
+title: Latest 15 Papers - August 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scheduling Mixed RL Rollouts Beyond Prefix Locality](https://arxiv.org/abs/2608.11152v1)** | 2026-08-11 |  |
-| **[Progressive Semantic Communication for Efficient Edge-Cloud Vision-Language Models](https://arxiv.org/abs/2604.26508v2)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted for publication in the 2026 IEEE Global Communications Conference (GLOBECOM). Extended version with additional figures and appendices</p></details> |
-| **[SCOUT: Symmetric Consensus Outlier Detection for Failure Localization in LLM Pre-Training](https://arxiv.org/abs/2608.11034v1)** | 2026-08-11 |  |
-| **[Workflow Cards: Structured Summaries of Workflow Executions Using Provenance Data](https://arxiv.org/abs/2608.11022v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at eScience2026</p></details> |
-| **[Astrolabe: Balancing Load in LLM Serving with Randomized Prediction-Guided Scheduling](https://arxiv.org/abs/2508.03611v3)** | 2026-08-11 | <details><summary>16 pa...</summary><p>16 pages. Accepted at SYSTOR 2026. Camera-ready version with expanded evaluation and revisions. Previously circulated as "Block"; renamed "Astrolabe" to match the SYSTOR publication title</p></details> |
-| **[Optimizing Bloom Filters on Modern GPUs](https://arxiv.org/abs/2512.15595v2)** | 2026-08-11 |  |
-| **[ClusterBench: A Framework for Cluster-Wide Continuous Benchmarking and Regression Testing](https://arxiv.org/abs/2608.10956v1)** | 2026-08-11 |  |
-| **[MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](https://arxiv.org/abs/2602.06075v2)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026. Project page: https://memgui-bench.github.io/</p></details> |
-| **[Measuring and Reducing WebGPU Dispatch Overhead for LLM Inference](https://arxiv.org/abs/2608.08730v2)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted to The Fourth UK AI Conference 2026 as a full paper, to be published in Proceedings of Machine Learning Research (PMLR)</p></details> |
-| **[Benchmarking NIST-Standardised ML-KEM and ML-DSA on ARM Cortex-M0+: Latency, Rejection-Sampling Variance, and Memory on the RP2040](https://arxiv.org/abs/2603.19340v6)** | 2026-08-11 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 12 tables. Code and data available at https://github.com/rojinc/pqc-cortex-m0-benchmark</p></details> |
-| **[Taming Request Imbalance: SLO-Aware Scheduling for Disaggregated LLM Inference](https://arxiv.org/abs/2605.02329v3)** | 2026-08-11 |  |
-| **[Time to Move on: Querying without Nulls and Bags](https://arxiv.org/abs/2608.10863v1)** | 2026-08-11 |  |
-| **[EVM Workloads in the Wild: Evidence for Multi-Dimensional Gas Metering, State Growth, Delayed Execution, and Parallelism](https://arxiv.org/abs/2606.19869v2)** | 2026-08-11 |  |
-| **[Choosing a JPEG Decoder for PyTorch DataLoaders: Workload-Specific Throughput on Four CPUs](https://arxiv.org/abs/2605.08731v3)** | 2026-08-11 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Code and benchmark evidence: https://github.com/ternaus/imread_benchmark</p></details> |
-| **[SpSYRK: Half the Work in Distributed Sparse Matrix Multiplication](https://arxiv.org/abs/2608.09713v2)** | 2026-08-11 |  |
+| **[A-3PO: Accelerating Asynchronous LLM Training with Staleness-aware Proximal Policy Approximation](https://arxiv.org/abs/2512.06547v4)** | 2026-08-12 |  |
+| **[memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations](https://arxiv.org/abs/2606.01138v4)** | 2026-08-12 | <details><summary>18 pa...</summary><p>18 pages, 1 figure, 6 tables. v4: PurgeBench is a companion benchmark by the same author (previously called "external"), plus a threats-to-validity note; no results changed. v3 added the memory-poison recovery evaluation and recover tool. Code: github.com/mthamil107/memorywire</p></details> |
+| **[The Researcher's Guide to HPC Networks](https://arxiv.org/abs/2608.09953v2)** | 2026-08-12 | <details><summary>The p...</summary><p>The paper has since received multiple corrections and more will be made before the document is ready to be reuploaded</p></details> |
+| **[RoutePack: Expert Placement and Attention-Aware Data Packing for MoE Reinforcement Learning](https://arxiv.org/abs/2608.12146v1)** | 2026-08-12 |  |
+| **[Ready Cohorts: Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control](https://arxiv.org/abs/2608.12123v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. Includes formal proofs, trace provenance, and a reproducibility appendix. Code and artifacts: https://github.com/josefchen/ready-cohorts ; processed evidence: https://huggingface.co/datasets/josefchen/ready-</p></details> |
+| **[Workload Buoyancy: Keeping Apps Afloat by Identifying Shared Resource Bottlenecks](https://arxiv.org/abs/2602.22852v2)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 4 tables</p></details> |
+| **[Program Semantic Inequivalence Game with Large Language Models](https://arxiv.org/abs/2505.03818v3)** | 2026-08-12 |  |
+| **[Evaluating OpenMP Offloading for Intra-node Multi-GPU Programming across NVIDIA, AMD, and Intel Architectures: A 3D Heat Transfer Case Study](https://arxiv.org/abs/2608.11882v1)** | 2026-08-12 |  |
+| **[User-Assisted Collaborative Distributed Inference for Efficient QoS-Aware Autoscaling](https://arxiv.org/abs/2608.11840v1)** | 2026-08-12 |  |
+| **[Enabling Differentiated QoS Degradation for Replicated Databases under Failures](https://arxiv.org/abs/2608.11836v1)** | 2026-08-12 |  |
+| **[Inferring Empirical Sound Resource Bounds via Symbolic Execution and Linear Programming (Extended Version)](https://arxiv.org/abs/2608.11833v1)** | 2026-08-12 | <details><summary>This ...</summary><p>This is an extended version of the paper accepted at SAS 2026</p></details> |
+| **[Achieving Near-Zero-Overhead Multi-Model Hierarchical Classification in Real-Time Detection Pipelines](https://arxiv.org/abs/2608.11770v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 17 figures, 5 tables. Submitted to Journal of Real-Time Image Processing</p></details> |
+| **[SolarChain: A Physics-Grounded Embodied IoT System for Verifiable Urban Solar Market Design](https://arxiv.org/abs/2605.23162v2)** | 2026-08-12 |  |
+| **[Predictions Can Only Help! Communication Efficient Byzantine Agreement with Predictions](https://arxiv.org/abs/2605.12935v2)** | 2026-08-12 |  |
+| **[OrderMoE: An expert similarity driven distributed edge MoE inference](https://arxiv.org/abs/2607.17154v2)** | 2026-08-12 | 17 pages, 12 figures |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scheduling Mixed RL Rollouts Beyond Prefix Locality](https://arxiv.org/abs/2608.11152v1)** | 2026-08-11 |  |
-| **[Progressive Semantic Communication for Efficient Edge-Cloud Vision-Language Models](https://arxiv.org/abs/2604.26508v2)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted for publication in the 2026 IEEE Global Communications Conference (GLOBECOM). Extended version with additional figures and appendices</p></details> |
-| **[SCOUT: Symmetric Consensus Outlier Detection for Failure Localization in LLM Pre-Training](https://arxiv.org/abs/2608.11034v1)** | 2026-08-11 |  |
-| **[Workflow Cards: Structured Summaries of Workflow Executions Using Provenance Data](https://arxiv.org/abs/2608.11022v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at eScience2026</p></details> |
-| **[Astrolabe: Balancing Load in LLM Serving with Randomized Prediction-Guided Scheduling](https://arxiv.org/abs/2508.03611v3)** | 2026-08-11 | <details><summary>16 pa...</summary><p>16 pages. Accepted at SYSTOR 2026. Camera-ready version with expanded evaluation and revisions. Previously circulated as "Block"; renamed "Astrolabe" to match the SYSTOR publication title</p></details> |
-| **[Optimizing Bloom Filters on Modern GPUs](https://arxiv.org/abs/2512.15595v2)** | 2026-08-11 |  |
-| **[ClusterBench: A Framework for Cluster-Wide Continuous Benchmarking and Regression Testing](https://arxiv.org/abs/2608.10956v1)** | 2026-08-11 |  |
-| **[MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](https://arxiv.org/abs/2602.06075v2)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026. Project page: https://memgui-bench.github.io/</p></details> |
-| **[Measuring and Reducing WebGPU Dispatch Overhead for LLM Inference](https://arxiv.org/abs/2608.08730v2)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted to The Fourth UK AI Conference 2026 as a full paper, to be published in Proceedings of Machine Learning Research (PMLR)</p></details> |
-| **[Benchmarking NIST-Standardised ML-KEM and ML-DSA on ARM Cortex-M0+: Latency, Rejection-Sampling Variance, and Memory on the RP2040](https://arxiv.org/abs/2603.19340v6)** | 2026-08-11 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 12 tables. Code and data available at https://github.com/rojinc/pqc-cortex-m0-benchmark</p></details> |
-| **[Taming Request Imbalance: SLO-Aware Scheduling for Disaggregated LLM Inference](https://arxiv.org/abs/2605.02329v3)** | 2026-08-11 |  |
-| **[Time to Move on: Querying without Nulls and Bags](https://arxiv.org/abs/2608.10863v1)** | 2026-08-11 |  |
-| **[EVM Workloads in the Wild: Evidence for Multi-Dimensional Gas Metering, State Growth, Delayed Execution, and Parallelism](https://arxiv.org/abs/2606.19869v2)** | 2026-08-11 |  |
-| **[Choosing a JPEG Decoder for PyTorch DataLoaders: Workload-Specific Throughput on Four CPUs](https://arxiv.org/abs/2605.08731v3)** | 2026-08-11 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Code and benchmark evidence: https://github.com/ternaus/imread_benchmark</p></details> |
-| **[SpSYRK: Half the Work in Distributed Sparse Matrix Multiplication](https://arxiv.org/abs/2608.09713v2)** | 2026-08-11 |  |
+| **[A-3PO: Accelerating Asynchronous LLM Training with Staleness-aware Proximal Policy Approximation](https://arxiv.org/abs/2512.06547v4)** | 2026-08-12 |  |
+| **[memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations](https://arxiv.org/abs/2606.01138v4)** | 2026-08-12 | <details><summary>18 pa...</summary><p>18 pages, 1 figure, 6 tables. v4: PurgeBench is a companion benchmark by the same author (previously called "external"), plus a threats-to-validity note; no results changed. v3 added the memory-poison recovery evaluation and recover tool. Code: github.com/mthamil107/memorywire</p></details> |
+| **[The Researcher's Guide to HPC Networks](https://arxiv.org/abs/2608.09953v2)** | 2026-08-12 | <details><summary>The p...</summary><p>The paper has since received multiple corrections and more will be made before the document is ready to be reuploaded</p></details> |
+| **[RoutePack: Expert Placement and Attention-Aware Data Packing for MoE Reinforcement Learning](https://arxiv.org/abs/2608.12146v1)** | 2026-08-12 |  |
+| **[Ready Cohorts: Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control](https://arxiv.org/abs/2608.12123v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. Includes formal proofs, trace provenance, and a reproducibility appendix. Code and artifacts: https://github.com/josefchen/ready-cohorts ; processed evidence: https://huggingface.co/datasets/josefchen/ready-</p></details> |
+| **[Workload Buoyancy: Keeping Apps Afloat by Identifying Shared Resource Bottlenecks](https://arxiv.org/abs/2602.22852v2)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 4 tables</p></details> |
+| **[Program Semantic Inequivalence Game with Large Language Models](https://arxiv.org/abs/2505.03818v3)** | 2026-08-12 |  |
+| **[Evaluating OpenMP Offloading for Intra-node Multi-GPU Programming across NVIDIA, AMD, and Intel Architectures: A 3D Heat Transfer Case Study](https://arxiv.org/abs/2608.11882v1)** | 2026-08-12 |  |
+| **[User-Assisted Collaborative Distributed Inference for Efficient QoS-Aware Autoscaling](https://arxiv.org/abs/2608.11840v1)** | 2026-08-12 |  |
+| **[Enabling Differentiated QoS Degradation for Replicated Databases under Failures](https://arxiv.org/abs/2608.11836v1)** | 2026-08-12 |  |
+| **[Inferring Empirical Sound Resource Bounds via Symbolic Execution and Linear Programming (Extended Version)](https://arxiv.org/abs/2608.11833v1)** | 2026-08-12 | <details><summary>This ...</summary><p>This is an extended version of the paper accepted at SAS 2026</p></details> |
+| **[Achieving Near-Zero-Overhead Multi-Model Hierarchical Classification in Real-Time Detection Pipelines](https://arxiv.org/abs/2608.11770v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 17 figures, 5 tables. Submitted to Journal of Real-Time Image Processing</p></details> |
+| **[SolarChain: A Physics-Grounded Embodied IoT System for Verifiable Urban Solar Market Design](https://arxiv.org/abs/2605.23162v2)** | 2026-08-12 |  |
+| **[Predictions Can Only Help! Communication Efficient Byzantine Agreement with Predictions](https://arxiv.org/abs/2605.12935v2)** | 2026-08-12 |  |
+| **[OrderMoE: An expert similarity driven distributed edge MoE inference](https://arxiv.org/abs/2607.17154v2)** | 2026-08-12 | 17 pages, 12 figures |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scheduling Mixed RL Rollouts Beyond Prefix Locality](https://arxiv.org/abs/2608.11152v1)** | 2026-08-11 |  |
-| **[Progressive Semantic Communication for Efficient Edge-Cloud Vision-Language Models](https://arxiv.org/abs/2604.26508v2)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted for publication in the 2026 IEEE Global Communications Conference (GLOBECOM). Extended version with additional figures and appendices</p></details> |
-| **[SCOUT: Symmetric Consensus Outlier Detection for Failure Localization in LLM Pre-Training](https://arxiv.org/abs/2608.11034v1)** | 2026-08-11 |  |
-| **[Workflow Cards: Structured Summaries of Workflow Executions Using Provenance Data](https://arxiv.org/abs/2608.11022v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at eScience2026</p></details> |
-| **[Astrolabe: Balancing Load in LLM Serving with Randomized Prediction-Guided Scheduling](https://arxiv.org/abs/2508.03611v3)** | 2026-08-11 | <details><summary>16 pa...</summary><p>16 pages. Accepted at SYSTOR 2026. Camera-ready version with expanded evaluation and revisions. Previously circulated as "Block"; renamed "Astrolabe" to match the SYSTOR publication title</p></details> |
-| **[Optimizing Bloom Filters on Modern GPUs](https://arxiv.org/abs/2512.15595v2)** | 2026-08-11 |  |
-| **[ClusterBench: A Framework for Cluster-Wide Continuous Benchmarking and Regression Testing](https://arxiv.org/abs/2608.10956v1)** | 2026-08-11 |  |
-| **[MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](https://arxiv.org/abs/2602.06075v2)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026. Project page: https://memgui-bench.github.io/</p></details> |
-| **[Measuring and Reducing WebGPU Dispatch Overhead for LLM Inference](https://arxiv.org/abs/2608.08730v2)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted to The Fourth UK AI Conference 2026 as a full paper, to be published in Proceedings of Machine Learning Research (PMLR)</p></details> |
-| **[Benchmarking NIST-Standardised ML-KEM and ML-DSA on ARM Cortex-M0+: Latency, Rejection-Sampling Variance, and Memory on the RP2040](https://arxiv.org/abs/2603.19340v6)** | 2026-08-11 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 12 tables. Code and data available at https://github.com/rojinc/pqc-cortex-m0-benchmark</p></details> |
-| **[Taming Request Imbalance: SLO-Aware Scheduling for Disaggregated LLM Inference](https://arxiv.org/abs/2605.02329v3)** | 2026-08-11 |  |
-| **[Time to Move on: Querying without Nulls and Bags](https://arxiv.org/abs/2608.10863v1)** | 2026-08-11 |  |
-| **[EVM Workloads in the Wild: Evidence for Multi-Dimensional Gas Metering, State Growth, Delayed Execution, and Parallelism](https://arxiv.org/abs/2606.19869v2)** | 2026-08-11 |  |
-| **[Choosing a JPEG Decoder for PyTorch DataLoaders: Workload-Specific Throughput on Four CPUs](https://arxiv.org/abs/2605.08731v3)** | 2026-08-11 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Code and benchmark evidence: https://github.com/ternaus/imread_benchmark</p></details> |
-| **[SpSYRK: Half the Work in Distributed Sparse Matrix Multiplication](https://arxiv.org/abs/2608.09713v2)** | 2026-08-11 |  |
+| **[A-3PO: Accelerating Asynchronous LLM Training with Staleness-aware Proximal Policy Approximation](https://arxiv.org/abs/2512.06547v4)** | 2026-08-12 |  |
+| **[memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations](https://arxiv.org/abs/2606.01138v4)** | 2026-08-12 | <details><summary>18 pa...</summary><p>18 pages, 1 figure, 6 tables. v4: PurgeBench is a companion benchmark by the same author (previously called "external"), plus a threats-to-validity note; no results changed. v3 added the memory-poison recovery evaluation and recover tool. Code: github.com/mthamil107/memorywire</p></details> |
+| **[The Researcher's Guide to HPC Networks](https://arxiv.org/abs/2608.09953v2)** | 2026-08-12 | <details><summary>The p...</summary><p>The paper has since received multiple corrections and more will be made before the document is ready to be reuploaded</p></details> |
+| **[RoutePack: Expert Placement and Attention-Aware Data Packing for MoE Reinforcement Learning](https://arxiv.org/abs/2608.12146v1)** | 2026-08-12 |  |
+| **[Ready Cohorts: Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control](https://arxiv.org/abs/2608.12123v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. Includes formal proofs, trace provenance, and a reproducibility appendix. Code and artifacts: https://github.com/josefchen/ready-cohorts ; processed evidence: https://huggingface.co/datasets/josefchen/ready-</p></details> |
+| **[Workload Buoyancy: Keeping Apps Afloat by Identifying Shared Resource Bottlenecks](https://arxiv.org/abs/2602.22852v2)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 4 tables</p></details> |
+| **[Program Semantic Inequivalence Game with Large Language Models](https://arxiv.org/abs/2505.03818v3)** | 2026-08-12 |  |
+| **[Evaluating OpenMP Offloading for Intra-node Multi-GPU Programming across NVIDIA, AMD, and Intel Architectures: A 3D Heat Transfer Case Study](https://arxiv.org/abs/2608.11882v1)** | 2026-08-12 |  |
+| **[User-Assisted Collaborative Distributed Inference for Efficient QoS-Aware Autoscaling](https://arxiv.org/abs/2608.11840v1)** | 2026-08-12 |  |
+| **[Enabling Differentiated QoS Degradation for Replicated Databases under Failures](https://arxiv.org/abs/2608.11836v1)** | 2026-08-12 |  |
+| **[Inferring Empirical Sound Resource Bounds via Symbolic Execution and Linear Programming (Extended Version)](https://arxiv.org/abs/2608.11833v1)** | 2026-08-12 | <details><summary>This ...</summary><p>This is an extended version of the paper accepted at SAS 2026</p></details> |
+| **[Achieving Near-Zero-Overhead Multi-Model Hierarchical Classification in Real-Time Detection Pipelines](https://arxiv.org/abs/2608.11770v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 17 figures, 5 tables. Submitted to Journal of Real-Time Image Processing</p></details> |
+| **[SolarChain: A Physics-Grounded Embodied IoT System for Verifiable Urban Solar Market Design](https://arxiv.org/abs/2605.23162v2)** | 2026-08-12 |  |
+| **[Predictions Can Only Help! Communication Efficient Byzantine Agreement with Predictions](https://arxiv.org/abs/2605.12935v2)** | 2026-08-12 |  |
+| **[OrderMoE: An expert similarity driven distributed edge MoE inference](https://arxiv.org/abs/2607.17154v2)** | 2026-08-12 | 17 pages, 12 figures |
 
