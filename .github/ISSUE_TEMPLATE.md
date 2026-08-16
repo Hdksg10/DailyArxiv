@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 14, 2026
+title: Latest 15 Papers - August 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A-3PO: Accelerating Asynchronous LLM Training with Staleness-aware Proximal Policy Approximation](https://arxiv.org/abs/2512.06547v4)** | 2026-08-12 |  |
-| **[memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations](https://arxiv.org/abs/2606.01138v4)** | 2026-08-12 | <details><summary>18 pa...</summary><p>18 pages, 1 figure, 6 tables. v4: PurgeBench is a companion benchmark by the same author (previously called "external"), plus a threats-to-validity note; no results changed. v3 added the memory-poison recovery evaluation and recover tool. Code: github.com/mthamil107/memorywire</p></details> |
-| **[The Researcher's Guide to HPC Networks](https://arxiv.org/abs/2608.09953v2)** | 2026-08-12 | <details><summary>The p...</summary><p>The paper has since received multiple corrections and more will be made before the document is ready to be reuploaded</p></details> |
-| **[RoutePack: Expert Placement and Attention-Aware Data Packing for MoE Reinforcement Learning](https://arxiv.org/abs/2608.12146v1)** | 2026-08-12 |  |
-| **[Ready Cohorts: Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control](https://arxiv.org/abs/2608.12123v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. Includes formal proofs, trace provenance, and a reproducibility appendix. Code and artifacts: https://github.com/josefchen/ready-cohorts ; processed evidence: https://huggingface.co/datasets/josefchen/ready-</p></details> |
-| **[Workload Buoyancy: Keeping Apps Afloat by Identifying Shared Resource Bottlenecks](https://arxiv.org/abs/2602.22852v2)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 4 tables</p></details> |
-| **[Program Semantic Inequivalence Game with Large Language Models](https://arxiv.org/abs/2505.03818v3)** | 2026-08-12 |  |
-| **[Evaluating OpenMP Offloading for Intra-node Multi-GPU Programming across NVIDIA, AMD, and Intel Architectures: A 3D Heat Transfer Case Study](https://arxiv.org/abs/2608.11882v1)** | 2026-08-12 |  |
-| **[User-Assisted Collaborative Distributed Inference for Efficient QoS-Aware Autoscaling](https://arxiv.org/abs/2608.11840v1)** | 2026-08-12 |  |
-| **[Enabling Differentiated QoS Degradation for Replicated Databases under Failures](https://arxiv.org/abs/2608.11836v1)** | 2026-08-12 |  |
-| **[Inferring Empirical Sound Resource Bounds via Symbolic Execution and Linear Programming (Extended Version)](https://arxiv.org/abs/2608.11833v1)** | 2026-08-12 | <details><summary>This ...</summary><p>This is an extended version of the paper accepted at SAS 2026</p></details> |
-| **[Achieving Near-Zero-Overhead Multi-Model Hierarchical Classification in Real-Time Detection Pipelines](https://arxiv.org/abs/2608.11770v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 17 figures, 5 tables. Submitted to Journal of Real-Time Image Processing</p></details> |
-| **[SolarChain: A Physics-Grounded Embodied IoT System for Verifiable Urban Solar Market Design](https://arxiv.org/abs/2605.23162v2)** | 2026-08-12 |  |
-| **[Predictions Can Only Help! Communication Efficient Byzantine Agreement with Predictions](https://arxiv.org/abs/2605.12935v2)** | 2026-08-12 |  |
-| **[OrderMoE: An expert similarity driven distributed edge MoE inference](https://arxiv.org/abs/2607.17154v2)** | 2026-08-12 | 17 pages, 12 figures |
+| **[Vero: Can AI Agents Build Formally Verified Software Repositories?](https://arxiv.org/abs/2608.13522v1)** | 2026-08-13 |  |
+| **[Performance Reporting of Mathematical Library Installations with LAAB - An Overview](https://arxiv.org/abs/2608.13512v1)** | 2026-08-13 | 10 pages, 3 figures |
+| **[OpScale: Operator-level Provisioning and Autoscaling for LLM Serving](https://arxiv.org/abs/2608.13499v1)** | 2026-08-13 | 22 pages, 29 figures |
+| **[Certifiable Semantic Agreement Among LLM Agents: What the Admissibility Instrument Decides](https://arxiv.org/abs/2606.07316v2)** | 2026-08-13 | <details><summary>43 pa...</summary><p>43 pages, 5 figures, 20 tables, 1 algorithm. Substantial revision: new title, new framing, new downstream-audit experiment; supersedes v1</p></details> |
+| **[Fast Tendermint: Speeding Up a Foundational Consensus Protocol](https://arxiv.org/abs/2608.13434v1)** | 2026-08-13 |  |
+| **[Formal Verification of Imperative First-Class Functions in Move](https://arxiv.org/abs/2605.10007v3)** | 2026-08-13 |  |
+| **[Defense-in-Depth Runtime Safety in Move](https://arxiv.org/abs/2606.18064v2)** | 2026-08-13 |  |
+| **[FlowLog: Re-thinking Datalog for Fast and Extensible Static Analysis](https://arxiv.org/abs/2607.23971v2)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted at SPLASH/ISSTA 2026 Tool Demonstrations Track</p></details> |
+| **[Triangle-Free Coloring in LOCAL via Resilient Lovász Local Lemma](https://arxiv.org/abs/2608.13357v1)** | 2026-08-13 | <details><summary>To ap...</summary><p>To appear at DISC 2026</p></details> |
+| **[Machine-Checked Dual-Write Recovery from a Committed Log](https://arxiv.org/abs/2608.00501v4)** | 2026-08-13 | <details><summary>22 pa...</summary><p>22 pages, 5 figures. Machine-checked Isabelle/HOL formal development archived at https://doi.org/10.5281/zenodo.21734366</p></details> |
+| **[Multiobjective Preexpectation Reasoning for Probabilistic Programs](https://arxiv.org/abs/2608.13268v1)** | 2026-08-13 |  |
+| **[vToken: Token-Level Virtualization for Reclaimable KV Caches](https://arxiv.org/abs/2608.13263v1)** | 2026-08-13 |  |
+| **[Stream-based Online and Offline Monitoring under Measurement Noise](https://arxiv.org/abs/2608.13211v1)** | 2026-08-13 |  |
+| **[Performance Evaluation of an Adaptive Quadrature and a Double Exponential Formula Using Arbitrary-Precision Floating-Point Arithmetic](https://arxiv.org/abs/2608.13187v1)** | 2026-08-13 |  |
+| **[LipCache: A Local Inference Proxy with Certified Caching for Edge Image Classification Service](https://arxiv.org/abs/2608.13144v1)** | 2026-08-13 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A-3PO: Accelerating Asynchronous LLM Training with Staleness-aware Proximal Policy Approximation](https://arxiv.org/abs/2512.06547v4)** | 2026-08-12 |  |
-| **[memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations](https://arxiv.org/abs/2606.01138v4)** | 2026-08-12 | <details><summary>18 pa...</summary><p>18 pages, 1 figure, 6 tables. v4: PurgeBench is a companion benchmark by the same author (previously called "external"), plus a threats-to-validity note; no results changed. v3 added the memory-poison recovery evaluation and recover tool. Code: github.com/mthamil107/memorywire</p></details> |
-| **[The Researcher's Guide to HPC Networks](https://arxiv.org/abs/2608.09953v2)** | 2026-08-12 | <details><summary>The p...</summary><p>The paper has since received multiple corrections and more will be made before the document is ready to be reuploaded</p></details> |
-| **[RoutePack: Expert Placement and Attention-Aware Data Packing for MoE Reinforcement Learning](https://arxiv.org/abs/2608.12146v1)** | 2026-08-12 |  |
-| **[Ready Cohorts: Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control](https://arxiv.org/abs/2608.12123v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. Includes formal proofs, trace provenance, and a reproducibility appendix. Code and artifacts: https://github.com/josefchen/ready-cohorts ; processed evidence: https://huggingface.co/datasets/josefchen/ready-</p></details> |
-| **[Workload Buoyancy: Keeping Apps Afloat by Identifying Shared Resource Bottlenecks](https://arxiv.org/abs/2602.22852v2)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 4 tables</p></details> |
-| **[Program Semantic Inequivalence Game with Large Language Models](https://arxiv.org/abs/2505.03818v3)** | 2026-08-12 |  |
-| **[Evaluating OpenMP Offloading for Intra-node Multi-GPU Programming across NVIDIA, AMD, and Intel Architectures: A 3D Heat Transfer Case Study](https://arxiv.org/abs/2608.11882v1)** | 2026-08-12 |  |
-| **[User-Assisted Collaborative Distributed Inference for Efficient QoS-Aware Autoscaling](https://arxiv.org/abs/2608.11840v1)** | 2026-08-12 |  |
-| **[Enabling Differentiated QoS Degradation for Replicated Databases under Failures](https://arxiv.org/abs/2608.11836v1)** | 2026-08-12 |  |
-| **[Inferring Empirical Sound Resource Bounds via Symbolic Execution and Linear Programming (Extended Version)](https://arxiv.org/abs/2608.11833v1)** | 2026-08-12 | <details><summary>This ...</summary><p>This is an extended version of the paper accepted at SAS 2026</p></details> |
-| **[Achieving Near-Zero-Overhead Multi-Model Hierarchical Classification in Real-Time Detection Pipelines](https://arxiv.org/abs/2608.11770v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 17 figures, 5 tables. Submitted to Journal of Real-Time Image Processing</p></details> |
-| **[SolarChain: A Physics-Grounded Embodied IoT System for Verifiable Urban Solar Market Design](https://arxiv.org/abs/2605.23162v2)** | 2026-08-12 |  |
-| **[Predictions Can Only Help! Communication Efficient Byzantine Agreement with Predictions](https://arxiv.org/abs/2605.12935v2)** | 2026-08-12 |  |
-| **[OrderMoE: An expert similarity driven distributed edge MoE inference](https://arxiv.org/abs/2607.17154v2)** | 2026-08-12 | 17 pages, 12 figures |
+| **[Vero: Can AI Agents Build Formally Verified Software Repositories?](https://arxiv.org/abs/2608.13522v1)** | 2026-08-13 |  |
+| **[Performance Reporting of Mathematical Library Installations with LAAB - An Overview](https://arxiv.org/abs/2608.13512v1)** | 2026-08-13 | 10 pages, 3 figures |
+| **[OpScale: Operator-level Provisioning and Autoscaling for LLM Serving](https://arxiv.org/abs/2608.13499v1)** | 2026-08-13 | 22 pages, 29 figures |
+| **[Certifiable Semantic Agreement Among LLM Agents: What the Admissibility Instrument Decides](https://arxiv.org/abs/2606.07316v2)** | 2026-08-13 | <details><summary>43 pa...</summary><p>43 pages, 5 figures, 20 tables, 1 algorithm. Substantial revision: new title, new framing, new downstream-audit experiment; supersedes v1</p></details> |
+| **[Fast Tendermint: Speeding Up a Foundational Consensus Protocol](https://arxiv.org/abs/2608.13434v1)** | 2026-08-13 |  |
+| **[Formal Verification of Imperative First-Class Functions in Move](https://arxiv.org/abs/2605.10007v3)** | 2026-08-13 |  |
+| **[Defense-in-Depth Runtime Safety in Move](https://arxiv.org/abs/2606.18064v2)** | 2026-08-13 |  |
+| **[FlowLog: Re-thinking Datalog for Fast and Extensible Static Analysis](https://arxiv.org/abs/2607.23971v2)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted at SPLASH/ISSTA 2026 Tool Demonstrations Track</p></details> |
+| **[Triangle-Free Coloring in LOCAL via Resilient Lovász Local Lemma](https://arxiv.org/abs/2608.13357v1)** | 2026-08-13 | <details><summary>To ap...</summary><p>To appear at DISC 2026</p></details> |
+| **[Machine-Checked Dual-Write Recovery from a Committed Log](https://arxiv.org/abs/2608.00501v4)** | 2026-08-13 | <details><summary>22 pa...</summary><p>22 pages, 5 figures. Machine-checked Isabelle/HOL formal development archived at https://doi.org/10.5281/zenodo.21734366</p></details> |
+| **[Multiobjective Preexpectation Reasoning for Probabilistic Programs](https://arxiv.org/abs/2608.13268v1)** | 2026-08-13 |  |
+| **[vToken: Token-Level Virtualization for Reclaimable KV Caches](https://arxiv.org/abs/2608.13263v1)** | 2026-08-13 |  |
+| **[Stream-based Online and Offline Monitoring under Measurement Noise](https://arxiv.org/abs/2608.13211v1)** | 2026-08-13 |  |
+| **[Performance Evaluation of an Adaptive Quadrature and a Double Exponential Formula Using Arbitrary-Precision Floating-Point Arithmetic](https://arxiv.org/abs/2608.13187v1)** | 2026-08-13 |  |
+| **[LipCache: A Local Inference Proxy with Certified Caching for Edge Image Classification Service](https://arxiv.org/abs/2608.13144v1)** | 2026-08-13 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A-3PO: Accelerating Asynchronous LLM Training with Staleness-aware Proximal Policy Approximation](https://arxiv.org/abs/2512.06547v4)** | 2026-08-12 |  |
-| **[memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations](https://arxiv.org/abs/2606.01138v4)** | 2026-08-12 | <details><summary>18 pa...</summary><p>18 pages, 1 figure, 6 tables. v4: PurgeBench is a companion benchmark by the same author (previously called "external"), plus a threats-to-validity note; no results changed. v3 added the memory-poison recovery evaluation and recover tool. Code: github.com/mthamil107/memorywire</p></details> |
-| **[The Researcher's Guide to HPC Networks](https://arxiv.org/abs/2608.09953v2)** | 2026-08-12 | <details><summary>The p...</summary><p>The paper has since received multiple corrections and more will be made before the document is ready to be reuploaded</p></details> |
-| **[RoutePack: Expert Placement and Attention-Aware Data Packing for MoE Reinforcement Learning](https://arxiv.org/abs/2608.12146v1)** | 2026-08-12 |  |
-| **[Ready Cohorts: Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control](https://arxiv.org/abs/2608.12123v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. Includes formal proofs, trace provenance, and a reproducibility appendix. Code and artifacts: https://github.com/josefchen/ready-cohorts ; processed evidence: https://huggingface.co/datasets/josefchen/ready-</p></details> |
-| **[Workload Buoyancy: Keeping Apps Afloat by Identifying Shared Resource Bottlenecks](https://arxiv.org/abs/2602.22852v2)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 4 tables</p></details> |
-| **[Program Semantic Inequivalence Game with Large Language Models](https://arxiv.org/abs/2505.03818v3)** | 2026-08-12 |  |
-| **[Evaluating OpenMP Offloading for Intra-node Multi-GPU Programming across NVIDIA, AMD, and Intel Architectures: A 3D Heat Transfer Case Study](https://arxiv.org/abs/2608.11882v1)** | 2026-08-12 |  |
-| **[User-Assisted Collaborative Distributed Inference for Efficient QoS-Aware Autoscaling](https://arxiv.org/abs/2608.11840v1)** | 2026-08-12 |  |
-| **[Enabling Differentiated QoS Degradation for Replicated Databases under Failures](https://arxiv.org/abs/2608.11836v1)** | 2026-08-12 |  |
-| **[Inferring Empirical Sound Resource Bounds via Symbolic Execution and Linear Programming (Extended Version)](https://arxiv.org/abs/2608.11833v1)** | 2026-08-12 | <details><summary>This ...</summary><p>This is an extended version of the paper accepted at SAS 2026</p></details> |
-| **[Achieving Near-Zero-Overhead Multi-Model Hierarchical Classification in Real-Time Detection Pipelines](https://arxiv.org/abs/2608.11770v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 17 figures, 5 tables. Submitted to Journal of Real-Time Image Processing</p></details> |
-| **[SolarChain: A Physics-Grounded Embodied IoT System for Verifiable Urban Solar Market Design](https://arxiv.org/abs/2605.23162v2)** | 2026-08-12 |  |
-| **[Predictions Can Only Help! Communication Efficient Byzantine Agreement with Predictions](https://arxiv.org/abs/2605.12935v2)** | 2026-08-12 |  |
-| **[OrderMoE: An expert similarity driven distributed edge MoE inference](https://arxiv.org/abs/2607.17154v2)** | 2026-08-12 | 17 pages, 12 figures |
+| **[Vero: Can AI Agents Build Formally Verified Software Repositories?](https://arxiv.org/abs/2608.13522v1)** | 2026-08-13 |  |
+| **[Performance Reporting of Mathematical Library Installations with LAAB - An Overview](https://arxiv.org/abs/2608.13512v1)** | 2026-08-13 | 10 pages, 3 figures |
+| **[OpScale: Operator-level Provisioning and Autoscaling for LLM Serving](https://arxiv.org/abs/2608.13499v1)** | 2026-08-13 | 22 pages, 29 figures |
+| **[Certifiable Semantic Agreement Among LLM Agents: What the Admissibility Instrument Decides](https://arxiv.org/abs/2606.07316v2)** | 2026-08-13 | <details><summary>43 pa...</summary><p>43 pages, 5 figures, 20 tables, 1 algorithm. Substantial revision: new title, new framing, new downstream-audit experiment; supersedes v1</p></details> |
+| **[Fast Tendermint: Speeding Up a Foundational Consensus Protocol](https://arxiv.org/abs/2608.13434v1)** | 2026-08-13 |  |
+| **[Formal Verification of Imperative First-Class Functions in Move](https://arxiv.org/abs/2605.10007v3)** | 2026-08-13 |  |
+| **[Defense-in-Depth Runtime Safety in Move](https://arxiv.org/abs/2606.18064v2)** | 2026-08-13 |  |
+| **[FlowLog: Re-thinking Datalog for Fast and Extensible Static Analysis](https://arxiv.org/abs/2607.23971v2)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted at SPLASH/ISSTA 2026 Tool Demonstrations Track</p></details> |
+| **[Triangle-Free Coloring in LOCAL via Resilient Lovász Local Lemma](https://arxiv.org/abs/2608.13357v1)** | 2026-08-13 | <details><summary>To ap...</summary><p>To appear at DISC 2026</p></details> |
+| **[Machine-Checked Dual-Write Recovery from a Committed Log](https://arxiv.org/abs/2608.00501v4)** | 2026-08-13 | <details><summary>22 pa...</summary><p>22 pages, 5 figures. Machine-checked Isabelle/HOL formal development archived at https://doi.org/10.5281/zenodo.21734366</p></details> |
+| **[Multiobjective Preexpectation Reasoning for Probabilistic Programs](https://arxiv.org/abs/2608.13268v1)** | 2026-08-13 |  |
+| **[vToken: Token-Level Virtualization for Reclaimable KV Caches](https://arxiv.org/abs/2608.13263v1)** | 2026-08-13 |  |
+| **[Stream-based Online and Offline Monitoring under Measurement Noise](https://arxiv.org/abs/2608.13211v1)** | 2026-08-13 |  |
+| **[Performance Evaluation of an Adaptive Quadrature and a Double Exponential Formula Using Arbitrary-Precision Floating-Point Arithmetic](https://arxiv.org/abs/2608.13187v1)** | 2026-08-13 |  |
+| **[LipCache: A Local Inference Proxy with Certified Caching for Edge Image Classification Service](https://arxiv.org/abs/2608.13144v1)** | 2026-08-13 |  |
 
