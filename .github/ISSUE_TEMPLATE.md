@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2026
+title: Latest 15 Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vero: Can AI Agents Build Formally Verified Software Repositories?](https://arxiv.org/abs/2608.13522v1)** | 2026-08-13 |  |
-| **[Performance Reporting of Mathematical Library Installations with LAAB - An Overview](https://arxiv.org/abs/2608.13512v1)** | 2026-08-13 | 10 pages, 3 figures |
-| **[OpScale: Operator-level Provisioning and Autoscaling for LLM Serving](https://arxiv.org/abs/2608.13499v1)** | 2026-08-13 | 22 pages, 29 figures |
-| **[Certifiable Semantic Agreement Among LLM Agents: What the Admissibility Instrument Decides](https://arxiv.org/abs/2606.07316v2)** | 2026-08-13 | <details><summary>43 pa...</summary><p>43 pages, 5 figures, 20 tables, 1 algorithm. Substantial revision: new title, new framing, new downstream-audit experiment; supersedes v1</p></details> |
-| **[Fast Tendermint: Speeding Up a Foundational Consensus Protocol](https://arxiv.org/abs/2608.13434v1)** | 2026-08-13 |  |
-| **[Formal Verification of Imperative First-Class Functions in Move](https://arxiv.org/abs/2605.10007v3)** | 2026-08-13 |  |
-| **[Defense-in-Depth Runtime Safety in Move](https://arxiv.org/abs/2606.18064v2)** | 2026-08-13 |  |
-| **[FlowLog: Re-thinking Datalog for Fast and Extensible Static Analysis](https://arxiv.org/abs/2607.23971v2)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted at SPLASH/ISSTA 2026 Tool Demonstrations Track</p></details> |
-| **[Triangle-Free Coloring in LOCAL via Resilient Lovász Local Lemma](https://arxiv.org/abs/2608.13357v1)** | 2026-08-13 | <details><summary>To ap...</summary><p>To appear at DISC 2026</p></details> |
-| **[Machine-Checked Dual-Write Recovery from a Committed Log](https://arxiv.org/abs/2608.00501v4)** | 2026-08-13 | <details><summary>22 pa...</summary><p>22 pages, 5 figures. Machine-checked Isabelle/HOL formal development archived at https://doi.org/10.5281/zenodo.21734366</p></details> |
-| **[Multiobjective Preexpectation Reasoning for Probabilistic Programs](https://arxiv.org/abs/2608.13268v1)** | 2026-08-13 |  |
-| **[vToken: Token-Level Virtualization for Reclaimable KV Caches](https://arxiv.org/abs/2608.13263v1)** | 2026-08-13 |  |
-| **[Stream-based Online and Offline Monitoring under Measurement Noise](https://arxiv.org/abs/2608.13211v1)** | 2026-08-13 |  |
-| **[Performance Evaluation of an Adaptive Quadrature and a Double Exponential Formula Using Arbitrary-Precision Floating-Point Arithmetic](https://arxiv.org/abs/2608.13187v1)** | 2026-08-13 |  |
-| **[LipCache: A Local Inference Proxy with Certified Caching for Edge Image Classification Service](https://arxiv.org/abs/2608.13144v1)** | 2026-08-13 |  |
+| **[Validating LLM-Modernized Scientific Software Through Differential Fault Injection](https://arxiv.org/abs/2608.14527v1)** | 2026-08-14 |  |
+| **[Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training](https://arxiv.org/abs/2608.14498v1)** | 2026-08-14 | 16 pages, 10 figures |
+| **[Memory Allocation for Constant-Bounded Programs](https://arxiv.org/abs/2608.14471v1)** | 2026-08-14 | 13 pages, 13 figures |
+| **[Large-scale workflow placement in serverless computing using integer nonlinear programming](https://arxiv.org/abs/2608.14427v1)** | 2026-08-14 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
+| **[TypeProbe: Recovering Type Representations from Hidden States of Pre-trained Code Models](https://arxiv.org/abs/2607.08339v2)** | 2026-08-14 | <details><summary>18 pa...</summary><p>18 pages, 12 figures. Accepted at ESSLLI 2026 (StuS; double-blind)</p></details> |
+| **[CoRun: Padding is Simple and Efficient for Deterministic LLM Inference](https://arxiv.org/abs/2608.14376v1)** | 2026-08-14 | 13 pages, 14 figures |
+| **[Self-Stabilizing Algorithms in the Uniform Port Model](https://arxiv.org/abs/2607.08244v3)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted to the 40th International Symposium on Distributed Computing (DISC), 2026</p></details> |
+| **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v2)** | 2026-08-14 | <details><summary>Autho...</summary><p>Author version of paper accepted in ACM Transactions on Internet Technology, 30 pages</p></details> |
+| **[Could Model Partitioning Make Federated Learning More Sustainable?](https://arxiv.org/abs/2608.14242v1)** | 2026-08-14 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Accepted at the 2nd International Workshop on Low Carbon Computing (LOCO 2026), Lancaster University, United Kingdom, 10-11 September 2026. Part of the LOCO 2026 proceedings, arXiv:LOCO2026/P09</p></details> |
+| **[Contract Based Verification of Non-functional Requirements for Embedded Automotive C Code](https://arxiv.org/abs/2605.21532v2)** | 2026-08-14 |  |
+| **[TEMPO: Makespan-Aware Expert-Parallel Load Balancing Across Memory- and Compute-Bound Regimes](https://arxiv.org/abs/2608.13057v2)** | 2026-08-14 | <details><summary>18 pa...</summary><p>18 pages. Code is available at https://github.com/jeshxxx/TEMPO</p></details> |
+| **[KBSpec: LLM-driven Formal Specification Generation with Evolving Domain Knowledge Base](https://arxiv.org/abs/2606.21339v2)** | 2026-08-14 |  |
+| **[Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning](https://arxiv.org/abs/2608.13914v1)** | 2026-08-14 | 7 pages, 4 figures |
+| **[Optimizing Frequent Checkpointing via Low-Cost Differential for Distributed Training Systems](https://arxiv.org/abs/2509.04084v4)** | 2026-08-14 |  |
+| **[Resource-Efficient RGB-Only Action Recognition for Edge Deployment](https://arxiv.org/abs/2602.10818v2)** | 2026-08-14 | Under review |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vero: Can AI Agents Build Formally Verified Software Repositories?](https://arxiv.org/abs/2608.13522v1)** | 2026-08-13 |  |
-| **[Performance Reporting of Mathematical Library Installations with LAAB - An Overview](https://arxiv.org/abs/2608.13512v1)** | 2026-08-13 | 10 pages, 3 figures |
-| **[OpScale: Operator-level Provisioning and Autoscaling for LLM Serving](https://arxiv.org/abs/2608.13499v1)** | 2026-08-13 | 22 pages, 29 figures |
-| **[Certifiable Semantic Agreement Among LLM Agents: What the Admissibility Instrument Decides](https://arxiv.org/abs/2606.07316v2)** | 2026-08-13 | <details><summary>43 pa...</summary><p>43 pages, 5 figures, 20 tables, 1 algorithm. Substantial revision: new title, new framing, new downstream-audit experiment; supersedes v1</p></details> |
-| **[Fast Tendermint: Speeding Up a Foundational Consensus Protocol](https://arxiv.org/abs/2608.13434v1)** | 2026-08-13 |  |
-| **[Formal Verification of Imperative First-Class Functions in Move](https://arxiv.org/abs/2605.10007v3)** | 2026-08-13 |  |
-| **[Defense-in-Depth Runtime Safety in Move](https://arxiv.org/abs/2606.18064v2)** | 2026-08-13 |  |
-| **[FlowLog: Re-thinking Datalog for Fast and Extensible Static Analysis](https://arxiv.org/abs/2607.23971v2)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted at SPLASH/ISSTA 2026 Tool Demonstrations Track</p></details> |
-| **[Triangle-Free Coloring in LOCAL via Resilient Lovász Local Lemma](https://arxiv.org/abs/2608.13357v1)** | 2026-08-13 | <details><summary>To ap...</summary><p>To appear at DISC 2026</p></details> |
-| **[Machine-Checked Dual-Write Recovery from a Committed Log](https://arxiv.org/abs/2608.00501v4)** | 2026-08-13 | <details><summary>22 pa...</summary><p>22 pages, 5 figures. Machine-checked Isabelle/HOL formal development archived at https://doi.org/10.5281/zenodo.21734366</p></details> |
-| **[Multiobjective Preexpectation Reasoning for Probabilistic Programs](https://arxiv.org/abs/2608.13268v1)** | 2026-08-13 |  |
-| **[vToken: Token-Level Virtualization for Reclaimable KV Caches](https://arxiv.org/abs/2608.13263v1)** | 2026-08-13 |  |
-| **[Stream-based Online and Offline Monitoring under Measurement Noise](https://arxiv.org/abs/2608.13211v1)** | 2026-08-13 |  |
-| **[Performance Evaluation of an Adaptive Quadrature and a Double Exponential Formula Using Arbitrary-Precision Floating-Point Arithmetic](https://arxiv.org/abs/2608.13187v1)** | 2026-08-13 |  |
-| **[LipCache: A Local Inference Proxy with Certified Caching for Edge Image Classification Service](https://arxiv.org/abs/2608.13144v1)** | 2026-08-13 |  |
+| **[Validating LLM-Modernized Scientific Software Through Differential Fault Injection](https://arxiv.org/abs/2608.14527v1)** | 2026-08-14 |  |
+| **[Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training](https://arxiv.org/abs/2608.14498v1)** | 2026-08-14 | 16 pages, 10 figures |
+| **[Memory Allocation for Constant-Bounded Programs](https://arxiv.org/abs/2608.14471v1)** | 2026-08-14 | 13 pages, 13 figures |
+| **[Large-scale workflow placement in serverless computing using integer nonlinear programming](https://arxiv.org/abs/2608.14427v1)** | 2026-08-14 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
+| **[TypeProbe: Recovering Type Representations from Hidden States of Pre-trained Code Models](https://arxiv.org/abs/2607.08339v2)** | 2026-08-14 | <details><summary>18 pa...</summary><p>18 pages, 12 figures. Accepted at ESSLLI 2026 (StuS; double-blind)</p></details> |
+| **[CoRun: Padding is Simple and Efficient for Deterministic LLM Inference](https://arxiv.org/abs/2608.14376v1)** | 2026-08-14 | 13 pages, 14 figures |
+| **[Self-Stabilizing Algorithms in the Uniform Port Model](https://arxiv.org/abs/2607.08244v3)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted to the 40th International Symposium on Distributed Computing (DISC), 2026</p></details> |
+| **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v2)** | 2026-08-14 | <details><summary>Autho...</summary><p>Author version of paper accepted in ACM Transactions on Internet Technology, 30 pages</p></details> |
+| **[Could Model Partitioning Make Federated Learning More Sustainable?](https://arxiv.org/abs/2608.14242v1)** | 2026-08-14 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Accepted at the 2nd International Workshop on Low Carbon Computing (LOCO 2026), Lancaster University, United Kingdom, 10-11 September 2026. Part of the LOCO 2026 proceedings, arXiv:LOCO2026/P09</p></details> |
+| **[Contract Based Verification of Non-functional Requirements for Embedded Automotive C Code](https://arxiv.org/abs/2605.21532v2)** | 2026-08-14 |  |
+| **[TEMPO: Makespan-Aware Expert-Parallel Load Balancing Across Memory- and Compute-Bound Regimes](https://arxiv.org/abs/2608.13057v2)** | 2026-08-14 | <details><summary>18 pa...</summary><p>18 pages. Code is available at https://github.com/jeshxxx/TEMPO</p></details> |
+| **[KBSpec: LLM-driven Formal Specification Generation with Evolving Domain Knowledge Base](https://arxiv.org/abs/2606.21339v2)** | 2026-08-14 |  |
+| **[Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning](https://arxiv.org/abs/2608.13914v1)** | 2026-08-14 | 7 pages, 4 figures |
+| **[Optimizing Frequent Checkpointing via Low-Cost Differential for Distributed Training Systems](https://arxiv.org/abs/2509.04084v4)** | 2026-08-14 |  |
+| **[Resource-Efficient RGB-Only Action Recognition for Edge Deployment](https://arxiv.org/abs/2602.10818v2)** | 2026-08-14 | Under review |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vero: Can AI Agents Build Formally Verified Software Repositories?](https://arxiv.org/abs/2608.13522v1)** | 2026-08-13 |  |
-| **[Performance Reporting of Mathematical Library Installations with LAAB - An Overview](https://arxiv.org/abs/2608.13512v1)** | 2026-08-13 | 10 pages, 3 figures |
-| **[OpScale: Operator-level Provisioning and Autoscaling for LLM Serving](https://arxiv.org/abs/2608.13499v1)** | 2026-08-13 | 22 pages, 29 figures |
-| **[Certifiable Semantic Agreement Among LLM Agents: What the Admissibility Instrument Decides](https://arxiv.org/abs/2606.07316v2)** | 2026-08-13 | <details><summary>43 pa...</summary><p>43 pages, 5 figures, 20 tables, 1 algorithm. Substantial revision: new title, new framing, new downstream-audit experiment; supersedes v1</p></details> |
-| **[Fast Tendermint: Speeding Up a Foundational Consensus Protocol](https://arxiv.org/abs/2608.13434v1)** | 2026-08-13 |  |
-| **[Formal Verification of Imperative First-Class Functions in Move](https://arxiv.org/abs/2605.10007v3)** | 2026-08-13 |  |
-| **[Defense-in-Depth Runtime Safety in Move](https://arxiv.org/abs/2606.18064v2)** | 2026-08-13 |  |
-| **[FlowLog: Re-thinking Datalog for Fast and Extensible Static Analysis](https://arxiv.org/abs/2607.23971v2)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted at SPLASH/ISSTA 2026 Tool Demonstrations Track</p></details> |
-| **[Triangle-Free Coloring in LOCAL via Resilient Lovász Local Lemma](https://arxiv.org/abs/2608.13357v1)** | 2026-08-13 | <details><summary>To ap...</summary><p>To appear at DISC 2026</p></details> |
-| **[Machine-Checked Dual-Write Recovery from a Committed Log](https://arxiv.org/abs/2608.00501v4)** | 2026-08-13 | <details><summary>22 pa...</summary><p>22 pages, 5 figures. Machine-checked Isabelle/HOL formal development archived at https://doi.org/10.5281/zenodo.21734366</p></details> |
-| **[Multiobjective Preexpectation Reasoning for Probabilistic Programs](https://arxiv.org/abs/2608.13268v1)** | 2026-08-13 |  |
-| **[vToken: Token-Level Virtualization for Reclaimable KV Caches](https://arxiv.org/abs/2608.13263v1)** | 2026-08-13 |  |
-| **[Stream-based Online and Offline Monitoring under Measurement Noise](https://arxiv.org/abs/2608.13211v1)** | 2026-08-13 |  |
-| **[Performance Evaluation of an Adaptive Quadrature and a Double Exponential Formula Using Arbitrary-Precision Floating-Point Arithmetic](https://arxiv.org/abs/2608.13187v1)** | 2026-08-13 |  |
-| **[LipCache: A Local Inference Proxy with Certified Caching for Edge Image Classification Service](https://arxiv.org/abs/2608.13144v1)** | 2026-08-13 |  |
+| **[Validating LLM-Modernized Scientific Software Through Differential Fault Injection](https://arxiv.org/abs/2608.14527v1)** | 2026-08-14 |  |
+| **[Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training](https://arxiv.org/abs/2608.14498v1)** | 2026-08-14 | 16 pages, 10 figures |
+| **[Memory Allocation for Constant-Bounded Programs](https://arxiv.org/abs/2608.14471v1)** | 2026-08-14 | 13 pages, 13 figures |
+| **[Large-scale workflow placement in serverless computing using integer nonlinear programming](https://arxiv.org/abs/2608.14427v1)** | 2026-08-14 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
+| **[TypeProbe: Recovering Type Representations from Hidden States of Pre-trained Code Models](https://arxiv.org/abs/2607.08339v2)** | 2026-08-14 | <details><summary>18 pa...</summary><p>18 pages, 12 figures. Accepted at ESSLLI 2026 (StuS; double-blind)</p></details> |
+| **[CoRun: Padding is Simple and Efficient for Deterministic LLM Inference](https://arxiv.org/abs/2608.14376v1)** | 2026-08-14 | 13 pages, 14 figures |
+| **[Self-Stabilizing Algorithms in the Uniform Port Model](https://arxiv.org/abs/2607.08244v3)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted to the 40th International Symposium on Distributed Computing (DISC), 2026</p></details> |
+| **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v2)** | 2026-08-14 | <details><summary>Autho...</summary><p>Author version of paper accepted in ACM Transactions on Internet Technology, 30 pages</p></details> |
+| **[Could Model Partitioning Make Federated Learning More Sustainable?](https://arxiv.org/abs/2608.14242v1)** | 2026-08-14 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Accepted at the 2nd International Workshop on Low Carbon Computing (LOCO 2026), Lancaster University, United Kingdom, 10-11 September 2026. Part of the LOCO 2026 proceedings, arXiv:LOCO2026/P09</p></details> |
+| **[Contract Based Verification of Non-functional Requirements for Embedded Automotive C Code](https://arxiv.org/abs/2605.21532v2)** | 2026-08-14 |  |
+| **[TEMPO: Makespan-Aware Expert-Parallel Load Balancing Across Memory- and Compute-Bound Regimes](https://arxiv.org/abs/2608.13057v2)** | 2026-08-14 | <details><summary>18 pa...</summary><p>18 pages. Code is available at https://github.com/jeshxxx/TEMPO</p></details> |
+| **[KBSpec: LLM-driven Formal Specification Generation with Evolving Domain Knowledge Base](https://arxiv.org/abs/2606.21339v2)** | 2026-08-14 |  |
+| **[Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning](https://arxiv.org/abs/2608.13914v1)** | 2026-08-14 | 7 pages, 4 figures |
+| **[Optimizing Frequent Checkpointing via Low-Cost Differential for Distributed Training Systems](https://arxiv.org/abs/2509.04084v4)** | 2026-08-14 |  |
+| **[Resource-Efficient RGB-Only Action Recognition for Edge Deployment](https://arxiv.org/abs/2602.10818v2)** | 2026-08-14 | Under review |
 
