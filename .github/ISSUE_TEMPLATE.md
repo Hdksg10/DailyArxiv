@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2026
+title: Latest 15 Papers - August 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Validating LLM-Modernized Scientific Software Through Differential Fault Injection](https://arxiv.org/abs/2608.14527v1)** | 2026-08-14 |  |
-| **[Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training](https://arxiv.org/abs/2608.14498v1)** | 2026-08-14 | 16 pages, 10 figures |
-| **[Memory Allocation for Constant-Bounded Programs](https://arxiv.org/abs/2608.14471v1)** | 2026-08-14 | 13 pages, 13 figures |
-| **[Large-scale workflow placement in serverless computing using integer nonlinear programming](https://arxiv.org/abs/2608.14427v1)** | 2026-08-14 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
-| **[TypeProbe: Recovering Type Representations from Hidden States of Pre-trained Code Models](https://arxiv.org/abs/2607.08339v2)** | 2026-08-14 | <details><summary>18 pa...</summary><p>18 pages, 12 figures. Accepted at ESSLLI 2026 (StuS; double-blind)</p></details> |
-| **[CoRun: Padding is Simple and Efficient for Deterministic LLM Inference](https://arxiv.org/abs/2608.14376v1)** | 2026-08-14 | 13 pages, 14 figures |
-| **[Self-Stabilizing Algorithms in the Uniform Port Model](https://arxiv.org/abs/2607.08244v3)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted to the 40th International Symposium on Distributed Computing (DISC), 2026</p></details> |
-| **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v2)** | 2026-08-14 | <details><summary>Autho...</summary><p>Author version of paper accepted in ACM Transactions on Internet Technology, 30 pages</p></details> |
-| **[Could Model Partitioning Make Federated Learning More Sustainable?](https://arxiv.org/abs/2608.14242v1)** | 2026-08-14 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Accepted at the 2nd International Workshop on Low Carbon Computing (LOCO 2026), Lancaster University, United Kingdom, 10-11 September 2026. Part of the LOCO 2026 proceedings, arXiv:LOCO2026/P09</p></details> |
-| **[Contract Based Verification of Non-functional Requirements for Embedded Automotive C Code](https://arxiv.org/abs/2605.21532v2)** | 2026-08-14 |  |
-| **[TEMPO: Makespan-Aware Expert-Parallel Load Balancing Across Memory- and Compute-Bound Regimes](https://arxiv.org/abs/2608.13057v2)** | 2026-08-14 | <details><summary>18 pa...</summary><p>18 pages. Code is available at https://github.com/jeshxxx/TEMPO</p></details> |
-| **[KBSpec: LLM-driven Formal Specification Generation with Evolving Domain Knowledge Base](https://arxiv.org/abs/2606.21339v2)** | 2026-08-14 |  |
-| **[Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning](https://arxiv.org/abs/2608.13914v1)** | 2026-08-14 | 7 pages, 4 figures |
-| **[Optimizing Frequent Checkpointing via Low-Cost Differential for Distributed Training Systems](https://arxiv.org/abs/2509.04084v4)** | 2026-08-14 |  |
-| **[Resource-Efficient RGB-Only Action Recognition for Edge Deployment](https://arxiv.org/abs/2602.10818v2)** | 2026-08-14 | Under review |
+| **[Superlogarithmic Gap Result for LCLs on Trees in Quantum-LOCAL](https://arxiv.org/abs/2608.16854v1)** | 2026-08-17 |  |
+| **[HAPS through the Lens of Satellites and UAVs: A Function-Level Perspective on the Emerging High Altitude Economy](https://arxiv.org/abs/2608.16828v1)** | 2026-08-17 |  |
+| **[SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](https://arxiv.org/abs/2603.20253v4)** | 2026-08-17 | <details><summary>post ...</summary><p>post conference revision version at ICML; update: removed CGYRO due to bug in cases search. Will add back soon; Make the title consistent w/ pdf</p></details> |
+| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v8)** | 2026-08-17 | <details><summary>20 pa...</summary><p>20 pages, 3 figures, 8 tables</p></details> |
+| **[Fixing ill-formed UTF-16 strings with SIMD instructions](https://arxiv.org/abs/2601.06349v2)** | 2026-08-17 |  |
+| **[The Specification Paradox: Rethinking Requirements Engineering in the Age of AI](https://arxiv.org/abs/2608.16618v1)** | 2026-08-17 |  |
+| **[Fast Deterministic Distributed Degree Splitting](https://arxiv.org/abs/2604.00724v3)** | 2026-08-17 | <details><summary>Full ...</summary><p>Full version of the article appearing in the proceedings of DISC'26</p></details> |
+| **[Vantage: Availability-Graded Broadcast for Signature-Free BFT](https://arxiv.org/abs/2608.16504v1)** | 2026-08-17 | <details><summary>62 pa...</summary><p>62 pages, 9 figures. Implementation: https://github.com/polinikita/vantage-bft</p></details> |
+| **[On Reduction and Synthesis of Petri's Cycloids](https://arxiv.org/abs/2405.21025v5)** | 2026-08-17 |  |
+| **[HieraSparse: Hierarchical Semi-Structured Sparse KV Attention](https://arxiv.org/abs/2604.16864v2)** | 2026-08-17 |  |
+| **[GPU implementation of a resource-constrained virtual machine](https://arxiv.org/abs/2608.16387v1)** | 2026-08-17 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Accepted at the 2nd International Workshop on Low Carbon Computing (LOCO 2026), Lancaster University, United Kingdom, 10-11 September 2026. Part of the LOCO 2026 proceedings, arXiv:LOCO2026/P07</p></details> |
+| **[MELD: A Protocol for Merging Knowledge Across Distributed Agentic Memories](https://arxiv.org/abs/2608.16357v1)** | 2026-08-17 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, 1 table, plus an 11-page appendix (A-N). Code and experiment data: https://doi.org/10.5281/zenodo.21878274</p></details> |
+| **[Mechanizing Choreographic Programs and Hoare Logic with State Transformers](https://arxiv.org/abs/2608.16346v1)** | 2026-08-17 | <details><summary>To be...</summary><p>To be published in the TyDe 2026 proceedings</p></details> |
+| **[Generic Constraints Projection: Four-Dimensional Type Inference for Dynamic Languages](https://arxiv.org/abs/2607.19693v4)** | 2026-08-17 | <details><summary>62 pa...</summary><p>62 pages, 5 figures, 4 tables</p></details> |
+| **[Beyond Binary Priorities: Multi-Tier SLA Scheduling for Large Language Model Serving](https://arxiv.org/abs/2608.16336v1)** | 2026-08-17 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 4 tables</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Validating LLM-Modernized Scientific Software Through Differential Fault Injection](https://arxiv.org/abs/2608.14527v1)** | 2026-08-14 |  |
-| **[Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training](https://arxiv.org/abs/2608.14498v1)** | 2026-08-14 | 16 pages, 10 figures |
-| **[Memory Allocation for Constant-Bounded Programs](https://arxiv.org/abs/2608.14471v1)** | 2026-08-14 | 13 pages, 13 figures |
-| **[Large-scale workflow placement in serverless computing using integer nonlinear programming](https://arxiv.org/abs/2608.14427v1)** | 2026-08-14 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
-| **[TypeProbe: Recovering Type Representations from Hidden States of Pre-trained Code Models](https://arxiv.org/abs/2607.08339v2)** | 2026-08-14 | <details><summary>18 pa...</summary><p>18 pages, 12 figures. Accepted at ESSLLI 2026 (StuS; double-blind)</p></details> |
-| **[CoRun: Padding is Simple and Efficient for Deterministic LLM Inference](https://arxiv.org/abs/2608.14376v1)** | 2026-08-14 | 13 pages, 14 figures |
-| **[Self-Stabilizing Algorithms in the Uniform Port Model](https://arxiv.org/abs/2607.08244v3)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted to the 40th International Symposium on Distributed Computing (DISC), 2026</p></details> |
-| **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v2)** | 2026-08-14 | <details><summary>Autho...</summary><p>Author version of paper accepted in ACM Transactions on Internet Technology, 30 pages</p></details> |
-| **[Could Model Partitioning Make Federated Learning More Sustainable?](https://arxiv.org/abs/2608.14242v1)** | 2026-08-14 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Accepted at the 2nd International Workshop on Low Carbon Computing (LOCO 2026), Lancaster University, United Kingdom, 10-11 September 2026. Part of the LOCO 2026 proceedings, arXiv:LOCO2026/P09</p></details> |
-| **[Contract Based Verification of Non-functional Requirements for Embedded Automotive C Code](https://arxiv.org/abs/2605.21532v2)** | 2026-08-14 |  |
-| **[TEMPO: Makespan-Aware Expert-Parallel Load Balancing Across Memory- and Compute-Bound Regimes](https://arxiv.org/abs/2608.13057v2)** | 2026-08-14 | <details><summary>18 pa...</summary><p>18 pages. Code is available at https://github.com/jeshxxx/TEMPO</p></details> |
-| **[KBSpec: LLM-driven Formal Specification Generation with Evolving Domain Knowledge Base](https://arxiv.org/abs/2606.21339v2)** | 2026-08-14 |  |
-| **[Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning](https://arxiv.org/abs/2608.13914v1)** | 2026-08-14 | 7 pages, 4 figures |
-| **[Optimizing Frequent Checkpointing via Low-Cost Differential for Distributed Training Systems](https://arxiv.org/abs/2509.04084v4)** | 2026-08-14 |  |
-| **[Resource-Efficient RGB-Only Action Recognition for Edge Deployment](https://arxiv.org/abs/2602.10818v2)** | 2026-08-14 | Under review |
+| **[Superlogarithmic Gap Result for LCLs on Trees in Quantum-LOCAL](https://arxiv.org/abs/2608.16854v1)** | 2026-08-17 |  |
+| **[HAPS through the Lens of Satellites and UAVs: A Function-Level Perspective on the Emerging High Altitude Economy](https://arxiv.org/abs/2608.16828v1)** | 2026-08-17 |  |
+| **[SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](https://arxiv.org/abs/2603.20253v4)** | 2026-08-17 | <details><summary>post ...</summary><p>post conference revision version at ICML; update: removed CGYRO due to bug in cases search. Will add back soon; Make the title consistent w/ pdf</p></details> |
+| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v8)** | 2026-08-17 | <details><summary>20 pa...</summary><p>20 pages, 3 figures, 8 tables</p></details> |
+| **[Fixing ill-formed UTF-16 strings with SIMD instructions](https://arxiv.org/abs/2601.06349v2)** | 2026-08-17 |  |
+| **[The Specification Paradox: Rethinking Requirements Engineering in the Age of AI](https://arxiv.org/abs/2608.16618v1)** | 2026-08-17 |  |
+| **[Fast Deterministic Distributed Degree Splitting](https://arxiv.org/abs/2604.00724v3)** | 2026-08-17 | <details><summary>Full ...</summary><p>Full version of the article appearing in the proceedings of DISC'26</p></details> |
+| **[Vantage: Availability-Graded Broadcast for Signature-Free BFT](https://arxiv.org/abs/2608.16504v1)** | 2026-08-17 | <details><summary>62 pa...</summary><p>62 pages, 9 figures. Implementation: https://github.com/polinikita/vantage-bft</p></details> |
+| **[On Reduction and Synthesis of Petri's Cycloids](https://arxiv.org/abs/2405.21025v5)** | 2026-08-17 |  |
+| **[HieraSparse: Hierarchical Semi-Structured Sparse KV Attention](https://arxiv.org/abs/2604.16864v2)** | 2026-08-17 |  |
+| **[GPU implementation of a resource-constrained virtual machine](https://arxiv.org/abs/2608.16387v1)** | 2026-08-17 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Accepted at the 2nd International Workshop on Low Carbon Computing (LOCO 2026), Lancaster University, United Kingdom, 10-11 September 2026. Part of the LOCO 2026 proceedings, arXiv:LOCO2026/P07</p></details> |
+| **[MELD: A Protocol for Merging Knowledge Across Distributed Agentic Memories](https://arxiv.org/abs/2608.16357v1)** | 2026-08-17 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, 1 table, plus an 11-page appendix (A-N). Code and experiment data: https://doi.org/10.5281/zenodo.21878274</p></details> |
+| **[Mechanizing Choreographic Programs and Hoare Logic with State Transformers](https://arxiv.org/abs/2608.16346v1)** | 2026-08-17 | <details><summary>To be...</summary><p>To be published in the TyDe 2026 proceedings</p></details> |
+| **[Generic Constraints Projection: Four-Dimensional Type Inference for Dynamic Languages](https://arxiv.org/abs/2607.19693v4)** | 2026-08-17 | <details><summary>62 pa...</summary><p>62 pages, 5 figures, 4 tables</p></details> |
+| **[Beyond Binary Priorities: Multi-Tier SLA Scheduling for Large Language Model Serving](https://arxiv.org/abs/2608.16336v1)** | 2026-08-17 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 4 tables</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Validating LLM-Modernized Scientific Software Through Differential Fault Injection](https://arxiv.org/abs/2608.14527v1)** | 2026-08-14 |  |
-| **[Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training](https://arxiv.org/abs/2608.14498v1)** | 2026-08-14 | 16 pages, 10 figures |
-| **[Memory Allocation for Constant-Bounded Programs](https://arxiv.org/abs/2608.14471v1)** | 2026-08-14 | 13 pages, 13 figures |
-| **[Large-scale workflow placement in serverless computing using integer nonlinear programming](https://arxiv.org/abs/2608.14427v1)** | 2026-08-14 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
-| **[TypeProbe: Recovering Type Representations from Hidden States of Pre-trained Code Models](https://arxiv.org/abs/2607.08339v2)** | 2026-08-14 | <details><summary>18 pa...</summary><p>18 pages, 12 figures. Accepted at ESSLLI 2026 (StuS; double-blind)</p></details> |
-| **[CoRun: Padding is Simple and Efficient for Deterministic LLM Inference](https://arxiv.org/abs/2608.14376v1)** | 2026-08-14 | 13 pages, 14 figures |
-| **[Self-Stabilizing Algorithms in the Uniform Port Model](https://arxiv.org/abs/2607.08244v3)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted to the 40th International Symposium on Distributed Computing (DISC), 2026</p></details> |
-| **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v2)** | 2026-08-14 | <details><summary>Autho...</summary><p>Author version of paper accepted in ACM Transactions on Internet Technology, 30 pages</p></details> |
-| **[Could Model Partitioning Make Federated Learning More Sustainable?](https://arxiv.org/abs/2608.14242v1)** | 2026-08-14 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Accepted at the 2nd International Workshop on Low Carbon Computing (LOCO 2026), Lancaster University, United Kingdom, 10-11 September 2026. Part of the LOCO 2026 proceedings, arXiv:LOCO2026/P09</p></details> |
-| **[Contract Based Verification of Non-functional Requirements for Embedded Automotive C Code](https://arxiv.org/abs/2605.21532v2)** | 2026-08-14 |  |
-| **[TEMPO: Makespan-Aware Expert-Parallel Load Balancing Across Memory- and Compute-Bound Regimes](https://arxiv.org/abs/2608.13057v2)** | 2026-08-14 | <details><summary>18 pa...</summary><p>18 pages. Code is available at https://github.com/jeshxxx/TEMPO</p></details> |
-| **[KBSpec: LLM-driven Formal Specification Generation with Evolving Domain Knowledge Base](https://arxiv.org/abs/2606.21339v2)** | 2026-08-14 |  |
-| **[Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning](https://arxiv.org/abs/2608.13914v1)** | 2026-08-14 | 7 pages, 4 figures |
-| **[Optimizing Frequent Checkpointing via Low-Cost Differential for Distributed Training Systems](https://arxiv.org/abs/2509.04084v4)** | 2026-08-14 |  |
-| **[Resource-Efficient RGB-Only Action Recognition for Edge Deployment](https://arxiv.org/abs/2602.10818v2)** | 2026-08-14 | Under review |
+| **[Superlogarithmic Gap Result for LCLs on Trees in Quantum-LOCAL](https://arxiv.org/abs/2608.16854v1)** | 2026-08-17 |  |
+| **[HAPS through the Lens of Satellites and UAVs: A Function-Level Perspective on the Emerging High Altitude Economy](https://arxiv.org/abs/2608.16828v1)** | 2026-08-17 |  |
+| **[SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](https://arxiv.org/abs/2603.20253v4)** | 2026-08-17 | <details><summary>post ...</summary><p>post conference revision version at ICML; update: removed CGYRO due to bug in cases search. Will add back soon; Make the title consistent w/ pdf</p></details> |
+| **[The World's Fastest Matching Engine Algorithm](https://arxiv.org/abs/2606.01183v8)** | 2026-08-17 | <details><summary>20 pa...</summary><p>20 pages, 3 figures, 8 tables</p></details> |
+| **[Fixing ill-formed UTF-16 strings with SIMD instructions](https://arxiv.org/abs/2601.06349v2)** | 2026-08-17 |  |
+| **[The Specification Paradox: Rethinking Requirements Engineering in the Age of AI](https://arxiv.org/abs/2608.16618v1)** | 2026-08-17 |  |
+| **[Fast Deterministic Distributed Degree Splitting](https://arxiv.org/abs/2604.00724v3)** | 2026-08-17 | <details><summary>Full ...</summary><p>Full version of the article appearing in the proceedings of DISC'26</p></details> |
+| **[Vantage: Availability-Graded Broadcast for Signature-Free BFT](https://arxiv.org/abs/2608.16504v1)** | 2026-08-17 | <details><summary>62 pa...</summary><p>62 pages, 9 figures. Implementation: https://github.com/polinikita/vantage-bft</p></details> |
+| **[On Reduction and Synthesis of Petri's Cycloids](https://arxiv.org/abs/2405.21025v5)** | 2026-08-17 |  |
+| **[HieraSparse: Hierarchical Semi-Structured Sparse KV Attention](https://arxiv.org/abs/2604.16864v2)** | 2026-08-17 |  |
+| **[GPU implementation of a resource-constrained virtual machine](https://arxiv.org/abs/2608.16387v1)** | 2026-08-17 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Accepted at the 2nd International Workshop on Low Carbon Computing (LOCO 2026), Lancaster University, United Kingdom, 10-11 September 2026. Part of the LOCO 2026 proceedings, arXiv:LOCO2026/P07</p></details> |
+| **[MELD: A Protocol for Merging Knowledge Across Distributed Agentic Memories](https://arxiv.org/abs/2608.16357v1)** | 2026-08-17 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, 1 table, plus an 11-page appendix (A-N). Code and experiment data: https://doi.org/10.5281/zenodo.21878274</p></details> |
+| **[Mechanizing Choreographic Programs and Hoare Logic with State Transformers](https://arxiv.org/abs/2608.16346v1)** | 2026-08-17 | <details><summary>To be...</summary><p>To be published in the TyDe 2026 proceedings</p></details> |
+| **[Generic Constraints Projection: Four-Dimensional Type Inference for Dynamic Languages](https://arxiv.org/abs/2607.19693v4)** | 2026-08-17 | <details><summary>62 pa...</summary><p>62 pages, 5 figures, 4 tables</p></details> |
+| **[Beyond Binary Priorities: Multi-Tier SLA Scheduling for Large Language Model Serving](https://arxiv.org/abs/2608.16336v1)** | 2026-08-17 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 4 tables</p></details> |
 
