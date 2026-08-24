@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 24, 2026
+title: Latest 15 Papers - August 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Bidding Games: Reinforcement Learning for MEV Extraction on Polygon Blockchain](https://arxiv.org/abs/2510.14642v2)** | 2026-08-20 |  |
-| **[Design and Empirical Evaluation of a Network-Centric, On-Premises Architecture for Earth Observation Data Access](https://arxiv.org/abs/2608.20283v1)** | 2026-08-20 | <details><summary>18 pa...</summary><p>18 pages, 8 figures and 13 tables</p></details> |
-| **[Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning](https://arxiv.org/abs/2608.20271v1)** | 2026-08-20 |  |
-| **[Formal Performance and Compile Time Guarantees for Compiler Optimization Heuristics](https://arxiv.org/abs/2608.20137v1)** | 2026-08-20 | <details><summary>To ap...</summary><p>To appear in Formal Methods in Computer-Aided Design 2026 (FMCAD '26) Student Forum. 3 pages</p></details> |
-| **[TrustRAG: Blockchain-Enhanced RAG via Committee-Based Credibility Scoring](https://arxiv.org/abs/2608.20097v1)** | 2026-08-20 |  |
-| **[Multimmit: Extending Blocks for Faster Finality](https://arxiv.org/abs/2607.21021v3)** | 2026-08-20 |  |
-| **[ParaWeb: Parallel Programming Patterns for Web Development](https://arxiv.org/abs/2608.19935v1)** | 2026-08-20 | <details><summary>Prese...</summary><p>Presented at HLPP 2026, 19th International Symposium on High-Level Parallel Programming and Applications, Paris, July 2026. Part of the HLPP 2026 proceedings (hal-05689350, arXiv:2607.12917)</p></details> |
-| **[Write Once, Run Everywhere: The Axon DSL for Shape-Safe and Framework-Agnostic LLM Architectures](https://arxiv.org/abs/2608.19889v1)** | 2026-08-20 |  |
-| **[Sound State Encodings in Translational Separation Logic Verifiers (Extended Version)](https://arxiv.org/abs/2603.20001v2)** | 2026-08-20 | <details><summary>Exten...</summary><p>Extended version of the OOPSLA'26 paper</p></details> |
-| **[Specification-delta-driven data governance: an empirical study of the «spec-delta» as the unit of change in lakehouse data platforms](https://arxiv.org/abs/2608.19838v1)** | 2026-08-20 |  |
-| **[Orientation does not help with 3-coloring a grid in online-LOCAL](https://arxiv.org/abs/2509.22233v2)** | 2026-08-20 | 16 pages, 3 figures |
-| **[Pod-Deployability in Kubernetes with Inter-Pod Affinity Constraints is PSPACE-Complete](https://arxiv.org/abs/2608.19822v1)** | 2026-08-20 |  |
-| **[Wait-free Replicated Data Types and Fair Reconciliation](https://arxiv.org/abs/2508.18193v3)** | 2026-08-20 |  |
-| **[Graph Surgery and the Do-Operator: A Precise Correspondence for Acyclic Structural Causal Models](https://arxiv.org/abs/2608.17634v2)** | 2026-08-20 |  |
-| **[Hippogriff: a semantic approach to uniting core and modules](https://arxiv.org/abs/2608.19728v1)** | 2026-08-20 | <details><summary>36 pa...</summary><p>36 pages, including supplemental appendix</p></details> |
+| **[Finitary Semantics for Full Ground Local State](https://arxiv.org/abs/2608.21271v1)** | 2026-08-21 |  |
+| **[DAOP: Data-Aware Offloading and Predictive Pre-Calculation for Efficient MoE Inference](https://arxiv.org/abs/2501.10375v3)** | 2026-08-21 | <details><summary>7 pag...</summary><p>7 pages, 10 figures, Accepted by DATE Conference 2025</p></details> |
+| **[Thread Scaling of Hexaly on the TDVRPTW across Two Model Encodings. An Experimental Report: Binding Choice, Slice-Count Choice, and Two Thread Ladders](https://arxiv.org/abs/2608.10079v2)** | 2026-08-21 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 14 tables. Version 2: both model encodings are re-measured through the solver's C++ binding, replacing previous Python bindings of version 1. Every ladder and the slice-count study now run 10 seeds, and dispersion is reported as the sample standard deviation across seeds. Raw experiment data deposited at https://doi.org/10.5281/zenodo.22047134</p></details> |
+| **[Portable to Efficient: Auto-Tuning Hardware-Agnostic GPU Kernels in Julia](https://arxiv.org/abs/2608.21227v1)** | 2026-08-21 | <details><summary>ICPP ...</summary><p>ICPP Workshops '26, Singapore</p></details> |
+| **[TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications](https://arxiv.org/abs/2510.18586v4)** | 2026-08-21 | <details><summary>14 pa...</summary><p>14 pages, 17 figures, 3 tables, 2 algorithms. Accepted at EuroSys '27</p></details> |
+| **[Thermo-FL: Thermal-Aware Robust Federated Fine-Tuning of Large Language Models for Edge AI](https://arxiv.org/abs/2608.21172v1)** | 2026-08-21 |  |
+| **[GrAND: GPU-based Dynamic Graph Indexes for Approximate Nearest Neighbour Search](https://arxiv.org/abs/2608.21163v1)** | 2026-08-21 |  |
+| **[HIERA: Workload-Aware Planning Across Implementation Spaces for GPU Kernel Optimization](https://arxiv.org/abs/2608.21157v1)** | 2026-08-21 |  |
+| **[Integrating a Python Dynamical core into ICON](https://arxiv.org/abs/2608.21150v1)** | 2026-08-21 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. ACM format</p></details> |
+| **[BackDFL: A Unified Benchmark For Backdoor Attacks and Defenses In Decentralized Federated Learning](https://arxiv.org/abs/2608.21137v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted for presentation at the ANUBIS Workshop, co-located with ESORICS'26</p></details> |
+| **[DeepStack: Facilitating Co-Design Exploration of 3D DRAM-Stacked Accelerators for Distributed LLM Inference](https://arxiv.org/abs/2604.04750v3)** | 2026-08-21 | Update MICRO ver |
+| **[LLMs versus the Halting Problem: Characterizing Program Termination Reasoning](https://arxiv.org/abs/2601.18987v6)** | 2026-08-21 |  |
+| **[AI Infrastructure in Space: How Far Can We Go?](https://arxiv.org/abs/2608.21034v1)** | 2026-08-21 | 20 pages, 4 figures |
+| **[Free Doubly-Infinitary Distributive Categories are Cartesian Closed](https://arxiv.org/abs/2403.10447v10)** | 2026-08-21 | 32 pages |
+| **[BIPPO: Budget-Aware Independent PPO for Energy-Efficient Federated Learning Services](https://arxiv.org/abs/2511.08142v2)** | 2026-08-21 | <details><summary>Submi...</summary><p>Submission to IEEE Transactions on Services Computing</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Bidding Games: Reinforcement Learning for MEV Extraction on Polygon Blockchain](https://arxiv.org/abs/2510.14642v2)** | 2026-08-20 |  |
-| **[Design and Empirical Evaluation of a Network-Centric, On-Premises Architecture for Earth Observation Data Access](https://arxiv.org/abs/2608.20283v1)** | 2026-08-20 | <details><summary>18 pa...</summary><p>18 pages, 8 figures and 13 tables</p></details> |
-| **[Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning](https://arxiv.org/abs/2608.20271v1)** | 2026-08-20 |  |
-| **[Formal Performance and Compile Time Guarantees for Compiler Optimization Heuristics](https://arxiv.org/abs/2608.20137v1)** | 2026-08-20 | <details><summary>To ap...</summary><p>To appear in Formal Methods in Computer-Aided Design 2026 (FMCAD '26) Student Forum. 3 pages</p></details> |
-| **[TrustRAG: Blockchain-Enhanced RAG via Committee-Based Credibility Scoring](https://arxiv.org/abs/2608.20097v1)** | 2026-08-20 |  |
-| **[Multimmit: Extending Blocks for Faster Finality](https://arxiv.org/abs/2607.21021v3)** | 2026-08-20 |  |
-| **[ParaWeb: Parallel Programming Patterns for Web Development](https://arxiv.org/abs/2608.19935v1)** | 2026-08-20 | <details><summary>Prese...</summary><p>Presented at HLPP 2026, 19th International Symposium on High-Level Parallel Programming and Applications, Paris, July 2026. Part of the HLPP 2026 proceedings (hal-05689350, arXiv:2607.12917)</p></details> |
-| **[Write Once, Run Everywhere: The Axon DSL for Shape-Safe and Framework-Agnostic LLM Architectures](https://arxiv.org/abs/2608.19889v1)** | 2026-08-20 |  |
-| **[Sound State Encodings in Translational Separation Logic Verifiers (Extended Version)](https://arxiv.org/abs/2603.20001v2)** | 2026-08-20 | <details><summary>Exten...</summary><p>Extended version of the OOPSLA'26 paper</p></details> |
-| **[Specification-delta-driven data governance: an empirical study of the «spec-delta» as the unit of change in lakehouse data platforms](https://arxiv.org/abs/2608.19838v1)** | 2026-08-20 |  |
-| **[Orientation does not help with 3-coloring a grid in online-LOCAL](https://arxiv.org/abs/2509.22233v2)** | 2026-08-20 | 16 pages, 3 figures |
-| **[Pod-Deployability in Kubernetes with Inter-Pod Affinity Constraints is PSPACE-Complete](https://arxiv.org/abs/2608.19822v1)** | 2026-08-20 |  |
-| **[Wait-free Replicated Data Types and Fair Reconciliation](https://arxiv.org/abs/2508.18193v3)** | 2026-08-20 |  |
-| **[Graph Surgery and the Do-Operator: A Precise Correspondence for Acyclic Structural Causal Models](https://arxiv.org/abs/2608.17634v2)** | 2026-08-20 |  |
-| **[Hippogriff: a semantic approach to uniting core and modules](https://arxiv.org/abs/2608.19728v1)** | 2026-08-20 | <details><summary>36 pa...</summary><p>36 pages, including supplemental appendix</p></details> |
+| **[Finitary Semantics for Full Ground Local State](https://arxiv.org/abs/2608.21271v1)** | 2026-08-21 |  |
+| **[DAOP: Data-Aware Offloading and Predictive Pre-Calculation for Efficient MoE Inference](https://arxiv.org/abs/2501.10375v3)** | 2026-08-21 | <details><summary>7 pag...</summary><p>7 pages, 10 figures, Accepted by DATE Conference 2025</p></details> |
+| **[Thread Scaling of Hexaly on the TDVRPTW across Two Model Encodings. An Experimental Report: Binding Choice, Slice-Count Choice, and Two Thread Ladders](https://arxiv.org/abs/2608.10079v2)** | 2026-08-21 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 14 tables. Version 2: both model encodings are re-measured through the solver's C++ binding, replacing previous Python bindings of version 1. Every ladder and the slice-count study now run 10 seeds, and dispersion is reported as the sample standard deviation across seeds. Raw experiment data deposited at https://doi.org/10.5281/zenodo.22047134</p></details> |
+| **[Portable to Efficient: Auto-Tuning Hardware-Agnostic GPU Kernels in Julia](https://arxiv.org/abs/2608.21227v1)** | 2026-08-21 | <details><summary>ICPP ...</summary><p>ICPP Workshops '26, Singapore</p></details> |
+| **[TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications](https://arxiv.org/abs/2510.18586v4)** | 2026-08-21 | <details><summary>14 pa...</summary><p>14 pages, 17 figures, 3 tables, 2 algorithms. Accepted at EuroSys '27</p></details> |
+| **[Thermo-FL: Thermal-Aware Robust Federated Fine-Tuning of Large Language Models for Edge AI](https://arxiv.org/abs/2608.21172v1)** | 2026-08-21 |  |
+| **[GrAND: GPU-based Dynamic Graph Indexes for Approximate Nearest Neighbour Search](https://arxiv.org/abs/2608.21163v1)** | 2026-08-21 |  |
+| **[HIERA: Workload-Aware Planning Across Implementation Spaces for GPU Kernel Optimization](https://arxiv.org/abs/2608.21157v1)** | 2026-08-21 |  |
+| **[Integrating a Python Dynamical core into ICON](https://arxiv.org/abs/2608.21150v1)** | 2026-08-21 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. ACM format</p></details> |
+| **[BackDFL: A Unified Benchmark For Backdoor Attacks and Defenses In Decentralized Federated Learning](https://arxiv.org/abs/2608.21137v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted for presentation at the ANUBIS Workshop, co-located with ESORICS'26</p></details> |
+| **[DeepStack: Facilitating Co-Design Exploration of 3D DRAM-Stacked Accelerators for Distributed LLM Inference](https://arxiv.org/abs/2604.04750v3)** | 2026-08-21 | Update MICRO ver |
+| **[LLMs versus the Halting Problem: Characterizing Program Termination Reasoning](https://arxiv.org/abs/2601.18987v6)** | 2026-08-21 |  |
+| **[AI Infrastructure in Space: How Far Can We Go?](https://arxiv.org/abs/2608.21034v1)** | 2026-08-21 | 20 pages, 4 figures |
+| **[Free Doubly-Infinitary Distributive Categories are Cartesian Closed](https://arxiv.org/abs/2403.10447v10)** | 2026-08-21 | 32 pages |
+| **[BIPPO: Budget-Aware Independent PPO for Energy-Efficient Federated Learning Services](https://arxiv.org/abs/2511.08142v2)** | 2026-08-21 | <details><summary>Submi...</summary><p>Submission to IEEE Transactions on Services Computing</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Bidding Games: Reinforcement Learning for MEV Extraction on Polygon Blockchain](https://arxiv.org/abs/2510.14642v2)** | 2026-08-20 |  |
-| **[Design and Empirical Evaluation of a Network-Centric, On-Premises Architecture for Earth Observation Data Access](https://arxiv.org/abs/2608.20283v1)** | 2026-08-20 | <details><summary>18 pa...</summary><p>18 pages, 8 figures and 13 tables</p></details> |
-| **[Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning](https://arxiv.org/abs/2608.20271v1)** | 2026-08-20 |  |
-| **[Formal Performance and Compile Time Guarantees for Compiler Optimization Heuristics](https://arxiv.org/abs/2608.20137v1)** | 2026-08-20 | <details><summary>To ap...</summary><p>To appear in Formal Methods in Computer-Aided Design 2026 (FMCAD '26) Student Forum. 3 pages</p></details> |
-| **[TrustRAG: Blockchain-Enhanced RAG via Committee-Based Credibility Scoring](https://arxiv.org/abs/2608.20097v1)** | 2026-08-20 |  |
-| **[Multimmit: Extending Blocks for Faster Finality](https://arxiv.org/abs/2607.21021v3)** | 2026-08-20 |  |
-| **[ParaWeb: Parallel Programming Patterns for Web Development](https://arxiv.org/abs/2608.19935v1)** | 2026-08-20 | <details><summary>Prese...</summary><p>Presented at HLPP 2026, 19th International Symposium on High-Level Parallel Programming and Applications, Paris, July 2026. Part of the HLPP 2026 proceedings (hal-05689350, arXiv:2607.12917)</p></details> |
-| **[Write Once, Run Everywhere: The Axon DSL for Shape-Safe and Framework-Agnostic LLM Architectures](https://arxiv.org/abs/2608.19889v1)** | 2026-08-20 |  |
-| **[Sound State Encodings in Translational Separation Logic Verifiers (Extended Version)](https://arxiv.org/abs/2603.20001v2)** | 2026-08-20 | <details><summary>Exten...</summary><p>Extended version of the OOPSLA'26 paper</p></details> |
-| **[Specification-delta-driven data governance: an empirical study of the «spec-delta» as the unit of change in lakehouse data platforms](https://arxiv.org/abs/2608.19838v1)** | 2026-08-20 |  |
-| **[Orientation does not help with 3-coloring a grid in online-LOCAL](https://arxiv.org/abs/2509.22233v2)** | 2026-08-20 | 16 pages, 3 figures |
-| **[Pod-Deployability in Kubernetes with Inter-Pod Affinity Constraints is PSPACE-Complete](https://arxiv.org/abs/2608.19822v1)** | 2026-08-20 |  |
-| **[Wait-free Replicated Data Types and Fair Reconciliation](https://arxiv.org/abs/2508.18193v3)** | 2026-08-20 |  |
-| **[Graph Surgery and the Do-Operator: A Precise Correspondence for Acyclic Structural Causal Models](https://arxiv.org/abs/2608.17634v2)** | 2026-08-20 |  |
-| **[Hippogriff: a semantic approach to uniting core and modules](https://arxiv.org/abs/2608.19728v1)** | 2026-08-20 | <details><summary>36 pa...</summary><p>36 pages, including supplemental appendix</p></details> |
+| **[Finitary Semantics for Full Ground Local State](https://arxiv.org/abs/2608.21271v1)** | 2026-08-21 |  |
+| **[DAOP: Data-Aware Offloading and Predictive Pre-Calculation for Efficient MoE Inference](https://arxiv.org/abs/2501.10375v3)** | 2026-08-21 | <details><summary>7 pag...</summary><p>7 pages, 10 figures, Accepted by DATE Conference 2025</p></details> |
+| **[Thread Scaling of Hexaly on the TDVRPTW across Two Model Encodings. An Experimental Report: Binding Choice, Slice-Count Choice, and Two Thread Ladders](https://arxiv.org/abs/2608.10079v2)** | 2026-08-21 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 14 tables. Version 2: both model encodings are re-measured through the solver's C++ binding, replacing previous Python bindings of version 1. Every ladder and the slice-count study now run 10 seeds, and dispersion is reported as the sample standard deviation across seeds. Raw experiment data deposited at https://doi.org/10.5281/zenodo.22047134</p></details> |
+| **[Portable to Efficient: Auto-Tuning Hardware-Agnostic GPU Kernels in Julia](https://arxiv.org/abs/2608.21227v1)** | 2026-08-21 | <details><summary>ICPP ...</summary><p>ICPP Workshops '26, Singapore</p></details> |
+| **[TokenCake: A KV-Cache-centric Serving Framework for LLM-based Multi-Agent Applications](https://arxiv.org/abs/2510.18586v4)** | 2026-08-21 | <details><summary>14 pa...</summary><p>14 pages, 17 figures, 3 tables, 2 algorithms. Accepted at EuroSys '27</p></details> |
+| **[Thermo-FL: Thermal-Aware Robust Federated Fine-Tuning of Large Language Models for Edge AI](https://arxiv.org/abs/2608.21172v1)** | 2026-08-21 |  |
+| **[GrAND: GPU-based Dynamic Graph Indexes for Approximate Nearest Neighbour Search](https://arxiv.org/abs/2608.21163v1)** | 2026-08-21 |  |
+| **[HIERA: Workload-Aware Planning Across Implementation Spaces for GPU Kernel Optimization](https://arxiv.org/abs/2608.21157v1)** | 2026-08-21 |  |
+| **[Integrating a Python Dynamical core into ICON](https://arxiv.org/abs/2608.21150v1)** | 2026-08-21 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. ACM format</p></details> |
+| **[BackDFL: A Unified Benchmark For Backdoor Attacks and Defenses In Decentralized Federated Learning](https://arxiv.org/abs/2608.21137v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted for presentation at the ANUBIS Workshop, co-located with ESORICS'26</p></details> |
+| **[DeepStack: Facilitating Co-Design Exploration of 3D DRAM-Stacked Accelerators for Distributed LLM Inference](https://arxiv.org/abs/2604.04750v3)** | 2026-08-21 | Update MICRO ver |
+| **[LLMs versus the Halting Problem: Characterizing Program Termination Reasoning](https://arxiv.org/abs/2601.18987v6)** | 2026-08-21 |  |
+| **[AI Infrastructure in Space: How Far Can We Go?](https://arxiv.org/abs/2608.21034v1)** | 2026-08-21 | 20 pages, 4 figures |
+| **[Free Doubly-Infinitary Distributive Categories are Cartesian Closed](https://arxiv.org/abs/2403.10447v10)** | 2026-08-21 | 32 pages |
+| **[BIPPO: Budget-Aware Independent PPO for Energy-Efficient Federated Learning Services](https://arxiv.org/abs/2511.08142v2)** | 2026-08-21 | <details><summary>Submi...</summary><p>Submission to IEEE Transactions on Services Computing</p></details> |
 
