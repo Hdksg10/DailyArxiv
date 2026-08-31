@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2026
+title: Latest 15 Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tacet: A Language and Type System for Automatic Statistical Validity Accounting](https://arxiv.org/abs/2608.27451v1)** | 2026-08-27 | <details><summary>67 pa...</summary><p>67 pages, 2 figures, 10 tables, including 10 appendices. Lean 4 mechanization: https://github.com/abuach/tacet-mech ; reference implementation and case-study replication code: https://github.com/abuach/tacet-python</p></details> |
-| **[DataKernelBench: Can LLMs Optimize Database Queries on GPUs?](https://arxiv.org/abs/2608.25061v2)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026</p></details> |
-| **[Consensus with Stochastic Broadcast](https://arxiv.org/abs/2608.27336v1)** | 2026-08-27 |  |
-| **[Characterizing CPU-Induced Slowdowns in Multi-GPU LLM Inference](https://arxiv.org/abs/2603.22774v3)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to IISWC 2026. Camera-ready version with updated experiments and discussion on agentic LLM workloads</p></details> |
-| **[Decoupled I/O-Dominant Pipelines for Large-Scale Whole-Slide Image Embedding Extraction](https://arxiv.org/abs/2608.27278v1)** | 2026-08-27 |  |
-| **[A-Graph: A Unified Graph Representation for Cross-Stack Cost Modeling](https://arxiv.org/abs/2602.04847v3)** | 2026-08-27 |  |
-| **[You may implement this later: Cofunctors as partial implementations](https://arxiv.org/abs/2608.27180v1)** | 2026-08-27 |  |
-| **[SCALE-TRACK: Asynchronous Euler-Lagrange particle tracking on heterogeneous computing architecture](https://arxiv.org/abs/2603.26691v2)** | 2026-08-27 | <details><summary>21 pa...</summary><p>21 pages, 9 figures + graphical abstract. Accepted for publication in Journal of Computational Physics</p></details> |
-| **[Towards Reproducible Evaluation of Distributed Quantum Circuit Partitioning Algorithms](https://arxiv.org/abs/2608.27099v1)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted at IEEE QCE 2026 Workshop: Distributed Quantum Computing Systems and Infrastructure</p></details> |
-| **[Sintr: Safe Interactive Transactions in the Presence of Byzantine Clients](https://arxiv.org/abs/2608.27091v1)** | 2026-08-27 |  |
-| **[Performance Foundations of Parallel & Distributed Reasoning Language Models](https://arxiv.org/abs/2608.27046v1)** | 2026-08-27 |  |
-| **[FoldPipe: Bounded Remote Streaming of Native Molecular Shards with Asynchronous Prefetch](https://arxiv.org/abs/2608.27029v1)** | 2026-08-27 | <details><summary>4 pag...</summary><p>4 pages, 2 figures. Source code and reproducibility artifacts: https://github.com/aviatorlf/FoldPipe</p></details> |
-| **[ScaleSense: Cost-Intelligent Scaling Framework via Learned Resource Estimation in Alibaba AnalyticDB](https://arxiv.org/abs/2608.07945v2)** | 2026-08-27 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at VLDB 2026</p></details> |
-| **[TOPIQ: Statistical Error Propagation for Quantity-of-Interest Prediction under Lossy Compression](https://arxiv.org/abs/2608.26912v1)** | 2026-08-27 | Accepted by SC'26 |
-| **[Information Flow Control in Off-Chain Components](https://arxiv.org/abs/2608.26858v1)** | 2026-08-27 |  |
+| **[Probabilistic Performance Analysis of Parallel Signature Search Strategies in Multi-Level Tree Networks](https://arxiv.org/abs/2608.25087v2)** | 2026-08-28 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, with supplementary material. Submitted to IEEE Open Journal of the Computer Society</p></details> |
+| **[Relaxed Sender Anonymity for CBDC Interbank Settlement: A Zero-Knowledge Approach on Permissioned EVM](https://arxiv.org/abs/2608.28529v1)** | 2026-08-28 |  |
+| **[Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning](https://arxiv.org/abs/2511.08577v4)** | 2026-08-28 | Accepted by ICML'26 |
+| **[Multimmit: Extending Blocks for Faster Finality](https://arxiv.org/abs/2607.21021v4)** | 2026-08-28 |  |
+| **[No Silver Bullet: Boosting GaussDB Performance on the 30TB TPC-H Workload](https://arxiv.org/abs/2608.28352v1)** | 2026-08-28 |  |
+| **[Ampere: Communication-Efficient and High-Accuracy Split Federated Learning](https://arxiv.org/abs/2507.07130v2)** | 2026-08-28 | <details><summary>18 pa...</summary><p>18 pages, 11 figures. Accepted for publication in IEEE Transactions on Parallel and Distributed Systems (TPDS)</p></details> |
+| **[URIUM: A Programming Language for a Practical Open Course on Compiler Design](https://arxiv.org/abs/2608.28202v1)** | 2026-08-28 | <details><summary>18 pa...</summary><p>18 pages, 13 figures. All course content, including the source code for each lecture, is available at the following link: https://github.com/fran-moreno-velo/urium</p></details> |
+| **[Memory-efficient GPU pipelines for real-time non-line-of-sight reconstruction](https://arxiv.org/abs/2608.28183v1)** | 2026-08-28 |  |
+| **[HARTS: Efficient Agentic Reinforcement Learning for Hybrid-Attention Models over Arbitrary Rollout Trees](https://arxiv.org/abs/2608.28158v1)** | 2026-08-28 |  |
+| **[Agentic-Kube: A Graph-Enhanced Multi-Agent Reinforcement Learning Framework for Multi-Objective Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v4)** | 2026-08-28 |  |
+| **[Great Expectations: Benchmarking the Real-World Performance of RVV 1.0 in HPC](https://arxiv.org/abs/2608.28097v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted for International workshop on RISC-V for HPC at ISC26</p></details> |
+| **[Performance Evaluation of Fast Fourier Transforms on Emerging RISC-V Hardware with Vector Extension Support](https://arxiv.org/abs/2608.28076v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted for International workshop on RISC-V for HPC at ISC26</p></details> |
+| **[AI Hardware Accelerators for Large Language Models: Architectures and the Memory Wall](https://arxiv.org/abs/2608.28048v1)** | 2026-08-28 | <details><summary>Revie...</summary><p>Review/survey article on AI hardware accelerators for large language models; compares GPUs, ASICs, FPGAs, processing-in-memory/near-memory, neuromorphic, and photonic architectures</p></details> |
+| **[Characterization of Request and Token Energy Costs for LLM Inference Workloads on GPU Platforms](https://arxiv.org/abs/2608.28044v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE International Symposium on Workload Characterization (IISWC 2026). 13 pages, 6 figures, 9 tables</p></details> |
+| **[Learning-Augmented Heuristics: Simple, yet Smart, Robust and Interpretable Cache Eviction](https://arxiv.org/abs/2608.27975v1)** | 2026-08-28 | <details><summary>22 pa...</summary><p>22 pages, accepted to OSDI '26</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tacet: A Language and Type System for Automatic Statistical Validity Accounting](https://arxiv.org/abs/2608.27451v1)** | 2026-08-27 | <details><summary>67 pa...</summary><p>67 pages, 2 figures, 10 tables, including 10 appendices. Lean 4 mechanization: https://github.com/abuach/tacet-mech ; reference implementation and case-study replication code: https://github.com/abuach/tacet-python</p></details> |
-| **[DataKernelBench: Can LLMs Optimize Database Queries on GPUs?](https://arxiv.org/abs/2608.25061v2)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026</p></details> |
-| **[Consensus with Stochastic Broadcast](https://arxiv.org/abs/2608.27336v1)** | 2026-08-27 |  |
-| **[Characterizing CPU-Induced Slowdowns in Multi-GPU LLM Inference](https://arxiv.org/abs/2603.22774v3)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to IISWC 2026. Camera-ready version with updated experiments and discussion on agentic LLM workloads</p></details> |
-| **[Decoupled I/O-Dominant Pipelines for Large-Scale Whole-Slide Image Embedding Extraction](https://arxiv.org/abs/2608.27278v1)** | 2026-08-27 |  |
-| **[A-Graph: A Unified Graph Representation for Cross-Stack Cost Modeling](https://arxiv.org/abs/2602.04847v3)** | 2026-08-27 |  |
-| **[You may implement this later: Cofunctors as partial implementations](https://arxiv.org/abs/2608.27180v1)** | 2026-08-27 |  |
-| **[SCALE-TRACK: Asynchronous Euler-Lagrange particle tracking on heterogeneous computing architecture](https://arxiv.org/abs/2603.26691v2)** | 2026-08-27 | <details><summary>21 pa...</summary><p>21 pages, 9 figures + graphical abstract. Accepted for publication in Journal of Computational Physics</p></details> |
-| **[Towards Reproducible Evaluation of Distributed Quantum Circuit Partitioning Algorithms](https://arxiv.org/abs/2608.27099v1)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted at IEEE QCE 2026 Workshop: Distributed Quantum Computing Systems and Infrastructure</p></details> |
-| **[Sintr: Safe Interactive Transactions in the Presence of Byzantine Clients](https://arxiv.org/abs/2608.27091v1)** | 2026-08-27 |  |
-| **[Performance Foundations of Parallel & Distributed Reasoning Language Models](https://arxiv.org/abs/2608.27046v1)** | 2026-08-27 |  |
-| **[FoldPipe: Bounded Remote Streaming of Native Molecular Shards with Asynchronous Prefetch](https://arxiv.org/abs/2608.27029v1)** | 2026-08-27 | <details><summary>4 pag...</summary><p>4 pages, 2 figures. Source code and reproducibility artifacts: https://github.com/aviatorlf/FoldPipe</p></details> |
-| **[ScaleSense: Cost-Intelligent Scaling Framework via Learned Resource Estimation in Alibaba AnalyticDB](https://arxiv.org/abs/2608.07945v2)** | 2026-08-27 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at VLDB 2026</p></details> |
-| **[TOPIQ: Statistical Error Propagation for Quantity-of-Interest Prediction under Lossy Compression](https://arxiv.org/abs/2608.26912v1)** | 2026-08-27 | Accepted by SC'26 |
-| **[Information Flow Control in Off-Chain Components](https://arxiv.org/abs/2608.26858v1)** | 2026-08-27 |  |
+| **[Probabilistic Performance Analysis of Parallel Signature Search Strategies in Multi-Level Tree Networks](https://arxiv.org/abs/2608.25087v2)** | 2026-08-28 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, with supplementary material. Submitted to IEEE Open Journal of the Computer Society</p></details> |
+| **[Relaxed Sender Anonymity for CBDC Interbank Settlement: A Zero-Knowledge Approach on Permissioned EVM](https://arxiv.org/abs/2608.28529v1)** | 2026-08-28 |  |
+| **[Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning](https://arxiv.org/abs/2511.08577v4)** | 2026-08-28 | Accepted by ICML'26 |
+| **[Multimmit: Extending Blocks for Faster Finality](https://arxiv.org/abs/2607.21021v4)** | 2026-08-28 |  |
+| **[No Silver Bullet: Boosting GaussDB Performance on the 30TB TPC-H Workload](https://arxiv.org/abs/2608.28352v1)** | 2026-08-28 |  |
+| **[Ampere: Communication-Efficient and High-Accuracy Split Federated Learning](https://arxiv.org/abs/2507.07130v2)** | 2026-08-28 | <details><summary>18 pa...</summary><p>18 pages, 11 figures. Accepted for publication in IEEE Transactions on Parallel and Distributed Systems (TPDS)</p></details> |
+| **[URIUM: A Programming Language for a Practical Open Course on Compiler Design](https://arxiv.org/abs/2608.28202v1)** | 2026-08-28 | <details><summary>18 pa...</summary><p>18 pages, 13 figures. All course content, including the source code for each lecture, is available at the following link: https://github.com/fran-moreno-velo/urium</p></details> |
+| **[Memory-efficient GPU pipelines for real-time non-line-of-sight reconstruction](https://arxiv.org/abs/2608.28183v1)** | 2026-08-28 |  |
+| **[HARTS: Efficient Agentic Reinforcement Learning for Hybrid-Attention Models over Arbitrary Rollout Trees](https://arxiv.org/abs/2608.28158v1)** | 2026-08-28 |  |
+| **[Agentic-Kube: A Graph-Enhanced Multi-Agent Reinforcement Learning Framework for Multi-Objective Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v4)** | 2026-08-28 |  |
+| **[Great Expectations: Benchmarking the Real-World Performance of RVV 1.0 in HPC](https://arxiv.org/abs/2608.28097v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted for International workshop on RISC-V for HPC at ISC26</p></details> |
+| **[Performance Evaluation of Fast Fourier Transforms on Emerging RISC-V Hardware with Vector Extension Support](https://arxiv.org/abs/2608.28076v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted for International workshop on RISC-V for HPC at ISC26</p></details> |
+| **[AI Hardware Accelerators for Large Language Models: Architectures and the Memory Wall](https://arxiv.org/abs/2608.28048v1)** | 2026-08-28 | <details><summary>Revie...</summary><p>Review/survey article on AI hardware accelerators for large language models; compares GPUs, ASICs, FPGAs, processing-in-memory/near-memory, neuromorphic, and photonic architectures</p></details> |
+| **[Characterization of Request and Token Energy Costs for LLM Inference Workloads on GPU Platforms](https://arxiv.org/abs/2608.28044v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE International Symposium on Workload Characterization (IISWC 2026). 13 pages, 6 figures, 9 tables</p></details> |
+| **[Learning-Augmented Heuristics: Simple, yet Smart, Robust and Interpretable Cache Eviction](https://arxiv.org/abs/2608.27975v1)** | 2026-08-28 | <details><summary>22 pa...</summary><p>22 pages, accepted to OSDI '26</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tacet: A Language and Type System for Automatic Statistical Validity Accounting](https://arxiv.org/abs/2608.27451v1)** | 2026-08-27 | <details><summary>67 pa...</summary><p>67 pages, 2 figures, 10 tables, including 10 appendices. Lean 4 mechanization: https://github.com/abuach/tacet-mech ; reference implementation and case-study replication code: https://github.com/abuach/tacet-python</p></details> |
-| **[DataKernelBench: Can LLMs Optimize Database Queries on GPUs?](https://arxiv.org/abs/2608.25061v2)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026</p></details> |
-| **[Consensus with Stochastic Broadcast](https://arxiv.org/abs/2608.27336v1)** | 2026-08-27 |  |
-| **[Characterizing CPU-Induced Slowdowns in Multi-GPU LLM Inference](https://arxiv.org/abs/2603.22774v3)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to IISWC 2026. Camera-ready version with updated experiments and discussion on agentic LLM workloads</p></details> |
-| **[Decoupled I/O-Dominant Pipelines for Large-Scale Whole-Slide Image Embedding Extraction](https://arxiv.org/abs/2608.27278v1)** | 2026-08-27 |  |
-| **[A-Graph: A Unified Graph Representation for Cross-Stack Cost Modeling](https://arxiv.org/abs/2602.04847v3)** | 2026-08-27 |  |
-| **[You may implement this later: Cofunctors as partial implementations](https://arxiv.org/abs/2608.27180v1)** | 2026-08-27 |  |
-| **[SCALE-TRACK: Asynchronous Euler-Lagrange particle tracking on heterogeneous computing architecture](https://arxiv.org/abs/2603.26691v2)** | 2026-08-27 | <details><summary>21 pa...</summary><p>21 pages, 9 figures + graphical abstract. Accepted for publication in Journal of Computational Physics</p></details> |
-| **[Towards Reproducible Evaluation of Distributed Quantum Circuit Partitioning Algorithms](https://arxiv.org/abs/2608.27099v1)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted at IEEE QCE 2026 Workshop: Distributed Quantum Computing Systems and Infrastructure</p></details> |
-| **[Sintr: Safe Interactive Transactions in the Presence of Byzantine Clients](https://arxiv.org/abs/2608.27091v1)** | 2026-08-27 |  |
-| **[Performance Foundations of Parallel & Distributed Reasoning Language Models](https://arxiv.org/abs/2608.27046v1)** | 2026-08-27 |  |
-| **[FoldPipe: Bounded Remote Streaming of Native Molecular Shards with Asynchronous Prefetch](https://arxiv.org/abs/2608.27029v1)** | 2026-08-27 | <details><summary>4 pag...</summary><p>4 pages, 2 figures. Source code and reproducibility artifacts: https://github.com/aviatorlf/FoldPipe</p></details> |
-| **[ScaleSense: Cost-Intelligent Scaling Framework via Learned Resource Estimation in Alibaba AnalyticDB](https://arxiv.org/abs/2608.07945v2)** | 2026-08-27 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at VLDB 2026</p></details> |
-| **[TOPIQ: Statistical Error Propagation for Quantity-of-Interest Prediction under Lossy Compression](https://arxiv.org/abs/2608.26912v1)** | 2026-08-27 | Accepted by SC'26 |
-| **[Information Flow Control in Off-Chain Components](https://arxiv.org/abs/2608.26858v1)** | 2026-08-27 |  |
+| **[Probabilistic Performance Analysis of Parallel Signature Search Strategies in Multi-Level Tree Networks](https://arxiv.org/abs/2608.25087v2)** | 2026-08-28 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, with supplementary material. Submitted to IEEE Open Journal of the Computer Society</p></details> |
+| **[Relaxed Sender Anonymity for CBDC Interbank Settlement: A Zero-Knowledge Approach on Permissioned EVM](https://arxiv.org/abs/2608.28529v1)** | 2026-08-28 |  |
+| **[Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning](https://arxiv.org/abs/2511.08577v4)** | 2026-08-28 | Accepted by ICML'26 |
+| **[Multimmit: Extending Blocks for Faster Finality](https://arxiv.org/abs/2607.21021v4)** | 2026-08-28 |  |
+| **[No Silver Bullet: Boosting GaussDB Performance on the 30TB TPC-H Workload](https://arxiv.org/abs/2608.28352v1)** | 2026-08-28 |  |
+| **[Ampere: Communication-Efficient and High-Accuracy Split Federated Learning](https://arxiv.org/abs/2507.07130v2)** | 2026-08-28 | <details><summary>18 pa...</summary><p>18 pages, 11 figures. Accepted for publication in IEEE Transactions on Parallel and Distributed Systems (TPDS)</p></details> |
+| **[URIUM: A Programming Language for a Practical Open Course on Compiler Design](https://arxiv.org/abs/2608.28202v1)** | 2026-08-28 | <details><summary>18 pa...</summary><p>18 pages, 13 figures. All course content, including the source code for each lecture, is available at the following link: https://github.com/fran-moreno-velo/urium</p></details> |
+| **[Memory-efficient GPU pipelines for real-time non-line-of-sight reconstruction](https://arxiv.org/abs/2608.28183v1)** | 2026-08-28 |  |
+| **[HARTS: Efficient Agentic Reinforcement Learning for Hybrid-Attention Models over Arbitrary Rollout Trees](https://arxiv.org/abs/2608.28158v1)** | 2026-08-28 |  |
+| **[Agentic-Kube: A Graph-Enhanced Multi-Agent Reinforcement Learning Framework for Multi-Objective Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v4)** | 2026-08-28 |  |
+| **[Great Expectations: Benchmarking the Real-World Performance of RVV 1.0 in HPC](https://arxiv.org/abs/2608.28097v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted for International workshop on RISC-V for HPC at ISC26</p></details> |
+| **[Performance Evaluation of Fast Fourier Transforms on Emerging RISC-V Hardware with Vector Extension Support](https://arxiv.org/abs/2608.28076v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted for International workshop on RISC-V for HPC at ISC26</p></details> |
+| **[AI Hardware Accelerators for Large Language Models: Architectures and the Memory Wall](https://arxiv.org/abs/2608.28048v1)** | 2026-08-28 | <details><summary>Revie...</summary><p>Review/survey article on AI hardware accelerators for large language models; compares GPUs, ASICs, FPGAs, processing-in-memory/near-memory, neuromorphic, and photonic architectures</p></details> |
+| **[Characterization of Request and Token Energy Costs for LLM Inference Workloads on GPU Platforms](https://arxiv.org/abs/2608.28044v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE International Symposium on Workload Characterization (IISWC 2026). 13 pages, 6 figures, 9 tables</p></details> |
+| **[Learning-Augmented Heuristics: Simple, yet Smart, Robust and Interpretable Cache Eviction](https://arxiv.org/abs/2608.27975v1)** | 2026-08-28 | <details><summary>22 pa...</summary><p>22 pages, accepted to OSDI '26</p></details> |
 
