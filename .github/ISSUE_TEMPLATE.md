@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 11, 2026
+title: Latest 15 Papers - September 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PASCAL: A Phase-Aware Shared-Cache Model for Parallel Scans](https://arxiv.org/abs/2609.10515v1)** | 2026-09-09 |  |
-| **[Avatar: Toward Autonomous End-to-End Orchestration of Scientific Workflows using LLMs](https://arxiv.org/abs/2609.10509v1)** | 2026-09-09 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 1 table</p></details> |
-| **[Towards Reproducible Evaluation of Distributed Quantum Circuit Partitioning Algorithms](https://arxiv.org/abs/2608.27099v2)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted at IEEE QCE 2026 Workshop: Distributed Quantum Computing Systems and Infrastructure</p></details> |
-| **[Stencil Computation at the Intersection of AI and HPC](https://arxiv.org/abs/2609.10368v1)** | 2026-09-09 |  |
-| **[CEDD-optimizer: Enabling Cost-Efficient Dataset Distillation on Geographically Distributed Edge Systems](https://arxiv.org/abs/2609.10151v1)** | 2026-09-09 |  |
-| **[Introvert Clustering for Distributed Graph Algorithms](https://arxiv.org/abs/2609.10044v1)** | 2026-09-09 |  |
-| **[Elastoformer: Enabling Dynamic Adaptivity via Elastic Model Transformation](https://arxiv.org/abs/2609.10018v1)** | 2026-09-09 | Published at SEC'25 |
-| **[Decentralized network congestion control for DAG-based distributed ledger system](https://arxiv.org/abs/2609.09961v1)** | 2026-09-09 |  |
-| **[Influence-Oriented Personalized Federated Learning](https://arxiv.org/abs/2410.03315v2)** | 2026-09-09 |  |
-| **[Forward-Free LLM Depth Pruning via Weight Redundancy](https://arxiv.org/abs/2609.09883v1)** | 2026-09-09 |  |
-| **[Personalized Execution Time Optimization for Billion-Scale Scheduled Jobs](https://arxiv.org/abs/2203.06158v3)** | 2026-09-09 | conference |
-| **[Epoch: Compiling Diffusion Blocks for Sparse MoE Serving](https://arxiv.org/abs/2609.09748v1)** | 2026-09-09 |  |
-| **[Breaking Fault Lines: Unifying TEE-Assisted BFT Consensus in Partially Trusted Worlds](https://arxiv.org/abs/2609.09742v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to EuroSys 2027</p></details> |
-| **[The Ghost in the Datacenter: Link Flapping, Topology Knowledge Failures, and the FITO Category Mistake](https://arxiv.org/abs/2603.03736v2)** | 2026-09-09 | <details><summary>v2: s...</summary><p>v2: substantial revision. Corrects an arithmetic error and a mischaracterisation of the FLP result; withdraws the claims that OAE eliminates ghosts, that a missing PIF echo identifies a failed link, and any claim to common knowledge; adds a Limitations section; re-attributes Table 1 to its industry source. No new results</p></details> |
-| **[PELM: Power Efficient On-Device LLM Inference with Speculative Decoding and Dynamic Voltage Frequency Scaling](https://arxiv.org/abs/2609.09662v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to ACM/IEEE SenSys'26</p></details> |
+| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | <details><summary>12 pa...</summary><p>12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis)</p></details> |
+| **[NFT-Based Reward Mechanisms: Sybil Farming, Vesting, and Stochastic Verification](https://arxiv.org/abs/2609.13064v1)** | 2026-09-11 |  |
+| **[Transpilation-Aware Runtime Prediction for Noisy Quantum Circuit Simulation](https://arxiv.org/abs/2609.12980v1)** | 2026-09-11 |  |
+| **[A Dynamic Vertical Scaling Strategy for Distributed Stream Processing Applications in Edge Computing](https://arxiv.org/abs/2609.12975v1)** | 2026-09-11 |  |
+| **[Dissecting GPU Utilization for LLM Inference on Nvidia Hopper](https://arxiv.org/abs/2609.12923v1)** | 2026-09-11 |  |
+| **[Input Resolution Matters: Real-Time Object Detection Latency](https://arxiv.org/abs/2609.12920v1)** | 2026-09-11 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2026 34th IEEE International Symposium on Modelling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)</p></details> |
+| **[Hidden in Rounds: Predicting the Time Cost of 802.11 Contention in Federated Learning](https://arxiv.org/abs/2609.12903v1)** | 2026-09-11 |  |
+| **[DeepStack: Facilitating Co-Design Exploration of 3D DRAM-Stacked Accelerators for Distributed LLM Inference](https://arxiv.org/abs/2604.04750v4)** | 2026-09-11 | <details><summary>MICRO...</summary><p>MICRO version with three AE badges</p></details> |
+| **[Securing People and their Machines Against Major Faults](https://arxiv.org/abs/2607.02304v2)** | 2026-09-11 |  |
+| **[4D Parallelism Unlocks Exascale Bayesian Neural Networks for High-Fidelity Atmospheric Modeling](https://arxiv.org/abs/2609.12815v1)** | 2026-09-11 |  |
+| **[Hybrid Monitoring for Early Fault Detection in Cloud-Native 5G Systems](https://arxiv.org/abs/2609.12649v1)** | 2026-09-11 |  |
+| **[Machine-Checked Dual-Write Recovery from a Commit Log](https://arxiv.org/abs/2608.00501v5)** | 2026-09-11 | <details><summary>23 pa...</summary><p>23 pages, 5 figures. Machine-checked Isabelle/HOL formal development archived at https://doi.org/10.5281/zenodo.22700396</p></details> |
+| **[A Feature-Rich Embedded NIDS with eBPF/XDP: Detector and Architecture Trade-offs](https://arxiv.org/abs/2609.12605v1)** | 2026-09-11 |  |
+| **[GreenDirector: carbon- and water-aware workload placement for sustainable computing](https://arxiv.org/abs/2609.12602v1)** | 2026-09-11 |  |
+| **[NovaFabric: Tamper-Evident, Replayable Evidence for Autonomous AI Agent Runs](https://arxiv.org/abs/2609.12582v1)** | 2026-09-11 | <details><summary>44 pa...</summary><p>44 pages, 7 figures, 8 tables, 2 listings. Preprint</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PASCAL: A Phase-Aware Shared-Cache Model for Parallel Scans](https://arxiv.org/abs/2609.10515v1)** | 2026-09-09 |  |
-| **[Avatar: Toward Autonomous End-to-End Orchestration of Scientific Workflows using LLMs](https://arxiv.org/abs/2609.10509v1)** | 2026-09-09 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 1 table</p></details> |
-| **[Towards Reproducible Evaluation of Distributed Quantum Circuit Partitioning Algorithms](https://arxiv.org/abs/2608.27099v2)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted at IEEE QCE 2026 Workshop: Distributed Quantum Computing Systems and Infrastructure</p></details> |
-| **[Stencil Computation at the Intersection of AI and HPC](https://arxiv.org/abs/2609.10368v1)** | 2026-09-09 |  |
-| **[CEDD-optimizer: Enabling Cost-Efficient Dataset Distillation on Geographically Distributed Edge Systems](https://arxiv.org/abs/2609.10151v1)** | 2026-09-09 |  |
-| **[Introvert Clustering for Distributed Graph Algorithms](https://arxiv.org/abs/2609.10044v1)** | 2026-09-09 |  |
-| **[Elastoformer: Enabling Dynamic Adaptivity via Elastic Model Transformation](https://arxiv.org/abs/2609.10018v1)** | 2026-09-09 | Published at SEC'25 |
-| **[Decentralized network congestion control for DAG-based distributed ledger system](https://arxiv.org/abs/2609.09961v1)** | 2026-09-09 |  |
-| **[Influence-Oriented Personalized Federated Learning](https://arxiv.org/abs/2410.03315v2)** | 2026-09-09 |  |
-| **[Forward-Free LLM Depth Pruning via Weight Redundancy](https://arxiv.org/abs/2609.09883v1)** | 2026-09-09 |  |
-| **[Personalized Execution Time Optimization for Billion-Scale Scheduled Jobs](https://arxiv.org/abs/2203.06158v3)** | 2026-09-09 | conference |
-| **[Epoch: Compiling Diffusion Blocks for Sparse MoE Serving](https://arxiv.org/abs/2609.09748v1)** | 2026-09-09 |  |
-| **[Breaking Fault Lines: Unifying TEE-Assisted BFT Consensus in Partially Trusted Worlds](https://arxiv.org/abs/2609.09742v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to EuroSys 2027</p></details> |
-| **[The Ghost in the Datacenter: Link Flapping, Topology Knowledge Failures, and the FITO Category Mistake](https://arxiv.org/abs/2603.03736v2)** | 2026-09-09 | <details><summary>v2: s...</summary><p>v2: substantial revision. Corrects an arithmetic error and a mischaracterisation of the FLP result; withdraws the claims that OAE eliminates ghosts, that a missing PIF echo identifies a failed link, and any claim to common knowledge; adds a Limitations section; re-attributes Table 1 to its industry source. No new results</p></details> |
-| **[PELM: Power Efficient On-Device LLM Inference with Speculative Decoding and Dynamic Voltage Frequency Scaling](https://arxiv.org/abs/2609.09662v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to ACM/IEEE SenSys'26</p></details> |
+| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | <details><summary>12 pa...</summary><p>12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis)</p></details> |
+| **[NFT-Based Reward Mechanisms: Sybil Farming, Vesting, and Stochastic Verification](https://arxiv.org/abs/2609.13064v1)** | 2026-09-11 |  |
+| **[Transpilation-Aware Runtime Prediction for Noisy Quantum Circuit Simulation](https://arxiv.org/abs/2609.12980v1)** | 2026-09-11 |  |
+| **[A Dynamic Vertical Scaling Strategy for Distributed Stream Processing Applications in Edge Computing](https://arxiv.org/abs/2609.12975v1)** | 2026-09-11 |  |
+| **[Dissecting GPU Utilization for LLM Inference on Nvidia Hopper](https://arxiv.org/abs/2609.12923v1)** | 2026-09-11 |  |
+| **[Input Resolution Matters: Real-Time Object Detection Latency](https://arxiv.org/abs/2609.12920v1)** | 2026-09-11 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2026 34th IEEE International Symposium on Modelling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)</p></details> |
+| **[Hidden in Rounds: Predicting the Time Cost of 802.11 Contention in Federated Learning](https://arxiv.org/abs/2609.12903v1)** | 2026-09-11 |  |
+| **[DeepStack: Facilitating Co-Design Exploration of 3D DRAM-Stacked Accelerators for Distributed LLM Inference](https://arxiv.org/abs/2604.04750v4)** | 2026-09-11 | <details><summary>MICRO...</summary><p>MICRO version with three AE badges</p></details> |
+| **[Securing People and their Machines Against Major Faults](https://arxiv.org/abs/2607.02304v2)** | 2026-09-11 |  |
+| **[4D Parallelism Unlocks Exascale Bayesian Neural Networks for High-Fidelity Atmospheric Modeling](https://arxiv.org/abs/2609.12815v1)** | 2026-09-11 |  |
+| **[Hybrid Monitoring for Early Fault Detection in Cloud-Native 5G Systems](https://arxiv.org/abs/2609.12649v1)** | 2026-09-11 |  |
+| **[Machine-Checked Dual-Write Recovery from a Commit Log](https://arxiv.org/abs/2608.00501v5)** | 2026-09-11 | <details><summary>23 pa...</summary><p>23 pages, 5 figures. Machine-checked Isabelle/HOL formal development archived at https://doi.org/10.5281/zenodo.22700396</p></details> |
+| **[A Feature-Rich Embedded NIDS with eBPF/XDP: Detector and Architecture Trade-offs](https://arxiv.org/abs/2609.12605v1)** | 2026-09-11 |  |
+| **[GreenDirector: carbon- and water-aware workload placement for sustainable computing](https://arxiv.org/abs/2609.12602v1)** | 2026-09-11 |  |
+| **[NovaFabric: Tamper-Evident, Replayable Evidence for Autonomous AI Agent Runs](https://arxiv.org/abs/2609.12582v1)** | 2026-09-11 | <details><summary>44 pa...</summary><p>44 pages, 7 figures, 8 tables, 2 listings. Preprint</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PASCAL: A Phase-Aware Shared-Cache Model for Parallel Scans](https://arxiv.org/abs/2609.10515v1)** | 2026-09-09 |  |
-| **[Avatar: Toward Autonomous End-to-End Orchestration of Scientific Workflows using LLMs](https://arxiv.org/abs/2609.10509v1)** | 2026-09-09 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 1 table</p></details> |
-| **[Towards Reproducible Evaluation of Distributed Quantum Circuit Partitioning Algorithms](https://arxiv.org/abs/2608.27099v2)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted at IEEE QCE 2026 Workshop: Distributed Quantum Computing Systems and Infrastructure</p></details> |
-| **[Stencil Computation at the Intersection of AI and HPC](https://arxiv.org/abs/2609.10368v1)** | 2026-09-09 |  |
-| **[CEDD-optimizer: Enabling Cost-Efficient Dataset Distillation on Geographically Distributed Edge Systems](https://arxiv.org/abs/2609.10151v1)** | 2026-09-09 |  |
-| **[Introvert Clustering for Distributed Graph Algorithms](https://arxiv.org/abs/2609.10044v1)** | 2026-09-09 |  |
-| **[Elastoformer: Enabling Dynamic Adaptivity via Elastic Model Transformation](https://arxiv.org/abs/2609.10018v1)** | 2026-09-09 | Published at SEC'25 |
-| **[Decentralized network congestion control for DAG-based distributed ledger system](https://arxiv.org/abs/2609.09961v1)** | 2026-09-09 |  |
-| **[Influence-Oriented Personalized Federated Learning](https://arxiv.org/abs/2410.03315v2)** | 2026-09-09 |  |
-| **[Forward-Free LLM Depth Pruning via Weight Redundancy](https://arxiv.org/abs/2609.09883v1)** | 2026-09-09 |  |
-| **[Personalized Execution Time Optimization for Billion-Scale Scheduled Jobs](https://arxiv.org/abs/2203.06158v3)** | 2026-09-09 | conference |
-| **[Epoch: Compiling Diffusion Blocks for Sparse MoE Serving](https://arxiv.org/abs/2609.09748v1)** | 2026-09-09 |  |
-| **[Breaking Fault Lines: Unifying TEE-Assisted BFT Consensus in Partially Trusted Worlds](https://arxiv.org/abs/2609.09742v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to EuroSys 2027</p></details> |
-| **[The Ghost in the Datacenter: Link Flapping, Topology Knowledge Failures, and the FITO Category Mistake](https://arxiv.org/abs/2603.03736v2)** | 2026-09-09 | <details><summary>v2: s...</summary><p>v2: substantial revision. Corrects an arithmetic error and a mischaracterisation of the FLP result; withdraws the claims that OAE eliminates ghosts, that a missing PIF echo identifies a failed link, and any claim to common knowledge; adds a Limitations section; re-attributes Table 1 to its industry source. No new results</p></details> |
-| **[PELM: Power Efficient On-Device LLM Inference with Speculative Decoding and Dynamic Voltage Frequency Scaling](https://arxiv.org/abs/2609.09662v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to ACM/IEEE SenSys'26</p></details> |
+| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | <details><summary>12 pa...</summary><p>12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis)</p></details> |
+| **[NFT-Based Reward Mechanisms: Sybil Farming, Vesting, and Stochastic Verification](https://arxiv.org/abs/2609.13064v1)** | 2026-09-11 |  |
+| **[Transpilation-Aware Runtime Prediction for Noisy Quantum Circuit Simulation](https://arxiv.org/abs/2609.12980v1)** | 2026-09-11 |  |
+| **[SeqMoE: Toward Full-Load Performance via Predictive and Graph-Compatible MoE Offloading](https://arxiv.org/abs/2609.12978v1)** | 2026-09-11 |  |
+| **[A Dynamic Vertical Scaling Strategy for Distributed Stream Processing Applications in Edge Computing](https://arxiv.org/abs/2609.12975v1)** | 2026-09-11 |  |
+| **[Dissecting GPU Utilization for LLM Inference on Nvidia Hopper](https://arxiv.org/abs/2609.12923v1)** | 2026-09-11 |  |
+| **[Input Resolution Matters: Real-Time Object Detection Latency](https://arxiv.org/abs/2609.12920v1)** | 2026-09-11 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2026 34th IEEE International Symposium on Modelling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)</p></details> |
+| **[Hidden in Rounds: Predicting the Time Cost of 802.11 Contention in Federated Learning](https://arxiv.org/abs/2609.12903v1)** | 2026-09-11 |  |
+| **[DeepStack: Facilitating Co-Design Exploration of 3D DRAM-Stacked Accelerators for Distributed LLM Inference](https://arxiv.org/abs/2604.04750v4)** | 2026-09-11 | <details><summary>MICRO...</summary><p>MICRO version with three AE badges</p></details> |
+| **[Securing People and their Machines Against Major Faults](https://arxiv.org/abs/2607.02304v2)** | 2026-09-11 |  |
+| **[4D Parallelism Unlocks Exascale Bayesian Neural Networks for High-Fidelity Atmospheric Modeling](https://arxiv.org/abs/2609.12815v1)** | 2026-09-11 |  |
+| **[Hybrid Monitoring for Early Fault Detection in Cloud-Native 5G Systems](https://arxiv.org/abs/2609.12649v1)** | 2026-09-11 |  |
+| **[Machine-Checked Dual-Write Recovery from a Commit Log](https://arxiv.org/abs/2608.00501v5)** | 2026-09-11 | <details><summary>23 pa...</summary><p>23 pages, 5 figures. Machine-checked Isabelle/HOL formal development archived at https://doi.org/10.5281/zenodo.22700396</p></details> |
+| **[A Feature-Rich Embedded NIDS with eBPF/XDP: Detector and Architecture Trade-offs](https://arxiv.org/abs/2609.12605v1)** | 2026-09-11 |  |
+| **[GreenDirector: carbon- and water-aware workload placement for sustainable computing](https://arxiv.org/abs/2609.12602v1)** | 2026-09-11 |  |
 
