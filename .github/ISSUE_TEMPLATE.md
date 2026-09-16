@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2026
+title: Latest 15 Papers - September 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cnuas: A Software-Defined AI/HPC Rack-scale Emulation Platform and Hyperscale Data Center Facility Twin](https://arxiv.org/abs/2609.15889v1)** | 2026-09-14 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 4 tables</p></details> |
-| **[Accelerating Transfer-Learning-Based Autotuning with Predictive LLVM IR Performance Ranking](https://arxiv.org/abs/2609.15807v1)** | 2026-09-14 |  |
-| **[Multi-paradigm Logic Programming in the ${\cal E}$rgoAI System](https://arxiv.org/abs/2603.29819v2)** | 2026-09-14 | <details><summary>43 pa...</summary><p>43 pages, 9 figures. Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[Scalability and Performance Evaluation of Federated Learning Frameworks: A Comparative Analysis](https://arxiv.org/abs/2609.15681v1)** | 2026-09-14 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, 3 tables, published in International Journal of Machine Learning and Cybernetics, this version is largely before peer review revisions</p></details> |
-| **[CIDERS: Cloud-Edge LLM Collaborative Learning via Accelerating Personalized Bilevel Optimization](https://arxiv.org/abs/2609.15664v1)** | 2026-09-14 |  |
-| **[Generalized DBLog: A Verified Contract for Interleaving Copied Rows with a Change Log](https://arxiv.org/abs/2609.08160v2)** | 2026-09-14 | <details><summary>38 pa...</summary><p>38 pages, 6 figures. Formal verification artifacts: https://doi.org/10.5281/zenodo.22643866</p></details> |
-| **[DeepSeek-V4-Flash on AMD gfx90a: Correctness Recovery and Inference Performance Engineering](https://arxiv.org/abs/2609.15627v1)** | 2026-09-14 |  |
-| **[Opportunistic ZGC: Leveraging Idle Cores for More Effective Concurrent Garbage Collection](https://arxiv.org/abs/2609.15558v1)** | 2026-09-14 |  |
-| **[X-Stage: Modeling Post-Issue Backpressure in GPU Communication--Computation Fusion](https://arxiv.org/abs/2607.23264v2)** | 2026-09-14 |  |
-| **[Turkish MMLU Pro: Traceable Option Augmentation and Its Validity Limits in Turkish Multiple-Choice Evaluation](https://arxiv.org/abs/2609.15467v1)** | 2026-09-14 | <details><summary>Prepr...</summary><p>Preprint of a manuscript submitted to Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[A Probabilistic Choreography Language for PRISM](https://arxiv.org/abs/2503.08530v3)** | 2026-09-14 |  |
-| **[When Tool Calls Succeed but Workflows Fail: Anomalies at the Agent-Tool Boundary](https://arxiv.org/abs/2609.15397v1)** | 2026-09-14 | <details><summary>11 pa...</summary><p>11 pages, 4 tables. Artifact: https://github.com/flame-stream/mcp-annotation-census</p></details> |
-| **[Near-Optimal Distributed 2-Ruling Sets on Graphs with Low Arboricity](https://arxiv.org/abs/2606.11974v3)** | 2026-09-14 |  |
-| **[FlashGPU-sim: Enabling GPU Modeling for Modern Architectures and AI Workloads](https://arxiv.org/abs/2609.15311v1)** | 2026-09-14 | <details><summary>To ap...</summary><p>To appear in MICRO 2026</p></details> |
-| **[When is LLM-Based Program Reasoning Correct? A Completion Semantics for LLM-Based Code Inference](https://arxiv.org/abs/2607.12490v2)** | 2026-09-14 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, 3 tables</p></details> |
+| **[JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management](https://arxiv.org/abs/2609.17475v1)** | 2026-09-15 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 9 tables</p></details> |
+| **[Decomposition Buys Integrity, Not Yield](https://arxiv.org/abs/2609.17464v1)** | 2026-09-15 |  |
+| **[FlashVector: Agent for Hierarchical Model Serving Stack Optimization](https://arxiv.org/abs/2609.17391v1)** | 2026-09-15 |  |
+| **[Spatio-Temporal Shifting to Reduce Carbon, Water, and Land-Use Footprints of Cloud Workloads](https://arxiv.org/abs/2512.08725v3)** | 2026-09-15 | <details><summary>This ...</summary><p>This is a pre-print of our paper currently under review</p></details> |
+| **[Aneto: Predicting System Performance by Exploiting Cross-Workload Regularity](https://arxiv.org/abs/2608.07179v2)** | 2026-09-15 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 8 tables, accepted to MICRO 2026</p></details> |
+| **[DS2-Based Cross-Data-Space Interoperability for Precision Agriculture](https://arxiv.org/abs/2609.17185v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted at the 9th Conference on Cloud and Internet of Things (CIoT 2026)</p></details> |
+| **[Discovering Performance Archetypes: Critical-Path-Aware Pattern Analysis and Regression Detection](https://arxiv.org/abs/2609.17179v1)** | 2026-09-15 |  |
+| **[Byzantine Reliable Broadcast with Causal Ordering](https://arxiv.org/abs/2609.17074v1)** | 2026-09-15 | 23 pages, 2 figures |
+| **[Evaluating OpenMP Offloading for Intra-node Multi-GPU Programming across NVIDIA, AMD, and Intel Architectures: A 3D Heat Transfer Case Study](https://arxiv.org/abs/2608.11882v2)** | 2026-09-15 |  |
+| **[AInfer-PD: Communication-Safe In-Place Prefill-Decode Multiplexing for Distributed MoE Rollouts](https://arxiv.org/abs/2609.00993v2)** | 2026-09-15 | 12 pages, 9 figures |
+| **[Structural Negative Transfer in Federated Graph Neural Networks: Diagnosis, Causal Investigation, and the Limits of Divergence-Aware Mitigation](https://arxiv.org/abs/2609.16977v1)** | 2026-09-15 | Working Paper Draft |
+| **[Beyond Token-Local Imitation: Reward-Compatible Temporal Credit Assignment for On-Policy Distillation](https://arxiv.org/abs/2609.16937v1)** | 2026-09-15 |  |
+| **[Sockeye: Bug-finding and proofs for platform configurations and hardware based on reference manuals](https://arxiv.org/abs/2510.27485v3)** | 2026-09-15 | <details><summary>To be...</summary><p>To be published in proceedings of SOSP'26</p></details> |
+| **[Real-World Deployment and Performance Characterisation of Fog-Based Deep Learning for Cold-Chain Temperature Prediction over LoRaWAN](https://arxiv.org/abs/2609.14036v2)** | 2026-09-15 | 7 pages, 4 figures |
+| **[Strong aggregation of the Markov chains associated with matching models based on the automorphism group of their compatibility graphs](https://arxiv.org/abs/2609.16861v1)** | 2026-09-15 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cnuas: A Software-Defined AI/HPC Rack-scale Emulation Platform and Hyperscale Data Center Facility Twin](https://arxiv.org/abs/2609.15889v1)** | 2026-09-14 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 4 tables</p></details> |
-| **[Accelerating Transfer-Learning-Based Autotuning with Predictive LLVM IR Performance Ranking](https://arxiv.org/abs/2609.15807v1)** | 2026-09-14 |  |
-| **[Multi-paradigm Logic Programming in the ${\cal E}$rgoAI System](https://arxiv.org/abs/2603.29819v2)** | 2026-09-14 | <details><summary>43 pa...</summary><p>43 pages, 9 figures. Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[Scalability and Performance Evaluation of Federated Learning Frameworks: A Comparative Analysis](https://arxiv.org/abs/2609.15681v1)** | 2026-09-14 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, 3 tables, published in International Journal of Machine Learning and Cybernetics, this version is largely before peer review revisions</p></details> |
-| **[CIDERS: Cloud-Edge LLM Collaborative Learning via Accelerating Personalized Bilevel Optimization](https://arxiv.org/abs/2609.15664v1)** | 2026-09-14 |  |
-| **[Generalized DBLog: A Verified Contract for Interleaving Copied Rows with a Change Log](https://arxiv.org/abs/2609.08160v2)** | 2026-09-14 | <details><summary>38 pa...</summary><p>38 pages, 6 figures. Formal verification artifacts: https://doi.org/10.5281/zenodo.22643866</p></details> |
-| **[DeepSeek-V4-Flash on AMD gfx90a: Correctness Recovery and Inference Performance Engineering](https://arxiv.org/abs/2609.15627v1)** | 2026-09-14 |  |
-| **[Opportunistic ZGC: Leveraging Idle Cores for More Effective Concurrent Garbage Collection](https://arxiv.org/abs/2609.15558v1)** | 2026-09-14 |  |
-| **[X-Stage: Modeling Post-Issue Backpressure in GPU Communication--Computation Fusion](https://arxiv.org/abs/2607.23264v2)** | 2026-09-14 |  |
-| **[Turkish MMLU Pro: Traceable Option Augmentation and Its Validity Limits in Turkish Multiple-Choice Evaluation](https://arxiv.org/abs/2609.15467v1)** | 2026-09-14 | <details><summary>Prepr...</summary><p>Preprint of a manuscript submitted to Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[A Probabilistic Choreography Language for PRISM](https://arxiv.org/abs/2503.08530v3)** | 2026-09-14 |  |
-| **[When Tool Calls Succeed but Workflows Fail: Anomalies at the Agent-Tool Boundary](https://arxiv.org/abs/2609.15397v1)** | 2026-09-14 | <details><summary>11 pa...</summary><p>11 pages, 4 tables. Artifact: https://github.com/flame-stream/mcp-annotation-census</p></details> |
-| **[Near-Optimal Distributed 2-Ruling Sets on Graphs with Low Arboricity](https://arxiv.org/abs/2606.11974v3)** | 2026-09-14 |  |
-| **[FlashGPU-sim: Enabling GPU Modeling for Modern Architectures and AI Workloads](https://arxiv.org/abs/2609.15311v1)** | 2026-09-14 | <details><summary>To ap...</summary><p>To appear in MICRO 2026</p></details> |
-| **[When is LLM-Based Program Reasoning Correct? A Completion Semantics for LLM-Based Code Inference](https://arxiv.org/abs/2607.12490v2)** | 2026-09-14 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, 3 tables</p></details> |
+| **[JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management](https://arxiv.org/abs/2609.17475v1)** | 2026-09-15 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 9 tables</p></details> |
+| **[Decomposition Buys Integrity, Not Yield](https://arxiv.org/abs/2609.17464v1)** | 2026-09-15 |  |
+| **[FlashVector: Agent for Hierarchical Model Serving Stack Optimization](https://arxiv.org/abs/2609.17391v1)** | 2026-09-15 |  |
+| **[Spatio-Temporal Shifting to Reduce Carbon, Water, and Land-Use Footprints of Cloud Workloads](https://arxiv.org/abs/2512.08725v3)** | 2026-09-15 | <details><summary>This ...</summary><p>This is a pre-print of our paper currently under review</p></details> |
+| **[Aneto: Predicting System Performance by Exploiting Cross-Workload Regularity](https://arxiv.org/abs/2608.07179v2)** | 2026-09-15 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 8 tables, accepted to MICRO 2026</p></details> |
+| **[DS2-Based Cross-Data-Space Interoperability for Precision Agriculture](https://arxiv.org/abs/2609.17185v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted at the 9th Conference on Cloud and Internet of Things (CIoT 2026)</p></details> |
+| **[Discovering Performance Archetypes: Critical-Path-Aware Pattern Analysis and Regression Detection](https://arxiv.org/abs/2609.17179v1)** | 2026-09-15 |  |
+| **[Byzantine Reliable Broadcast with Causal Ordering](https://arxiv.org/abs/2609.17074v1)** | 2026-09-15 | 23 pages, 2 figures |
+| **[Evaluating OpenMP Offloading for Intra-node Multi-GPU Programming across NVIDIA, AMD, and Intel Architectures: A 3D Heat Transfer Case Study](https://arxiv.org/abs/2608.11882v2)** | 2026-09-15 |  |
+| **[AInfer-PD: Communication-Safe In-Place Prefill-Decode Multiplexing for Distributed MoE Rollouts](https://arxiv.org/abs/2609.00993v2)** | 2026-09-15 | 12 pages, 9 figures |
+| **[Structural Negative Transfer in Federated Graph Neural Networks: Diagnosis, Causal Investigation, and the Limits of Divergence-Aware Mitigation](https://arxiv.org/abs/2609.16977v1)** | 2026-09-15 | Working Paper Draft |
+| **[Beyond Token-Local Imitation: Reward-Compatible Temporal Credit Assignment for On-Policy Distillation](https://arxiv.org/abs/2609.16937v1)** | 2026-09-15 |  |
+| **[Sockeye: Bug-finding and proofs for platform configurations and hardware based on reference manuals](https://arxiv.org/abs/2510.27485v3)** | 2026-09-15 | <details><summary>To be...</summary><p>To be published in proceedings of SOSP'26</p></details> |
+| **[Real-World Deployment and Performance Characterisation of Fog-Based Deep Learning for Cold-Chain Temperature Prediction over LoRaWAN](https://arxiv.org/abs/2609.14036v2)** | 2026-09-15 | 7 pages, 4 figures |
+| **[Strong aggregation of the Markov chains associated with matching models based on the automorphism group of their compatibility graphs](https://arxiv.org/abs/2609.16861v1)** | 2026-09-15 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cnuas: A Software-Defined AI/HPC Rack-scale Emulation Platform and Hyperscale Data Center Facility Twin](https://arxiv.org/abs/2609.15889v1)** | 2026-09-14 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 4 tables</p></details> |
-| **[Accelerating Transfer-Learning-Based Autotuning with Predictive LLVM IR Performance Ranking](https://arxiv.org/abs/2609.15807v1)** | 2026-09-14 |  |
-| **[Multi-paradigm Logic Programming in the ${\cal E}$rgoAI System](https://arxiv.org/abs/2603.29819v2)** | 2026-09-14 | <details><summary>43 pa...</summary><p>43 pages, 9 figures. Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[Scalability and Performance Evaluation of Federated Learning Frameworks: A Comparative Analysis](https://arxiv.org/abs/2609.15681v1)** | 2026-09-14 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, 3 tables, published in International Journal of Machine Learning and Cybernetics, this version is largely before peer review revisions</p></details> |
-| **[CIDERS: Cloud-Edge LLM Collaborative Learning via Accelerating Personalized Bilevel Optimization](https://arxiv.org/abs/2609.15664v1)** | 2026-09-14 |  |
-| **[Generalized DBLog: A Verified Contract for Interleaving Copied Rows with a Change Log](https://arxiv.org/abs/2609.08160v2)** | 2026-09-14 | <details><summary>38 pa...</summary><p>38 pages, 6 figures. Formal verification artifacts: https://doi.org/10.5281/zenodo.22643866</p></details> |
-| **[DeepSeek-V4-Flash on AMD gfx90a: Correctness Recovery and Inference Performance Engineering](https://arxiv.org/abs/2609.15627v1)** | 2026-09-14 |  |
-| **[Opportunistic ZGC: Leveraging Idle Cores for More Effective Concurrent Garbage Collection](https://arxiv.org/abs/2609.15558v1)** | 2026-09-14 |  |
-| **[X-Stage: Modeling Post-Issue Backpressure in GPU Communication--Computation Fusion](https://arxiv.org/abs/2607.23264v2)** | 2026-09-14 |  |
-| **[Turkish MMLU Pro: Traceable Option Augmentation and Its Validity Limits in Turkish Multiple-Choice Evaluation](https://arxiv.org/abs/2609.15467v1)** | 2026-09-14 | <details><summary>Prepr...</summary><p>Preprint of a manuscript submitted to Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[A Probabilistic Choreography Language for PRISM](https://arxiv.org/abs/2503.08530v3)** | 2026-09-14 |  |
-| **[When Tool Calls Succeed but Workflows Fail: Anomalies at the Agent-Tool Boundary](https://arxiv.org/abs/2609.15397v1)** | 2026-09-14 | <details><summary>11 pa...</summary><p>11 pages, 4 tables. Artifact: https://github.com/flame-stream/mcp-annotation-census</p></details> |
-| **[Near-Optimal Distributed 2-Ruling Sets on Graphs with Low Arboricity](https://arxiv.org/abs/2606.11974v3)** | 2026-09-14 |  |
-| **[FlashGPU-sim: Enabling GPU Modeling for Modern Architectures and AI Workloads](https://arxiv.org/abs/2609.15311v1)** | 2026-09-14 | <details><summary>To ap...</summary><p>To appear in MICRO 2026</p></details> |
-| **[When is LLM-Based Program Reasoning Correct? A Completion Semantics for LLM-Based Code Inference](https://arxiv.org/abs/2607.12490v2)** | 2026-09-14 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, 3 tables</p></details> |
+| **[JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management](https://arxiv.org/abs/2609.17475v1)** | 2026-09-15 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 9 tables</p></details> |
+| **[Decomposition Buys Integrity, Not Yield](https://arxiv.org/abs/2609.17464v1)** | 2026-09-15 |  |
+| **[FlashVector: Agent for Hierarchical Model Serving Stack Optimization](https://arxiv.org/abs/2609.17391v1)** | 2026-09-15 |  |
+| **[Spatio-Temporal Shifting to Reduce Carbon, Water, and Land-Use Footprints of Cloud Workloads](https://arxiv.org/abs/2512.08725v3)** | 2026-09-15 | <details><summary>This ...</summary><p>This is a pre-print of our paper currently under review</p></details> |
+| **[Aneto: Predicting System Performance by Exploiting Cross-Workload Regularity](https://arxiv.org/abs/2608.07179v2)** | 2026-09-15 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 8 tables, accepted to MICRO 2026</p></details> |
+| **[DS2-Based Cross-Data-Space Interoperability for Precision Agriculture](https://arxiv.org/abs/2609.17185v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted at the 9th Conference on Cloud and Internet of Things (CIoT 2026)</p></details> |
+| **[Discovering Performance Archetypes: Critical-Path-Aware Pattern Analysis and Regression Detection](https://arxiv.org/abs/2609.17179v1)** | 2026-09-15 |  |
+| **[Byzantine Reliable Broadcast with Causal Ordering](https://arxiv.org/abs/2609.17074v1)** | 2026-09-15 | 23 pages, 2 figures |
+| **[Evaluating OpenMP Offloading for Intra-node Multi-GPU Programming across NVIDIA, AMD, and Intel Architectures: A 3D Heat Transfer Case Study](https://arxiv.org/abs/2608.11882v2)** | 2026-09-15 |  |
+| **[AInfer-PD: Communication-Safe In-Place Prefill-Decode Multiplexing for Distributed MoE Rollouts](https://arxiv.org/abs/2609.00993v2)** | 2026-09-15 | 12 pages, 9 figures |
+| **[Structural Negative Transfer in Federated Graph Neural Networks: Diagnosis, Causal Investigation, and the Limits of Divergence-Aware Mitigation](https://arxiv.org/abs/2609.16977v1)** | 2026-09-15 | Working Paper Draft |
+| **[Beyond Token-Local Imitation: Reward-Compatible Temporal Credit Assignment for On-Policy Distillation](https://arxiv.org/abs/2609.16937v1)** | 2026-09-15 |  |
+| **[Sockeye: Bug-finding and proofs for platform configurations and hardware based on reference manuals](https://arxiv.org/abs/2510.27485v3)** | 2026-09-15 | <details><summary>To be...</summary><p>To be published in proceedings of SOSP'26</p></details> |
+| **[Real-World Deployment and Performance Characterisation of Fog-Based Deep Learning for Cold-Chain Temperature Prediction over LoRaWAN](https://arxiv.org/abs/2609.14036v2)** | 2026-09-15 | 7 pages, 4 figures |
+| **[Strong aggregation of the Markov chains associated with matching models based on the automorphism group of their compatibility graphs](https://arxiv.org/abs/2609.16861v1)** | 2026-09-15 |  |
 
