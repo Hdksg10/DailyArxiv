@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 18, 2026
+title: Latest 15 Papers - September 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Certified Panic Mode: Repair-Invariant Error Recovery for Maximal-Munch Lexing](https://arxiv.org/abs/2609.10600v2)** | 2026-09-16 | <details><summary>25 pa...</summary><p>25 pages, 4 figures, 5 tables. Artifact: https://doi.org/10.5281/zenodo.22178507 . The campaign data, mutation suite, witnesses and reproduction scripts are in the artifact; every reported aggregate is regenerated from it. Companion to arXiv:2608.03473 and arXiv:2608.09761</p></details> |
-| **[Overlapping Schwarz Scheme for Linear-Quadratic Programs in Continuous Time](https://arxiv.org/abs/2510.04478v4)** | 2026-09-16 | 38 pages, 3 figures |
-| **[Certified Split Windows for Parallel Lexing: Recovering Boundaries Where No Byte Certifies](https://arxiv.org/abs/2608.09761v2)** | 2026-09-16 | <details><summary>18 pa...</summary><p>18 pages, 1 table. Artifact: https://doi.org/10.5281/zenodo.21842344 . Every empirical aggregate and table entry is printed and asserted in CI, including occurrence witnesses and false-origin controls. Companion to arXiv:2608.03473</p></details> |
-| **[Certified Split Points for Parallel Lexing: Exact and Modulo Discarded Tokens](https://arxiv.org/abs/2608.03473v3)** | 2026-09-16 | <details><summary>34 pa...</summary><p>34 pages, 2 figures, 4 tables. v3: fifteen token sets in the study, an opening table of claims, UTF-8 as the worked instance; artifact and measurements unchanged. Artifact: https://doi.org/10.5281/zenodo.21752997 . Certificate tables, composition figures and the validation sweep are generated from the compiled automata and asserted in CI</p></details> |
-| **[Replication-Aware Placement of Functions and Data in the Edge-Cloud Continuum](https://arxiv.org/abs/2609.18932v1)** | 2026-09-16 | <details><summary>Prese...</summary><p>Presented at WSCC Workshop @ Euro-Par 2026</p></details> |
-| **[Ermes: a Stateful Serverless Platform for the Edge-to-Cloud Continuum](https://arxiv.org/abs/2609.18924v1)** | 2026-09-16 | <details><summary>Under...</summary><p>Under revision at Future Generation Computer Systems (FGCS)</p></details> |
-| **[Efficient Randomized LL/SC that Preserves History Independence](https://arxiv.org/abs/2608.12946v3)** | 2026-09-16 | <details><summary>Full ...</summary><p>Full version of the paper appearing in DISC 2026</p></details> |
-| **[Fluid Notarization: Verifiable Evolution of Concurrently Edited Structured Documents](https://arxiv.org/abs/2609.18886v1)** | 2026-09-16 |  |
-| **[Ask the Tool, Don't Guess: Agent Tool Calls Hold Their Progress, and the Serving System Should Read It](https://arxiv.org/abs/2609.18849v1)** | 2026-09-16 |  |
-| **[A Distributed Computing Framework for Satellite Swarms](https://arxiv.org/abs/2609.18839v1)** | 2026-09-16 |  |
-| **[Vigil: Accountable Liveness against Selective Silence](https://arxiv.org/abs/2609.18778v1)** | 2026-09-16 | 20 pages, 8 figures |
-| **[PipeSwift: Revisiting Pipeline Parallelism for Large-Scale Completion-Oriented Agentic LLM Serving](https://arxiv.org/abs/2609.16491v2)** | 2026-09-16 |  |
-| **[RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Preparation](https://arxiv.org/abs/2609.18703v1)** | 2026-09-16 | Technical Report |
-| **[Automated Instruction Encoding Synthesis for Modern GPU ISA Compression](https://arxiv.org/abs/2609.18662v1)** | 2026-09-16 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 6 tables. Accepted at the IEEE International Conference on Computer Design (ICCD), 2026. Code: https://github.com/reoLantern/nvsass-disassembler</p></details> |
-| **[A Rig of Transformations](https://arxiv.org/abs/2608.12409v2)** | 2026-09-16 |  |
+| **[Efficient Non-Uniform Quantum Hermite Transform through Adaptive Sampling](https://arxiv.org/abs/2609.20739v1)** | 2026-09-17 | <details><summary>13 bo...</summary><p>13 body pages, 17 appendix pages</p></details> |
+| **[PixelFlow: Token-Level Workload Management for Efficient Distributed DiT Serving](https://arxiv.org/abs/2609.20723v1)** | 2026-09-17 |  |
+| **[Towards Training Private LLMs: Exploring Fine-Tuning Language Models on Apple Silicon with RDMA over Thunderbolt](https://arxiv.org/abs/2609.18066v2)** | 2026-09-17 | <details><summary>8 pag...</summary><p>8 pages, 13 figures, accepted by ACM RACS'26</p></details> |
+| **[Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning](https://arxiv.org/abs/2609.20650v1)** | 2026-09-17 | <details><summary>69 pa...</summary><p>69 pages, 8 figures, includes supplementary material</p></details> |
+| **[A Kubernetes-Native Request Router for Quality-Aware Inference Serving in the Computing Continuum](https://arxiv.org/abs/2609.20497v1)** | 2026-09-17 |  |
+| **[Scaling Fourier-Based Sparse Matrix Analysis on GPUs](https://arxiv.org/abs/2609.20483v1)** | 2026-09-17 | 13 pages, 7 figures |
+| **[Views: A Hardware-Aware Recursively Labeled Graph Database Model for Knowledge Representation and Reasoning](https://arxiv.org/abs/2508.18123v3)** | 2026-09-17 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 8 tables. Accepted by Frontiers in Artificial Intelligence</p></details> |
+| **[Accelerating Sharded Data Parallelism at Scale with Federated Learning](https://arxiv.org/abs/2609.20359v1)** | 2026-09-17 |  |
+| **[Fathom: Per-Query Read Depth for Sparse Decoding over Offloaded KV Caches](https://arxiv.org/abs/2609.17652v2)** | 2026-09-17 | <details><summary>19 pa...</summary><p>19 pages, 11 figures, 21 tables. Code and results: https://github.com/vivekkalyanarangan30/fathom</p></details> |
+| **[Competition, Collusion, and Corruption: The Spectrum of MEV Attacks on DAG-Based BFT Consensus Protocols](https://arxiv.org/abs/2609.20069v1)** | 2026-09-17 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, 4 tables</p></details> |
+| **[How Often Does Your Program Fail?](https://arxiv.org/abs/2609.20037v1)** | 2026-09-17 |  |
+| **[FedeRICo: Federated Region-Influenced Coupling for Traffic Flow Prediction](https://arxiv.org/abs/2609.20026v1)** | 2026-09-17 |  |
+| **[XIR: A Framework for Interoperability across Cross-Chain Protocols Based on a Verifiable Intermediate Representation](https://arxiv.org/abs/2609.20010v1)** | 2026-09-17 | <details><summary>Submi...</summary><p>Submitted to Blockchain: Research and Applications</p></details> |
+| **[Distributed Edge Inference: an Experimental Study on Multiview Detection](https://arxiv.org/abs/2609.20009v1)** | 2026-09-17 |  |
+| **[P-GADMM: Parallel Group-Based ADMM for Asynchronous Optimization in Heterogeneous Edge Networks](https://arxiv.org/abs/2609.20006v1)** | 2026-09-17 | <details><summary>13 pa...</summary><p>13 pages, 12 figures. Submitted to IEEE Transactions on Mobile Computing (TMC)</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Certified Panic Mode: Repair-Invariant Error Recovery for Maximal-Munch Lexing](https://arxiv.org/abs/2609.10600v2)** | 2026-09-16 | <details><summary>25 pa...</summary><p>25 pages, 4 figures, 5 tables. Artifact: https://doi.org/10.5281/zenodo.22178507 . The campaign data, mutation suite, witnesses and reproduction scripts are in the artifact; every reported aggregate is regenerated from it. Companion to arXiv:2608.03473 and arXiv:2608.09761</p></details> |
-| **[Overlapping Schwarz Scheme for Linear-Quadratic Programs in Continuous Time](https://arxiv.org/abs/2510.04478v4)** | 2026-09-16 | 38 pages, 3 figures |
-| **[Certified Split Windows for Parallel Lexing: Recovering Boundaries Where No Byte Certifies](https://arxiv.org/abs/2608.09761v2)** | 2026-09-16 | <details><summary>18 pa...</summary><p>18 pages, 1 table. Artifact: https://doi.org/10.5281/zenodo.21842344 . Every empirical aggregate and table entry is printed and asserted in CI, including occurrence witnesses and false-origin controls. Companion to arXiv:2608.03473</p></details> |
-| **[Certified Split Points for Parallel Lexing: Exact and Modulo Discarded Tokens](https://arxiv.org/abs/2608.03473v3)** | 2026-09-16 | <details><summary>34 pa...</summary><p>34 pages, 2 figures, 4 tables. v3: fifteen token sets in the study, an opening table of claims, UTF-8 as the worked instance; artifact and measurements unchanged. Artifact: https://doi.org/10.5281/zenodo.21752997 . Certificate tables, composition figures and the validation sweep are generated from the compiled automata and asserted in CI</p></details> |
-| **[Replication-Aware Placement of Functions and Data in the Edge-Cloud Continuum](https://arxiv.org/abs/2609.18932v1)** | 2026-09-16 | <details><summary>Prese...</summary><p>Presented at WSCC Workshop @ Euro-Par 2026</p></details> |
-| **[Ermes: a Stateful Serverless Platform for the Edge-to-Cloud Continuum](https://arxiv.org/abs/2609.18924v1)** | 2026-09-16 | <details><summary>Under...</summary><p>Under revision at Future Generation Computer Systems (FGCS)</p></details> |
-| **[Efficient Randomized LL/SC that Preserves History Independence](https://arxiv.org/abs/2608.12946v3)** | 2026-09-16 | <details><summary>Full ...</summary><p>Full version of the paper appearing in DISC 2026</p></details> |
-| **[Fluid Notarization: Verifiable Evolution of Concurrently Edited Structured Documents](https://arxiv.org/abs/2609.18886v1)** | 2026-09-16 |  |
-| **[Ask the Tool, Don't Guess: Agent Tool Calls Hold Their Progress, and the Serving System Should Read It](https://arxiv.org/abs/2609.18849v1)** | 2026-09-16 |  |
-| **[A Distributed Computing Framework for Satellite Swarms](https://arxiv.org/abs/2609.18839v1)** | 2026-09-16 |  |
-| **[Vigil: Accountable Liveness against Selective Silence](https://arxiv.org/abs/2609.18778v1)** | 2026-09-16 | 20 pages, 8 figures |
-| **[PipeSwift: Revisiting Pipeline Parallelism for Large-Scale Completion-Oriented Agentic LLM Serving](https://arxiv.org/abs/2609.16491v2)** | 2026-09-16 |  |
-| **[RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Preparation](https://arxiv.org/abs/2609.18703v1)** | 2026-09-16 | Technical Report |
-| **[Automated Instruction Encoding Synthesis for Modern GPU ISA Compression](https://arxiv.org/abs/2609.18662v1)** | 2026-09-16 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 6 tables. Accepted at the IEEE International Conference on Computer Design (ICCD), 2026. Code: https://github.com/reoLantern/nvsass-disassembler</p></details> |
-| **[A Rig of Transformations](https://arxiv.org/abs/2608.12409v2)** | 2026-09-16 |  |
+| **[Efficient Non-Uniform Quantum Hermite Transform through Adaptive Sampling](https://arxiv.org/abs/2609.20739v1)** | 2026-09-17 | <details><summary>13 bo...</summary><p>13 body pages, 17 appendix pages</p></details> |
+| **[PixelFlow: Token-Level Workload Management for Efficient Distributed DiT Serving](https://arxiv.org/abs/2609.20723v1)** | 2026-09-17 |  |
+| **[Towards Training Private LLMs: Exploring Fine-Tuning Language Models on Apple Silicon with RDMA over Thunderbolt](https://arxiv.org/abs/2609.18066v2)** | 2026-09-17 | <details><summary>8 pag...</summary><p>8 pages, 13 figures, accepted by ACM RACS'26</p></details> |
+| **[Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning](https://arxiv.org/abs/2609.20650v1)** | 2026-09-17 | <details><summary>69 pa...</summary><p>69 pages, 8 figures, includes supplementary material</p></details> |
+| **[A Kubernetes-Native Request Router for Quality-Aware Inference Serving in the Computing Continuum](https://arxiv.org/abs/2609.20497v1)** | 2026-09-17 |  |
+| **[Scaling Fourier-Based Sparse Matrix Analysis on GPUs](https://arxiv.org/abs/2609.20483v1)** | 2026-09-17 | 13 pages, 7 figures |
+| **[Views: A Hardware-Aware Recursively Labeled Graph Database Model for Knowledge Representation and Reasoning](https://arxiv.org/abs/2508.18123v3)** | 2026-09-17 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 8 tables. Accepted by Frontiers in Artificial Intelligence</p></details> |
+| **[Accelerating Sharded Data Parallelism at Scale with Federated Learning](https://arxiv.org/abs/2609.20359v1)** | 2026-09-17 |  |
+| **[Fathom: Per-Query Read Depth for Sparse Decoding over Offloaded KV Caches](https://arxiv.org/abs/2609.17652v2)** | 2026-09-17 | <details><summary>19 pa...</summary><p>19 pages, 11 figures, 21 tables. Code and results: https://github.com/vivekkalyanarangan30/fathom</p></details> |
+| **[Competition, Collusion, and Corruption: The Spectrum of MEV Attacks on DAG-Based BFT Consensus Protocols](https://arxiv.org/abs/2609.20069v1)** | 2026-09-17 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, 4 tables</p></details> |
+| **[How Often Does Your Program Fail?](https://arxiv.org/abs/2609.20037v1)** | 2026-09-17 |  |
+| **[FedeRICo: Federated Region-Influenced Coupling for Traffic Flow Prediction](https://arxiv.org/abs/2609.20026v1)** | 2026-09-17 |  |
+| **[XIR: A Framework for Interoperability across Cross-Chain Protocols Based on a Verifiable Intermediate Representation](https://arxiv.org/abs/2609.20010v1)** | 2026-09-17 | <details><summary>Submi...</summary><p>Submitted to Blockchain: Research and Applications</p></details> |
+| **[Distributed Edge Inference: an Experimental Study on Multiview Detection](https://arxiv.org/abs/2609.20009v1)** | 2026-09-17 |  |
+| **[P-GADMM: Parallel Group-Based ADMM for Asynchronous Optimization in Heterogeneous Edge Networks](https://arxiv.org/abs/2609.20006v1)** | 2026-09-17 | <details><summary>13 pa...</summary><p>13 pages, 12 figures. Submitted to IEEE Transactions on Mobile Computing (TMC)</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Certified Panic Mode: Repair-Invariant Error Recovery for Maximal-Munch Lexing](https://arxiv.org/abs/2609.10600v2)** | 2026-09-16 | <details><summary>25 pa...</summary><p>25 pages, 4 figures, 5 tables. Artifact: https://doi.org/10.5281/zenodo.22178507 . The campaign data, mutation suite, witnesses and reproduction scripts are in the artifact; every reported aggregate is regenerated from it. Companion to arXiv:2608.03473 and arXiv:2608.09761</p></details> |
-| **[Overlapping Schwarz Scheme for Linear-Quadratic Programs in Continuous Time](https://arxiv.org/abs/2510.04478v4)** | 2026-09-16 | 38 pages, 3 figures |
-| **[Certified Split Windows for Parallel Lexing: Recovering Boundaries Where No Byte Certifies](https://arxiv.org/abs/2608.09761v2)** | 2026-09-16 | <details><summary>18 pa...</summary><p>18 pages, 1 table. Artifact: https://doi.org/10.5281/zenodo.21842344 . Every empirical aggregate and table entry is printed and asserted in CI, including occurrence witnesses and false-origin controls. Companion to arXiv:2608.03473</p></details> |
-| **[Certified Split Points for Parallel Lexing: Exact and Modulo Discarded Tokens](https://arxiv.org/abs/2608.03473v3)** | 2026-09-16 | <details><summary>34 pa...</summary><p>34 pages, 2 figures, 4 tables. v3: fifteen token sets in the study, an opening table of claims, UTF-8 as the worked instance; artifact and measurements unchanged. Artifact: https://doi.org/10.5281/zenodo.21752997 . Certificate tables, composition figures and the validation sweep are generated from the compiled automata and asserted in CI</p></details> |
-| **[Replication-Aware Placement of Functions and Data in the Edge-Cloud Continuum](https://arxiv.org/abs/2609.18932v1)** | 2026-09-16 | <details><summary>Prese...</summary><p>Presented at WSCC Workshop @ Euro-Par 2026</p></details> |
-| **[Ermes: a Stateful Serverless Platform for the Edge-to-Cloud Continuum](https://arxiv.org/abs/2609.18924v1)** | 2026-09-16 | <details><summary>Under...</summary><p>Under revision at Future Generation Computer Systems (FGCS)</p></details> |
-| **[Efficient Randomized LL/SC that Preserves History Independence](https://arxiv.org/abs/2608.12946v3)** | 2026-09-16 | <details><summary>Full ...</summary><p>Full version of the paper appearing in DISC 2026</p></details> |
-| **[Fluid Notarization: Verifiable Evolution of Concurrently Edited Structured Documents](https://arxiv.org/abs/2609.18886v1)** | 2026-09-16 |  |
-| **[Ask the Tool, Don't Guess: Agent Tool Calls Hold Their Progress, and the Serving System Should Read It](https://arxiv.org/abs/2609.18849v1)** | 2026-09-16 |  |
-| **[A Distributed Computing Framework for Satellite Swarms](https://arxiv.org/abs/2609.18839v1)** | 2026-09-16 |  |
-| **[Vigil: Accountable Liveness against Selective Silence](https://arxiv.org/abs/2609.18778v1)** | 2026-09-16 | 20 pages, 8 figures |
-| **[PipeSwift: Revisiting Pipeline Parallelism for Large-Scale Completion-Oriented Agentic LLM Serving](https://arxiv.org/abs/2609.16491v2)** | 2026-09-16 |  |
-| **[RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Preparation](https://arxiv.org/abs/2609.18703v1)** | 2026-09-16 | Technical Report |
-| **[Automated Instruction Encoding Synthesis for Modern GPU ISA Compression](https://arxiv.org/abs/2609.18662v1)** | 2026-09-16 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 6 tables. Accepted at the IEEE International Conference on Computer Design (ICCD), 2026. Code: https://github.com/reoLantern/nvsass-disassembler</p></details> |
-| **[A Rig of Transformations](https://arxiv.org/abs/2608.12409v2)** | 2026-09-16 |  |
+| **[Efficient Non-Uniform Quantum Hermite Transform through Adaptive Sampling](https://arxiv.org/abs/2609.20739v1)** | 2026-09-17 | <details><summary>13 bo...</summary><p>13 body pages, 17 appendix pages</p></details> |
+| **[PixelFlow: Token-Level Workload Management for Efficient Distributed DiT Serving](https://arxiv.org/abs/2609.20723v1)** | 2026-09-17 |  |
+| **[Towards Training Private LLMs: Exploring Fine-Tuning Language Models on Apple Silicon with RDMA over Thunderbolt](https://arxiv.org/abs/2609.18066v2)** | 2026-09-17 | <details><summary>8 pag...</summary><p>8 pages, 13 figures, accepted by ACM RACS'26</p></details> |
+| **[Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning](https://arxiv.org/abs/2609.20650v1)** | 2026-09-17 | <details><summary>69 pa...</summary><p>69 pages, 8 figures, includes supplementary material</p></details> |
+| **[A Kubernetes-Native Request Router for Quality-Aware Inference Serving in the Computing Continuum](https://arxiv.org/abs/2609.20497v1)** | 2026-09-17 |  |
+| **[Scaling Fourier-Based Sparse Matrix Analysis on GPUs](https://arxiv.org/abs/2609.20483v1)** | 2026-09-17 | 13 pages, 7 figures |
+| **[Views: A Hardware-Aware Recursively Labeled Graph Database Model for Knowledge Representation and Reasoning](https://arxiv.org/abs/2508.18123v3)** | 2026-09-17 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 8 tables. Accepted by Frontiers in Artificial Intelligence</p></details> |
+| **[Accelerating Sharded Data Parallelism at Scale with Federated Learning](https://arxiv.org/abs/2609.20359v1)** | 2026-09-17 |  |
+| **[Fathom: Per-Query Read Depth for Sparse Decoding over Offloaded KV Caches](https://arxiv.org/abs/2609.17652v2)** | 2026-09-17 | <details><summary>19 pa...</summary><p>19 pages, 11 figures, 21 tables. Code and results: https://github.com/vivekkalyanarangan30/fathom</p></details> |
+| **[Competition, Collusion, and Corruption: The Spectrum of MEV Attacks on DAG-Based BFT Consensus Protocols](https://arxiv.org/abs/2609.20069v1)** | 2026-09-17 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, 4 tables</p></details> |
+| **[How Often Does Your Program Fail?](https://arxiv.org/abs/2609.20037v1)** | 2026-09-17 |  |
+| **[FedeRICo: Federated Region-Influenced Coupling for Traffic Flow Prediction](https://arxiv.org/abs/2609.20026v1)** | 2026-09-17 |  |
+| **[XIR: A Framework for Interoperability across Cross-Chain Protocols Based on a Verifiable Intermediate Representation](https://arxiv.org/abs/2609.20010v1)** | 2026-09-17 | <details><summary>Submi...</summary><p>Submitted to Blockchain: Research and Applications</p></details> |
+| **[Distributed Edge Inference: an Experimental Study on Multiview Detection](https://arxiv.org/abs/2609.20009v1)** | 2026-09-17 |  |
+| **[P-GADMM: Parallel Group-Based ADMM for Asynchronous Optimization in Heterogeneous Edge Networks](https://arxiv.org/abs/2609.20006v1)** | 2026-09-17 | <details><summary>13 pa...</summary><p>13 pages, 12 figures. Submitted to IEEE Transactions on Mobile Computing (TMC)</p></details> |
 
