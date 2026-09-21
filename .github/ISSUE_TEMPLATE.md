@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2026
+title: Latest 15 Papers - September 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Non-Uniform Quantum Hermite Transform through Adaptive Sampling](https://arxiv.org/abs/2609.20739v1)** | 2026-09-17 | <details><summary>13 bo...</summary><p>13 body pages, 17 appendix pages</p></details> |
-| **[PixelFlow: Token-Level Workload Management for Efficient Distributed DiT Serving](https://arxiv.org/abs/2609.20723v1)** | 2026-09-17 |  |
-| **[Towards Training Private LLMs: Exploring Fine-Tuning Language Models on Apple Silicon with RDMA over Thunderbolt](https://arxiv.org/abs/2609.18066v2)** | 2026-09-17 | <details><summary>8 pag...</summary><p>8 pages, 13 figures, accepted by ACM RACS'26</p></details> |
-| **[Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning](https://arxiv.org/abs/2609.20650v1)** | 2026-09-17 | <details><summary>69 pa...</summary><p>69 pages, 8 figures, includes supplementary material</p></details> |
-| **[A Kubernetes-Native Request Router for Quality-Aware Inference Serving in the Computing Continuum](https://arxiv.org/abs/2609.20497v1)** | 2026-09-17 |  |
-| **[Scaling Fourier-Based Sparse Matrix Analysis on GPUs](https://arxiv.org/abs/2609.20483v1)** | 2026-09-17 | 13 pages, 7 figures |
-| **[Views: A Hardware-Aware Recursively Labeled Graph Database Model for Knowledge Representation and Reasoning](https://arxiv.org/abs/2508.18123v3)** | 2026-09-17 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 8 tables. Accepted by Frontiers in Artificial Intelligence</p></details> |
-| **[Accelerating Sharded Data Parallelism at Scale with Federated Learning](https://arxiv.org/abs/2609.20359v1)** | 2026-09-17 |  |
-| **[Fathom: Per-Query Read Depth for Sparse Decoding over Offloaded KV Caches](https://arxiv.org/abs/2609.17652v2)** | 2026-09-17 | <details><summary>19 pa...</summary><p>19 pages, 11 figures, 21 tables. Code and results: https://github.com/vivekkalyanarangan30/fathom</p></details> |
-| **[Competition, Collusion, and Corruption: The Spectrum of MEV Attacks on DAG-Based BFT Consensus Protocols](https://arxiv.org/abs/2609.20069v1)** | 2026-09-17 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, 4 tables</p></details> |
-| **[How Often Does Your Program Fail?](https://arxiv.org/abs/2609.20037v1)** | 2026-09-17 |  |
-| **[FedeRICo: Federated Region-Influenced Coupling for Traffic Flow Prediction](https://arxiv.org/abs/2609.20026v1)** | 2026-09-17 |  |
-| **[XIR: A Framework for Interoperability across Cross-Chain Protocols Based on a Verifiable Intermediate Representation](https://arxiv.org/abs/2609.20010v1)** | 2026-09-17 | <details><summary>Submi...</summary><p>Submitted to Blockchain: Research and Applications</p></details> |
-| **[Distributed Edge Inference: an Experimental Study on Multiview Detection](https://arxiv.org/abs/2609.20009v1)** | 2026-09-17 |  |
-| **[P-GADMM: Parallel Group-Based ADMM for Asynchronous Optimization in Heterogeneous Edge Networks](https://arxiv.org/abs/2609.20006v1)** | 2026-09-17 | <details><summary>13 pa...</summary><p>13 pages, 12 figures. Submitted to IEEE Transactions on Mobile Computing (TMC)</p></details> |
+| **[A Taxonomy of Distance Metrics for Time-Sensitive Importance Splitting: Timer Bounds, Resampling, and the Global Age](https://arxiv.org/abs/2607.17939v2)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at ICTAC 2026 (23rd International Colloquium on Theoretical Aspects of Computing)</p></details> |
+| **[The Weight Is Over - Interactive Diffusion on Consumer GPUs](https://arxiv.org/abs/2609.21849v1)** | 2026-09-18 |  |
+| **[Distributed Balanced Butterfly Counting in Signed Bipartite Graphs](https://arxiv.org/abs/2609.21848v1)** | 2026-09-18 |  |
+| **[Equality saturation theory exploration à la carte](https://arxiv.org/abs/2609.14527v2)** | 2026-09-18 | <details><summary>43 pa...</summary><p>43 pages, 9 figures, Extended version of the OOPSLA 2023 paper, submitted to the Journal of Functional Programming. v2: corrected the accent in the title metadata; paper unchanged</p></details> |
+| **[Verifiable Computation with Trusted Execution Environments and On-Chain Digital Rights Tokens](https://arxiv.org/abs/2609.21728v1)** | 2026-09-18 | <details><summary>15 pa...</summary><p>15 pages, 1 figure, 2 appendices</p></details> |
+| **[Programming In-Storage Computing with Located, Stateful Dataflow](https://arxiv.org/abs/2609.19206v2)** | 2026-09-18 |  |
+| **[Performance Analysis of Low-Order, GPU-accelerated Finite Element Kernels using Kokkos](https://arxiv.org/abs/2609.21681v1)** | 2026-09-18 |  |
+| **[Hopper: Bounded-Memory Collaborative Debiasing for Byzantine-Tolerant Peer Sampling](https://arxiv.org/abs/2609.19893v2)** | 2026-09-18 |  |
+| **[PoVD: Efficient Consensus Protocol based on Verifiable Delay Function](https://arxiv.org/abs/2609.21627v1)** | 2026-09-18 |  |
+| **[ForgeStencil: Automating Per-Case Stencil Specialization from Kernels to 100+ Real Applications](https://arxiv.org/abs/2609.06694v2)** | 2026-09-18 | <details><summary>17 pa...</summary><p>17 pages, 9 figures including appendices</p></details> |
+| **[HyperParallel-FSDP: Topology-Aware Fully Sharded Training with Layout-Driven Muon on Ascend SuperPods](https://arxiv.org/abs/2609.21594v1)** | 2026-09-18 |  |
+| **[GreenDirector: carbon- and water-aware workload placement for sustainable computing](https://arxiv.org/abs/2609.12602v2)** | 2026-09-18 |  |
+| **[Expressive power of one-shot control operators and coroutines](https://arxiv.org/abs/2609.06443v2)** | 2026-09-18 | <details><summary>82 pa...</summary><p>82 pages, 17 figures. Extended version of a paper presented at APLAS 2025 (LNCS 16201, pp. 88-106, https://doi.org/10.1007/978-981-95-3585-9_5, full version: arXiv:2509.11901)</p></details> |
+| **[Multimmit: Extending Blocks for Faster Finality](https://arxiv.org/abs/2607.21021v5)** | 2026-09-18 |  |
+| **[Cross-Platform vs Native Mobile Development: An Empirical Study of Software Quality Trade-offs](https://arxiv.org/abs/2609.21544v1)** | 2026-09-18 | <details><summary>19 pa...</summary><p>19 pages, 1 figure, 8 tables, 4 charts</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Non-Uniform Quantum Hermite Transform through Adaptive Sampling](https://arxiv.org/abs/2609.20739v1)** | 2026-09-17 | <details><summary>13 bo...</summary><p>13 body pages, 17 appendix pages</p></details> |
-| **[PixelFlow: Token-Level Workload Management for Efficient Distributed DiT Serving](https://arxiv.org/abs/2609.20723v1)** | 2026-09-17 |  |
-| **[Towards Training Private LLMs: Exploring Fine-Tuning Language Models on Apple Silicon with RDMA over Thunderbolt](https://arxiv.org/abs/2609.18066v2)** | 2026-09-17 | <details><summary>8 pag...</summary><p>8 pages, 13 figures, accepted by ACM RACS'26</p></details> |
-| **[Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning](https://arxiv.org/abs/2609.20650v1)** | 2026-09-17 | <details><summary>69 pa...</summary><p>69 pages, 8 figures, includes supplementary material</p></details> |
-| **[A Kubernetes-Native Request Router for Quality-Aware Inference Serving in the Computing Continuum](https://arxiv.org/abs/2609.20497v1)** | 2026-09-17 |  |
-| **[Scaling Fourier-Based Sparse Matrix Analysis on GPUs](https://arxiv.org/abs/2609.20483v1)** | 2026-09-17 | 13 pages, 7 figures |
-| **[Views: A Hardware-Aware Recursively Labeled Graph Database Model for Knowledge Representation and Reasoning](https://arxiv.org/abs/2508.18123v3)** | 2026-09-17 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 8 tables. Accepted by Frontiers in Artificial Intelligence</p></details> |
-| **[Accelerating Sharded Data Parallelism at Scale with Federated Learning](https://arxiv.org/abs/2609.20359v1)** | 2026-09-17 |  |
-| **[Fathom: Per-Query Read Depth for Sparse Decoding over Offloaded KV Caches](https://arxiv.org/abs/2609.17652v2)** | 2026-09-17 | <details><summary>19 pa...</summary><p>19 pages, 11 figures, 21 tables. Code and results: https://github.com/vivekkalyanarangan30/fathom</p></details> |
-| **[Competition, Collusion, and Corruption: The Spectrum of MEV Attacks on DAG-Based BFT Consensus Protocols](https://arxiv.org/abs/2609.20069v1)** | 2026-09-17 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, 4 tables</p></details> |
-| **[How Often Does Your Program Fail?](https://arxiv.org/abs/2609.20037v1)** | 2026-09-17 |  |
-| **[FedeRICo: Federated Region-Influenced Coupling for Traffic Flow Prediction](https://arxiv.org/abs/2609.20026v1)** | 2026-09-17 |  |
-| **[XIR: A Framework for Interoperability across Cross-Chain Protocols Based on a Verifiable Intermediate Representation](https://arxiv.org/abs/2609.20010v1)** | 2026-09-17 | <details><summary>Submi...</summary><p>Submitted to Blockchain: Research and Applications</p></details> |
-| **[Distributed Edge Inference: an Experimental Study on Multiview Detection](https://arxiv.org/abs/2609.20009v1)** | 2026-09-17 |  |
-| **[P-GADMM: Parallel Group-Based ADMM for Asynchronous Optimization in Heterogeneous Edge Networks](https://arxiv.org/abs/2609.20006v1)** | 2026-09-17 | <details><summary>13 pa...</summary><p>13 pages, 12 figures. Submitted to IEEE Transactions on Mobile Computing (TMC)</p></details> |
+| **[A Taxonomy of Distance Metrics for Time-Sensitive Importance Splitting: Timer Bounds, Resampling, and the Global Age](https://arxiv.org/abs/2607.17939v2)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at ICTAC 2026 (23rd International Colloquium on Theoretical Aspects of Computing)</p></details> |
+| **[The Weight Is Over - Interactive Diffusion on Consumer GPUs](https://arxiv.org/abs/2609.21849v1)** | 2026-09-18 |  |
+| **[Distributed Balanced Butterfly Counting in Signed Bipartite Graphs](https://arxiv.org/abs/2609.21848v1)** | 2026-09-18 |  |
+| **[Equality saturation theory exploration à la carte](https://arxiv.org/abs/2609.14527v2)** | 2026-09-18 | <details><summary>43 pa...</summary><p>43 pages, 9 figures, Extended version of the OOPSLA 2023 paper, submitted to the Journal of Functional Programming. v2: corrected the accent in the title metadata; paper unchanged</p></details> |
+| **[Verifiable Computation with Trusted Execution Environments and On-Chain Digital Rights Tokens](https://arxiv.org/abs/2609.21728v1)** | 2026-09-18 | <details><summary>15 pa...</summary><p>15 pages, 1 figure, 2 appendices</p></details> |
+| **[Programming In-Storage Computing with Located, Stateful Dataflow](https://arxiv.org/abs/2609.19206v2)** | 2026-09-18 |  |
+| **[Performance Analysis of Low-Order, GPU-accelerated Finite Element Kernels using Kokkos](https://arxiv.org/abs/2609.21681v1)** | 2026-09-18 |  |
+| **[Hopper: Bounded-Memory Collaborative Debiasing for Byzantine-Tolerant Peer Sampling](https://arxiv.org/abs/2609.19893v2)** | 2026-09-18 |  |
+| **[PoVD: Efficient Consensus Protocol based on Verifiable Delay Function](https://arxiv.org/abs/2609.21627v1)** | 2026-09-18 |  |
+| **[ForgeStencil: Automating Per-Case Stencil Specialization from Kernels to 100+ Real Applications](https://arxiv.org/abs/2609.06694v2)** | 2026-09-18 | <details><summary>17 pa...</summary><p>17 pages, 9 figures including appendices</p></details> |
+| **[HyperParallel-FSDP: Topology-Aware Fully Sharded Training with Layout-Driven Muon on Ascend SuperPods](https://arxiv.org/abs/2609.21594v1)** | 2026-09-18 |  |
+| **[GreenDirector: carbon- and water-aware workload placement for sustainable computing](https://arxiv.org/abs/2609.12602v2)** | 2026-09-18 |  |
+| **[Expressive power of one-shot control operators and coroutines](https://arxiv.org/abs/2609.06443v2)** | 2026-09-18 | <details><summary>82 pa...</summary><p>82 pages, 17 figures. Extended version of a paper presented at APLAS 2025 (LNCS 16201, pp. 88-106, https://doi.org/10.1007/978-981-95-3585-9_5, full version: arXiv:2509.11901)</p></details> |
+| **[Multimmit: Extending Blocks for Faster Finality](https://arxiv.org/abs/2607.21021v5)** | 2026-09-18 |  |
+| **[Cross-Platform vs Native Mobile Development: An Empirical Study of Software Quality Trade-offs](https://arxiv.org/abs/2609.21544v1)** | 2026-09-18 | <details><summary>19 pa...</summary><p>19 pages, 1 figure, 8 tables, 4 charts</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Non-Uniform Quantum Hermite Transform through Adaptive Sampling](https://arxiv.org/abs/2609.20739v1)** | 2026-09-17 | <details><summary>13 bo...</summary><p>13 body pages, 17 appendix pages</p></details> |
-| **[PixelFlow: Token-Level Workload Management for Efficient Distributed DiT Serving](https://arxiv.org/abs/2609.20723v1)** | 2026-09-17 |  |
-| **[Towards Training Private LLMs: Exploring Fine-Tuning Language Models on Apple Silicon with RDMA over Thunderbolt](https://arxiv.org/abs/2609.18066v2)** | 2026-09-17 | <details><summary>8 pag...</summary><p>8 pages, 13 figures, accepted by ACM RACS'26</p></details> |
-| **[Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning](https://arxiv.org/abs/2609.20650v1)** | 2026-09-17 | <details><summary>69 pa...</summary><p>69 pages, 8 figures, includes supplementary material</p></details> |
-| **[A Kubernetes-Native Request Router for Quality-Aware Inference Serving in the Computing Continuum](https://arxiv.org/abs/2609.20497v1)** | 2026-09-17 |  |
-| **[Scaling Fourier-Based Sparse Matrix Analysis on GPUs](https://arxiv.org/abs/2609.20483v1)** | 2026-09-17 | 13 pages, 7 figures |
-| **[Views: A Hardware-Aware Recursively Labeled Graph Database Model for Knowledge Representation and Reasoning](https://arxiv.org/abs/2508.18123v3)** | 2026-09-17 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 8 tables. Accepted by Frontiers in Artificial Intelligence</p></details> |
-| **[Accelerating Sharded Data Parallelism at Scale with Federated Learning](https://arxiv.org/abs/2609.20359v1)** | 2026-09-17 |  |
-| **[Fathom: Per-Query Read Depth for Sparse Decoding over Offloaded KV Caches](https://arxiv.org/abs/2609.17652v2)** | 2026-09-17 | <details><summary>19 pa...</summary><p>19 pages, 11 figures, 21 tables. Code and results: https://github.com/vivekkalyanarangan30/fathom</p></details> |
-| **[Competition, Collusion, and Corruption: The Spectrum of MEV Attacks on DAG-Based BFT Consensus Protocols](https://arxiv.org/abs/2609.20069v1)** | 2026-09-17 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, 4 tables</p></details> |
-| **[How Often Does Your Program Fail?](https://arxiv.org/abs/2609.20037v1)** | 2026-09-17 |  |
-| **[FedeRICo: Federated Region-Influenced Coupling for Traffic Flow Prediction](https://arxiv.org/abs/2609.20026v1)** | 2026-09-17 |  |
-| **[XIR: A Framework for Interoperability across Cross-Chain Protocols Based on a Verifiable Intermediate Representation](https://arxiv.org/abs/2609.20010v1)** | 2026-09-17 | <details><summary>Submi...</summary><p>Submitted to Blockchain: Research and Applications</p></details> |
-| **[Distributed Edge Inference: an Experimental Study on Multiview Detection](https://arxiv.org/abs/2609.20009v1)** | 2026-09-17 |  |
-| **[P-GADMM: Parallel Group-Based ADMM for Asynchronous Optimization in Heterogeneous Edge Networks](https://arxiv.org/abs/2609.20006v1)** | 2026-09-17 | <details><summary>13 pa...</summary><p>13 pages, 12 figures. Submitted to IEEE Transactions on Mobile Computing (TMC)</p></details> |
+| **[A Taxonomy of Distance Metrics for Time-Sensitive Importance Splitting: Timer Bounds, Resampling, and the Global Age](https://arxiv.org/abs/2607.17939v2)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at ICTAC 2026 (23rd International Colloquium on Theoretical Aspects of Computing)</p></details> |
+| **[The Weight Is Over - Interactive Diffusion on Consumer GPUs](https://arxiv.org/abs/2609.21849v1)** | 2026-09-18 |  |
+| **[Distributed Balanced Butterfly Counting in Signed Bipartite Graphs](https://arxiv.org/abs/2609.21848v1)** | 2026-09-18 |  |
+| **[Equality saturation theory exploration à la carte](https://arxiv.org/abs/2609.14527v2)** | 2026-09-18 | <details><summary>43 pa...</summary><p>43 pages, 9 figures, Extended version of the OOPSLA 2023 paper, submitted to the Journal of Functional Programming. v2: corrected the accent in the title metadata; paper unchanged</p></details> |
+| **[Verifiable Computation with Trusted Execution Environments and On-Chain Digital Rights Tokens](https://arxiv.org/abs/2609.21728v1)** | 2026-09-18 | <details><summary>15 pa...</summary><p>15 pages, 1 figure, 2 appendices</p></details> |
+| **[Programming In-Storage Computing with Located, Stateful Dataflow](https://arxiv.org/abs/2609.19206v2)** | 2026-09-18 |  |
+| **[Performance Analysis of Low-Order, GPU-accelerated Finite Element Kernels using Kokkos](https://arxiv.org/abs/2609.21681v1)** | 2026-09-18 |  |
+| **[Hopper: Bounded-Memory Collaborative Debiasing for Byzantine-Tolerant Peer Sampling](https://arxiv.org/abs/2609.19893v2)** | 2026-09-18 |  |
+| **[PoVD: Efficient Consensus Protocol based on Verifiable Delay Function](https://arxiv.org/abs/2609.21627v1)** | 2026-09-18 |  |
+| **[ForgeStencil: Automating Per-Case Stencil Specialization from Kernels to 100+ Real Applications](https://arxiv.org/abs/2609.06694v2)** | 2026-09-18 | <details><summary>17 pa...</summary><p>17 pages, 9 figures including appendices</p></details> |
+| **[HyperParallel-FSDP: Topology-Aware Fully Sharded Training with Layout-Driven Muon on Ascend SuperPods](https://arxiv.org/abs/2609.21594v1)** | 2026-09-18 |  |
+| **[GreenDirector: carbon- and water-aware workload placement for sustainable computing](https://arxiv.org/abs/2609.12602v2)** | 2026-09-18 |  |
+| **[Expressive power of one-shot control operators and coroutines](https://arxiv.org/abs/2609.06443v2)** | 2026-09-18 | <details><summary>82 pa...</summary><p>82 pages, 17 figures. Extended version of a paper presented at APLAS 2025 (LNCS 16201, pp. 88-106, https://doi.org/10.1007/978-981-95-3585-9_5, full version: arXiv:2509.11901)</p></details> |
+| **[Multimmit: Extending Blocks for Faster Finality](https://arxiv.org/abs/2607.21021v5)** | 2026-09-18 |  |
+| **[Cross-Platform vs Native Mobile Development: An Empirical Study of Software Quality Trade-offs](https://arxiv.org/abs/2609.21544v1)** | 2026-09-18 | <details><summary>19 pa...</summary><p>19 pages, 1 figure, 8 tables, 4 charts</p></details> |
 
