@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2026
+title: Latest 15 Papers - October 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Coinductive reasoning for parametrized functors and monads](https://arxiv.org/abs/2609.35691v1)** | 2026-09-28 | CONCUR26 conference |
-| **[Dynamic Wakeup under Costly Collisions](https://arxiv.org/abs/2609.35662v1)** | 2026-09-28 |  |
-| **[GPUPhysBench: Benchmarking Coding Agents for Correct and Efficient GPU Physics Simulation](https://arxiv.org/abs/2609.35639v1)** | 2026-09-28 | 41 pages |
-| **[SoK: Cryptocurrency Mixing and Anonymity - Architectures, Threat Models, Operational Aspects and Security](https://arxiv.org/abs/2504.20296v2)** | 2026-09-28 | <details><summary>32 pa...</summary><p>32 pages overall, submitted to, and presented at EAI BlockTEA 2026 conference (accepted)</p></details> |
-| **[Hardware-Aware Features for CUTLASS Kernel Selection](https://arxiv.org/abs/2609.35587v1)** | 2026-09-28 | 20 pages, 19 figures |
-| **[Beyond Energy: When Sustainability Dimensions Reshape LLM Serving Decisions](https://arxiv.org/abs/2609.35569v1)** | 2026-09-28 | <details><summary>41 pa...</summary><p>41 pages, 30 figures, 13 tables</p></details> |
-| **[Vulcan: Instance-specialized, Verifiable Systems Heuristics Through LLM-driven Search](https://arxiv.org/abs/2512.25065v3)** | 2026-09-28 | <details><summary>21 pa...</summary><p>21 pages, 12 figures. Accepted for publication at EuroSys 2027</p></details> |
-| **[TopoEP: Topology-Aware Load Balancing for Expert-Parallel MoE Training](https://arxiv.org/abs/2609.35481v1)** | 2026-09-28 |  |
-| **[SOLO: Pretraining Billion-Parameter Language Models with Shared-Output Local Learning](https://arxiv.org/abs/2609.35440v1)** | 2026-09-28 | <details><summary>26 pa...</summary><p>26 pages, 15 figures, 19 tables. Preprint</p></details> |
-| **[Semantic Prefix Oracles for LLM Decoding: Contracts and Differential Validation](https://arxiv.org/abs/2609.35425v1)** | 2026-09-28 |  |
-| **[Weaver: A System for AI-RAN Compute Sharing with Foundation Model Training](https://arxiv.org/abs/2609.35276v1)** | 2026-09-28 |  |
-| **[WavePP: High-Throughput Pipeline Parallel LLM Prefill under Prefix Reuse](https://arxiv.org/abs/2609.35263v1)** | 2026-09-28 | <details><summary>33 pa...</summary><p>33 pages, 14 figures, 11 tables</p></details> |
-| **[SpSYRK: Half the Work in Distributed Sparse Matrix Multiplication](https://arxiv.org/abs/2608.09713v3)** | 2026-09-28 |  |
-| **[Beneath the Tokens: A Performance Engineering Study of Multi-Token Prediction in GPU-Accelerated LLM Inference](https://arxiv.org/abs/2609.35188v1)** | 2026-09-28 |  |
-| **[Analyzing Solana's Blocks and Transactions](https://arxiv.org/abs/2609.35171v1)** | 2026-09-28 | <details><summary>To ap...</summary><p>To appear in The 28th International Symposium on Stabilization, Safety, and Security of Distributed Systems</p></details> |
+| **[ASCEND: Personal AI Agents for Autonomous Scientific Computing Across HPC Clusters and GPU Workstations](https://arxiv.org/abs/2609.32868v2)** | 2026-09-29 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 6 tables. Code and installer: https://github.com/jpliu168/ASCEND</p></details> |
+| **[Block Sparse Flash Attention](https://arxiv.org/abs/2512.07011v2)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. 16 pages, 3 figures, 7 tables. Code: https://github.com/Danielohayon/Block-Sparse-Flash-Attention</p></details> |
+| **[Accelerating Transfer-Learning-Based Autotuning with Predictive LLVM IR Performance Ranking](https://arxiv.org/abs/2609.15807v2)** | 2026-09-29 |  |
+| **[Heddle: Learning Structural Templates for Parallelism Planning on Heterogeneous GPU Clusters](https://arxiv.org/abs/2609.34244v2)** | 2026-09-29 |  |
+| **[RLX: A Unified Multi-Backend Tensor Compiler and Distributed Runtime in Rust](https://arxiv.org/abs/2609.37916v1)** | 2026-09-29 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, peer-reviewed and presented at 2026 IEEE High Performance Extreme Computing Conference (HPEC)</p></details> |
+| **[Byzantine Causal Reliable Broadcast with Constant Metadata Overhead](https://arxiv.org/abs/2609.37913v1)** | 2026-09-29 |  |
+| **[Joint Effects of GPU Server Topology, Parallelism, and Congestion Control on MoE Inference: A Controlled Simulation Study](https://arxiv.org/abs/2609.37828v1)** | 2026-09-29 |  |
+| **[Formal Reasoning about Performance Models](https://arxiv.org/abs/2609.37728v1)** | 2026-09-29 | 38 pages |
+| **[Modelling Shared-Space Coordination in mCRL2: a Bach-to-mCRL2 Translation Framework](https://arxiv.org/abs/2609.37726v1)** | 2026-09-29 | <details><summary>In Pr...</summary><p>In Proceedings ICE 2026, arXiv:2609.30353</p></details> |
+| **[FP64 Is All You Want, INT8 Is All You Need, FP4/6/8 Is All You Have](https://arxiv.org/abs/2609.37693v1)** | 2026-09-29 | <details><summary>12 pa...</summary><p>12 pages. Preliminary version; an extended version with the proofs, the search details and further measurements will follow</p></details> |
+| **[Mechanised operational semantics of Rowhammer](https://arxiv.org/abs/2607.10314v2)** | 2026-09-29 | Submitted |
+| **[SPLASH: Switching Parallel Layouts of Attention with Seamless Handoff for LLM Serving](https://arxiv.org/abs/2609.37626v1)** | 2026-09-29 | <details><summary>28 pa...</summary><p>28 pages, 11 figures, 8 tables. Code: https://github.com/ict-agent/SPLASH-sglang</p></details> |
+| **[SHORTCUT: In-Collective Topology Reconfiguration for Low-Latency AllReduce](https://arxiv.org/abs/2510.03491v2)** | 2026-09-29 |  |
+| **[Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines](https://arxiv.org/abs/2604.15186v3)** | 2026-09-29 |  |
+| **[DScale: Scaling Block-Diffusion Speculative Decoding with Adaptive Verification](https://arxiv.org/abs/2609.37532v1)** | 2026-09-29 | 12 pages |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Coinductive reasoning for parametrized functors and monads](https://arxiv.org/abs/2609.35691v1)** | 2026-09-28 | CONCUR26 conference |
-| **[Dynamic Wakeup under Costly Collisions](https://arxiv.org/abs/2609.35662v1)** | 2026-09-28 |  |
-| **[GPUPhysBench: Benchmarking Coding Agents for Correct and Efficient GPU Physics Simulation](https://arxiv.org/abs/2609.35639v1)** | 2026-09-28 | 41 pages |
-| **[SoK: Cryptocurrency Mixing and Anonymity - Architectures, Threat Models, Operational Aspects and Security](https://arxiv.org/abs/2504.20296v2)** | 2026-09-28 | <details><summary>32 pa...</summary><p>32 pages overall, submitted to, and presented at EAI BlockTEA 2026 conference (accepted)</p></details> |
-| **[Hardware-Aware Features for CUTLASS Kernel Selection](https://arxiv.org/abs/2609.35587v1)** | 2026-09-28 | 20 pages, 19 figures |
-| **[Beyond Energy: When Sustainability Dimensions Reshape LLM Serving Decisions](https://arxiv.org/abs/2609.35569v1)** | 2026-09-28 | <details><summary>41 pa...</summary><p>41 pages, 30 figures, 13 tables</p></details> |
-| **[Vulcan: Instance-specialized, Verifiable Systems Heuristics Through LLM-driven Search](https://arxiv.org/abs/2512.25065v3)** | 2026-09-28 | <details><summary>21 pa...</summary><p>21 pages, 12 figures. Accepted for publication at EuroSys 2027</p></details> |
-| **[TopoEP: Topology-Aware Load Balancing for Expert-Parallel MoE Training](https://arxiv.org/abs/2609.35481v1)** | 2026-09-28 |  |
-| **[SOLO: Pretraining Billion-Parameter Language Models with Shared-Output Local Learning](https://arxiv.org/abs/2609.35440v1)** | 2026-09-28 | <details><summary>26 pa...</summary><p>26 pages, 15 figures, 19 tables. Preprint</p></details> |
-| **[Semantic Prefix Oracles for LLM Decoding: Contracts and Differential Validation](https://arxiv.org/abs/2609.35425v1)** | 2026-09-28 |  |
-| **[Weaver: A System for AI-RAN Compute Sharing with Foundation Model Training](https://arxiv.org/abs/2609.35276v1)** | 2026-09-28 |  |
-| **[WavePP: High-Throughput Pipeline Parallel LLM Prefill under Prefix Reuse](https://arxiv.org/abs/2609.35263v1)** | 2026-09-28 | <details><summary>33 pa...</summary><p>33 pages, 14 figures, 11 tables</p></details> |
-| **[SpSYRK: Half the Work in Distributed Sparse Matrix Multiplication](https://arxiv.org/abs/2608.09713v3)** | 2026-09-28 |  |
-| **[Beneath the Tokens: A Performance Engineering Study of Multi-Token Prediction in GPU-Accelerated LLM Inference](https://arxiv.org/abs/2609.35188v1)** | 2026-09-28 |  |
-| **[Analyzing Solana's Blocks and Transactions](https://arxiv.org/abs/2609.35171v1)** | 2026-09-28 | <details><summary>To ap...</summary><p>To appear in The 28th International Symposium on Stabilization, Safety, and Security of Distributed Systems</p></details> |
+| **[ASCEND: Personal AI Agents for Autonomous Scientific Computing Across HPC Clusters and GPU Workstations](https://arxiv.org/abs/2609.32868v2)** | 2026-09-29 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 6 tables. Code and installer: https://github.com/jpliu168/ASCEND</p></details> |
+| **[Block Sparse Flash Attention](https://arxiv.org/abs/2512.07011v2)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. 16 pages, 3 figures, 7 tables. Code: https://github.com/Danielohayon/Block-Sparse-Flash-Attention</p></details> |
+| **[Accelerating Transfer-Learning-Based Autotuning with Predictive LLVM IR Performance Ranking](https://arxiv.org/abs/2609.15807v2)** | 2026-09-29 |  |
+| **[Heddle: Learning Structural Templates for Parallelism Planning on Heterogeneous GPU Clusters](https://arxiv.org/abs/2609.34244v2)** | 2026-09-29 |  |
+| **[RLX: A Unified Multi-Backend Tensor Compiler and Distributed Runtime in Rust](https://arxiv.org/abs/2609.37916v1)** | 2026-09-29 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, peer-reviewed and presented at 2026 IEEE High Performance Extreme Computing Conference (HPEC)</p></details> |
+| **[Byzantine Causal Reliable Broadcast with Constant Metadata Overhead](https://arxiv.org/abs/2609.37913v1)** | 2026-09-29 |  |
+| **[Joint Effects of GPU Server Topology, Parallelism, and Congestion Control on MoE Inference: A Controlled Simulation Study](https://arxiv.org/abs/2609.37828v1)** | 2026-09-29 |  |
+| **[Formal Reasoning about Performance Models](https://arxiv.org/abs/2609.37728v1)** | 2026-09-29 | 38 pages |
+| **[Modelling Shared-Space Coordination in mCRL2: a Bach-to-mCRL2 Translation Framework](https://arxiv.org/abs/2609.37726v1)** | 2026-09-29 | <details><summary>In Pr...</summary><p>In Proceedings ICE 2026, arXiv:2609.30353</p></details> |
+| **[FP64 Is All You Want, INT8 Is All You Need, FP4/6/8 Is All You Have](https://arxiv.org/abs/2609.37693v1)** | 2026-09-29 | <details><summary>12 pa...</summary><p>12 pages. Preliminary version; an extended version with the proofs, the search details and further measurements will follow</p></details> |
+| **[Mechanised operational semantics of Rowhammer](https://arxiv.org/abs/2607.10314v2)** | 2026-09-29 | Submitted |
+| **[SPLASH: Switching Parallel Layouts of Attention with Seamless Handoff for LLM Serving](https://arxiv.org/abs/2609.37626v1)** | 2026-09-29 | <details><summary>28 pa...</summary><p>28 pages, 11 figures, 8 tables. Code: https://github.com/ict-agent/SPLASH-sglang</p></details> |
+| **[SHORTCUT: In-Collective Topology Reconfiguration for Low-Latency AllReduce](https://arxiv.org/abs/2510.03491v2)** | 2026-09-29 |  |
+| **[Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines](https://arxiv.org/abs/2604.15186v3)** | 2026-09-29 |  |
+| **[DScale: Scaling Block-Diffusion Speculative Decoding with Adaptive Verification](https://arxiv.org/abs/2609.37532v1)** | 2026-09-29 | 12 pages |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Coinductive reasoning for parametrized functors and monads](https://arxiv.org/abs/2609.35691v1)** | 2026-09-28 | CONCUR26 conference |
-| **[Dynamic Wakeup under Costly Collisions](https://arxiv.org/abs/2609.35662v1)** | 2026-09-28 |  |
-| **[GPUPhysBench: Benchmarking Coding Agents for Correct and Efficient GPU Physics Simulation](https://arxiv.org/abs/2609.35639v1)** | 2026-09-28 | 41 pages |
-| **[SoK: Cryptocurrency Mixing and Anonymity - Architectures, Threat Models, Operational Aspects and Security](https://arxiv.org/abs/2504.20296v2)** | 2026-09-28 | <details><summary>32 pa...</summary><p>32 pages overall, submitted to, and presented at EAI BlockTEA 2026 conference (accepted)</p></details> |
-| **[Hardware-Aware Features for CUTLASS Kernel Selection](https://arxiv.org/abs/2609.35587v1)** | 2026-09-28 | 20 pages, 19 figures |
-| **[Beyond Energy: When Sustainability Dimensions Reshape LLM Serving Decisions](https://arxiv.org/abs/2609.35569v1)** | 2026-09-28 | <details><summary>41 pa...</summary><p>41 pages, 30 figures, 13 tables</p></details> |
-| **[Vulcan: Instance-specialized, Verifiable Systems Heuristics Through LLM-driven Search](https://arxiv.org/abs/2512.25065v3)** | 2026-09-28 | <details><summary>21 pa...</summary><p>21 pages, 12 figures. Accepted for publication at EuroSys 2027</p></details> |
-| **[TopoEP: Topology-Aware Load Balancing for Expert-Parallel MoE Training](https://arxiv.org/abs/2609.35481v1)** | 2026-09-28 |  |
-| **[SOLO: Pretraining Billion-Parameter Language Models with Shared-Output Local Learning](https://arxiv.org/abs/2609.35440v1)** | 2026-09-28 | <details><summary>26 pa...</summary><p>26 pages, 15 figures, 19 tables. Preprint</p></details> |
-| **[Semantic Prefix Oracles for LLM Decoding: Contracts and Differential Validation](https://arxiv.org/abs/2609.35425v1)** | 2026-09-28 |  |
-| **[Weaver: A System for AI-RAN Compute Sharing with Foundation Model Training](https://arxiv.org/abs/2609.35276v1)** | 2026-09-28 |  |
-| **[WavePP: High-Throughput Pipeline Parallel LLM Prefill under Prefix Reuse](https://arxiv.org/abs/2609.35263v1)** | 2026-09-28 | <details><summary>33 pa...</summary><p>33 pages, 14 figures, 11 tables</p></details> |
-| **[SpSYRK: Half the Work in Distributed Sparse Matrix Multiplication](https://arxiv.org/abs/2608.09713v3)** | 2026-09-28 |  |
-| **[Beneath the Tokens: A Performance Engineering Study of Multi-Token Prediction in GPU-Accelerated LLM Inference](https://arxiv.org/abs/2609.35188v1)** | 2026-09-28 |  |
-| **[Analyzing Solana's Blocks and Transactions](https://arxiv.org/abs/2609.35171v1)** | 2026-09-28 | <details><summary>To ap...</summary><p>To appear in The 28th International Symposium on Stabilization, Safety, and Security of Distributed Systems</p></details> |
+| **[ASCEND: Personal AI Agents for Autonomous Scientific Computing Across HPC Clusters and GPU Workstations](https://arxiv.org/abs/2609.32868v2)** | 2026-09-29 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 6 tables. Code and installer: https://github.com/jpliu168/ASCEND</p></details> |
+| **[Block Sparse Flash Attention](https://arxiv.org/abs/2512.07011v2)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. 16 pages, 3 figures, 7 tables. Code: https://github.com/Danielohayon/Block-Sparse-Flash-Attention</p></details> |
+| **[Accelerating Transfer-Learning-Based Autotuning with Predictive LLVM IR Performance Ranking](https://arxiv.org/abs/2609.15807v2)** | 2026-09-29 |  |
+| **[Heddle: Learning Structural Templates for Parallelism Planning on Heterogeneous GPU Clusters](https://arxiv.org/abs/2609.34244v2)** | 2026-09-29 |  |
+| **[RLX: A Unified Multi-Backend Tensor Compiler and Distributed Runtime in Rust](https://arxiv.org/abs/2609.37916v1)** | 2026-09-29 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, peer-reviewed and presented at 2026 IEEE High Performance Extreme Computing Conference (HPEC)</p></details> |
+| **[Byzantine Causal Reliable Broadcast with Constant Metadata Overhead](https://arxiv.org/abs/2609.37913v1)** | 2026-09-29 |  |
+| **[Joint Effects of GPU Server Topology, Parallelism, and Congestion Control on MoE Inference: A Controlled Simulation Study](https://arxiv.org/abs/2609.37828v1)** | 2026-09-29 |  |
+| **[Formal Reasoning about Performance Models](https://arxiv.org/abs/2609.37728v1)** | 2026-09-29 | 38 pages |
+| **[Modelling Shared-Space Coordination in mCRL2: a Bach-to-mCRL2 Translation Framework](https://arxiv.org/abs/2609.37726v1)** | 2026-09-29 | <details><summary>In Pr...</summary><p>In Proceedings ICE 2026, arXiv:2609.30353</p></details> |
+| **[FP64 Is All You Want, INT8 Is All You Need, FP4/6/8 Is All You Have](https://arxiv.org/abs/2609.37693v1)** | 2026-09-29 | <details><summary>12 pa...</summary><p>12 pages. Preliminary version; an extended version with the proofs, the search details and further measurements will follow</p></details> |
+| **[Mechanised operational semantics of Rowhammer](https://arxiv.org/abs/2607.10314v2)** | 2026-09-29 | Submitted |
+| **[SPLASH: Switching Parallel Layouts of Attention with Seamless Handoff for LLM Serving](https://arxiv.org/abs/2609.37626v1)** | 2026-09-29 | <details><summary>28 pa...</summary><p>28 pages, 11 figures, 8 tables. Code: https://github.com/ict-agent/SPLASH-sglang</p></details> |
+| **[SHORTCUT: In-Collective Topology Reconfiguration for Low-Latency AllReduce](https://arxiv.org/abs/2510.03491v2)** | 2026-09-29 |  |
+| **[Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines](https://arxiv.org/abs/2604.15186v3)** | 2026-09-29 |  |
+| **[DScale: Scaling Block-Diffusion Speculative Decoding with Adaptive Verification](https://arxiv.org/abs/2609.37532v1)** | 2026-09-29 | 12 pages |
 
