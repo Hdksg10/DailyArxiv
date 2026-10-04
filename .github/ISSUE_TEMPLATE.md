@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 02, 2026
+title: Latest 15 Papers - October 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Local Relaxation Hierarchies for Quantum Ground State Energies: Convergence Guarantees and Message Passing Algorithms](https://arxiv.org/abs/2609.40336v1)** | 2026-09-30 | 39 pages, 4 figures |
-| **[Quantifying Teleportation Overhead in Distributed Unitary Coupled-Cluster Ansätze](https://arxiv.org/abs/2609.36266v2)** | 2026-09-30 |  |
-| **[Reinforcement Learning-Guided Graph Transformations for SpTRSV Optimization](https://arxiv.org/abs/2609.40159v1)** | 2026-09-30 | <details><summary>33 pa...</summary><p>33 pages, 3 figures, 7 tables. Submitted to The Journal of Supercomputing and currently under review</p></details> |
-| **[LLTA: A Simplicity-Oriented Open-Source WCET Analyser](https://arxiv.org/abs/2609.40141v1)** | 2026-09-30 |  |
-| **[Automatically Building Machine-Checked Assurance Cases from C Codebases to Requirements](https://arxiv.org/abs/2609.40119v1)** | 2026-09-30 |  |
-| **[Efficient Expert-Parallel Communication on PCIe-Connected Consumer GPUs](https://arxiv.org/abs/2609.40093v1)** | 2026-09-30 |  |
-| **[Deterministic Self-Stabilizing BFS Construction in Constant Space](https://arxiv.org/abs/2505.06596v2)** | 2026-09-30 |  |
-| **[Freely Generated Categorical Structures and Automatic Differentiation, PhD Thesis (Introduction and Conclusion)](https://arxiv.org/abs/2609.40046v1)** | 2026-09-30 | <details><summary>PhD t...</summary><p>PhD thesis, Utrecht University, 2026. Introduction, conclusion, and English and Dutch summaries only; the six research papers constituting Chapters 2-7 are available separately. Original chapter numbering retained. 38 pages</p></details> |
-| **[MQSS-Selector: RL-Guided Pass Selection for an MLIR Compilation Pipeline](https://arxiv.org/abs/2609.30104v2)** | 2026-09-30 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 1 table</p></details> |
-| **[LatencyLab: A DPDK-Based P4 Pipeline Latency Measurement Framework for FPGA SmartNICs](https://arxiv.org/abs/2609.39978v1)** | 2026-09-30 | <details><summary>This ...</summary><p>This paper appeared in the 30th Annual IEEE High Performance Extreme Computing (HPEC) https://ieee-hpec.org/ where it won an outstanding paper award</p></details> |
-| **[ASCEND: Personal AI Agents for Autonomous Scientific Computing Across HPC Clusters and GPU Workstations](https://arxiv.org/abs/2609.32868v3)** | 2026-09-30 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 6 tables. Code and installer: https://github.com/jpliu168/ASCEND</p></details> |
-| **[Neuro-Symbolic Indirect-Call Analysis under Opaque Pointers](https://arxiv.org/abs/2609.33547v2)** | 2026-09-30 |  |
-| **[Many Processors, Still One Computer: The Nested Parallel von Neumann Architecture and Nested BSP](https://arxiv.org/abs/2609.16787v2)** | 2026-09-30 | 14 pages, 4 figures |
-| **[EPR Count for Runtime Prediction in Distributed Quantum Computing](https://arxiv.org/abs/2609.39851v1)** | 2026-09-30 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, conference</p></details> |
-| **[From Pilots to Production: Lessons in Cross-Institutional Federated Training and Artificial Intelligence for Science](https://arxiv.org/abs/2609.39803v1)** | 2026-09-30 |  |
+| **[When Fancy Eviction Fails: Rethinking Cache Replacement For LLM Prefix Reuse](https://arxiv.org/abs/2609.28870v2)** | 2026-10-01 | <details><summary>20 pa...</summary><p>20 pages, 20 figures, 6 tables</p></details> |
+| **[Catscan: Visualizing Pipelines of CPU Performance Simulation](https://arxiv.org/abs/2610.02121v1)** | 2026-10-01 |  |
+| **[Emergence-as-Code as a Foundation for Reliable Self-Governance](https://arxiv.org/abs/2602.05458v3)** | 2026-10-01 |  |
+| **[MoE-CORE: Coordinated Expert Offloading and Residency for Memory-Constrained MoE Inference](https://arxiv.org/abs/2610.01950v1)** | 2026-10-01 |  |
+| **[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885v7)** | 2026-10-01 | <details><summary>Confe...</summary><p>Conference on Neural Information Processing Systems (NeurIPS) 2026</p></details> |
+| **[ePACT: Energy-Performance-Aware Commitment Tracking for LLM Serving](https://arxiv.org/abs/2610.01784v1)** | 2026-10-01 |  |
+| **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v6)** | 2026-10-01 | <details><summary>Publi...</summary><p>Published in IEEE INFOCOM 2026 (https://ieeexplore.ieee.org/document/11571543)</p></details> |
+| **[Towards a Cloud Fog Edge System for Smart Building](https://arxiv.org/abs/2610.01647v1)** | 2026-10-01 |  |
+| **[Exploiting the Interplay of Compute- and Memory-Bound kernels in MPI Applications](https://arxiv.org/abs/2610.01587v1)** | 2026-10-01 |  |
+| **[LBFAST: A Lightweight Moment-Represented Lattice Boltzmann Solver for Multi-GPU Architectures](https://arxiv.org/abs/2609.09160v2)** | 2026-10-01 | 13 pages, 4 figures |
+| **[GridSMR: Causal Compression for Sharded Blockchains](https://arxiv.org/abs/2610.01443v1)** | 2026-10-01 |  |
+| **[GPU-Initiated Communication: Dissecting Down to the Bone](https://arxiv.org/abs/2610.01380v1)** | 2026-10-01 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 16 tables. Code and data: https://github.com/ParCoreLab/Dissecting-GPU-Communication-Experiments</p></details> |
+| **[Blockchain Lifecycle Prediction - Dead Coins](https://arxiv.org/abs/2610.01379v1)** | 2026-10-01 | <details><summary>accep...</summary><p>accepted for 2026 8th International Conference on Blockchain Computing and Applications (BCCA), 16.11.-20.11.2026</p></details> |
+| **[Impossibility of One-Way One-Round Quantum 4-Coloring via Matrix-Space Stability](https://arxiv.org/abs/2609.09091v2)** | 2026-10-01 |  |
+| **[RapidMoE: Exploiting Cross-Asymmetry via Adaptive Residual Offloading for Large-Scale MoE Inference](https://arxiv.org/abs/2610.01265v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2027. 17 pages</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Local Relaxation Hierarchies for Quantum Ground State Energies: Convergence Guarantees and Message Passing Algorithms](https://arxiv.org/abs/2609.40336v1)** | 2026-09-30 | 39 pages, 4 figures |
-| **[Quantifying Teleportation Overhead in Distributed Unitary Coupled-Cluster Ansätze](https://arxiv.org/abs/2609.36266v2)** | 2026-09-30 |  |
-| **[Reinforcement Learning-Guided Graph Transformations for SpTRSV Optimization](https://arxiv.org/abs/2609.40159v1)** | 2026-09-30 | <details><summary>33 pa...</summary><p>33 pages, 3 figures, 7 tables. Submitted to The Journal of Supercomputing and currently under review</p></details> |
-| **[LLTA: A Simplicity-Oriented Open-Source WCET Analyser](https://arxiv.org/abs/2609.40141v1)** | 2026-09-30 |  |
-| **[Automatically Building Machine-Checked Assurance Cases from C Codebases to Requirements](https://arxiv.org/abs/2609.40119v1)** | 2026-09-30 |  |
-| **[Efficient Expert-Parallel Communication on PCIe-Connected Consumer GPUs](https://arxiv.org/abs/2609.40093v1)** | 2026-09-30 |  |
-| **[Deterministic Self-Stabilizing BFS Construction in Constant Space](https://arxiv.org/abs/2505.06596v2)** | 2026-09-30 |  |
-| **[Freely Generated Categorical Structures and Automatic Differentiation, PhD Thesis (Introduction and Conclusion)](https://arxiv.org/abs/2609.40046v1)** | 2026-09-30 | <details><summary>PhD t...</summary><p>PhD thesis, Utrecht University, 2026. Introduction, conclusion, and English and Dutch summaries only; the six research papers constituting Chapters 2-7 are available separately. Original chapter numbering retained. 38 pages</p></details> |
-| **[MQSS-Selector: RL-Guided Pass Selection for an MLIR Compilation Pipeline](https://arxiv.org/abs/2609.30104v2)** | 2026-09-30 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 1 table</p></details> |
-| **[LatencyLab: A DPDK-Based P4 Pipeline Latency Measurement Framework for FPGA SmartNICs](https://arxiv.org/abs/2609.39978v1)** | 2026-09-30 | <details><summary>This ...</summary><p>This paper appeared in the 30th Annual IEEE High Performance Extreme Computing (HPEC) https://ieee-hpec.org/ where it won an outstanding paper award</p></details> |
-| **[ASCEND: Personal AI Agents for Autonomous Scientific Computing Across HPC Clusters and GPU Workstations](https://arxiv.org/abs/2609.32868v3)** | 2026-09-30 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 6 tables. Code and installer: https://github.com/jpliu168/ASCEND</p></details> |
-| **[Neuro-Symbolic Indirect-Call Analysis under Opaque Pointers](https://arxiv.org/abs/2609.33547v2)** | 2026-09-30 |  |
-| **[Many Processors, Still One Computer: The Nested Parallel von Neumann Architecture and Nested BSP](https://arxiv.org/abs/2609.16787v2)** | 2026-09-30 | 14 pages, 4 figures |
-| **[EPR Count for Runtime Prediction in Distributed Quantum Computing](https://arxiv.org/abs/2609.39851v1)** | 2026-09-30 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, conference</p></details> |
-| **[From Pilots to Production: Lessons in Cross-Institutional Federated Training and Artificial Intelligence for Science](https://arxiv.org/abs/2609.39803v1)** | 2026-09-30 |  |
+| **[When Fancy Eviction Fails: Rethinking Cache Replacement For LLM Prefix Reuse](https://arxiv.org/abs/2609.28870v2)** | 2026-10-01 | <details><summary>20 pa...</summary><p>20 pages, 20 figures, 6 tables</p></details> |
+| **[Catscan: Visualizing Pipelines of CPU Performance Simulation](https://arxiv.org/abs/2610.02121v1)** | 2026-10-01 |  |
+| **[Emergence-as-Code as a Foundation for Reliable Self-Governance](https://arxiv.org/abs/2602.05458v3)** | 2026-10-01 |  |
+| **[MoE-CORE: Coordinated Expert Offloading and Residency for Memory-Constrained MoE Inference](https://arxiv.org/abs/2610.01950v1)** | 2026-10-01 |  |
+| **[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885v7)** | 2026-10-01 | <details><summary>Confe...</summary><p>Conference on Neural Information Processing Systems (NeurIPS) 2026</p></details> |
+| **[ePACT: Energy-Performance-Aware Commitment Tracking for LLM Serving](https://arxiv.org/abs/2610.01784v1)** | 2026-10-01 |  |
+| **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v6)** | 2026-10-01 | <details><summary>Publi...</summary><p>Published in IEEE INFOCOM 2026 (https://ieeexplore.ieee.org/document/11571543)</p></details> |
+| **[Towards a Cloud Fog Edge System for Smart Building](https://arxiv.org/abs/2610.01647v1)** | 2026-10-01 |  |
+| **[Exploiting the Interplay of Compute- and Memory-Bound kernels in MPI Applications](https://arxiv.org/abs/2610.01587v1)** | 2026-10-01 |  |
+| **[LBFAST: A Lightweight Moment-Represented Lattice Boltzmann Solver for Multi-GPU Architectures](https://arxiv.org/abs/2609.09160v2)** | 2026-10-01 | 13 pages, 4 figures |
+| **[GridSMR: Causal Compression for Sharded Blockchains](https://arxiv.org/abs/2610.01443v1)** | 2026-10-01 |  |
+| **[GPU-Initiated Communication: Dissecting Down to the Bone](https://arxiv.org/abs/2610.01380v1)** | 2026-10-01 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 16 tables. Code and data: https://github.com/ParCoreLab/Dissecting-GPU-Communication-Experiments</p></details> |
+| **[Blockchain Lifecycle Prediction - Dead Coins](https://arxiv.org/abs/2610.01379v1)** | 2026-10-01 | <details><summary>accep...</summary><p>accepted for 2026 8th International Conference on Blockchain Computing and Applications (BCCA), 16.11.-20.11.2026</p></details> |
+| **[Impossibility of One-Way One-Round Quantum 4-Coloring via Matrix-Space Stability](https://arxiv.org/abs/2609.09091v2)** | 2026-10-01 |  |
+| **[RapidMoE: Exploiting Cross-Asymmetry via Adaptive Residual Offloading for Large-Scale MoE Inference](https://arxiv.org/abs/2610.01265v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2027. 17 pages</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Local Relaxation Hierarchies for Quantum Ground State Energies: Convergence Guarantees and Message Passing Algorithms](https://arxiv.org/abs/2609.40336v1)** | 2026-09-30 | 39 pages, 4 figures |
-| **[Quantifying Teleportation Overhead in Distributed Unitary Coupled-Cluster Ansätze](https://arxiv.org/abs/2609.36266v2)** | 2026-09-30 |  |
-| **[Reinforcement Learning-Guided Graph Transformations for SpTRSV Optimization](https://arxiv.org/abs/2609.40159v1)** | 2026-09-30 | <details><summary>33 pa...</summary><p>33 pages, 3 figures, 7 tables. Submitted to The Journal of Supercomputing and currently under review</p></details> |
-| **[LLTA: A Simplicity-Oriented Open-Source WCET Analyser](https://arxiv.org/abs/2609.40141v1)** | 2026-09-30 |  |
-| **[Automatically Building Machine-Checked Assurance Cases from C Codebases to Requirements](https://arxiv.org/abs/2609.40119v1)** | 2026-09-30 |  |
-| **[Efficient Expert-Parallel Communication on PCIe-Connected Consumer GPUs](https://arxiv.org/abs/2609.40093v1)** | 2026-09-30 |  |
-| **[Deterministic Self-Stabilizing BFS Construction in Constant Space](https://arxiv.org/abs/2505.06596v2)** | 2026-09-30 |  |
-| **[Freely Generated Categorical Structures and Automatic Differentiation, PhD Thesis (Introduction and Conclusion)](https://arxiv.org/abs/2609.40046v1)** | 2026-09-30 | <details><summary>PhD t...</summary><p>PhD thesis, Utrecht University, 2026. Introduction, conclusion, and English and Dutch summaries only; the six research papers constituting Chapters 2-7 are available separately. Original chapter numbering retained. 38 pages</p></details> |
-| **[MQSS-Selector: RL-Guided Pass Selection for an MLIR Compilation Pipeline](https://arxiv.org/abs/2609.30104v2)** | 2026-09-30 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 1 table</p></details> |
-| **[LatencyLab: A DPDK-Based P4 Pipeline Latency Measurement Framework for FPGA SmartNICs](https://arxiv.org/abs/2609.39978v1)** | 2026-09-30 | <details><summary>This ...</summary><p>This paper appeared in the 30th Annual IEEE High Performance Extreme Computing (HPEC) https://ieee-hpec.org/ where it won an outstanding paper award</p></details> |
-| **[ASCEND: Personal AI Agents for Autonomous Scientific Computing Across HPC Clusters and GPU Workstations](https://arxiv.org/abs/2609.32868v3)** | 2026-09-30 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 6 tables. Code and installer: https://github.com/jpliu168/ASCEND</p></details> |
-| **[Neuro-Symbolic Indirect-Call Analysis under Opaque Pointers](https://arxiv.org/abs/2609.33547v2)** | 2026-09-30 |  |
-| **[Many Processors, Still One Computer: The Nested Parallel von Neumann Architecture and Nested BSP](https://arxiv.org/abs/2609.16787v2)** | 2026-09-30 | 14 pages, 4 figures |
-| **[EPR Count for Runtime Prediction in Distributed Quantum Computing](https://arxiv.org/abs/2609.39851v1)** | 2026-09-30 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, conference</p></details> |
-| **[From Pilots to Production: Lessons in Cross-Institutional Federated Training and Artificial Intelligence for Science](https://arxiv.org/abs/2609.39803v1)** | 2026-09-30 |  |
+| **[When Fancy Eviction Fails: Rethinking Cache Replacement For LLM Prefix Reuse](https://arxiv.org/abs/2609.28870v2)** | 2026-10-01 | <details><summary>20 pa...</summary><p>20 pages, 20 figures, 6 tables</p></details> |
+| **[Catscan: Visualizing Pipelines of CPU Performance Simulation](https://arxiv.org/abs/2610.02121v1)** | 2026-10-01 |  |
+| **[Emergence-as-Code as a Foundation for Reliable Self-Governance](https://arxiv.org/abs/2602.05458v3)** | 2026-10-01 |  |
+| **[MoE-CORE: Coordinated Expert Offloading and Residency for Memory-Constrained MoE Inference](https://arxiv.org/abs/2610.01950v1)** | 2026-10-01 |  |
+| **[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885v7)** | 2026-10-01 | <details><summary>Confe...</summary><p>Conference on Neural Information Processing Systems (NeurIPS) 2026</p></details> |
+| **[ePACT: Energy-Performance-Aware Commitment Tracking for LLM Serving](https://arxiv.org/abs/2610.01784v1)** | 2026-10-01 |  |
+| **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v6)** | 2026-10-01 | <details><summary>Publi...</summary><p>Published in IEEE INFOCOM 2026 (https://ieeexplore.ieee.org/document/11571543)</p></details> |
+| **[Towards a Cloud Fog Edge System for Smart Building](https://arxiv.org/abs/2610.01647v1)** | 2026-10-01 |  |
+| **[Exploiting the Interplay of Compute- and Memory-Bound kernels in MPI Applications](https://arxiv.org/abs/2610.01587v1)** | 2026-10-01 |  |
+| **[LBFAST: A Lightweight Moment-Represented Lattice Boltzmann Solver for Multi-GPU Architectures](https://arxiv.org/abs/2609.09160v2)** | 2026-10-01 | 13 pages, 4 figures |
+| **[GridSMR: Causal Compression for Sharded Blockchains](https://arxiv.org/abs/2610.01443v1)** | 2026-10-01 |  |
+| **[GPU-Initiated Communication: Dissecting Down to the Bone](https://arxiv.org/abs/2610.01380v1)** | 2026-10-01 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 16 tables. Code and data: https://github.com/ParCoreLab/Dissecting-GPU-Communication-Experiments</p></details> |
+| **[Blockchain Lifecycle Prediction - Dead Coins](https://arxiv.org/abs/2610.01379v1)** | 2026-10-01 | <details><summary>accep...</summary><p>accepted for 2026 8th International Conference on Blockchain Computing and Applications (BCCA), 16.11.-20.11.2026</p></details> |
+| **[Impossibility of One-Way One-Round Quantum 4-Coloring via Matrix-Space Stability](https://arxiv.org/abs/2609.09091v2)** | 2026-10-01 |  |
+| **[RapidMoE: Exploiting Cross-Asymmetry via Adaptive Residual Offloading for Large-Scale MoE Inference](https://arxiv.org/abs/2610.01265v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2027. 17 pages</p></details> |
 
