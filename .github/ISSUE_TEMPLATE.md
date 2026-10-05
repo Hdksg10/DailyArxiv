@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2026
+title: Latest 15 Papers - October 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Fancy Eviction Fails: Rethinking Cache Replacement For LLM Prefix Reuse](https://arxiv.org/abs/2609.28870v2)** | 2026-10-01 | <details><summary>20 pa...</summary><p>20 pages, 20 figures, 6 tables</p></details> |
-| **[Catscan: Visualizing Pipelines of CPU Performance Simulation](https://arxiv.org/abs/2610.02121v1)** | 2026-10-01 |  |
-| **[Emergence-as-Code as a Foundation for Reliable Self-Governance](https://arxiv.org/abs/2602.05458v3)** | 2026-10-01 |  |
-| **[MoE-CORE: Coordinated Expert Offloading and Residency for Memory-Constrained MoE Inference](https://arxiv.org/abs/2610.01950v1)** | 2026-10-01 |  |
-| **[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885v7)** | 2026-10-01 | <details><summary>Confe...</summary><p>Conference on Neural Information Processing Systems (NeurIPS) 2026</p></details> |
-| **[ePACT: Energy-Performance-Aware Commitment Tracking for LLM Serving](https://arxiv.org/abs/2610.01784v1)** | 2026-10-01 |  |
-| **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v6)** | 2026-10-01 | <details><summary>Publi...</summary><p>Published in IEEE INFOCOM 2026 (https://ieeexplore.ieee.org/document/11571543)</p></details> |
-| **[Towards a Cloud Fog Edge System for Smart Building](https://arxiv.org/abs/2610.01647v1)** | 2026-10-01 |  |
-| **[Exploiting the Interplay of Compute- and Memory-Bound kernels in MPI Applications](https://arxiv.org/abs/2610.01587v1)** | 2026-10-01 |  |
-| **[LBFAST: A Lightweight Moment-Represented Lattice Boltzmann Solver for Multi-GPU Architectures](https://arxiv.org/abs/2609.09160v2)** | 2026-10-01 | 13 pages, 4 figures |
-| **[GridSMR: Causal Compression for Sharded Blockchains](https://arxiv.org/abs/2610.01443v1)** | 2026-10-01 |  |
-| **[GPU-Initiated Communication: Dissecting Down to the Bone](https://arxiv.org/abs/2610.01380v1)** | 2026-10-01 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 16 tables. Code and data: https://github.com/ParCoreLab/Dissecting-GPU-Communication-Experiments</p></details> |
-| **[Blockchain Lifecycle Prediction - Dead Coins](https://arxiv.org/abs/2610.01379v1)** | 2026-10-01 | <details><summary>accep...</summary><p>accepted for 2026 8th International Conference on Blockchain Computing and Applications (BCCA), 16.11.-20.11.2026</p></details> |
-| **[Impossibility of One-Way One-Round Quantum 4-Coloring via Matrix-Space Stability](https://arxiv.org/abs/2609.09091v2)** | 2026-10-01 |  |
-| **[RapidMoE: Exploiting Cross-Asymmetry via Adaptive Residual Offloading for Large-Scale MoE Inference](https://arxiv.org/abs/2610.01265v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2027. 17 pages</p></details> |
+| **[A Path Integral Surrogate for Multi-Step Gradient Inversion in Federated Learning](https://arxiv.org/abs/2610.03597v1)** | 2026-10-02 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Submitted to IEEE ICASSP 2027</p></details> |
+| **[OpenMP Meta-Lowering: A Declarative Approach to Performance Portable Parallel Code Generation](https://arxiv.org/abs/2610.03571v1)** | 2026-10-02 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, 2 tables. Accepted at CGO 2027 (Salt Lake City, UT, USA)</p></details> |
+| **[Neuro-Symbolic Indirect-Call Analysis under Opaque Pointers](https://arxiv.org/abs/2609.33547v4)** | 2026-10-02 | <details><summary>Revis...</summary><p>Revised version with corrected formatting</p></details> |
+| **[Cross-Facility LLM Pre-training on HPC: Elastic Aggregation, Data Leasing, and Queue-Aware Placement](https://arxiv.org/abs/2610.03457v1)** | 2026-10-02 |  |
+| **[RailWave: Adaptive Spatial and Temporal Scheduling for Expert-Parallel Communication](https://arxiv.org/abs/2610.03415v1)** | 2026-10-02 | <details><summary>19 pa...</summary><p>19 pages, 10 figures, 8 tables</p></details> |
+| **[EdgeAgent: Orchestrating On-Device LLM inference for End-User Multi-Agent Systems on CPU-GPU Unified Memory Architectures](https://arxiv.org/abs/2610.03394v1)** | 2026-10-02 |  |
+| **[Verify Before You Fix: Agentic Execution Grounding for Trustworthy Cross-Language Code Analysis](https://arxiv.org/abs/2604.10800v2)** | 2026-10-02 | <details><summary>20 pa...</summary><p>20 pages (13 main + 7 appendices), 9 figures, 10 tables</p></details> |
+| **[Symbolic Execution of Constrained Horn Clauses](https://arxiv.org/abs/2610.03345v1)** | 2026-10-02 | 34 pages, 8 figures |
+| **[ARGOS: Reinforcement Learning-Driven Multidimensional Elasticity for Service Orchestration in the Computing Continuum](https://arxiv.org/abs/2609.37085v2)** | 2026-10-02 |  |
+| **[VenusRL: A Fully Disaggregated Agentic RL System with Priority Scheduling and Scalable Interaction](https://arxiv.org/abs/2610.03286v1)** | 2026-10-02 | 18 pages, 19 figures |
+| **[WAMpy: Efficient Synthesis of Prolog Programs in Python](https://arxiv.org/abs/2610.03234v1)** | 2026-10-02 | <details><summary>4 pag...</summary><p>4 pages, 2 figures. Accepted as a demo at the 6th International Joint Conference on Learning and Reasoning (IJCLR 2026). Code: https://github.com/cognitive-modeling/WAMpy</p></details> |
+| **[Execution-Path Qualification and Realized Costs in Speculative Decoding on Consumer Systems](https://arxiv.org/abs/2610.03228v1)** | 2026-10-02 | <details><summary>23 pa...</summary><p>23 pages, 4 figures; includes appendix</p></details> |
+| **[D2K-Bench: Can LLM Agents Turn Expert Designs into Efficient GPU Kernels?](https://arxiv.org/abs/2610.03226v1)** | 2026-10-02 | 30 pages, 4 figures |
+| **[AFORE: Attention-FFN Disaggregation with Overlapped Reconfiguration of Experts](https://arxiv.org/abs/2610.03203v1)** | 2026-10-02 |  |
+| **[Closing the Prediction Gap: Completing Machine Shape So That Predicted Time, Power, Energy, and Mapping Match What Real Hardware Does](https://arxiv.org/abs/2610.03197v1)** | 2026-10-02 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Fancy Eviction Fails: Rethinking Cache Replacement For LLM Prefix Reuse](https://arxiv.org/abs/2609.28870v2)** | 2026-10-01 | <details><summary>20 pa...</summary><p>20 pages, 20 figures, 6 tables</p></details> |
-| **[Catscan: Visualizing Pipelines of CPU Performance Simulation](https://arxiv.org/abs/2610.02121v1)** | 2026-10-01 |  |
-| **[Emergence-as-Code as a Foundation for Reliable Self-Governance](https://arxiv.org/abs/2602.05458v3)** | 2026-10-01 |  |
-| **[MoE-CORE: Coordinated Expert Offloading and Residency for Memory-Constrained MoE Inference](https://arxiv.org/abs/2610.01950v1)** | 2026-10-01 |  |
-| **[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885v7)** | 2026-10-01 | <details><summary>Confe...</summary><p>Conference on Neural Information Processing Systems (NeurIPS) 2026</p></details> |
-| **[ePACT: Energy-Performance-Aware Commitment Tracking for LLM Serving](https://arxiv.org/abs/2610.01784v1)** | 2026-10-01 |  |
-| **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v6)** | 2026-10-01 | <details><summary>Publi...</summary><p>Published in IEEE INFOCOM 2026 (https://ieeexplore.ieee.org/document/11571543)</p></details> |
-| **[Towards a Cloud Fog Edge System for Smart Building](https://arxiv.org/abs/2610.01647v1)** | 2026-10-01 |  |
-| **[Exploiting the Interplay of Compute- and Memory-Bound kernels in MPI Applications](https://arxiv.org/abs/2610.01587v1)** | 2026-10-01 |  |
-| **[LBFAST: A Lightweight Moment-Represented Lattice Boltzmann Solver for Multi-GPU Architectures](https://arxiv.org/abs/2609.09160v2)** | 2026-10-01 | 13 pages, 4 figures |
-| **[GridSMR: Causal Compression for Sharded Blockchains](https://arxiv.org/abs/2610.01443v1)** | 2026-10-01 |  |
-| **[GPU-Initiated Communication: Dissecting Down to the Bone](https://arxiv.org/abs/2610.01380v1)** | 2026-10-01 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 16 tables. Code and data: https://github.com/ParCoreLab/Dissecting-GPU-Communication-Experiments</p></details> |
-| **[Blockchain Lifecycle Prediction - Dead Coins](https://arxiv.org/abs/2610.01379v1)** | 2026-10-01 | <details><summary>accep...</summary><p>accepted for 2026 8th International Conference on Blockchain Computing and Applications (BCCA), 16.11.-20.11.2026</p></details> |
-| **[Impossibility of One-Way One-Round Quantum 4-Coloring via Matrix-Space Stability](https://arxiv.org/abs/2609.09091v2)** | 2026-10-01 |  |
-| **[RapidMoE: Exploiting Cross-Asymmetry via Adaptive Residual Offloading for Large-Scale MoE Inference](https://arxiv.org/abs/2610.01265v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2027. 17 pages</p></details> |
+| **[A Path Integral Surrogate for Multi-Step Gradient Inversion in Federated Learning](https://arxiv.org/abs/2610.03597v1)** | 2026-10-02 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Submitted to IEEE ICASSP 2027</p></details> |
+| **[OpenMP Meta-Lowering: A Declarative Approach to Performance Portable Parallel Code Generation](https://arxiv.org/abs/2610.03571v1)** | 2026-10-02 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, 2 tables. Accepted at CGO 2027 (Salt Lake City, UT, USA)</p></details> |
+| **[Neuro-Symbolic Indirect-Call Analysis under Opaque Pointers](https://arxiv.org/abs/2609.33547v4)** | 2026-10-02 | <details><summary>Revis...</summary><p>Revised version with corrected formatting</p></details> |
+| **[Cross-Facility LLM Pre-training on HPC: Elastic Aggregation, Data Leasing, and Queue-Aware Placement](https://arxiv.org/abs/2610.03457v1)** | 2026-10-02 |  |
+| **[RailWave: Adaptive Spatial and Temporal Scheduling for Expert-Parallel Communication](https://arxiv.org/abs/2610.03415v1)** | 2026-10-02 | <details><summary>19 pa...</summary><p>19 pages, 10 figures, 8 tables</p></details> |
+| **[EdgeAgent: Orchestrating On-Device LLM inference for End-User Multi-Agent Systems on CPU-GPU Unified Memory Architectures](https://arxiv.org/abs/2610.03394v1)** | 2026-10-02 |  |
+| **[Verify Before You Fix: Agentic Execution Grounding for Trustworthy Cross-Language Code Analysis](https://arxiv.org/abs/2604.10800v2)** | 2026-10-02 | <details><summary>20 pa...</summary><p>20 pages (13 main + 7 appendices), 9 figures, 10 tables</p></details> |
+| **[Symbolic Execution of Constrained Horn Clauses](https://arxiv.org/abs/2610.03345v1)** | 2026-10-02 | 34 pages, 8 figures |
+| **[ARGOS: Reinforcement Learning-Driven Multidimensional Elasticity for Service Orchestration in the Computing Continuum](https://arxiv.org/abs/2609.37085v2)** | 2026-10-02 |  |
+| **[VenusRL: A Fully Disaggregated Agentic RL System with Priority Scheduling and Scalable Interaction](https://arxiv.org/abs/2610.03286v1)** | 2026-10-02 | 18 pages, 19 figures |
+| **[WAMpy: Efficient Synthesis of Prolog Programs in Python](https://arxiv.org/abs/2610.03234v1)** | 2026-10-02 | <details><summary>4 pag...</summary><p>4 pages, 2 figures. Accepted as a demo at the 6th International Joint Conference on Learning and Reasoning (IJCLR 2026). Code: https://github.com/cognitive-modeling/WAMpy</p></details> |
+| **[Execution-Path Qualification and Realized Costs in Speculative Decoding on Consumer Systems](https://arxiv.org/abs/2610.03228v1)** | 2026-10-02 | <details><summary>23 pa...</summary><p>23 pages, 4 figures; includes appendix</p></details> |
+| **[D2K-Bench: Can LLM Agents Turn Expert Designs into Efficient GPU Kernels?](https://arxiv.org/abs/2610.03226v1)** | 2026-10-02 | 30 pages, 4 figures |
+| **[AFORE: Attention-FFN Disaggregation with Overlapped Reconfiguration of Experts](https://arxiv.org/abs/2610.03203v1)** | 2026-10-02 |  |
+| **[Closing the Prediction Gap: Completing Machine Shape So That Predicted Time, Power, Energy, and Mapping Match What Real Hardware Does](https://arxiv.org/abs/2610.03197v1)** | 2026-10-02 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Fancy Eviction Fails: Rethinking Cache Replacement For LLM Prefix Reuse](https://arxiv.org/abs/2609.28870v2)** | 2026-10-01 | <details><summary>20 pa...</summary><p>20 pages, 20 figures, 6 tables</p></details> |
-| **[Catscan: Visualizing Pipelines of CPU Performance Simulation](https://arxiv.org/abs/2610.02121v1)** | 2026-10-01 |  |
-| **[Emergence-as-Code as a Foundation for Reliable Self-Governance](https://arxiv.org/abs/2602.05458v3)** | 2026-10-01 |  |
-| **[MoE-CORE: Coordinated Expert Offloading and Residency for Memory-Constrained MoE Inference](https://arxiv.org/abs/2610.01950v1)** | 2026-10-01 |  |
-| **[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885v7)** | 2026-10-01 | <details><summary>Confe...</summary><p>Conference on Neural Information Processing Systems (NeurIPS) 2026</p></details> |
-| **[ePACT: Energy-Performance-Aware Commitment Tracking for LLM Serving](https://arxiv.org/abs/2610.01784v1)** | 2026-10-01 |  |
-| **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v6)** | 2026-10-01 | <details><summary>Publi...</summary><p>Published in IEEE INFOCOM 2026 (https://ieeexplore.ieee.org/document/11571543)</p></details> |
-| **[Towards a Cloud Fog Edge System for Smart Building](https://arxiv.org/abs/2610.01647v1)** | 2026-10-01 |  |
-| **[Exploiting the Interplay of Compute- and Memory-Bound kernels in MPI Applications](https://arxiv.org/abs/2610.01587v1)** | 2026-10-01 |  |
-| **[LBFAST: A Lightweight Moment-Represented Lattice Boltzmann Solver for Multi-GPU Architectures](https://arxiv.org/abs/2609.09160v2)** | 2026-10-01 | 13 pages, 4 figures |
-| **[GridSMR: Causal Compression for Sharded Blockchains](https://arxiv.org/abs/2610.01443v1)** | 2026-10-01 |  |
-| **[GPU-Initiated Communication: Dissecting Down to the Bone](https://arxiv.org/abs/2610.01380v1)** | 2026-10-01 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 16 tables. Code and data: https://github.com/ParCoreLab/Dissecting-GPU-Communication-Experiments</p></details> |
-| **[Blockchain Lifecycle Prediction - Dead Coins](https://arxiv.org/abs/2610.01379v1)** | 2026-10-01 | <details><summary>accep...</summary><p>accepted for 2026 8th International Conference on Blockchain Computing and Applications (BCCA), 16.11.-20.11.2026</p></details> |
-| **[Impossibility of One-Way One-Round Quantum 4-Coloring via Matrix-Space Stability](https://arxiv.org/abs/2609.09091v2)** | 2026-10-01 |  |
-| **[RapidMoE: Exploiting Cross-Asymmetry via Adaptive Residual Offloading for Large-Scale MoE Inference](https://arxiv.org/abs/2610.01265v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2027. 17 pages</p></details> |
+| **[A Path Integral Surrogate for Multi-Step Gradient Inversion in Federated Learning](https://arxiv.org/abs/2610.03597v1)** | 2026-10-02 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Submitted to IEEE ICASSP 2027</p></details> |
+| **[OpenMP Meta-Lowering: A Declarative Approach to Performance Portable Parallel Code Generation](https://arxiv.org/abs/2610.03571v1)** | 2026-10-02 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, 2 tables. Accepted at CGO 2027 (Salt Lake City, UT, USA)</p></details> |
+| **[Neuro-Symbolic Indirect-Call Analysis under Opaque Pointers](https://arxiv.org/abs/2609.33547v4)** | 2026-10-02 | <details><summary>Revis...</summary><p>Revised version with corrected formatting</p></details> |
+| **[Cross-Facility LLM Pre-training on HPC: Elastic Aggregation, Data Leasing, and Queue-Aware Placement](https://arxiv.org/abs/2610.03457v1)** | 2026-10-02 |  |
+| **[RailWave: Adaptive Spatial and Temporal Scheduling for Expert-Parallel Communication](https://arxiv.org/abs/2610.03415v1)** | 2026-10-02 | <details><summary>19 pa...</summary><p>19 pages, 10 figures, 8 tables</p></details> |
+| **[EdgeAgent: Orchestrating On-Device LLM inference for End-User Multi-Agent Systems on CPU-GPU Unified Memory Architectures](https://arxiv.org/abs/2610.03394v1)** | 2026-10-02 |  |
+| **[Verify Before You Fix: Agentic Execution Grounding for Trustworthy Cross-Language Code Analysis](https://arxiv.org/abs/2604.10800v2)** | 2026-10-02 | <details><summary>20 pa...</summary><p>20 pages (13 main + 7 appendices), 9 figures, 10 tables</p></details> |
+| **[Symbolic Execution of Constrained Horn Clauses](https://arxiv.org/abs/2610.03345v1)** | 2026-10-02 | 34 pages, 8 figures |
+| **[ARGOS: Reinforcement Learning-Driven Multidimensional Elasticity for Service Orchestration in the Computing Continuum](https://arxiv.org/abs/2609.37085v2)** | 2026-10-02 |  |
+| **[VenusRL: A Fully Disaggregated Agentic RL System with Priority Scheduling and Scalable Interaction](https://arxiv.org/abs/2610.03286v1)** | 2026-10-02 | 18 pages, 19 figures |
+| **[WAMpy: Efficient Synthesis of Prolog Programs in Python](https://arxiv.org/abs/2610.03234v1)** | 2026-10-02 | <details><summary>4 pag...</summary><p>4 pages, 2 figures. Accepted as a demo at the 6th International Joint Conference on Learning and Reasoning (IJCLR 2026). Code: https://github.com/cognitive-modeling/WAMpy</p></details> |
+| **[Execution-Path Qualification and Realized Costs in Speculative Decoding on Consumer Systems](https://arxiv.org/abs/2610.03228v1)** | 2026-10-02 | <details><summary>23 pa...</summary><p>23 pages, 4 figures; includes appendix</p></details> |
+| **[D2K-Bench: Can LLM Agents Turn Expert Designs into Efficient GPU Kernels?](https://arxiv.org/abs/2610.03226v1)** | 2026-10-02 | 30 pages, 4 figures |
+| **[AFORE: Attention-FFN Disaggregation with Overlapped Reconfiguration of Experts](https://arxiv.org/abs/2610.03203v1)** | 2026-10-02 |  |
+| **[Closing the Prediction Gap: Completing Machine Shape So That Predicted Time, Power, Energy, and Mapping Match What Real Hardware Does](https://arxiv.org/abs/2610.03197v1)** | 2026-10-02 |  |
 
