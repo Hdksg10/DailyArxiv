@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EmuGEMM: Fused Tensor Core Kernels for Precision Emulation in Matrix Multiplication](https://arxiv.org/abs/2606.25453v2)** | 2026-10-05 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 2 tables. Author's accepted version, to appear in SC26</p></details> |
-| **[Breaking Fault Lines: Unifying TEE-Assisted BFT Consensus in Partially Trusted Worlds](https://arxiv.org/abs/2609.09742v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted to EuroSys 2027</p></details> |
-| **[Efficient Non-Uniform Quantum Hermite Transform through Adaptive Sampling](https://arxiv.org/abs/2609.20739v2)** | 2026-10-05 | <details><summary>30 pa...</summary><p>30 pages, including supplementary material. Minor corrections to notation and exposition; improved figure legibility and ancillary documentation. Results unchanged</p></details> |
-| **[One Global Beam Across Many GPUs: High-Throughput Beam Search at Billion-Record Frontier Scale](https://arxiv.org/abs/2610.06718v1)** | 2026-10-05 | 17 pages, 15 figures |
-| **[OrigaMIG: MIG-Aware VM Placement with a Neighborhood-Restricted BILP and Live Migration](https://arxiv.org/abs/2610.06646v1)** | 2026-10-05 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 12 tables</p></details> |
-| **[Hybrid Classical-Quantum Solutions to Accelerate the Adoption of Quantum Computing](https://arxiv.org/abs/2610.06638v1)** | 2026-10-05 |  |
-| **[GPU-Initiated Discrete Simulated Bifurcation: Low-Latency Requests and Streaming Dense Couplings](https://arxiv.org/abs/2610.06622v1)** | 2026-10-05 |  |
-| **[Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface and Memory Controller](https://arxiv.org/abs/2610.06475v1)** | 2026-10-05 | <details><summary>Exten...</summary><p>Extended version of the MICRO 2026 paper</p></details> |
-| **[DIALER: A Case for Improving Rare-Class Accuracy in Retraining-Free Edge Video Analytics](https://arxiv.org/abs/2610.06358v1)** | 2026-10-05 |  |
-| **[From a Last-Week Add-On to First-Day Practice: Three Years of Integrating MPI Performance Analysis into HPC Education with EduMPI Suite](https://arxiv.org/abs/2610.06352v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted manuscript. Accepted for publication in the SC26 Workshops</p></details> |
-| **[Fine-Tuning a 3B-Parameter LLM on a Smartphone: Characterizing Sustained Training](https://arxiv.org/abs/2610.06325v1)** | 2026-10-05 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 8 tables. Code and data: https://github.com/gordofreemo/mobile_LoRA_ft</p></details> |
-| **[Lightweight and Resource-Efficient Perception for Robotic Guide Dogs](https://arxiv.org/abs/2610.03187v2)** | 2026-10-05 | <details><summary>accep...</summary><p>accepted in ACCV 2026</p></details> |
-| **[Acceleration of Data Analytics on Heterogeneous Supercloud Systems](https://arxiv.org/abs/2610.06291v1)** | 2026-10-05 |  |
-| **[How Far Can You Do Nothing On a Quantum Computer?](https://arxiv.org/abs/2608.21904v2)** | 2026-10-05 | <details><summary>57 pa...</summary><p>57 pages, including supplementary material. Revised figures and expanded supplementary maps; clarified the return-score interpretation and methodological limitations</p></details> |
-| **[Serve Now or Improve Later? Scheduling Self-Evolution in Online Agent Systems](https://arxiv.org/abs/2610.06212v1)** | 2026-10-05 | 21 pages, 17 figures |
+| **[KernelOPT: Dispatch-Aware Agentic Search for GPU Kernel Optimization](https://arxiv.org/abs/2609.30059v2)** | 2026-10-06 |  |
+| **[Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface and Memory Controller](https://arxiv.org/abs/2610.06475v2)** | 2026-10-06 | <details><summary>Exten...</summary><p>Extended version of the MICRO 2026 paper</p></details> |
+| **[Trail: Scalable and Low-Cost Temporal TLB Prefetching via Page-Table-Embedded Deltas](https://arxiv.org/abs/2610.08483v1)** | 2026-10-06 |  |
+| **[AEGIS: Runtime-Guided GPU Collocation for Multi-Tenant Deep Learning Training](https://arxiv.org/abs/2508.19073v4)** | 2026-10-06 |  |
+| **[NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](https://arxiv.org/abs/2610.08430v1)** | 2026-10-06 | <details><summary>The c...</summary><p>The code is open-sourced in NVIDIA NeMo RL PR #2444 at https://github.com/NVIDIA-NeMo/RL/pull/2444</p></details> |
+| **[Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and High-Bandwidth Flash](https://arxiv.org/abs/2610.08378v1)** | 2026-10-06 |  |
+| **[vTen: Tensor-Centric Verification Framework for Domain-Specific Accelerators](https://arxiv.org/abs/2610.08372v1)** | 2026-10-06 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, 1 table. Accepted at the 63rd ACM/IEEE Design Automation Conference (DAC '26), Long Beach, CA, USA</p></details> |
+| **[6G NeXt - Towards 6G Split Computing Network Applications: Use Cases and Architecture](https://arxiv.org/abs/2610.08352v1)** | 2026-10-06 |  |
+| **[DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching](https://arxiv.org/abs/2610.08268v1)** | 2026-10-06 | <details><summary>artic...</summary><p>article under submission</p></details> |
+| **[Contextual Chain: Lightweight Continuity Authentication for Intermittently Connected Devices](https://arxiv.org/abs/2610.08262v1)** | 2026-10-06 | 31 pages, 6 figures |
+| **[GPU Acceleration of Awkward Arrays: Using Python cuda.compute](https://arxiv.org/abs/2610.08238v1)** | 2026-10-06 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 28th CHEP (2026, Bangkok)</p></details> |
+| **[One Global Beam Across Many GPUs: High-Throughput Beam Search at Billion-Record Frontier Scale](https://arxiv.org/abs/2610.06718v2)** | 2026-10-06 | 18 pages, 15 figures |
+| **[AID: A Framework for AI Infrastructure Dynamics](https://arxiv.org/abs/2610.04801v2)** | 2026-10-06 | 14 pages, 3 figures |
+| **[Beyond Marginal Monitoring: Distributed Joint-Distribution Testing for Data Concept Drift in Large Scale E-Commerce Operations](https://arxiv.org/abs/2610.08132v1)** | 2026-10-06 |  |
+| **[A Private IPFS Data Sanctuary for Verifiable Digital Collection Objects](https://arxiv.org/abs/2610.07970v1)** | 2026-10-06 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EmuGEMM: Fused Tensor Core Kernels for Precision Emulation in Matrix Multiplication](https://arxiv.org/abs/2606.25453v2)** | 2026-10-05 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 2 tables. Author's accepted version, to appear in SC26</p></details> |
-| **[Breaking Fault Lines: Unifying TEE-Assisted BFT Consensus in Partially Trusted Worlds](https://arxiv.org/abs/2609.09742v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted to EuroSys 2027</p></details> |
-| **[Efficient Non-Uniform Quantum Hermite Transform through Adaptive Sampling](https://arxiv.org/abs/2609.20739v2)** | 2026-10-05 | <details><summary>30 pa...</summary><p>30 pages, including supplementary material. Minor corrections to notation and exposition; improved figure legibility and ancillary documentation. Results unchanged</p></details> |
-| **[One Global Beam Across Many GPUs: High-Throughput Beam Search at Billion-Record Frontier Scale](https://arxiv.org/abs/2610.06718v1)** | 2026-10-05 | 17 pages, 15 figures |
-| **[OrigaMIG: MIG-Aware VM Placement with a Neighborhood-Restricted BILP and Live Migration](https://arxiv.org/abs/2610.06646v1)** | 2026-10-05 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 12 tables</p></details> |
-| **[Hybrid Classical-Quantum Solutions to Accelerate the Adoption of Quantum Computing](https://arxiv.org/abs/2610.06638v1)** | 2026-10-05 |  |
-| **[GPU-Initiated Discrete Simulated Bifurcation: Low-Latency Requests and Streaming Dense Couplings](https://arxiv.org/abs/2610.06622v1)** | 2026-10-05 |  |
-| **[Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface and Memory Controller](https://arxiv.org/abs/2610.06475v1)** | 2026-10-05 | <details><summary>Exten...</summary><p>Extended version of the MICRO 2026 paper</p></details> |
-| **[DIALER: A Case for Improving Rare-Class Accuracy in Retraining-Free Edge Video Analytics](https://arxiv.org/abs/2610.06358v1)** | 2026-10-05 |  |
-| **[From a Last-Week Add-On to First-Day Practice: Three Years of Integrating MPI Performance Analysis into HPC Education with EduMPI Suite](https://arxiv.org/abs/2610.06352v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted manuscript. Accepted for publication in the SC26 Workshops</p></details> |
-| **[Fine-Tuning a 3B-Parameter LLM on a Smartphone: Characterizing Sustained Training](https://arxiv.org/abs/2610.06325v1)** | 2026-10-05 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 8 tables. Code and data: https://github.com/gordofreemo/mobile_LoRA_ft</p></details> |
-| **[Lightweight and Resource-Efficient Perception for Robotic Guide Dogs](https://arxiv.org/abs/2610.03187v2)** | 2026-10-05 | <details><summary>accep...</summary><p>accepted in ACCV 2026</p></details> |
-| **[Acceleration of Data Analytics on Heterogeneous Supercloud Systems](https://arxiv.org/abs/2610.06291v1)** | 2026-10-05 |  |
-| **[How Far Can You Do Nothing On a Quantum Computer?](https://arxiv.org/abs/2608.21904v2)** | 2026-10-05 | <details><summary>57 pa...</summary><p>57 pages, including supplementary material. Revised figures and expanded supplementary maps; clarified the return-score interpretation and methodological limitations</p></details> |
-| **[Serve Now or Improve Later? Scheduling Self-Evolution in Online Agent Systems](https://arxiv.org/abs/2610.06212v1)** | 2026-10-05 | 21 pages, 17 figures |
+| **[KernelOPT: Dispatch-Aware Agentic Search for GPU Kernel Optimization](https://arxiv.org/abs/2609.30059v2)** | 2026-10-06 |  |
+| **[Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface and Memory Controller](https://arxiv.org/abs/2610.06475v2)** | 2026-10-06 | <details><summary>Exten...</summary><p>Extended version of the MICRO 2026 paper</p></details> |
+| **[Trail: Scalable and Low-Cost Temporal TLB Prefetching via Page-Table-Embedded Deltas](https://arxiv.org/abs/2610.08483v1)** | 2026-10-06 |  |
+| **[AEGIS: Runtime-Guided GPU Collocation for Multi-Tenant Deep Learning Training](https://arxiv.org/abs/2508.19073v4)** | 2026-10-06 |  |
+| **[NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](https://arxiv.org/abs/2610.08430v1)** | 2026-10-06 | <details><summary>The c...</summary><p>The code is open-sourced in NVIDIA NeMo RL PR #2444 at https://github.com/NVIDIA-NeMo/RL/pull/2444</p></details> |
+| **[Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and High-Bandwidth Flash](https://arxiv.org/abs/2610.08378v1)** | 2026-10-06 |  |
+| **[vTen: Tensor-Centric Verification Framework for Domain-Specific Accelerators](https://arxiv.org/abs/2610.08372v1)** | 2026-10-06 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, 1 table. Accepted at the 63rd ACM/IEEE Design Automation Conference (DAC '26), Long Beach, CA, USA</p></details> |
+| **[6G NeXt - Towards 6G Split Computing Network Applications: Use Cases and Architecture](https://arxiv.org/abs/2610.08352v1)** | 2026-10-06 |  |
+| **[DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching](https://arxiv.org/abs/2610.08268v1)** | 2026-10-06 | <details><summary>artic...</summary><p>article under submission</p></details> |
+| **[Contextual Chain: Lightweight Continuity Authentication for Intermittently Connected Devices](https://arxiv.org/abs/2610.08262v1)** | 2026-10-06 | 31 pages, 6 figures |
+| **[GPU Acceleration of Awkward Arrays: Using Python cuda.compute](https://arxiv.org/abs/2610.08238v1)** | 2026-10-06 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 28th CHEP (2026, Bangkok)</p></details> |
+| **[One Global Beam Across Many GPUs: High-Throughput Beam Search at Billion-Record Frontier Scale](https://arxiv.org/abs/2610.06718v2)** | 2026-10-06 | 18 pages, 15 figures |
+| **[AID: A Framework for AI Infrastructure Dynamics](https://arxiv.org/abs/2610.04801v2)** | 2026-10-06 | 14 pages, 3 figures |
+| **[Beyond Marginal Monitoring: Distributed Joint-Distribution Testing for Data Concept Drift in Large Scale E-Commerce Operations](https://arxiv.org/abs/2610.08132v1)** | 2026-10-06 |  |
+| **[A Private IPFS Data Sanctuary for Verifiable Digital Collection Objects](https://arxiv.org/abs/2610.07970v1)** | 2026-10-06 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EmuGEMM: Fused Tensor Core Kernels for Precision Emulation in Matrix Multiplication](https://arxiv.org/abs/2606.25453v2)** | 2026-10-05 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 2 tables. Author's accepted version, to appear in SC26</p></details> |
-| **[Breaking Fault Lines: Unifying TEE-Assisted BFT Consensus in Partially Trusted Worlds](https://arxiv.org/abs/2609.09742v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted to EuroSys 2027</p></details> |
-| **[Efficient Non-Uniform Quantum Hermite Transform through Adaptive Sampling](https://arxiv.org/abs/2609.20739v2)** | 2026-10-05 | <details><summary>30 pa...</summary><p>30 pages, including supplementary material. Minor corrections to notation and exposition; improved figure legibility and ancillary documentation. Results unchanged</p></details> |
-| **[One Global Beam Across Many GPUs: High-Throughput Beam Search at Billion-Record Frontier Scale](https://arxiv.org/abs/2610.06718v1)** | 2026-10-05 | 17 pages, 15 figures |
-| **[OrigaMIG: MIG-Aware VM Placement with a Neighborhood-Restricted BILP and Live Migration](https://arxiv.org/abs/2610.06646v1)** | 2026-10-05 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 12 tables</p></details> |
-| **[Hybrid Classical-Quantum Solutions to Accelerate the Adoption of Quantum Computing](https://arxiv.org/abs/2610.06638v1)** | 2026-10-05 |  |
-| **[GPU-Initiated Discrete Simulated Bifurcation: Low-Latency Requests and Streaming Dense Couplings](https://arxiv.org/abs/2610.06622v1)** | 2026-10-05 |  |
-| **[Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface and Memory Controller](https://arxiv.org/abs/2610.06475v1)** | 2026-10-05 | <details><summary>Exten...</summary><p>Extended version of the MICRO 2026 paper</p></details> |
-| **[DIALER: A Case for Improving Rare-Class Accuracy in Retraining-Free Edge Video Analytics](https://arxiv.org/abs/2610.06358v1)** | 2026-10-05 |  |
-| **[From a Last-Week Add-On to First-Day Practice: Three Years of Integrating MPI Performance Analysis into HPC Education with EduMPI Suite](https://arxiv.org/abs/2610.06352v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted manuscript. Accepted for publication in the SC26 Workshops</p></details> |
-| **[Fine-Tuning a 3B-Parameter LLM on a Smartphone: Characterizing Sustained Training](https://arxiv.org/abs/2610.06325v1)** | 2026-10-05 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 8 tables. Code and data: https://github.com/gordofreemo/mobile_LoRA_ft</p></details> |
-| **[Lightweight and Resource-Efficient Perception for Robotic Guide Dogs](https://arxiv.org/abs/2610.03187v2)** | 2026-10-05 | <details><summary>accep...</summary><p>accepted in ACCV 2026</p></details> |
-| **[Acceleration of Data Analytics on Heterogeneous Supercloud Systems](https://arxiv.org/abs/2610.06291v1)** | 2026-10-05 |  |
-| **[How Far Can You Do Nothing On a Quantum Computer?](https://arxiv.org/abs/2608.21904v2)** | 2026-10-05 | <details><summary>57 pa...</summary><p>57 pages, including supplementary material. Revised figures and expanded supplementary maps; clarified the return-score interpretation and methodological limitations</p></details> |
-| **[Serve Now or Improve Later? Scheduling Self-Evolution in Online Agent Systems](https://arxiv.org/abs/2610.06212v1)** | 2026-10-05 | 21 pages, 17 figures |
+| **[KernelOPT: Dispatch-Aware Agentic Search for GPU Kernel Optimization](https://arxiv.org/abs/2609.30059v2)** | 2026-10-06 |  |
+| **[Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface and Memory Controller](https://arxiv.org/abs/2610.06475v2)** | 2026-10-06 | <details><summary>Exten...</summary><p>Extended version of the MICRO 2026 paper</p></details> |
+| **[Trail: Scalable and Low-Cost Temporal TLB Prefetching via Page-Table-Embedded Deltas](https://arxiv.org/abs/2610.08483v1)** | 2026-10-06 |  |
+| **[AEGIS: Runtime-Guided GPU Collocation for Multi-Tenant Deep Learning Training](https://arxiv.org/abs/2508.19073v4)** | 2026-10-06 |  |
+| **[NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](https://arxiv.org/abs/2610.08430v1)** | 2026-10-06 | <details><summary>The c...</summary><p>The code is open-sourced in NVIDIA NeMo RL PR #2444 at https://github.com/NVIDIA-NeMo/RL/pull/2444</p></details> |
+| **[Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and High-Bandwidth Flash](https://arxiv.org/abs/2610.08378v1)** | 2026-10-06 |  |
+| **[vTen: Tensor-Centric Verification Framework for Domain-Specific Accelerators](https://arxiv.org/abs/2610.08372v1)** | 2026-10-06 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, 1 table. Accepted at the 63rd ACM/IEEE Design Automation Conference (DAC '26), Long Beach, CA, USA</p></details> |
+| **[6G NeXt - Towards 6G Split Computing Network Applications: Use Cases and Architecture](https://arxiv.org/abs/2610.08352v1)** | 2026-10-06 |  |
+| **[DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching](https://arxiv.org/abs/2610.08268v1)** | 2026-10-06 | <details><summary>artic...</summary><p>article under submission</p></details> |
+| **[Contextual Chain: Lightweight Continuity Authentication for Intermittently Connected Devices](https://arxiv.org/abs/2610.08262v1)** | 2026-10-06 | 31 pages, 6 figures |
+| **[GPU Acceleration of Awkward Arrays: Using Python cuda.compute](https://arxiv.org/abs/2610.08238v1)** | 2026-10-06 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 28th CHEP (2026, Bangkok)</p></details> |
+| **[One Global Beam Across Many GPUs: High-Throughput Beam Search at Billion-Record Frontier Scale](https://arxiv.org/abs/2610.06718v2)** | 2026-10-06 | 18 pages, 15 figures |
+| **[AID: A Framework for AI Infrastructure Dynamics](https://arxiv.org/abs/2610.04801v2)** | 2026-10-06 | 14 pages, 3 figures |
+| **[Beyond Marginal Monitoring: Distributed Joint-Distribution Testing for Data Concept Drift in Large Scale E-Commerce Operations](https://arxiv.org/abs/2610.08132v1)** | 2026-10-06 |  |
+| **[A Private IPFS Data Sanctuary for Verifiable Digital Collection Objects](https://arxiv.org/abs/2610.07970v1)** | 2026-10-06 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
 
