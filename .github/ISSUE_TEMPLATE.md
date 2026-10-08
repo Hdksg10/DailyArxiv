@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2026
+title: Latest 15 Papers - October 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[KernelOPT: Dispatch-Aware Agentic Search for GPU Kernel Optimization](https://arxiv.org/abs/2609.30059v2)** | 2026-10-06 |  |
-| **[Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface and Memory Controller](https://arxiv.org/abs/2610.06475v2)** | 2026-10-06 | <details><summary>Exten...</summary><p>Extended version of the MICRO 2026 paper</p></details> |
-| **[Trail: Scalable and Low-Cost Temporal TLB Prefetching via Page-Table-Embedded Deltas](https://arxiv.org/abs/2610.08483v1)** | 2026-10-06 |  |
-| **[AEGIS: Runtime-Guided GPU Collocation for Multi-Tenant Deep Learning Training](https://arxiv.org/abs/2508.19073v4)** | 2026-10-06 |  |
-| **[NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](https://arxiv.org/abs/2610.08430v1)** | 2026-10-06 | <details><summary>The c...</summary><p>The code is open-sourced in NVIDIA NeMo RL PR #2444 at https://github.com/NVIDIA-NeMo/RL/pull/2444</p></details> |
-| **[Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and High-Bandwidth Flash](https://arxiv.org/abs/2610.08378v1)** | 2026-10-06 |  |
-| **[vTen: Tensor-Centric Verification Framework for Domain-Specific Accelerators](https://arxiv.org/abs/2610.08372v1)** | 2026-10-06 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, 1 table. Accepted at the 63rd ACM/IEEE Design Automation Conference (DAC '26), Long Beach, CA, USA</p></details> |
-| **[6G NeXt - Towards 6G Split Computing Network Applications: Use Cases and Architecture](https://arxiv.org/abs/2610.08352v1)** | 2026-10-06 |  |
-| **[DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching](https://arxiv.org/abs/2610.08268v1)** | 2026-10-06 | <details><summary>artic...</summary><p>article under submission</p></details> |
-| **[Contextual Chain: Lightweight Continuity Authentication for Intermittently Connected Devices](https://arxiv.org/abs/2610.08262v1)** | 2026-10-06 | 31 pages, 6 figures |
-| **[GPU Acceleration of Awkward Arrays: Using Python cuda.compute](https://arxiv.org/abs/2610.08238v1)** | 2026-10-06 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 28th CHEP (2026, Bangkok)</p></details> |
-| **[One Global Beam Across Many GPUs: High-Throughput Beam Search at Billion-Record Frontier Scale](https://arxiv.org/abs/2610.06718v2)** | 2026-10-06 | 18 pages, 15 figures |
-| **[AID: A Framework for AI Infrastructure Dynamics](https://arxiv.org/abs/2610.04801v2)** | 2026-10-06 | 14 pages, 3 figures |
-| **[Beyond Marginal Monitoring: Distributed Joint-Distribution Testing for Data Concept Drift in Large Scale E-Commerce Operations](https://arxiv.org/abs/2610.08132v1)** | 2026-10-06 |  |
-| **[A Private IPFS Data Sanctuary for Verifiable Digital Collection Objects](https://arxiv.org/abs/2610.07970v1)** | 2026-10-06 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
+| **[LOCAA: An Agentic System for Automated Lossy Compressor Tuning](https://arxiv.org/abs/2610.10487v1)** | 2026-10-07 |  |
+| **[SUSpMV: A High Frequency Sparse Matrix Vector Multiplier on HBM Enabled FPGA written in SUS](https://arxiv.org/abs/2610.10403v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Field-Programmable Technology (FPT) 2026. 9 pages, 9 figures</p></details> |
+| **[Efficient Heuristics and Machine Learning Approach for Fault Characterization in Distributed Self-Stabilizing Programs](https://arxiv.org/abs/2610.10386v1)** | 2026-10-07 | 11 pages, 9 figures |
+| **[The Economic Security of Exponential EIP-1559](https://arxiv.org/abs/2610.10333v1)** | 2026-10-07 | <details><summary>29 pa...</summary><p>29 pages, 2 figures; includes appendices</p></details> |
+| **[Reconciling Bottom-Up Metrics with Top-Down Reporting for Cloud Carbon Accounting](https://arxiv.org/abs/2610.10148v1)** | 2026-10-07 |  |
+| **[A Lock-Free, Fully GPU-Resident Architecture for the Verification of Goldbach's Conjecture](https://arxiv.org/abs/2603.07850v2)** | 2026-10-07 | <details><summary>(v2) ...</summary><p>(v2) 18 pages, 2 figures, 3 tables. The presented work details a major architectural overhaul: migration of the segmented sieve to GPU L1 shared memory and the implementation of a lock-free multi-GPU work pool. Source code available at: https://github.com/isaac-6/goldbach-gpu</p></details> |
+| **[AI-Assisted Computational Reproducibility on the FABRIC Testbed](https://arxiv.org/abs/2606.25879v2)** | 2026-10-07 |  |
+| **[VeriNC: Finding Design Risks of In-Network Computing Systems](https://arxiv.org/abs/2604.10186v5)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at IEEE ICNP 2026 (Best Paper Award). Extended version with appendix, 16 pages, 12 figures</p></details> |
+| **[Hybrid Hierarchical Runtime Verification for Edge-IoT Security: Combining MonPoly and RTLola](https://arxiv.org/abs/2610.09825v1)** | 2026-10-07 | <details><summary>19 pa...</summary><p>19 pages, 2 figures, 7 tables. Published in Availability, Reliability and Security (ARES 2026), EU Projects Symposium Workshops, Springer LNCS</p></details> |
+| **[HPC-MQBench: Qualification-First Benchmarking on Slurm with a Single-Broker Kafka Evaluation](https://arxiv.org/abs/2610.09786v1)** | 2026-10-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables</p></details> |
+| **[Reproducible LLM Inference Benchmarking: A Sequential Isolation Protocol for Regression Testing](https://arxiv.org/abs/2610.09778v1)** | 2026-10-07 |  |
+| **[Performance Portable $\mathrm{SU}(N)$ Lattice Gauge Theory Simulation with Kokkos](https://arxiv.org/abs/2610.09766v1)** | 2026-10-07 | <details><summary>14 pa...</summary><p>14 pages, 5 tables, 4 figures</p></details> |
+| **[AeroEval: Staged Program and Execution Validation for AI-Generated Drone Missions](https://arxiv.org/abs/2610.09764v1)** | 2026-10-07 |  |
+| **[Rendezvous under Variable Disorientation:The Algorithmic Power of Fixed Unit Distance](https://arxiv.org/abs/2610.09713v1)** | 2026-10-07 |  |
+| **[Cost-Efficient Theorem Proving via Agent Orchestration in Program Verification](https://arxiv.org/abs/2610.09681v1)** | 2026-10-07 |  |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[KernelOPT: Dispatch-Aware Agentic Search for GPU Kernel Optimization](https://arxiv.org/abs/2609.30059v2)** | 2026-10-06 |  |
-| **[Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface and Memory Controller](https://arxiv.org/abs/2610.06475v2)** | 2026-10-06 | <details><summary>Exten...</summary><p>Extended version of the MICRO 2026 paper</p></details> |
-| **[Trail: Scalable and Low-Cost Temporal TLB Prefetching via Page-Table-Embedded Deltas](https://arxiv.org/abs/2610.08483v1)** | 2026-10-06 |  |
-| **[AEGIS: Runtime-Guided GPU Collocation for Multi-Tenant Deep Learning Training](https://arxiv.org/abs/2508.19073v4)** | 2026-10-06 |  |
-| **[NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](https://arxiv.org/abs/2610.08430v1)** | 2026-10-06 | <details><summary>The c...</summary><p>The code is open-sourced in NVIDIA NeMo RL PR #2444 at https://github.com/NVIDIA-NeMo/RL/pull/2444</p></details> |
-| **[Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and High-Bandwidth Flash](https://arxiv.org/abs/2610.08378v1)** | 2026-10-06 |  |
-| **[vTen: Tensor-Centric Verification Framework for Domain-Specific Accelerators](https://arxiv.org/abs/2610.08372v1)** | 2026-10-06 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, 1 table. Accepted at the 63rd ACM/IEEE Design Automation Conference (DAC '26), Long Beach, CA, USA</p></details> |
-| **[6G NeXt - Towards 6G Split Computing Network Applications: Use Cases and Architecture](https://arxiv.org/abs/2610.08352v1)** | 2026-10-06 |  |
-| **[DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching](https://arxiv.org/abs/2610.08268v1)** | 2026-10-06 | <details><summary>artic...</summary><p>article under submission</p></details> |
-| **[Contextual Chain: Lightweight Continuity Authentication for Intermittently Connected Devices](https://arxiv.org/abs/2610.08262v1)** | 2026-10-06 | 31 pages, 6 figures |
-| **[GPU Acceleration of Awkward Arrays: Using Python cuda.compute](https://arxiv.org/abs/2610.08238v1)** | 2026-10-06 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 28th CHEP (2026, Bangkok)</p></details> |
-| **[One Global Beam Across Many GPUs: High-Throughput Beam Search at Billion-Record Frontier Scale](https://arxiv.org/abs/2610.06718v2)** | 2026-10-06 | 18 pages, 15 figures |
-| **[AID: A Framework for AI Infrastructure Dynamics](https://arxiv.org/abs/2610.04801v2)** | 2026-10-06 | 14 pages, 3 figures |
-| **[Beyond Marginal Monitoring: Distributed Joint-Distribution Testing for Data Concept Drift in Large Scale E-Commerce Operations](https://arxiv.org/abs/2610.08132v1)** | 2026-10-06 |  |
-| **[A Private IPFS Data Sanctuary for Verifiable Digital Collection Objects](https://arxiv.org/abs/2610.07970v1)** | 2026-10-06 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
+| **[LOCAA: An Agentic System for Automated Lossy Compressor Tuning](https://arxiv.org/abs/2610.10487v1)** | 2026-10-07 |  |
+| **[SUSpMV: A High Frequency Sparse Matrix Vector Multiplier on HBM Enabled FPGA written in SUS](https://arxiv.org/abs/2610.10403v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Field-Programmable Technology (FPT) 2026. 9 pages, 9 figures</p></details> |
+| **[Efficient Heuristics and Machine Learning Approach for Fault Characterization in Distributed Self-Stabilizing Programs](https://arxiv.org/abs/2610.10386v1)** | 2026-10-07 | 11 pages, 9 figures |
+| **[The Economic Security of Exponential EIP-1559](https://arxiv.org/abs/2610.10333v1)** | 2026-10-07 | <details><summary>29 pa...</summary><p>29 pages, 2 figures; includes appendices</p></details> |
+| **[Reconciling Bottom-Up Metrics with Top-Down Reporting for Cloud Carbon Accounting](https://arxiv.org/abs/2610.10148v1)** | 2026-10-07 |  |
+| **[A Lock-Free, Fully GPU-Resident Architecture for the Verification of Goldbach's Conjecture](https://arxiv.org/abs/2603.07850v2)** | 2026-10-07 | <details><summary>(v2) ...</summary><p>(v2) 18 pages, 2 figures, 3 tables. The presented work details a major architectural overhaul: migration of the segmented sieve to GPU L1 shared memory and the implementation of a lock-free multi-GPU work pool. Source code available at: https://github.com/isaac-6/goldbach-gpu</p></details> |
+| **[AI-Assisted Computational Reproducibility on the FABRIC Testbed](https://arxiv.org/abs/2606.25879v2)** | 2026-10-07 |  |
+| **[VeriNC: Finding Design Risks of In-Network Computing Systems](https://arxiv.org/abs/2604.10186v5)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at IEEE ICNP 2026 (Best Paper Award). Extended version with appendix, 16 pages, 12 figures</p></details> |
+| **[Hybrid Hierarchical Runtime Verification for Edge-IoT Security: Combining MonPoly and RTLola](https://arxiv.org/abs/2610.09825v1)** | 2026-10-07 | <details><summary>19 pa...</summary><p>19 pages, 2 figures, 7 tables. Published in Availability, Reliability and Security (ARES 2026), EU Projects Symposium Workshops, Springer LNCS</p></details> |
+| **[HPC-MQBench: Qualification-First Benchmarking on Slurm with a Single-Broker Kafka Evaluation](https://arxiv.org/abs/2610.09786v1)** | 2026-10-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables</p></details> |
+| **[Reproducible LLM Inference Benchmarking: A Sequential Isolation Protocol for Regression Testing](https://arxiv.org/abs/2610.09778v1)** | 2026-10-07 |  |
+| **[Performance Portable $\mathrm{SU}(N)$ Lattice Gauge Theory Simulation with Kokkos](https://arxiv.org/abs/2610.09766v1)** | 2026-10-07 | <details><summary>14 pa...</summary><p>14 pages, 5 tables, 4 figures</p></details> |
+| **[AeroEval: Staged Program and Execution Validation for AI-Generated Drone Missions](https://arxiv.org/abs/2610.09764v1)** | 2026-10-07 |  |
+| **[Rendezvous under Variable Disorientation:The Algorithmic Power of Fixed Unit Distance](https://arxiv.org/abs/2610.09713v1)** | 2026-10-07 |  |
+| **[Cost-Efficient Theorem Proving via Agent Orchestration in Program Verification](https://arxiv.org/abs/2610.09681v1)** | 2026-10-07 |  |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[KernelOPT: Dispatch-Aware Agentic Search for GPU Kernel Optimization](https://arxiv.org/abs/2609.30059v2)** | 2026-10-06 |  |
-| **[Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface and Memory Controller](https://arxiv.org/abs/2610.06475v2)** | 2026-10-06 | <details><summary>Exten...</summary><p>Extended version of the MICRO 2026 paper</p></details> |
-| **[Trail: Scalable and Low-Cost Temporal TLB Prefetching via Page-Table-Embedded Deltas](https://arxiv.org/abs/2610.08483v1)** | 2026-10-06 |  |
-| **[AEGIS: Runtime-Guided GPU Collocation for Multi-Tenant Deep Learning Training](https://arxiv.org/abs/2508.19073v4)** | 2026-10-06 |  |
-| **[NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](https://arxiv.org/abs/2610.08430v1)** | 2026-10-06 | <details><summary>The c...</summary><p>The code is open-sourced in NVIDIA NeMo RL PR #2444 at https://github.com/NVIDIA-NeMo/RL/pull/2444</p></details> |
-| **[Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and High-Bandwidth Flash](https://arxiv.org/abs/2610.08378v1)** | 2026-10-06 |  |
-| **[vTen: Tensor-Centric Verification Framework for Domain-Specific Accelerators](https://arxiv.org/abs/2610.08372v1)** | 2026-10-06 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, 1 table. Accepted at the 63rd ACM/IEEE Design Automation Conference (DAC '26), Long Beach, CA, USA</p></details> |
-| **[6G NeXt - Towards 6G Split Computing Network Applications: Use Cases and Architecture](https://arxiv.org/abs/2610.08352v1)** | 2026-10-06 |  |
-| **[DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching](https://arxiv.org/abs/2610.08268v1)** | 2026-10-06 | <details><summary>artic...</summary><p>article under submission</p></details> |
-| **[Contextual Chain: Lightweight Continuity Authentication for Intermittently Connected Devices](https://arxiv.org/abs/2610.08262v1)** | 2026-10-06 | 31 pages, 6 figures |
-| **[GPU Acceleration of Awkward Arrays: Using Python cuda.compute](https://arxiv.org/abs/2610.08238v1)** | 2026-10-06 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 28th CHEP (2026, Bangkok)</p></details> |
-| **[One Global Beam Across Many GPUs: High-Throughput Beam Search at Billion-Record Frontier Scale](https://arxiv.org/abs/2610.06718v2)** | 2026-10-06 | 18 pages, 15 figures |
-| **[AID: A Framework for AI Infrastructure Dynamics](https://arxiv.org/abs/2610.04801v2)** | 2026-10-06 | 14 pages, 3 figures |
-| **[Beyond Marginal Monitoring: Distributed Joint-Distribution Testing for Data Concept Drift in Large Scale E-Commerce Operations](https://arxiv.org/abs/2610.08132v1)** | 2026-10-06 |  |
-| **[A Private IPFS Data Sanctuary for Verifiable Digital Collection Objects](https://arxiv.org/abs/2610.07970v1)** | 2026-10-06 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
+| **[LOCAA: An Agentic System for Automated Lossy Compressor Tuning](https://arxiv.org/abs/2610.10487v1)** | 2026-10-07 |  |
+| **[SUSpMV: A High Frequency Sparse Matrix Vector Multiplier on HBM Enabled FPGA written in SUS](https://arxiv.org/abs/2610.10403v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Field-Programmable Technology (FPT) 2026. 9 pages, 9 figures</p></details> |
+| **[Efficient Heuristics and Machine Learning Approach for Fault Characterization in Distributed Self-Stabilizing Programs](https://arxiv.org/abs/2610.10386v1)** | 2026-10-07 | 11 pages, 9 figures |
+| **[The Economic Security of Exponential EIP-1559](https://arxiv.org/abs/2610.10333v1)** | 2026-10-07 | <details><summary>29 pa...</summary><p>29 pages, 2 figures; includes appendices</p></details> |
+| **[Reconciling Bottom-Up Metrics with Top-Down Reporting for Cloud Carbon Accounting](https://arxiv.org/abs/2610.10148v1)** | 2026-10-07 |  |
+| **[A Lock-Free, Fully GPU-Resident Architecture for the Verification of Goldbach's Conjecture](https://arxiv.org/abs/2603.07850v2)** | 2026-10-07 | <details><summary>(v2) ...</summary><p>(v2) 18 pages, 2 figures, 3 tables. The presented work details a major architectural overhaul: migration of the segmented sieve to GPU L1 shared memory and the implementation of a lock-free multi-GPU work pool. Source code available at: https://github.com/isaac-6/goldbach-gpu</p></details> |
+| **[AI-Assisted Computational Reproducibility on the FABRIC Testbed](https://arxiv.org/abs/2606.25879v2)** | 2026-10-07 |  |
+| **[VeriNC: Finding Design Risks of In-Network Computing Systems](https://arxiv.org/abs/2604.10186v5)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at IEEE ICNP 2026 (Best Paper Award). Extended version with appendix, 16 pages, 12 figures</p></details> |
+| **[Hybrid Hierarchical Runtime Verification for Edge-IoT Security: Combining MonPoly and RTLola](https://arxiv.org/abs/2610.09825v1)** | 2026-10-07 | <details><summary>19 pa...</summary><p>19 pages, 2 figures, 7 tables. Published in Availability, Reliability and Security (ARES 2026), EU Projects Symposium Workshops, Springer LNCS</p></details> |
+| **[HPC-MQBench: Qualification-First Benchmarking on Slurm with a Single-Broker Kafka Evaluation](https://arxiv.org/abs/2610.09786v1)** | 2026-10-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables</p></details> |
+| **[Reproducible LLM Inference Benchmarking: A Sequential Isolation Protocol for Regression Testing](https://arxiv.org/abs/2610.09778v1)** | 2026-10-07 |  |
+| **[Performance Portable $\mathrm{SU}(N)$ Lattice Gauge Theory Simulation with Kokkos](https://arxiv.org/abs/2610.09766v1)** | 2026-10-07 | <details><summary>14 pa...</summary><p>14 pages, 5 tables, 4 figures</p></details> |
+| **[AeroEval: Staged Program and Execution Validation for AI-Generated Drone Missions](https://arxiv.org/abs/2610.09764v1)** | 2026-10-07 |  |
+| **[Rendezvous under Variable Disorientation:The Algorithmic Power of Fixed Unit Distance](https://arxiv.org/abs/2610.09713v1)** | 2026-10-07 |  |
+| **[Cost-Efficient Theorem Proving via Agent Orchestration in Program Verification](https://arxiv.org/abs/2610.09681v1)** | 2026-10-07 |  |
 
