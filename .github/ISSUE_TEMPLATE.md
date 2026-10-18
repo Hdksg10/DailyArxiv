@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 16, 2026
+title: Latest 15 Papers - October 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## reinforcement learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Prioritizing Microservice Requests via Retries](https://arxiv.org/abs/2610.20567v1)** | 2026-10-14 |  |
-| **[Explorable Proofs: Making Written Proofs Explorable by Grounding Them in Formal Representations](https://arxiv.org/abs/2604.02598v3)** | 2026-10-14 |  |
-| **[Substep Linearizability: Relaxing Atomicity While Preserving Sequential Specification](https://arxiv.org/abs/2610.16099v2)** | 2026-10-14 |  |
-| **[Open-Source AI-Powered Optimization in Scalene: Advancing Python Performance Profiling with DeepSeek-R1 and LLaMA 3.2](https://arxiv.org/abs/2502.10299v2)** | 2026-10-14 |  |
-| **[MolLean: A Process-Verifiable Language for Chemical Reasoning](https://arxiv.org/abs/2610.20459v1)** | 2026-10-14 |  |
-| **[Cover Semantics for Intuitionistic Modalities](https://arxiv.org/abs/2607.11352v2)** | 2026-10-14 | <details><summary>Revis...</summary><p>Revised after MFPS 2026</p></details> |
-| **[Typechecking without Minimum Types: Finite Bases and Backward Checking for $F_{<:}^{\top}$](https://arxiv.org/abs/2610.20356v1)** | 2026-10-14 | <details><summary>44 pa...</summary><p>44 pages, 8 figures, 2 tables. Includes appendices</p></details> |
-| **[Understanding NVIDIA Grace-Blackwell Unified Memory Through Placement-Controlled Microbenchmarks](https://arxiv.org/abs/2610.20354v1)** | 2026-10-14 |  |
-| **[sGLP: Simulating People with Stochastic Agents](https://arxiv.org/abs/2610.14738v2)** | 2026-10-14 |  |
-| **[TrimSO(2): Fast and Memory-Efficient Training of Equivariant Interatomic Potentials](https://arxiv.org/abs/2610.20029v1)** | 2026-10-14 |  |
-| **[Formalizing Flag Algebras in Lean](https://arxiv.org/abs/2607.23500v2)** | 2026-10-14 | <details><summary>47 pa...</summary><p>47 pages, 1 figure. Lean development: https://github.com/taeyool/lean-flag-algebras-release (release v1.0)</p></details> |
-| **[JointServe: Serving Multi-Model Agents on Memory-Constrained GPUs](https://arxiv.org/abs/2610.19822v1)** | 2026-10-14 | <details><summary>18 pa...</summary><p>18 pages, 12 figures, 1 table</p></details> |
-| **[The Cost of Context: Profiling the Energy Footprint of Input Tokens in Large Language Models](https://arxiv.org/abs/2610.19819v1)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at HotCarbon'26, the 5th Workshop on Sustainable Computer Systems; to appear in ACM SIGENERGY Energy Informatics Review, Vol. 6, Issue 2</p></details> |
-| **[Delta Tokenizer: Reference-Identical Tokenization of Session Deltas and Segment-Parallelism for Long Prompts on Multicore CPUs](https://arxiv.org/abs/2610.19801v1)** | 2026-10-14 | <details><summary>42 pa...</summary><p>42 pages (16-page main text, references, and supplementary material), 14 figures, 35 tables. The incremental tokenization path and the fast encoder are open source in toktier at https://github.com/asu-idi/toktier. The chunk-parallel path, the CPU pool scheduler, and the SGLang adapter will be released in the same repository</p></details> |
-| **[Computational compressive imaging reconstruction with a simulated-annealing-based Ising solver](https://arxiv.org/abs/2610.19778v1)** | 2026-10-14 | 15 pages, 6 figures |
+| **[A Gradual Probabilistic Lambda Calculus](https://arxiv.org/abs/2604.05246v2)** | 2026-10-15 |  |
+| **[Architecting for Hardware Diversity: Meta's End-to-End Co-Design for High-Performance AI Training on AMD GPUs](https://arxiv.org/abs/2610.22230v1)** | 2026-10-15 | <details><summary>16 pa...</summary><p>16 pages, 21 figures, 6 tables. To appear in the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
+| **[FAME: An FPGA-Based Platform for Approximate Multipliers Evaluation with Pattern-Guided DNN Retraining](https://arxiv.org/abs/2609.17730v2)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted at the 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) 2026</p></details> |
+| **[Efficient KV Cache Migration for Geo-Distributed LLM Inference in Collaborative Edge Computing](https://arxiv.org/abs/2610.22172v1)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted by ICDCS 2026</p></details> |
+| **[PrefixFlow: Training-Time KV Caching for Schedule-Level Prefix Reuse in LLM RL Training](https://arxiv.org/abs/2606.01143v4)** | 2026-10-15 | <details><summary>15 pa...</summary><p>15 pages. Accepted to the 2026 ACM SIGOPS Annual Technical Conference (ATC 2026)</p></details> |
+| **[Are We Testing the Wrong Quantum Bugs? A Study of Fault Representation Gaps in Quantum Software Testing](https://arxiv.org/abs/2610.22089v1)** | 2026-10-15 |  |
+| **[FAOPs: Normal Forms and an Algebra for AI Agent Workflows](https://arxiv.org/abs/2610.22061v1)** | 2026-10-15 | <details><summary>28 pa...</summary><p>28 pages, 2 figures, 5 tables</p></details> |
+| **[ETH: Data-Balanced Heterogeneous Pipeline Parallelism for Training Large Models](https://arxiv.org/abs/2610.22035v1)** | 2026-10-15 | <details><summary>19 pa...</summary><p>19 pages, 14 figures. Accepted at USENIX NSDI 2027</p></details> |
+| **[Optimal Calibration of Quantum Network Links](https://arxiv.org/abs/2606.18167v2)** | 2026-10-15 | <details><summary>18 pa...</summary><p>18 pages, 06 figures, 03 tables</p></details> |
+| **[Resource-aware Sub-network Allocation for Heterogeneous Decentralized Learning](https://arxiv.org/abs/2610.22015v1)** | 2026-10-15 | Submitted to TCCN |
+| **[Bidirectional Elaborators à la Carte](https://arxiv.org/abs/2607.09564v4)** | 2026-10-15 | <details><summary>Add f...</summary><p>Add further discussion of related work; other minor wording and typographical improvements</p></details> |
+| **[Enhancing Knowledge Density via Hierarchical Context Pruning for Retrieval-Augmented Repository-Level Code Completion](https://arxiv.org/abs/2508.10068v3)** | 2026-10-15 |  |
+| **[Fast TetraBFT: Optimizing Latency Where It Matters](https://arxiv.org/abs/2606.03754v2)** | 2026-10-15 | <details><summary>Exten...</summary><p>Extended version of a paper from DISC'26: International Symposium on Distributed Computing</p></details> |
+| **[NosRacer: Dynamic Detection of Race Conditions in On-Device Network Operating Systems](https://arxiv.org/abs/2610.11875v2)** | 2026-10-15 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 6 tables. Accepted to SIGOPS ATC 2026</p></details> |
+| **[Local Epochs as Optimal Stopping: Theory and Evidence in Federated Learning](https://arxiv.org/abs/2610.21832v1)** | 2026-10-15 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 18 tables. Includes appendices</p></details> |
 
 ## compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Prioritizing Microservice Requests via Retries](https://arxiv.org/abs/2610.20567v1)** | 2026-10-14 |  |
-| **[Explorable Proofs: Making Written Proofs Explorable by Grounding Them in Formal Representations](https://arxiv.org/abs/2604.02598v3)** | 2026-10-14 |  |
-| **[Substep Linearizability: Relaxing Atomicity While Preserving Sequential Specification](https://arxiv.org/abs/2610.16099v2)** | 2026-10-14 |  |
-| **[Open-Source AI-Powered Optimization in Scalene: Advancing Python Performance Profiling with DeepSeek-R1 and LLaMA 3.2](https://arxiv.org/abs/2502.10299v2)** | 2026-10-14 |  |
-| **[MolLean: A Process-Verifiable Language for Chemical Reasoning](https://arxiv.org/abs/2610.20459v1)** | 2026-10-14 |  |
-| **[Cover Semantics for Intuitionistic Modalities](https://arxiv.org/abs/2607.11352v2)** | 2026-10-14 | <details><summary>Revis...</summary><p>Revised after MFPS 2026</p></details> |
-| **[Typechecking without Minimum Types: Finite Bases and Backward Checking for $F_{<:}^{\top}$](https://arxiv.org/abs/2610.20356v1)** | 2026-10-14 | <details><summary>44 pa...</summary><p>44 pages, 8 figures, 2 tables. Includes appendices</p></details> |
-| **[Understanding NVIDIA Grace-Blackwell Unified Memory Through Placement-Controlled Microbenchmarks](https://arxiv.org/abs/2610.20354v1)** | 2026-10-14 |  |
-| **[sGLP: Simulating People with Stochastic Agents](https://arxiv.org/abs/2610.14738v2)** | 2026-10-14 |  |
-| **[TrimSO(2): Fast and Memory-Efficient Training of Equivariant Interatomic Potentials](https://arxiv.org/abs/2610.20029v1)** | 2026-10-14 |  |
-| **[Formalizing Flag Algebras in Lean](https://arxiv.org/abs/2607.23500v2)** | 2026-10-14 | <details><summary>47 pa...</summary><p>47 pages, 1 figure. Lean development: https://github.com/taeyool/lean-flag-algebras-release (release v1.0)</p></details> |
-| **[JointServe: Serving Multi-Model Agents on Memory-Constrained GPUs](https://arxiv.org/abs/2610.19822v1)** | 2026-10-14 | <details><summary>18 pa...</summary><p>18 pages, 12 figures, 1 table</p></details> |
-| **[The Cost of Context: Profiling the Energy Footprint of Input Tokens in Large Language Models](https://arxiv.org/abs/2610.19819v1)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at HotCarbon'26, the 5th Workshop on Sustainable Computer Systems; to appear in ACM SIGENERGY Energy Informatics Review, Vol. 6, Issue 2</p></details> |
-| **[Delta Tokenizer: Reference-Identical Tokenization of Session Deltas and Segment-Parallelism for Long Prompts on Multicore CPUs](https://arxiv.org/abs/2610.19801v1)** | 2026-10-14 | <details><summary>42 pa...</summary><p>42 pages (16-page main text, references, and supplementary material), 14 figures, 35 tables. The incremental tokenization path and the fast encoder are open source in toktier at https://github.com/asu-idi/toktier. The chunk-parallel path, the CPU pool scheduler, and the SGLang adapter will be released in the same repository</p></details> |
-| **[Computational compressive imaging reconstruction with a simulated-annealing-based Ising solver](https://arxiv.org/abs/2610.19778v1)** | 2026-10-14 | 15 pages, 6 figures |
+| **[A Gradual Probabilistic Lambda Calculus](https://arxiv.org/abs/2604.05246v2)** | 2026-10-15 |  |
+| **[Architecting for Hardware Diversity: Meta's End-to-End Co-Design for High-Performance AI Training on AMD GPUs](https://arxiv.org/abs/2610.22230v1)** | 2026-10-15 | <details><summary>16 pa...</summary><p>16 pages, 21 figures, 6 tables. To appear in the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
+| **[FAME: An FPGA-Based Platform for Approximate Multipliers Evaluation with Pattern-Guided DNN Retraining](https://arxiv.org/abs/2609.17730v2)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted at the 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) 2026</p></details> |
+| **[Efficient KV Cache Migration for Geo-Distributed LLM Inference in Collaborative Edge Computing](https://arxiv.org/abs/2610.22172v1)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted by ICDCS 2026</p></details> |
+| **[PrefixFlow: Training-Time KV Caching for Schedule-Level Prefix Reuse in LLM RL Training](https://arxiv.org/abs/2606.01143v4)** | 2026-10-15 | <details><summary>15 pa...</summary><p>15 pages. Accepted to the 2026 ACM SIGOPS Annual Technical Conference (ATC 2026)</p></details> |
+| **[Are We Testing the Wrong Quantum Bugs? A Study of Fault Representation Gaps in Quantum Software Testing](https://arxiv.org/abs/2610.22089v1)** | 2026-10-15 |  |
+| **[FAOPs: Normal Forms and an Algebra for AI Agent Workflows](https://arxiv.org/abs/2610.22061v1)** | 2026-10-15 | <details><summary>28 pa...</summary><p>28 pages, 2 figures, 5 tables</p></details> |
+| **[ETH: Data-Balanced Heterogeneous Pipeline Parallelism for Training Large Models](https://arxiv.org/abs/2610.22035v1)** | 2026-10-15 | <details><summary>19 pa...</summary><p>19 pages, 14 figures. Accepted at USENIX NSDI 2027</p></details> |
+| **[Optimal Calibration of Quantum Network Links](https://arxiv.org/abs/2606.18167v2)** | 2026-10-15 | <details><summary>18 pa...</summary><p>18 pages, 06 figures, 03 tables</p></details> |
+| **[Resource-aware Sub-network Allocation for Heterogeneous Decentralized Learning](https://arxiv.org/abs/2610.22015v1)** | 2026-10-15 | Submitted to TCCN |
+| **[Bidirectional Elaborators à la Carte](https://arxiv.org/abs/2607.09564v4)** | 2026-10-15 | <details><summary>Add f...</summary><p>Add further discussion of related work; other minor wording and typographical improvements</p></details> |
+| **[Enhancing Knowledge Density via Hierarchical Context Pruning for Retrieval-Augmented Repository-Level Code Completion](https://arxiv.org/abs/2508.10068v3)** | 2026-10-15 |  |
+| **[Fast TetraBFT: Optimizing Latency Where It Matters](https://arxiv.org/abs/2606.03754v2)** | 2026-10-15 | <details><summary>Exten...</summary><p>Extended version of a paper from DISC'26: International Symposium on Distributed Computing</p></details> |
+| **[NosRacer: Dynamic Detection of Race Conditions in On-Device Network Operating Systems](https://arxiv.org/abs/2610.11875v2)** | 2026-10-15 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 6 tables. Accepted to SIGOPS ATC 2026</p></details> |
+| **[Local Epochs as Optimal Stopping: Theory and Evidence in Federated Learning](https://arxiv.org/abs/2610.21832v1)** | 2026-10-15 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 18 tables. Includes appendices</p></details> |
 
 ## performance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Prioritizing Microservice Requests via Retries](https://arxiv.org/abs/2610.20567v1)** | 2026-10-14 |  |
-| **[Explorable Proofs: Making Written Proofs Explorable by Grounding Them in Formal Representations](https://arxiv.org/abs/2604.02598v3)** | 2026-10-14 |  |
-| **[Substep Linearizability: Relaxing Atomicity While Preserving Sequential Specification](https://arxiv.org/abs/2610.16099v2)** | 2026-10-14 |  |
-| **[Open-Source AI-Powered Optimization in Scalene: Advancing Python Performance Profiling with DeepSeek-R1 and LLaMA 3.2](https://arxiv.org/abs/2502.10299v2)** | 2026-10-14 |  |
-| **[MolLean: A Process-Verifiable Language for Chemical Reasoning](https://arxiv.org/abs/2610.20459v1)** | 2026-10-14 |  |
-| **[Cover Semantics for Intuitionistic Modalities](https://arxiv.org/abs/2607.11352v2)** | 2026-10-14 | <details><summary>Revis...</summary><p>Revised after MFPS 2026</p></details> |
-| **[Typechecking without Minimum Types: Finite Bases and Backward Checking for $F_{<:}^{\top}$](https://arxiv.org/abs/2610.20356v1)** | 2026-10-14 | <details><summary>44 pa...</summary><p>44 pages, 8 figures, 2 tables. Includes appendices</p></details> |
-| **[Understanding NVIDIA Grace-Blackwell Unified Memory Through Placement-Controlled Microbenchmarks](https://arxiv.org/abs/2610.20354v1)** | 2026-10-14 |  |
-| **[sGLP: Simulating People with Stochastic Agents](https://arxiv.org/abs/2610.14738v2)** | 2026-10-14 |  |
-| **[TrimSO(2): Fast and Memory-Efficient Training of Equivariant Interatomic Potentials](https://arxiv.org/abs/2610.20029v1)** | 2026-10-14 |  |
-| **[Formalizing Flag Algebras in Lean](https://arxiv.org/abs/2607.23500v2)** | 2026-10-14 | <details><summary>47 pa...</summary><p>47 pages, 1 figure. Lean development: https://github.com/taeyool/lean-flag-algebras-release (release v1.0)</p></details> |
-| **[JointServe: Serving Multi-Model Agents on Memory-Constrained GPUs](https://arxiv.org/abs/2610.19822v1)** | 2026-10-14 | <details><summary>18 pa...</summary><p>18 pages, 12 figures, 1 table</p></details> |
-| **[The Cost of Context: Profiling the Energy Footprint of Input Tokens in Large Language Models](https://arxiv.org/abs/2610.19819v1)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at HotCarbon'26, the 5th Workshop on Sustainable Computer Systems; to appear in ACM SIGENERGY Energy Informatics Review, Vol. 6, Issue 2</p></details> |
-| **[Delta Tokenizer: Reference-Identical Tokenization of Session Deltas and Segment-Parallelism for Long Prompts on Multicore CPUs](https://arxiv.org/abs/2610.19801v1)** | 2026-10-14 | <details><summary>42 pa...</summary><p>42 pages (16-page main text, references, and supplementary material), 14 figures, 35 tables. The incremental tokenization path and the fast encoder are open source in toktier at https://github.com/asu-idi/toktier. The chunk-parallel path, the CPU pool scheduler, and the SGLang adapter will be released in the same repository</p></details> |
-| **[Computational compressive imaging reconstruction with a simulated-annealing-based Ising solver](https://arxiv.org/abs/2610.19778v1)** | 2026-10-14 | 15 pages, 6 figures |
+| **[A Gradual Probabilistic Lambda Calculus](https://arxiv.org/abs/2604.05246v2)** | 2026-10-15 |  |
+| **[Architecting for Hardware Diversity: Meta's End-to-End Co-Design for High-Performance AI Training on AMD GPUs](https://arxiv.org/abs/2610.22230v1)** | 2026-10-15 | <details><summary>16 pa...</summary><p>16 pages, 21 figures, 6 tables. To appear in the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
+| **[FAME: An FPGA-Based Platform for Approximate Multipliers Evaluation with Pattern-Guided DNN Retraining](https://arxiv.org/abs/2609.17730v2)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted at the 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) 2026</p></details> |
+| **[Efficient KV Cache Migration for Geo-Distributed LLM Inference in Collaborative Edge Computing](https://arxiv.org/abs/2610.22172v1)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted by ICDCS 2026</p></details> |
+| **[PrefixFlow: Training-Time KV Caching for Schedule-Level Prefix Reuse in LLM RL Training](https://arxiv.org/abs/2606.01143v4)** | 2026-10-15 | <details><summary>15 pa...</summary><p>15 pages. Accepted to the 2026 ACM SIGOPS Annual Technical Conference (ATC 2026)</p></details> |
+| **[Are We Testing the Wrong Quantum Bugs? A Study of Fault Representation Gaps in Quantum Software Testing](https://arxiv.org/abs/2610.22089v1)** | 2026-10-15 |  |
+| **[FAOPs: Normal Forms and an Algebra for AI Agent Workflows](https://arxiv.org/abs/2610.22061v1)** | 2026-10-15 | <details><summary>28 pa...</summary><p>28 pages, 2 figures, 5 tables</p></details> |
+| **[ETH: Data-Balanced Heterogeneous Pipeline Parallelism for Training Large Models](https://arxiv.org/abs/2610.22035v1)** | 2026-10-15 | <details><summary>19 pa...</summary><p>19 pages, 14 figures. Accepted at USENIX NSDI 2027</p></details> |
+| **[Optimal Calibration of Quantum Network Links](https://arxiv.org/abs/2606.18167v2)** | 2026-10-15 | <details><summary>18 pa...</summary><p>18 pages, 06 figures, 03 tables</p></details> |
+| **[Resource-aware Sub-network Allocation for Heterogeneous Decentralized Learning](https://arxiv.org/abs/2610.22015v1)** | 2026-10-15 | Submitted to TCCN |
+| **[Bidirectional Elaborators à la Carte](https://arxiv.org/abs/2607.09564v4)** | 2026-10-15 | <details><summary>Add f...</summary><p>Add further discussion of related work; other minor wording and typographical improvements</p></details> |
+| **[Enhancing Knowledge Density via Hierarchical Context Pruning for Retrieval-Augmented Repository-Level Code Completion](https://arxiv.org/abs/2508.10068v3)** | 2026-10-15 |  |
+| **[Fast TetraBFT: Optimizing Latency Where It Matters](https://arxiv.org/abs/2606.03754v2)** | 2026-10-15 | <details><summary>Exten...</summary><p>Extended version of a paper from DISC'26: International Symposium on Distributed Computing</p></details> |
+| **[NosRacer: Dynamic Detection of Race Conditions in On-Device Network Operating Systems](https://arxiv.org/abs/2610.11875v2)** | 2026-10-15 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 6 tables. Accepted to SIGOPS ATC 2026</p></details> |
+| **[Local Epochs as Optimal Stopping: Theory and Evidence in Federated Learning](https://arxiv.org/abs/2610.21832v1)** | 2026-10-15 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 18 tables. Includes appendices</p></details> |
 
